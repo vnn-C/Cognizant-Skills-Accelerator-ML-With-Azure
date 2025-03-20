@@ -1,0 +1,62 @@
+{
+  "id": 221164,
+  "name": "The Gulf, Colorado & Santa Fe Railway Company v. W. A. Farmer",
+  "name_abbreviation": "Gulf, Colorado & Santa Fe Railway Co. v. Farmer",
+  "decision_date": "1893-05-24",
+  "docket_number": "No. 746",
+  "first_page": "458",
+  "last_page": "459",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 458"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 191,
+    "char_count": 3011,
+    "ocr_confidence": 0.545,
+    "sha256": "6818b4942474b42790ee7114065cac9c5977918ccc2971cd8be76e0b543a1014",
+    "simhash": "1:22bdc6a035460352",
+    "word_count": 528
+  },
+  "last_updated": "2023-07-14T18:08:23.206239+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The Gulf, Colorado & Santa Fe Railway Company v. W. A. Farmer."
+    ],
+    "opinions": [
+      {
+        "text": "FISHER, Chief Justice.\nThis is an appeal from a judgment of the County Court of Brown County, dismissing this cause from its docket for the want of jurisdiction. The case originated in the Justice Court, and involved an amount of $19.75. The Justice Court rendered judgment against the appellant for that sum and the additional sum of $10 as attorney fees. From this judgment the appellant appealed to the County Court, and the cause was there dismissed. This cause was tried and the appeal perfected to the Court of Appeals before the law creating this court went into effect. We are asked to dismiss this appeal for the want of jurisdiction.\nIn the case of Gulf, Colorado & Santa Fe Railway Company v. Rowley, where this precise question arose, it was decided by the Court of Civil Appeals for the Second Supreme Judicial District that the Court of Appeals did not have jurisdiction of such cases.\nWe do not doubt the correctness of that decision and will follow it. It is therefore ordered that this appeal be dismissed.\nIt may be that we have disposed of cases that are in the same condition as this. If so, the question here decided was not called to our attention; and if presented to us, we will correct whatever error may have been committed in assuming jurisdiction of such cases. We have heretofore followed the case of Williams v. Sims, decided by the Court of Appeals, and reported in 4 Willson\u2019s Civil Cases, section 151, which held that the Court of Appeals had jurisdiction in such cases; but an examination into the questions has convinced us of the error in this decision.\nAppeal dismissed.\nDelivered May 24, 1893.",
+        "type": "majority",
+        "author": "FISHER, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "O. R. Shalars, for motion to dismiss.",
+      "J. W. Terry and Charles K. Lee, resisting."
+    ],
+    "corrections": "",
+    "head_matter": "The Gulf, Colorado & Santa Fe Railway Company v. W. A. Farmer.\nNo. 746.\nJurisdiction in Appeals from Justice Court \u2014 Attorney Fees.\u2014 Where the amount in controversy and the judgment in a Justice Court is less than $20, the statutory attorney fee allowed (in damage suits against a railway company) can not be added to the judgment and thus confer jurisdiction on appeal.\nAppeal from County Court of Brown. Tried below before Hon. R. P. Conner, County Judge.\nO. R. Shalars, for motion to dismiss.\nThe amount in controversy being less than $20, the County Court of Brown County had no jurisdiction, and correctly sustained a motion to dismiss the case; hence this court has no appellate jurisdiction in the case and can not revise it.\nJ. W. Terry and Charles K. Lee, resisting.\n1. The attorney fee allowed by the Act of 1889 is allowed as damages and not as costs; it therefore forms a part of the amount in controversy and amount of judgment, and the judgment was therefore for an amount in excess of $20, and within the jurisdiction of the County Court.\n2. Whatever may be the true construction of the statute in this case, judgment is for $19.75, an additional $10 as attorney fee, and costs of suit\u2014i. e., for costs of suit and an amount greater than $20. The County Court, therefore, had jurisdiction to hear and determine the cause. King v. Robinson, 2 Willson\u2019s C. C., 556."
+  },
+  "file_name": "0458-01",
+  "first_page_order": 484,
+  "last_page_order": 485
+}

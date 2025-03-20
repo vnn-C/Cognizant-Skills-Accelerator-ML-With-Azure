@@ -1,0 +1,97 @@
+{
+  "id": 223762,
+  "name": "The Aransas Pass Land Company v. Mrs. J. M. Hanaford and Son",
+  "name_abbreviation": "Aransas Pass Land Co. v. Hanaford",
+  "decision_date": "1893-10-19",
+  "docket_number": "No. 306",
+  "first_page": "286",
+  "last_page": "290",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Tex. Civ. App. 286"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "43 Mo., 434",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        952548
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mo/43/0434-01"
+      ]
+    },
+    {
+      "cite": "17 Wend., 70",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Gray, 550",
+      "category": "reporters:state",
+      "reporter": "Gray",
+      "case_ids": [
+        1996099
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/73/0550-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 526,
+    "char_count": 12744,
+    "ocr_confidence": 0.545,
+    "pagerank": {
+      "raw": 6.041502013137156e-08,
+      "percentile": 0.37402624631783554
+    },
+    "sha256": "ef47b1ecf0320437144cdac7fdf49f2c292a3915dd4e2d98e2013d55d56e9782",
+    "simhash": "1:be09293fc6a7941b",
+    "word_count": 2254
+  },
+  "last_updated": "2024-02-27T18:01:03.208661+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The Aransas Pass Land Company v. Mrs. J. M. Hanaford and Son."
+    ],
+    "opinions": [
+      {
+        "text": "GARRETT, Chief Justice.\nThis suit was brought by the appellees, Mrs. J. M. Hanaford and her son, J. S. Hanaford, to recover of the Aransas Pass Land Company a balance alleged to be due them on account for their services in managing and running a hotel for the defendant for one year commencing April 1, 1889; also for certain moneys expended by them, for which it was alleged the defendant was liable; and for damages, actual and exemplary, on account of the refusal of the defendant to extend the contract with them for the management of said hotel, and for maliciously and violently ejecting plaintiffs therefrom.\nThe contract entered into between the plaintiffs and defendant purported to be a lease by the defendant to the plaintiffs of Aransas Hotel, in the town of Rockport, and the block of ground upon which it is situated, for the time and upon the conditions stated therein. It is in writing, and the effect of it is, that the defendant should furnish the hotel and become responsible for all necessary expenses to be incurred in running it; and plaintiffs should manage, advertise, and run it for one year from April 1, 1889, assisted by the sister and another son of Mrs. Hanaford; and, with the assistance mentioned, to give their time and attention to an economical, careful, and proper conduct of said hotel, and render monthly statements to the defendant\u2019s secretary of expenses paid and moneys received; and for their services to receive 25 per cent of the profits, or if there were no profits, or if the profits did not amount to so much, $100 per month; the hotel to be open and ready for business by May 1, 1889. There is also this stipulation in the contract:\n\u201c Parties of the second part, Mrs. J. M. Hanaford and son, are to have the refusal of a lease on said hotel for the term of three years, at price \u25a0and conditions then to be agreed upon.\u201d\nShortly before the expiration of the year the defendant leased the hotel to one Westbrook, and demanded of plaintiffs possession thereof at the end of the year.\nAt its February Term, 1891, upon motion of the parties, the court appointed J. M. I-Ioopes auditor to audit the accounts .between plaintiffs and defendant, and to make report thereof to the next term of the court, after giving ten days notice of the time and place to the parties where and when he would audit their respective claims; and continued the case.\nThe auditor filed a statement of the accounts between, the parties on September 9, 1891, sworn to as required by the statute. There were no objections to the report filed by either party, and the case was tried by a jury on September 14, 1891, and resulted in a verdict for the plaintiffs for the balance due on salary, the several items of expenditure which plaintiffs alleged they had made, the sum of $1000 actual damages, and $1000 exemplary damages; but the plaintiffs entered in the court below a remittitur of the amount found by the jury as exemplary damages on the day the motion for a new trial was overruled.\nAppellees failed to show a cause of action for the recovery of damages for a breach of the contract. While the testimony of Mrs. Hanaford, that a renewal of the lease for three years would have been worth at least $1200 to her, was probably not admissible as a conclusion of the witness, it was not objected to, and she was not cross-examined as to the facts upon which she based her conclusion, and it might therefore support the verdict as to the amount if a breach of contract had been shown. The stipulation in the contract in favor of the plaintiffs for the refusal of a lease of the property for three years depended entirely upon the agreement of the parties, both as to the price and the condition of the lease, and was not an agreement for a renewal of the contract for the management of the hotel, as it seems to have been treated by both counsel for plaintiffs and the court below. Plaintiffs had no agreement for a lease, and the evidence shows that there was no effort to obtain one. \u25a0 Mrs. Hanaford testified, that she was relying on her contract; but her contract was \u25a0one for services as manager of the hotel, with an expression of preference for her over other persons, if at the end of the year she and the hotel company could agree on the price and conditions of a lease, and in such event an agreement to lease for three years.\nAlthough the amount of the verdict' for exemplary damages was remitted, yet, in view of another trial, taking the position we do in regard to the stipulation for a lease in the contract, we think it proper to state that there could be no recovery of exemplary damages. If plaintiffs had an agreement for a renewal or extension or the making of a lease, and were wrongfully ejected from the premises, then there might be facts and circumstances attending the ejectment which, brought to the knowledge of and ratified by the defendant company, would entitle plaintiffs to the recovery of exemplary damages.\nDelivered October 19, 1893.\nAs before stated, no objections were filed by either party to the report-of the auditor, and it stood unchallenged as a correct statement of the accounts between them until it was offered in evidence. It is not addressed to the court, and does not appear to be a formal report, but it-does appear to be a statement of the accounts of the hotel, showing receipts and disbursements, and a balance against receipts. It is sworn to-as required by the statute, and the affidavit identifies the parties. It has also the file mark of the clerk, and was sufficiently identified as the report of the auditor to make its admission in evidence proper.\nAs provided by the statute, the report of the auditor is admissible in evidence, and can only be contradicted when exceptions to the same or any item thereof have been filed before the trial. Rev. Stats., art. 1473. When not objected to, the report is conclusive, not only as to such matters as have been included therein, but also as to such as have been left-out or excluded. Whitehead v. Perie, 15 Texas, 7; Boggs v. The State, 46 Texas, 10; Richie v. Levy, 69 Texas, 133. \u2022\nIt was therefore error for the court to submit the account between the-parties to the jury for statement, as was done in the portion of the charge complained of in the fourth assignment of error; but the verdict of the-jury for all the items that were concluded by the auditor\u2019s report did not-amount in the aggregate to the balance shown to be due to the plaintiffs by the report, and there could have been no injury resulting from the error indicated.\nAs shown by the second bill of exceptions, the court erred in permitting the witness Benham to testify, over the objections of the defendant, ttiat he had examined memoranda in the possession of and furnished by plaintiffs, and made a statement that defendant owed them the several sums which he stated, for which plaintiffs sought to charge the defendant as expenditures made by them.\nWe do not deem it necessary to notice any other questions presented,, as they are not likely to arise in another trial.\nFor the reasons indicated, the judgment of the court below will be reversed and the cause remanded for another trial.\nReversed and remanded.",
+        "type": "majority",
+        "author": "GARRETT, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "M. J. Hathaway and B. W. Stayton, for appellant.",
+      "Willie & Ballinger, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "The Aransas Pass Land Company v. Mrs. J. M. Hanaford and Son.\nNo. 306.\n1. Renewal of Lease\u2014Damages for. Refusal of.\u2014Appellees sued for a, balance due them for running a hotel, and for refusal of appellantto renew the lease. Provision in the lease as to renewal was, that appellees were to have the refusal of a lease on said hotel for a term of three years, at price and upon conditions then to be agreed upon. Appellees did not apply for a renewal, and shortly before the expiration of the year it was leased to another party. Appellees failed to show a cause of action for the recovery of damages for breach of the contract. The stipulation for the further lease for three years depended upon the agreement of the parties, both as to price and conditions. It was not an agreement to renew the existing contract, but an expression of preference for her over others, and she made no effort to obtain a new lease.\n2. Exemplary Damages.\u2014Construing the stipulation in the contract as we do, there could be no recovery of exemplary damages. If appellees had had an agreement for renewal or extension, or the making of a lease, and had been wrongfully ejected from the premises, then there might be facts and circumstances attending the ejectment which, brought to the knowledge of the defendant company and ratified by it, would have entitled the appellees to the recovery of exemplary damages.\n3. Auditor\u2019s Report.\u2014The auditor's reportfwas unchallenged by objection from either party. It was not addressed to the court, and does not appear to be a formal report, but it does show a statement of the receipts and disbursements of the hotel, and a balance against receipts, and has the file mark of the clerk of the court, and was identified as the auditor\u2019s report. It is conclusive not only as to matters included therein, but also to such as have been excluded, and it was error to submit the account between the parties to the jury.\n4. Evidence as to Items Included in Auditor\u2019s Report\u2014The auditor\u2019s report having been admitted in evidence, and plaintiffs\u2019 pleadings not. showing that any mistake had been made in it, and setting up no items independent of the report, it was error to permit a witness to testify that he had examined memoranda furnished by plaintiffs, and that defendant owed them the-several sums stated therein.\nAppeal from Aransas.\nTried below before Hon. James C. Wilson.\nM. J. Hathaway and B. W. Stayton, for appellant.\n1. The court erred in rendering judgment on the verdict of the jury, because the verdict is not supported by the evidence, in this, there was no evidence before the jury by which any actual damages could be estimated, and no actual damage shown; and no evidence before the jury showing any malice, ill-will, or intent to injure on the part of appellant towards appellees; or to show that appellant ever had knowledge of any wrongful acts of its agent toward appellees, or that such acts, if any, were ratified by it, on which to find exemplary damages.\n2. The court erred in permitting the auditor\u2019s report to be introduced in evidence, over the objection of defendant\u2019s counsel, because said report so offered failed to show on its face that it was the report of any person as an auditor, and failed to show that J. M. Hoopes, as an auditor, ever notified defendant ten days before he audited the account that he would on any given day audit the same. It failed to show that it was ever filed in any cause, and did not give the style or number of the cause on trial; because the report offered was nothing but an itemized' account, and did not show that appellant was a party to it.\n3. The court erred in admitting the evidence of witness Benham, over the objections of appellant; because the report of an auditor had been admitted by the court, and the pleadings of the plaintiffs did not show that any mistake had been made in said report, and did not set up said items independent of the report; because said auditor\u2019s report having been admitted in evidence should have and must have included all the items of account between appellees and appellant under the order appointing him; because the order of the court appointing J. M. Hoopes auditor in this cause required him to audit the whole account between appellees and defendant; and because the said items of board, labor, ledgers, and inventory were especially itemized in plaintiffs\u2019 pleading at the time of the appointment of J. M. Hoopes as auditor; because said items were a part of the account between plaintiffs and defendant. Boggs v. The State, 46 Texas, 10; Farley v. Ward, 1 Texas, 646.\nWillie & Ballinger, for appellees.\n1. There was sufficient evidence before the jury to authorize them to find that the plaintiffs had been actually damaged in the sum of $1000 by the failure of defendant to renew and extend the written contract upon which the suit was brought. Wood on Landl. and Ten., sec. 413; Kramer v. Cook, 7 Gray, 550; Driggs v. Dwight, 17 Wend., 70; Finney v. Cist, 43 Mo., 434; Robinson v. Harmon, 1 Exch., 850.\n2. No objection having been filed to the auditor\u2019s report, the court properly refused to hear any evidence on the trial tending to show that it was incorrect. Rev. Stats., art. 1473; Whitehead v. Perie, 15 Texas, 7.\n3. The items referred to in this [tenth] assignment having been fully proved by the uncontroverted evidence of Mrs. J. A. Hanaford, the admission of Benham\u2019s testimony, if error at all, was harmless, and could not have affected the result of the suit. Ins. Co. v. Ende, 65 Texas, 118."
+  },
+  "file_name": "0286-01",
+  "first_page_order": 310,
+  "last_page_order": 314
+}

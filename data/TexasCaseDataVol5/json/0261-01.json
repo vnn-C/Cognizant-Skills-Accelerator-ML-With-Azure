@@ -1,0 +1,66 @@
+{
+  "id": 227633,
+  "name": "Hiram P. Abbey v. The International & Great Northern Railway Company's Receivers",
+  "name_abbreviation": "Abbey v. International & Great Northern Railway Company's Receivers",
+  "decision_date": "1893-11-15",
+  "docket_number": "No. 96",
+  "first_page": "261",
+  "last_page": "263",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Tex. Civ. App. 261"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 331,
+    "char_count": 6508,
+    "ocr_confidence": 0.555,
+    "pagerank": {
+      "raw": 5.3300667438859686e-08,
+      "percentile": 0.33571995896285844
+    },
+    "sha256": "a0922cf53de01b7f672ff8bed2ad7e2eac8afb9239ba28ba36a476387285bce4",
+    "simhash": "1:9c2f6d114a3a5c55",
+    "word_count": 1114
+  },
+  "last_updated": "2023-07-14T18:07:14.925501+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hiram P. Abbey v. The International & Great Northern Railway Company\u2019s Receivers."
+    ],
+    "opinions": [
+      {
+        "text": "JAMES, Chief Justice.\nThe action was one of trespass to try title against the International & Great Northern Railroad Company, as represented by its receivers, T. H. Bonner and J. M. Eddy, to recover two strips of ground 100 feet wide running across two surveys claimed by the plaintiff, and for damages.\nThe judgment of the court was in favor of the plaintiff against the receivers for the strips of land, but without damages, as the same had been waived. The judgment, however, expressly orders that no writ of possession issue upon the judgment.\nThe errors assigned are as follows:\n1. That as only a general denial was pleaded, a recovery of the land entitled plaintiff to the writ.\n2. That plaintiff was at all events entitled to a writ of possession to be issued upon the return of the property by the receivers to the railway company.\nConclusions of Fact. \u2014 1. That the action was one against the receivers. 2. That during the pendency of the suit the property sued for was in the possession of the receivers, and constituted part of the track and right of way of the railroad under their management.\nConclusions of Law. \u2014 A judgment against a receiver can not be carried into effect except by consent and direction of the court which has charge of the estate, or unless a statute allows it to be done. While we have a statute which permits suits to be prosecuted against receivers without leave of court, there is none which authorizes any process upon the judgments. On the contrary, articles 1468 and 1469, Sayles\u2019 Civil Statutes, provide for the payment of such judgments through the proper court, out of funds in the hands of the receiver. It may be doubted if said articles were intended to apply to suits of the character of the one before us, or to any but suits for money. However, no objection is raised to the judgment on that ground, and it may be presumed, if necessary, that the proper leave was given to bring this suit. The principle is elementary, that any interference with the possession of property placed in the hands of a receiver is a contempt of the court having control of it.\nThe award of a writ of possession in this instance would have been useless, as no officer could have undertaken to execute it without placing himself in contempt. Therefore it was proper for the court to withhold the writ, so far as the receivership was concerned. If plaintiff desired possession of his property from the receivers, it is to be presumed that the proper court, upon his application, would have respected said adjudication; and upon examination of the matter, if it determined that the property was not essential to the business of the road or purposes of the receivership, would have doubtless ordered its delivery to plaintiff; or if found to be indispensable, would have directed the receiver to institute proceedings to condemn the same, by which plaintiff\u2019s rights would have been duly protected by compensation. Appellant contends, that he was at least entitled to a writ to be issued after the property should be restored to the railway company by the receivers. A complete answer to the position, in our judgment, is that appellant obtained no judgment against the railway company.\nDelivered November 15, 1893.\nIt was within the power of plaintiff to have joined the railway company as a defendant in this suit, and with an adjudication of the title against the company he would have been entitled to the writ, the same to have its effect in the event of a restoration of its property. It may be urged in this connection, that the suit was against the corporation; but if this were so, the judgment is clearly against the receivers only, and if the corporation should in any way be deemed a party, the judgment is not a final one, and would not support this appeal. We have concluded in favor of the right of appeal that the suit was one against the receivers only. The receivership did not invest the receivers with the title to the company\u2019s property. High on Rec., sec. 302.\nThe court by means of a receivership assumed the control and management of its property for the purposes of the receivership, and had power, through appropriate proceedings, to divest the corporation of its title. The case is unlike an assignment made by an insolvent person or corporation, by which the title is expressly conveyed.\nThere exists no such relation between the owner and receiver, which admits of a judgment in respect to the title to property against the latter being res adjudicata as to the former.' Certain classes of judgments have this effect, but it is by force of statute. We conclude, therefore, that a writ of possession granted in connection with the judgment before us against the corporation would in any event have been erroneous.\nThe judgment is affirmed.\nAffirmed.",
+        "type": "majority",
+        "author": "JAMES, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "Mason Maney, for appellant.",
+      "No brief for appellee reached the Reporter."
+    ],
+    "corrections": "",
+    "head_matter": "Hiram P. Abbey v. The International & Great Northern Railway Company\u2019s Receivers.\nNo. 96.\n1. Judgments in Trespass to Try Title Against Receivers. \u2014 In a judgment in which land is recovered against the receivers of a railway company, it is proper for the court to withhold writ of possession for the land, at least so far as the receivership is concerned.\n2. Same. \u2014 If plaintiff in such judgment desired possession, the court in which receivership was pending, on his application, would have ordered its delivery to him, or ordered the property condemned, in which case he would have been compensated.\n3. Same. \u2014 Still not entitled to possession after property is restored to the company by the receivers, because the judgment is against the receivers and not the railway company.\n4. Same. \u2014 If plaintiff had joined the company as defendant with the receivers, on obtaining judgment for the land he would have been entitled to possession on restoration of the property to the company.\n5. Receiverships and Assignments by Insolvent Debtors. \u2014 The court, by means of the receivership, obtains control and management of the property; and unlike an assignment made by an insolvent person or corporation by which the title is expressly conveyed, there exists no such relation between the owner and the receiver which admits of a judgment in respect to the title to property against the latter being res adjudieata as to the former.\nAppeal from Frio. Tried below before Hon. R. W. Hudson.\nMason Maney, for appellant.\nAs to the action of the court which is assigned as error in withholding writ of possession: Rev. Stats., art. 4808; Hays v. Railway, 62 Texas, 397.\nNo brief for appellee reached the Reporter."
+  },
+  "file_name": "0261-01",
+  "first_page_order": 287,
+  "last_page_order": 289
+}

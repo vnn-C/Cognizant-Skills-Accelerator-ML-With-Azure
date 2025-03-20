@@ -1,0 +1,62 @@
+{
+  "id": 221037,
+  "name": "W. Keesey v. A. V. D. Old",
+  "name_abbreviation": "Keesey v. Old",
+  "decision_date": "1893-03-01",
+  "docket_number": "No. 70",
+  "first_page": "1",
+  "last_page": "2",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 1"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 279,
+    "char_count": 4186,
+    "ocr_confidence": 0.529,
+    "sha256": "647118747e3266e2819664df830aa92c40d9f7a868f1f2fafb3f4424d339374d",
+    "simhash": "1:3a6299b2b54d44dc",
+    "word_count": 778
+  },
+  "last_updated": "2023-07-14T18:08:23.206239+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "W. Keesey v. A. V. D. Old."
+    ],
+    "opinions": [
+      {
+        "text": "FISHER, Chief Justice.\nAppellants, W. Keesey and E. G. Gliem, as partners under the firm name of W. Keesey, instituted this suit against appellee to recover on a promissory note executed by appellee to W. Keesey for 8588.40. Appellee, by sworn plea in abatement, plead that one O. M. Keesey was a member of the firm of W. Keesey, and was a necessary party plaintiff to the suit; and further plead, that the note sued upon had been fully adjudicated and determined in a judgment heretofore rendered in the District Court of Jeff Davis County, in a cause wherein appellee was plaintiff and E. L. Gage, Dan Murphy, and W. Keesey were defendants.\nOn a trial of the case before the court below without a jury, judgment was rendered generally in favor of appellee and against appellants.\nThe appellants are entitled to their judgment against appellee, unless they should be defeated under the plea in abatement or the plea of res adjudicata.\nThe appellants contend, that if O. M. Keesey was a member of the firm of W. Keesey, it was not necessary that he should be made a party plaintiff, because the facts show that he was only a nominal or dormant partner, if partner at all.\nThe general rule is, that a nominal or dormant partner is a permissible but not a necessary party plaintiff. He can join in the suit with his co-plaintiff, but it is not essential to the right of the members of the firm to maintain the suit if he does not join. 17 Am. and Eng. Encycl. of Law, 1236; 2 Bates on Part., secs. 1022, 1023.\nThis rule is in some instances qualified by certain exceptions, which are unnecessary for us to mention, as none exist in this case. It is doubtful if the evidence shows that O. M. Keesey was a partner of the firm of W. Keesey; but admit that it does, it at best only shows that he was a dormant partner. We do not think it was necessary that he should be joined as a plaintiff in the case.\nThe facts do not show that the note sued upon was adjudicated in the case of Old v. Gage et al. The pleadings in that case did not put the note in issue, nor was it submitted to the consideration of the jury by the charge of the court. The jury may have considered the note in aiming at the amount of verdict that was found in favor of Old in that case, but it is extremely doubtful, under the evidence, if they did so; but concede that they did, they had no right to do so, unless some issue was so presented by the pleadings. The answer of Keesey filed in that case can not be so construed as pleading the note in offset to Old\u2019s demand. The fact of Old\u2019s liability on this note was not presented for adjudication in that case. The answer pleaded a settlement of the matters between Keesey and Old, and stated that this note was given on said final settlement. The fact was pleaded simply as a fact to show that Old and Keesey had agreed upon a settlement and adjustment of the financial differences between them, and that the execution of this note by appellee was the result.\nNo relief was asked in that suit by Keesey against Old on the note, and the court did not in its charge submit it to the jury for any purpose. The facts do not sustain the plea of res ad judicata.\nThe judgment of the court below is reversed and cause remanded.\nReversed and remanded.\nDelivered March 1, 1893.",
+        "type": "majority",
+        "author": "FISHER, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "A. A. Dial, for appellant,",
+      "No brief for appellee reached the Reporter."
+    ],
+    "corrections": "",
+    "head_matter": "THIRD DISTRICT,\nMARCH, 1893.\nW. Keesey v. A. V. D. Old.\nNo. 70.\n1. Dormant Partner\u2014Parties.\u2014A dormant partner can join in a suit by the firm, but the active members of the firm may maintain the suit alone.\n2. Bes Adjudicata.\u2014In the former suit neither the pleadings nor charge submitted the note, the subject of the second suit, for consideration. In such case, that the jury may have considered the note in fixing the amount of their verdict, would not conclude the right to recover upon the note in a subsequent suit. See example.\nAppeal from Uvalde. Tried below before Hon. T. M. Paschal.\nA. A. Dial, for appellant,\ncited: Philipowski v. Spencer, 63 Texas, 606; Henderson v. Gilliam, 12 Texas, 74; Weathered v. Mays, 4 Texas, 387; Abb. Trial Ev., 827, 831; Sayles\u2019 Pl., 132, 134; 6 Wait\u2019s Act. and Def., 770, 776; W. & W. C. C., secs. 307, 521, 1167.\nNo brief for appellee reached the Reporter."
+  },
+  "file_name": "0001-01",
+  "first_page_order": 27,
+  "last_page_order": 28
+}

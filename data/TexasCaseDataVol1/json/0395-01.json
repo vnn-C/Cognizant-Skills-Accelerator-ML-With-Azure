@@ -1,0 +1,141 @@
+{
+  "id": 216247,
+  "name": "S. Jacobs, Bernheim & Co. v. G. W. Shannon et al.",
+  "name_abbreviation": "S. Jacobs, Bernheim & Co. v. Shannon",
+  "decision_date": "1892-11-29",
+  "docket_number": "No. 42",
+  "first_page": "395",
+  "last_page": "402",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Tex. Civ. App. 395"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Mass., 194",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Metc., 490",
+      "category": "reporters:state",
+      "reporter": "Metc.,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Mass., 479",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2029699
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/9/0420-01"
+      ]
+    },
+    {
+      "cite": "1 Hill, 275",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Mass., 474",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 N. Y., 550",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "29 Am. Rep., 371",
+      "category": "reporters:state_regional",
+      "reporter": "Am. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "31 Am. Dec., 420",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Rand., 177",
+      "category": "reporters:state",
+      "reporter": "Rand.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 S. W. Rep., 563",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 S. W. Rep., 563",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 812,
+    "char_count": 21401,
+    "ocr_confidence": 0.566,
+    "pagerank": {
+      "raw": 1.2240919645422112e-07,
+      "percentile": 0.599331273753798
+    },
+    "sha256": "021fa14456692367aee2cc12030022054ced8d0c2fc52b2a6e6bffd7d574beda",
+    "simhash": "1:1a8f9de34454c0dd",
+    "word_count": 3789
+  },
+  "last_updated": "2024-02-27T16:44:05.763049+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "S. Jacobs, Bernheim & Co. v. G. W. Shannon et al."
+    ],
+    "opinions": [
+      {
+        "text": "HEAD, Associate Justice.\nPlaintiffs in error brought this suit against defendant in error G. W. Shannon, as sheriff of Eastland County, and the sureties on his official bond, to recover damages alleged to have been sustained by the negligence of said Shannon in taking an insufficient claimant\u2019s bond and delivering to Deland & Redfield, the claimants, a certain stock of merchandise which had been attached by plaintiffs in error as the property of one Caldwell.\nThe defects in the claimant\u2019s bond, as alleged in plaintiffs\u2019 petition, consisted of its being made payable to them jointly, instead of jointly and severally, with the plaintiffs in two other writs of attachment which had been also levied upon the same stock of goods; and also, it was alleged that the only sureties upon said bond were \u201c Randall & Darling,\u201d which could at most only stand for one name, when the law required two.\nThe propositions presented by plaintiffs in error are so numerous, and present such slight shades of difference in the points sought to be made, that no useful purpose could be subserved in. attempting to treat them consecutively, and we shall therefore content ourselves with stating as concisely as possible our conclusions upon what we conceive to be the controlling points presented by the assignments of error.\nWe are of opinion that the court correctly submitted to the jury the question as to whether or not the claimant\u2019s bond was signed by C. H. Higbee as a surety, in addition to Randall & Darling. The evidence as to whether Higbee\u2019s name appeared upon this bond as a surety at the time it was accepted by the sheriff was conflicting and to a great extent circumstantial, and the question thus presented was peculiarly one for the jury to decide. The court correctly charged the jury as to the legal effect of the bond in case they found that it was signed by two sureties at the time it was accepted by the sheriff.\nWe are also of the opinion that the fact that the bond was made payable to plaintiffs in error jointly with the plaintiffs in the.other writs of attachment, instead of being made payable to them jointly and severally, was not objectionable. This form of bond is now prescribed by our statute (2 Say les\u2019 Civil Statutes, article 4823), but before passage of this statute we think it was practically recognized as being proper by the decisions of our Supreme Court. Elser v. Graber, 69 Texas, 222; Harness Co. v. Schoelkopf, 71 Texas, 418.\nWe are also of opinion that the signature of a partnership as surety on a claimant\u2019s bond for the trial of the right of property should be governed by the principles applicable to such signature to an attachment bond rather than to those applicable to an appeal bond. The reason given for holding an appeal bond invalid in the Supreme Court when signed by a firm as surety instead of by the individual members of the firm, is, that in that court no pleading can be filed showing the names of the members of the firm so that the court, if necessary, could render the proper judgment against them. Frees v. Baker, 6 S. W. Rep., 563. But in Donnelly v. Elser, 69 Texas, 282, these reasons are held not to be applicable to the case of an attachment bond, for the reason that* proper pleadings can be filed in the trial court upon which the judgment can be rendered, and we see no valid reason why this could not .be done upon the trial of the right of property.\nThe question as to whether or not the blanks in the claimant\u2019s bond were properly filled up with the names of the plaintiffs in attachment, etc.,- by authority from the signers of this bond, after it was signed by them, was not requested by plaintiff in error to be submitted to the jury. If the signers of this bond authorized or understood that this was to be done at the time they signed and delivered it to Redfield in its imperfect condition, we think there can be no serious question as to its legality. Drake on Attach., sec. 336. If upon another trial there should be any question as to such authority, it should be submitted to the jury for their decision under appropriate instructions; but if plaintiffs in error desire this done, they must request charges upon the subject, as otherwise the failure on the part of the court would be one of omission and not of commission, and therefore would not constitute reversible error.\nThere can be no question that a claimant\u2019s bond with but one security is not valid as a statutory bond. Our statute expressly requires that \u201c it shall be signed by two or more good and sufficient sureties.\u201d Sayles\u2019 Civ. Stats., art. 4823. We also think there can be but little doubt but that such bond in this State would be sustained as a common law obligation. Bank v. Lester, 73 Texas, 542; Jacobs v. Daugherty, 78 Texas, 682.\nThe court in submitting the case to the jury gave them the following charge:\n\u201cYou are further charged that by the term 1 statutory bond\u2019 as used in this charge is meant such a bond as is required by the statute of Texas, and such a one as will enable a claimant of personal property to contest the claim of plaintiffs in the attachment writ in the summary way for the trial of the right of property as provided by our law; and if in the execution and delivery of a bond to the officer who has levied on personal property by a claimant thereto, such a bond is executed and delivered as will create a binding obligation as against the persons signing their names thereto, but at the same time not such a bond as could be denominated a statutory bond, the effect in law of such action, if excepted to, would deprive the claimant of the right in said action to contest the plaintiff\u2019s claim to the property the ownership of which is in controversy, but would not deprive the plaintiffs of their right to judgment against the claimant and surety, if one on the bond. You are further charged that the plaintiffs, even should you find that no other security except Randall & Darling signed said bond, would in the trial of said suit on the right of the ownership of said property have been entitled to a judgment against said Deland & Redfield, and said Randall & Darling; and if therefore you find that the plaintiffs in said suit negligently failed to take judgment against said Randall & Darling in said suit, and that said negligence proximately contributed to the injury sustained by plaintiffs; and if you further find that plaintiffs could with reasonable diligence have secured their said debt by prosecuting said cause to judgment and execution against the said Randall & Darling, or said Deland & Redfield, you will find for defendant.\u201d\nWe think the court erred in this charge in telling the jury that the plaintiffs in the suit for the trial of the right of property had the right to take judgment against the security on the claimant\u2019s bond if there was only one. Plaintiffs could take this summary judgment only upon a statutory bond; but if a recovery should be sought upon such bond as a common law obligation, suit would have to be brought thereon in the regular way. Jacobs v. Daugherty, 78 Texas, and Bank v. Lester, 73 Texas, cited above. We are therefore of the opinion that if the bond in controversy was not good as a statutory bond by reason of having only one surety thereon, the court was in error in submitting to the jury the question of contributory negligence on the part of plaintiffs in error, based upon their failure to make their money out of the security on such obligation. We think it quite too clear for argument that the plaintiff in attachment could not be required to accept a common law obligation in lieu of the statutory bond guaranteed him by the law, and thereby be subjected to the delays and uncertainty attending the prosecution of a suit thereon to its final termination. Such delay might be so great as to result in the entire release of the sheriff and his sureties by limitation.\nIt seems that the writ of attachment levied upon the stock of goods was also levied upon several tracts of land as the property of the defendant in the attachment, and the attachment lien thereon was foreclosed and the land ordered to be sold thereunder, but no steps had ever been taken to make such sales. The evidence also tended to show that this land, if it really belonged to the defendant in the attachment, was of value more than sufficient to pay plaintiff in error\u2019s debt, and the court in its charge to the jury instructed them that, \u201cIf you believe from the evidence at the time the defendant G-. W. Shannon in this case turned over to Deland & Redfield the goods as alleged by plaintiffs, even if said Shannon as sheriff took an insufficient bond in the manner complained of by plaintiffs, nevertheless, if you further believe from the evidence that at the same time the plaintiffs had their attachment lien on said goods, that they also had a valid and subsisting lien upon other property of W. T. Caldwell sufficient to make their debt, and by their own neglect failed to make their said debt out of such other property, then and in that event plaintiff would be precluded from claiming anything from these defendants, and if you so believe you will find for them.\u201d\nWe think there was no error in giving this charge. The rifle of liability on the part of an officer in cases like this is tersely stated by Mr. Drake in his work on Attachments, section 309, as follows: \u201c Where an officer fails to keep attached property to answer the execution, there is no reason why he should be subjected to a different rule of damages from that which prevails in actions generally against officers for neglect or failure of duty; that is, the actual injury sustained by plaintiff by reason of the neglect or failure. The value of the property attached, if less than the amount of the plaintiff\u2019s judgment, or the amount of the latter where the value of the property is greater, will generally be prima facie the measure of damages, subject to be mitigated by evidence produced by the officer.\u201d Also see 2 Sedg. on Dam., secs. 345, 346; Smith v. Tooke, 20 Texas, 750; Walton v. Compton, 28 Texas, 569; De Witt v. Oppenheimer, 51 Texas, 103; Hurlock v. Reinhardt, 41 Texas, 580; Barclay v. Scott, 1 Ct. App. C. C., 110, 111.\nIf the sheriff in this case had levied entirely upon personal property, and had only released a part thereof, we apprehend that it would not be contended that plaintiffs could hold the sheriff liable, without first subjecting such property as was not released to their claim, and could then only hold him liable for such part of his debt as might remain unsatisfied (De Witt v. Oppenheimer, cited above); and we can see no good reason why the same rule should not apply where part of the property levied on was real estate. If, however, upon another trial it should be made to appear that this land did not belong to the defendant in the attachment writ, or that his interest therein was of no value, or was exempt, or for any other reason was not subject to the attachment, the fact that plaintiffs had not sold the same would constitute no defense.\nAt the request of defendants in error the court below instructed the jury, that if the plaintiffs\u2019 cause of action accrued to them more than four years next before the filing of their suit on the 24th day of March, 1886, the same would be barred by the statute of limitations, and they should find for the defendants. The court, however, added to this charge the qualification that the statute of limitations would not begin to run against the plaintiff in favor of the defendants until it was established by the decree of the District Court that the property levied upon was not the property of Deland & Redfield, but was the property of W. P. Caldwell, which latter date is shown by the undisputed evidence to have been June 15, 1885. If the claimant\u2019s bond was only a common law obligation, we are not prepared to say that the statute of limitations did not commence to run until this latter date, but we think that even in such case it would not commence to run until the rendition of judgment in favor of plaintiffs in error against Caldwell for the amount of their debt. Until this latter date the sheriff could not be called upon to deliver the property in satisfaction of such debt. Zurcher v. Krohne, Feiss & Co., 63 Texas, 118; Poland v. Henry and Frazier, 64 Texas, 542; Murf. on Sheriffs, 962a. But this judgment was rendered on the 25th day of March, 1882, and this suit was instituted March 24, 1886, and it will therefore be seen that by the undisputed evidence four years had not elapsed between these dates, and we are therefore of the opinion that the court erred in submitting to the jury the question of limitation at all, although we are not prepared to say that this error, when coupled with the qualification made by the court below, would require a reversal of the case. There being no conflict in the evidence as to the date when the judgment was rendered upon the trial of the right of property, and such a short time having elapsed between such date and the institution of this suit, it would probably be unreasonable to suppose that the jury could have made the mistake of finding for the defendants upon this ground. It is, however, error to charge upon an issue not fairly raised by the evidence, and such error will frequently be sufficient to require a reversal. Railway v. Gilmore, 62 Texas, 391.\nIt will be noted that we have treated the case as though the name of Randall & Darling could, in no event, stand for more than one security. This was the view taken by the court below; and as there are no assignments of error calling the correctness of this in question, we have not deemed it proper to enter upon its investigation.\nThere is some evidence in the record which would tend to show that at the time of the signing of this bond the firm of Randall & Darling had been dissolved, and there are also some intimations in the record that both the former members of this firm were present when the bond was signed. If this be a fact, the question as to whether or not, upon proper pleading, this could have been shown to be the individual act of the members of this firm, so as to constitute two signatures to the bond, is of such importance that we would not undertake its decision without a full presentation of the question.\nDelivered November 29, 1892.\nFor the error of the court in submitting to the jury the question of contributory negligence alleged to arise from the failure of plaintiffs in error to take judgment in the suit for the trial of the right of property on the claimant\u2019s bond, even though it was only a common law obligation, we think the judgment of the court below should be reversed and the cause remanded for a new trial, and it is so ordered.\nReversed and remanded.",
+        "type": "majority",
+        "author": "HEAD, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "F. B. Stanley, for plaintiffs in error.",
+      "No briefs for defendants in error have reached the Reporter."
+    ],
+    "corrections": "",
+    "head_matter": "S. Jacobs, Bernheim & Co. v. G. W. Shannon et al.\nNo. 42.\n1. Claimant\u2019s Bond \u2014 To whom Payable. \u2014 That a claimant\u2019s bond was made payable to plaintiff in the attachment jointly with the plaintiffs in other writs of attachment then levied by the sheriff on the same property, instead of being made payable to them jointly and severally, held not objectionable, though the bond was taken prior to the present statute which prescribes such form.\n2. Same \u2014 Partnership as Surety. \u2014 The signature of a partnership or firm name as surety on a claimant's bond is valid, though the names of the individual members be not signed.\n3. Bond \u2014 Filling Blanks After Signing. \u2014 If the sureties on the claimant's bond authorized or understood at the time they signed and delivered it that the blanks in the bond were thereafter to be properly filled up with the names of the plaintiffs in the attachment, etc., there can be no serious question of its legality.\n4. Claimant\u2019s Bond with one Surety \u2014 Common Law Obligation. A claimant\u2019s bond with but one surety is not valid as a statutory bond, but will be sustained as a common law obligation.\n5. Same \u2014 Right of Attaching Creditor. \u2014 As such bond will not authorize a summary judgment under the statute against the one surety, the plaintiff in the attachment may proceed against the sheriff for taking an imperfect statutory bond, without having first sued the parties to the claimant's bond on the common law liability created thereby.\n6. Same \u2014 Right of Sheriff to have Other Property Exhausted.\u2014 Though a sheriff may have taken an insufficient claimant's bond, whereby property attached by plaintiff's is lost to them, yet he is not liable for such loss if plaintiffs then had an attachment lien on other property of their debtor, and through their own negligence failed to realize their debt therefrom.\n7. Same \u2014 Measure of Damages. \u2014 The measure of damages against the officer in such cases is that which prevails in actions generally against officers for neglect or failure of duty; that is, the actual injury sustained by the plaintiff by reason of the neglect or failure.\n8. Limitation \u2014 Suit Against Sheriff. \u2014 A sheriff can not be called on by the plaintiff in attachment to deliver attached property until such plaintiff has obtained judgment against the debtor in attachment, and therefore until such time limitation will not run in the sheriff's favor as against a suit by such plaintiff for damages caused by the sheriff's taking an insufficient claimant's bond, whereby the attached property is lost.\nError from Eastland. Tried below before M. A. Spoonts, Esq., Special Judge.\nF. B. Stanley, for plaintiffs in error.\n1. The claimant\u2019s bond is intended to be a substitute security for the property released, and in terms must be such as to enable a court to render judgment against the obligors summarily without other pleading or proof than the bond and the judgment, in trial of the right of property. Rev. Stats., art. 4840; Freiberg v. Elliott, 64 Texas, 367; Mardis v. Johnson, 43 Texas, 225.\n2. While in a bond or obligation which requires its breach to be established by suit before a recovery can be had, the signature of a partnership name may be presumed to bind all the members of the firm, this presumption can not be indulged where a summary judgment on the bond is contemplated, but the name of each obligor must distinctly appear, as well as the full extent of his undertaking. There was nothing in the bond to show what person or persons signed said name of Randall & Darling, or who it was intended to bind. Donnelly v. Elser, 69 Texas, 282; Frees v. Baker, 6 S. W. Rep., 563.\n3. A signature of a party to a blank form of bond, in which neither the name of the obligee, the amount of the obligation, the purpose nor consideration for which it is executed, nor the proceeding in which it is to be used, is stated, is absolutely void for any purpose, and such signer is not bound by the terms of an undertaking written above the signature without his knowledge. 1 Greenl. Ev., secs. 564, 565; Park v. Glover, 23 Texas, 472; Harrison v. Tiernans, 4 Rand., 177; Davenport v. Slight, 2 Dev. & Bat. Law; 31 Am. Dec., 420.\n4. Where several and successive levies are made on same property by different plaintiffs, their liens are several and successive and in no respect joint, and the claimants\u2019 bond should be made payable to them severally and successively, so as to preserve their lien as it was. This bond being-payable to them jointly and not severally, changed their relation, giving them a joint lien or cause of action on the bond, and diminished the value of plaintiff\u2019s security, and compelled them to invoke the equitable power of the court to adjust priorities, thus imposing a burden upon them, and it was not therefore a statutory bond. Green v. Banks, 24 Texas, 508; Elser v. Graber, 69 Texas, 222; Freiberg v. Elliott, 64 Texas, 367.\n5. A claimant\u2019s bond with but one surety is invalid, both as a statutory and as a common law bond; first, because the statute requires two; and second, because the surety signing has a right to presume that the sheriff will comply with his statutory duty, and will procure at least one additional surety. Rev. Stats., art. 4823; Cutler v. Roberts, 29 Am. Rep., 371; Donnelly v. Elser, 69 Texas, 282.\n6. The court erred in submitting to the jury the issue of law as to the statute of limitations pleaded by defendants in bar, as all the evidence on that point was record evidence and undisputed, of the weight, force, and effect and sufficiency of which the court is the sole judge; and the court should have instructed the jury, as a matter of law, that plaintiffs\u2019 action was not barred according to the law as applied to the evidence. Garrity v. Thompson, 67 Texas, 1; Wootters v. Kaufman & Runge, 73 Texas, 395; Railway v. Platzer, 73 Texas, 117.\n7. The court erred in submitting to the jury the question of contributory negligence of plaintiffs, as the same is inapplicable to the case made by the pleadings and evidence, and is misleading. Rev. Stats., art. 4525; 1 Suth. on Dam., 246-248; Ledyard v. Jones, 7 N. Y., 550; Weld v. Bartlett, 10 Mass., 474; Bank v. Curtis, 1 Hill, 275.\n8. It is not necessary, in order to charge the sheriff for taking insufficient security, for plaintiffs to show that they have taken any steps against the security. Weld v. Bartlett, 10 Mass., 474; Bank v. Curtis, 1 Hill, 275; Long v. Billings, 9 Mass., 479; Glezen v. Root, 2 Metc., 490; Spar-hawk v. Bartlett, 2 Mass., 194.\nNo briefs for defendants in error have reached the Reporter."
+  },
+  "file_name": "0395-01",
+  "first_page_order": 419,
+  "last_page_order": 426
+}

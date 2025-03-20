@@ -1,0 +1,79 @@
+{
+  "id": 223699,
+  "name": "The Leon & H. Blum Land Company v. T. L. Dunlap",
+  "name_abbreviation": "Leon & H. Blum Land Co. v. Dunlap",
+  "decision_date": "1893-10-11",
+  "docket_number": "No. 1573",
+  "first_page": "315",
+  "last_page": "318",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Tex. Civ. App. 315"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "70 Mo., 206",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        8851523
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mo/70/0206-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 477,
+    "char_count": 7810,
+    "ocr_confidence": 0.567,
+    "pagerank": {
+      "raw": 8.261089887139631e-08,
+      "percentile": 0.47805412593552754
+    },
+    "sha256": "9b3d1cb416ced0b4405201d370601edd8e1ac14c576b75b7620c2413aad24fc6",
+    "simhash": "1:1e64f9f147ca0f24",
+    "word_count": 1392
+  },
+  "last_updated": "2024-02-27T18:01:03.208661+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The Leon & H. Blum Land Company v. T. L. Dunlap."
+    ],
+    "opinions": [
+      {
+        "text": "HEAD, Associate Justice.\nThis suit was instituted by appellant, as-plaintiff in the court below, to recover of appellee 767-J- acres, a part of a survey in the name of John S. Brown. The statement of facts and bill of exceptions show that appellant, in attempting to deraign its title, introduced in evidence a regular chain of transfers from the State to Leon & H. Blum, and then offered a deed reciting, that \u201c we, Leon Blum and Sylvan Blum, of the city of Galveston, and Hyman Blum, of the city of New York, partners composing the firm of Leon & H. Blum, of the city of Galveston, for and in consideration of $2918, to us paid by the Leon & H. Blum Land Company, have bargained, aliened, and sold, and by these presents do bargain, sell, alien, and confirm, unto the said The Leon & H. Blum Land Company, all our right, title, interest, and estate in and to the following described premises, viz., that certain tract or parcel of land lying and being in the county of Bosque, State of Texas, containing 1535 acres of land, being the headlight survey of John S. Brown, granted to him by patent bearing date the 20th day of January, 1853, which said lieadright is bounded and described as follows: Lying and being situated between Spring Creek and Main Bosque, about eight miles above the mouth of Meridian Creek, beginning at the northeast corner of a survey for L. W. Smith, assignee of Lavin Lago, from which a post oak marked Y bears south 9\u00b0 west 9 varas, another marked T bears north 71\u00b0 west 5 varas; thence north 30\u00b0 west 3256 varas to corner, from which a Spanish oak marked X bears south 4\u00b0 east 3 varas, another marked I bears north 83\u00b0 east 2-J- varas; thence south 60\u00b0 west 3400 varas to corner, from which a post oak marked W bears south 55\u00b0 west-varas, another marked. X bears south 30\u00b0 east 3 varas; thence south 30\u00b0 east 2150 varas to a branch, 3256 varas to corner, from which a live oak marked Y bears south 87\u00b0 east 57 varas; thence north 60\u00b0 east 490 varas to a branch, 2900' varas to another, 3400 varas to the beginning.\u201d This deed is signed \u201c Leon & H. Blum,\u201d and has the following acknowledgment:\n\u201cState of Texas, County of Galveston.\u2014 Before me, J. W. Jackson, a. notary public in and for said county and State, this day personally appeared Leon & H. Blum, by Sylvan Blum, partner of said firm, known to me to be the person whose name is subscribed to the foregoing instrument, and acknowledged to me that he executed the same for the purposes and considerations therein expressed. \u25a0\n\u201cGiven under my hand and seal of office, at Galveston, Texas, this 15th day of May, A. D. 1885.\n\u201cJ. W. Jackson,\n\u201c Notary Public in and for Galveston County, Texas.\"\nTo the introduction of said deed appellee objected, as appears from the bill of exceptions, because \u201c the deed to plaintiff was not acknowledged as required by law, and that the description of the land was too vague and indefinite; that it fails to describe any land.\" These objections were sustained by the court, and judgment rendered for appellee.\nWe believe the court erred in excluding this deed. The objection to the acknowledgment was too general, and should not have been entertained by the court, without requiring appellee to specify the particular defect relied upon by him. We have, however, examined the acknowlment, and think it in substantial compliance with the law. A deed purporting to be made by a firm should be acknowledged by one of the members. 1 Dev. on Deeds, sec. 645; Sloan v. Owens, 70 Mo., 206. In the note to Webb on Record of Title, section 57, we also have reference to McCoy v. Baley, 21 Florida, 803, as being in point, but we have not access to this volume.\nIn Baldwin v. Richardson & Co., 33 Texas, 16, it was held, that proof by a subscribing witness that he saw \u201c Richardson & Co. sign the same \" was sufficient to admit the deed to registration. To this decision, however, Morrill, Chief Justice, dissented, upon the ground that the acknowledgment should have named the member of the firm who signed.\nThe deed here upon its face showed that Sylvan Blum, who acknowledged the deed, was a member of the firm whose act it purported to be; and if this had not already been shown to be a fact by the deed under which Leon & H. Blum claimed (as to which we are not advised by the statement of facts), the deed should nevertheless have been admitted and appellee allowed to make this proof by other evidence.\nThe extent to which one member of a firm has power by deed to convey its land has been so fully considered in this State that we will not undertake to add to what has already been said. Frost v. Wolf, 77 Texas, 455, and authorities there cited.\nThe objection to the deed on account of a supposed defective description of the land attempted to be conveyed, we think still less tenable than the one to the acknowledgment. We think an inspection of the description of the land, as contained in the deed and copied above, will show it to be more than ordinarily full and definite. We attach no importance to the fact that the number of acres which would seem to be included in the field notes considerably exceeds 1535, the number called for in the body of the deed. The deed would convey all the interest of the makers in the land embraced in the field notes, whether it be more or less than 1535 acres.\nDelivered October 11, 1893.\nWe see no objection to attaching copies of instruments as exhibits to a. statement of facts, as was done of this deed. Also, we think the deed objected to was sufficiently identified, when we consider the bill of exceptions and statement of facts together.\nThe judgment of the court below should be reversed and the cause remanded.\nReversed and remanded.",
+        "type": "majority",
+        "author": "HEAD, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "N. R. Morgan, for appellant.",
+      "James M. Robertson, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "The Leon & H. Blum Land Company v. T. L. Dunlap.\nNo. 1573.\n1. Acknowledgment of Deed of a Partnership. \u2014 A deed purporting to be made by a firm should be acknowledged by one of the members. See opinion for certificate of acknowledgment held sufficient.\n2. Deed\u2014Description\u2014Excess in Survey.\u2014Where a deed contains a definite description of the land conveyed, by field notes giving metes and bounds, with marked corners, the description is not vitiated by the fact that the number of acres which would seem (by calculation) to be included in the field notes considerably exceeds the number called for in the body of the deed.\n3. Practice\u2014Exhibits to Statement of Facts.\u2014The contents of a deed may be shown in the record on appeal by attaching a copy of the deed as an exhibit to the statement of facts; and the bill of exceptions and statement of facts will be considered together in determining whether the deed is sufficiently identified.\nAppeal from Bosque.\nTried below before Hon. J. M. Hall.\nN. R. Morgan, for appellant.\n1. The deed of Leon & H. Blum to appellant, signed in the firm name, and then duly acknowledged by one of the partners of the firm, before a proper officer, was a sufficient deed in law to convey the land of the firm, and was sufficiently acknowledged. Rev. Stats., arts. 4306, 4312; Frost v. Wolf, 77 Texas, 455; Baldwin v. Richardson, 33 Texas, 16; Lowery v. Drew, 18 Texas, 786; Story on Part., 119, 121, 122; Story\u2019s Eq. Jur., sec. 674.\n2. The court erred in sustaining objections to the deed of Leon & H. Blum to plaintiff, because the deed fully and specifically describes the John S. Brown survey in Bosque County, Texas, stating the date of the patent, and to whom patented, and giving intelligent field notes. Rev. Stats., arts. 548-552; Cawley v. Stanfield, 10 Texas, 546; Flannagan v. Boggess, 46 Texas, 335.\nJames M. Robertson, for appellee.\nThere is a deed copied in the record, after the signature of the judge, but it is not copied in the statement of facts, nor does it appear to be the deed to which the bill of exceptions-was intended to apply. Dist. Ct. Rule 72a. ."
+  },
+  "file_name": "0315-01",
+  "first_page_order": 339,
+  "last_page_order": 342
+}

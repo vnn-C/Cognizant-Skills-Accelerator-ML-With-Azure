@@ -1,0 +1,67 @@
+{
+  "id": 223733,
+  "name": "James La Prelle v. Fordyce and Swanson, Receivers",
+  "name_abbreviation": "La Prelle v. Fordyce",
+  "decision_date": "1893-10-11",
+  "docket_number": "No. 294",
+  "first_page": "391",
+  "last_page": "395",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Tex. Civ. App. 391"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 429,
+    "char_count": 11360,
+    "ocr_confidence": 0.562,
+    "pagerank": {
+      "raw": 4.076306636737454e-08,
+      "percentile": 0.008947918600220792
+    },
+    "sha256": "8e577a93d6012e9ea4d29ad4f2433f1f94dfff85cff1113d3feb223e82750057",
+    "simhash": "1:62d6b2b249460eec",
+    "word_count": 1953
+  },
+  "last_updated": "2023-07-14T14:53:58.701798+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James La Prelle v. Fordyce and Swanson, Receivers."
+    ],
+    "opinions": [
+      {
+        "text": "FISHER, Chief Justice.\nThis is an action by La Prelle, against the appellees, to recover damages for personal injuries received by him while a passenger on the St. Louis, Arkansas & Texas Railway, operated by the appellees. The appellant received his injuries in jumping from the train while in motion, and when the car in which he was riding was partially ' off the track. His purpose in leaping from the train was to escape the \u25a0danger that might exist and he might encounter if he remained upon the train until the car completely left the track.\nIt appears that the train was approaching the bridge over the Brazos River when the car partially left the track, and the leap by the appellant was made just before the car reached the trestle or bridge.\nThe ninth subdivision .of the charge of the court, among other things, instructs the jury, \u201cthat plaintiff, believing himself to be in imminent peril of his life, and acting under the impulse of an apparently well grounded fear, sought to escape such peril, and in doing so leaped from such car,\u201d etc.\nThe principal objection to this charge is, that it restricts the right of the passenger to leap from the car only when his life is in imminent peril. It is not only the peril to life that justifies the passenger in leaping, but the right exists to escape serious bodily injury. He can not justify his conduct in encountering a danger that the appearances of things reasonably indicate is greater than the danger he is seeking to avoid. But the danger he is seeking to avoid may reasonably indicate that, if encountered, would result in serious bodily injury\u2014something less than death. In such circumstances he would have the right to avoid it, provided he did not encounter a greater danger in doing so than the facts and circumstances reasonably indicate existed.\nFor this error in the charge, the judgment below will be reversed and the cause remanded.\nIn view of another trial, we will call the attention of the trial court to some other parts of the charge that are complained of.\nIn defining a person of prudence, the court omitted to state a person of ordinary prudence, and instructed the jury what would be expected of a person of prudence. In submitting these instructions, it is best to accurately follow the law. It is what is reasonably expected of a person of ordinary prudence under like circumstances, is the demand of the law. A prudent person majr mean a person of more than ordinary prudence.\nThat portion of the seventh paragraph of the charge is erroneous which says, \u201c and you further find from the evidence that such injury was not caused by a failure on the part of plaintiff to use ordinary care and prudence at the time to prevent such injury.\u201d A technical objection to this charge, in the connection in which it is given, may be tenable, that it shifts the burden of proof as to contributory negligence. It would probably have been free from objection if it had read, \u201cunless you find from the evidence that such injury was caused by a failure on the part of plaintiff to use ordinary care,\u201d etc.\nDelivered October 11, 1893.\nThe judgment of the court below is reversed and the cause remanded.\nReversed and remanded.",
+        "type": "majority",
+        "author": "FISHER, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "Alexander & Campbell, for appellant.",
+      "Clark, Dyer & Bolinger, for appellees.",
+      "Sam H. West, also for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "James La Prelle v. Fordyce and Swanson, Receivers.\nNo. 294.\n1. Passenger may Leap from Moving Car to Avoid Greater Danger.\u2014It is not alone when the life of a passenger is in imminent peril that he may be justified in leaping from a moving train; the right exists to escape severe bodily injury. The passenger must not encounter by leaping from the train an apparently greater danger than he is seeking to avoid. It was error in the court to restrict the right to cases of imminent peri] to the life of the passenger, when leaping from a train derailed and approaching a bridge.\n2. Charge \u2014 Prudent Man. \u2014 In the charge the duty of the plaintiff was defined as that of a prudent man under like conditions. It should have been of a person of ordinary prudence.\n3. Charge as to Contributory Negligence.\u2014The court, in submitting the issue of contributory negligence, should have used words substantially, \u201cUnless you find from the evidence that such injury was caused by a failure on the part of plaintiff to use ordinary care,\u201d etc. See objectionable charge.\nAppeal from McLennan.\nTried below before Hon. Wm. W. Evans, Special District Judge.\nThis was an action for damages for personal injury received by plaintiff while he was a passenger on the railroad operated by defendants.\nThe charge of the court, which is the subject of the discussion in the opinion, after stating the pleadings, and instructing as to the duty of the \u2022carriers, is as follows:\n\u201c5. But while the law requires such degree of care and prudence on part of defendants, their agents and servants, it also requires that plaintiff \u2022should use ordinary care and prudence on his part for his own protection \u2022against injury while a passenger on defendants\u2019 cars.\n\u201c 6. By ordinary care is meant that degree of care and prudence that may reasonably be expected of a person of prudence in the same case and under like circumstances.\n\u201c -7. If the jury find from the evidence that plaintiff, on or about the 19th day of November, 1889, being a passenger on defendants\u2019 railway, was injured, and that such injury resulted from the failure of defendants, \u25a0their agents and employes, to use the degree of care and prudence required of them by law, that is, by reason of the negligence of defendants, their agents or employes, whether such negligence was an improper-construction of defendants\u2019 track at the place such injury occurred, or was in an improper and unskillful management and operation of their-train carrying plaintiff, on the part of their agents, servants, and employes; and you further find from the evidence that such injury was not. caused by a failure on the part of plaintiff to use ordinary care and prudence at the time to prevent such injury, then and in that case defendants would be liable to plaintiff for the damages sustained by plaintiff by reason of such injury, not to exceed the amount sued for in this case;, and in case you so find, you will return a verdict for plaintiff for such-sum as under the evidence you may find plaintiff entitled to. * , * *\n\u201c8. If the jury find from the evidence that plaintiff, while a passenger on defendants\u2019 railway cars, was injured, but that such injury resulted from an accident or casualty that could not have been provided against and avoided by defendants by the exercise on their part of the-degree of care and prudence required of them by law as defined (above), and that defendants were not guilty of negligence as defined, * * *\" then and in that case defendants would not be liable to plaintiff for such-injury; and in case you so find, you will return a verdict for defendants.\n\u201c9. If the jury find from the evidence that plaintiff, while a passenger on defendants\u2019 railway cars, was injured, and at the time of such injury defendants, their agents or employes, were guilty of negligence, but that such negligence on their part was not the direct and proximate-cause of plaintiff\u2019s injuries, and that plaintiff contributed to and caused such injuries by leaping from defendants\u2019 car, and that in so leaping from such car plaintiff failed to exercise ordinary prudence, that is, such prudence as an ordinarily prudent person would use in such case and under like circumstances, then in that case plaintiff would be guilty of contributory negligence and would not be entitled to recover; and if you so find, you will return a verdict for defendants.\n\u201cBut the defendants would be responsible to the plaintiff for any injury he received if their negligence, or the negligence of their agents or servants, was the proximate and primary cause of the injury, although there may have been negligence on part of the plaintiff, unless it appears-from the evidence that under the circumstances plaintiff would, by the exercise of ordinary care, have avoided the consequences of the negligence of defendants or their agents. And if the jury find from the evidence that plaintiff was a passenger on defendants\u2019 cars, and that the car in which plaintiff was riding became derailed by reason of the negligence of defendants, their agents or employes, and that plaintiff, believing himself to be in imminent peril of his life, and acting on the impulse of an apparently well grounded fear, sought to escape from such peril, and in doing so leaped from such car and was injured thereby; and you further find that plaintiff, in so leaping from said car, exhibited such conduct and acted in such a way as might reasonably have been expected from an ordinarily prudent person under such ciroumstaces, then, in case yon so find, defendants would be liable to plaintiff for such injury; and in such case you will return a verdict for plaintiff for such sum as he may be entitled to recover under the measure of damages given. * * * But if' you find that in so leaping from said train, under the circumstances under which he acted, plaintiff failed to exercise ordinary care, as that term has been defined in this charge, then, in case you so find, you will find for defendants.\u201d * * *\nVerdict and judgment for defendants, and plaintiff appealed. The errors complained of are noted in the opinion.\nAlexander & Campbell, for appellant.\n1. It is not the law, as charged by the court, that plaintiff, in order to recover, should have believed that he was in imminent peril of his life, and that he must have acted under the impulse of a well grounded fear and sought to escape by leaping, because in such cases a passenger would be justified in leaping if he had a reasonable fear of injury, whether to his life or not; and it is the appearance to him, and not the jury, which must be well grounded; and his recovery should not have been precluded if a person of ordinary prudence under the circumstances, as they appeared to him, might have supposed there was danger of personal injury.\n2. The court erred in the charge defining the degree of care required by plaintiff, in instructing the jury that the plaintiff must use ordinary care and prudence, and in defining ordinary care as 11 that degree of care and prudence that may be reasonably expected of a person of prudence under like circumstances;\u201d because not the law, and said charge required of plaintiff more care than such care as a person of ordinary prudence would have exercised under like circumstances.\nPrudent means wise, discreet. Ordinary, means inferior, not expert. One may be ordinarily prudent, but not positively prudent. Worcester\u2019s Dic.; Railway v. Brin, 77 Texas, 174; Railway v. Beaty, 73 Texas, 596; Whart. on Neg., sec. 304, that defendants can not complain of imprudence arising from terror caused by them.\n3. The court erred in shifting the burden of proof as to contributory negligence. Railway v. Burns, 71 Texas, 481; Clark v. Hills, 67 Texas, 149.\nClark, Dyer & Bolinger, for appellees.\nIt is submitted that the court\u2019s charge, taken in its entirety, is a clear, concise submission of all the issues raised by the pleadings, and that said charge is in the approved language of the authorities, and is absolutely free from any of the technical criticisms made in the various propositions of appellant under said above assignments of error.\nSam H. West, also for appellees."
+  },
+  "file_name": "0391-01",
+  "first_page_order": 415,
+  "last_page_order": 419
+}

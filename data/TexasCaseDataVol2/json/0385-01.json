@@ -1,0 +1,69 @@
+{
+  "id": 219173,
+  "name": "The Magnolia Cattle and Land Company v. T. D. Love, Tax Collector",
+  "name_abbreviation": "Magnolia Cattle & Land Co. v. Love",
+  "decision_date": "1893-02-23",
+  "docket_number": "No. 683",
+  "first_page": "385",
+  "last_page": "388",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 385"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "42 Mich., 285",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 373,
+    "char_count": 7173,
+    "ocr_confidence": 0.542,
+    "sha256": "0d5ecbd03d9b6399943f12200ac802487f8dd0afeb51ff0c087c08210e21de43",
+    "simhash": "1:04c016a83e316752",
+    "word_count": 1231
+  },
+  "last_updated": "2024-02-27T19:43:33.086404+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The Magnolia Cattle and Land Company v. T. D. Love, Tax Collector."
+    ],
+    "opinions": [
+      {
+        "text": "STEPHENS, Associate Justice.\nBy this suit appellant, as the nonresident owner of a large body of land in Borden County, sought to enjoin the collection of the tax levied and assessed against said land for the year 1891, by the proper officers of Borden County. A preliminary injunction was granted, and afterward upon final hearing was dissolved; hence this appeal.\nThe case was tried before the court without a jury, on an agreed state.ment of facts, about which there is no controversy, and upon which the district judge filed separate conclusions of law and fact. From these conclusions and the agreed statement, it appears, that Borden County was duly organized on the 17th day of March, 1891, and that her duly elected officers qualified on April 1, 1891, at which last named date the tax assessor of Howard County, to which Borden had been up to that time attached for judicial purposes, had not begun to assess the taxable property of the latter county. That the assessor of Borden County, after the Commissioners Court had levied a tax, and prior to June 1, proceeded to assess all taxable property in said county for the year 1891, and to this end gave timely notice to the duly authorized agent of appellant, a nonresident of said county, to render these lands for taxation, which he refused to do. Thereupon the assessor placed these lands updn the unrendered tax roll, valuing them at $2 per acre, which valuation was approved by the board of equalization. It appears that the acts of the different officers of Borden County in levying, assessing, and proceeding to collect these taxes were in all respects regular.\nIn January, 1891, the aforesaid agent of appellant handed to the Comptroller a list of said lands, without valuation and not under oath, with the statement that said list contained all of appellant\u2019s lands situated in Borden, Dawson, and Garza counties. The State Board of Equalization valued all lands in unorganized counties at 81.50 per acre.\nOn the 30th day of December thereafter, said agent offered, for the first time, to pay to the Comptroller the taxes claimed to be due on these lands, as per the rendition made to him as aforesaid; but the Comptroller declined to issue receipts for taxes on lands situated in Borden County, stating as his reason therefor that it was an organized county, and returned to said agent the money so refused.\nAppellant offered to pay appellee as tax collector of Borden County the amount of taxes appearing to be due on said lands for said year, as the same was extended by the Comptroller upon the basis of paying taxes upon lands in unorganized counties by nonresidents, and refused to pay the amount as shown by the assessment rolls of Borden County.\nError is assigned upon the conclusion of law, upon which the judgnient appealed from seems to be founded, that appellant had not made a valid rendition of its lands to the Comptroller prior to the organization of Borden County. We are not prepared to hold that the failure on the part of appellant to place the value upon its property or to swear to the list rendered the assessment invalid, provided the Comptroller accepted the rendition without objection on these grounds. Rev. Stats., art. 4706.\nWe are, however, of the opinion that the judgment must be sustained upon the broader ground, that upon the organization of Borden County and the levy and assessment of State and county taxes by the proper officers of that county within the time prescribed by law, the power of the Comptroller to proceed any further in the assessment and collection of taxes in Borden County was arrested. Const., art. 8, secs. 11, 12; Rev. Stats., arts. 4728, 4728a, secs. 1-6, 14-16; Folkerts v. Powers, 42 Mich., 285.\nIt seems to us, that in making the rendition to the Comptroller, appellant must be held to have contemplated, that under the Constitution and laws of this State, Borden County might become an organized county and assess and collect taxes, both State and county, for the year 1891. The organization and assessment having been accomplished prior to the 1st day of June of that year, appellant was not justified in refusing, after receiving timely notice, to bear its proportion of the burden of taxation; and there is nothing in its case which appeals to the equity powers of the court. If it had paid the taxes to the Comptroller prior to the organization of the county, a different question might be presented; the mere acceptance by the Comptroller of the list tendered did not, we think, exhaust the taxing power for that year.\nIt follows that the judgment must be in all things affirmed.\nAffirmed.\nDelivered February 23, 1893.",
+        "type": "majority",
+        "author": "STEPHENS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "R. H. Looney, for appellant.",
+      "I. P. Skinner and Cowan & Fisher, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "The Magnolia Cattle and Land Company v. T. D. Love, Tax Collector.\nNo. 683.\n1. Taxation\u2014County Just Organized\u2014Taxes Assessed and Paid, \"Where.\u2014Where lands of a nonresident situated in an unorganized county are, in January, rendered to the Comptroller for taxation, and in March following the county is organized, and prior to June 1, through its county officers, duly assesses State and county taxes on the lands, the taxes for that year are payable to the tax collector of the county, not to the Comptroller, and in the amount shown on the collector\u2019s rolls, instead of the amount shown by the Comptroller\u2019s rolls on the rendition made to him.\n2. Same \u2014 Comptroller\u2019s Acceptance of Rendition not Conclusive, When.\u2014The Comptroller\u2019s acceptance of the rendition in such case did not exhaust the taxing power for that year, and was not conclusive against the right of the county, when subsequently organized, to levy and collect the taxes, especially as he declined to receive payment of the taxes due on the rendition so. made to him.\nAppeal from Borden. Tried below before Hon. William Kennedy.\nR. H. Looney, for appellant.\n1. Taxes in this State accrue on the 1st. day of January, and subsequent changes do not affect the tax. Rev-Stats., art. 4662.\n2. Borden County being unorganized on the 1st day of January, 1891,. when the taxes accrued, and appellant having rendered his lands for taxation to the Comptroller in January, 1891, before said county was organized, it was the right of plaintiff to pay taxes on his land at Austin, as. for an unorganized county; appellant being a nonresident of said unorganized county. Sayles\u2019 Civ. Stats., art. 4728a, secs. 2, 3.\nI. P. Skinner and Cowan & Fisher, for appellee.\n1. The value and ownership of property as existing on the 1st day of January simply forms, basis for the exercise of the taxing power; and until assessment in some of the modes prescribed by law, it can not be said that taxes have accrued; certainly none can be collected. Rev. Stats., art. 4662; Sayles\u2019 Civ. Stats., title 95.\n2. All powers conferred upon counties attach on organization, and when a county is organized it can at once proceed to exercise any of its political powers not previously exhausted. For the year 1891 no assessment of taxes for Borden County had been made prior to its organization, no legal rendition had been made, and no taxes had been paid; hence the power to assess and collect taxes in said county for that year had in no way been exhausted by any previous authority."
+  },
+  "file_name": "0385-01",
+  "first_page_order": 411,
+  "last_page_order": 414
+}

@@ -1,0 +1,71 @@
+{
+  "id": 221005,
+  "name": "First National Bank of Decatur v. Preston National Bank",
+  "name_abbreviation": "First National Bank of Decatur v. Preston National Bank",
+  "decision_date": "1892-11-29",
+  "docket_number": "No. 36",
+  "first_page": "545",
+  "last_page": "546",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 545"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 299,
+    "char_count": 4874,
+    "ocr_confidence": 0.566,
+    "pagerank": {
+      "raw": 1.0482681451391714e-07,
+      "percentile": 0.5531096600612623
+    },
+    "sha256": "d4cde6245480ef99aa90ca57b373ae7c3f58bfd8f2080d8839182d4a5940946e",
+    "simhash": "1:9eeb2f1eb4307d91",
+    "word_count": 835
+  },
+  "last_updated": "2023-07-14T18:08:23.206239+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "First National Bank of Decatur v. Preston National Bank."
+    ],
+    "opinions": [
+      {
+        "text": "TARLTON, Chief Justice.\nThis suit was instituted in the District 'Court of Wise County by the appellee, the Preston National Bank, of Detroit, Michigan, to recover the sum of $500, besides interest and attorney fees, the amount of a certain promissory note which is alleged to have been executed by the defendants. These defendants were as follows: The First National Bank of Decatur, Texas, Charles Moore, Daniel Waggoner, J. F. Ward, George W. Trenchard, W. D. Mabon, and William Cameron & Co., a firm composed of William Cameron, F. A. McDonald, W. B. Brazelton, C. L. Johnson, and C. M. Bowie, all alleged to be doing business as partners under the firm name of \u201c The Decatur Rolling Mill Company.\u201d\nThe suit resulted in a judgment as follows: (1) In favor of the appellee against the defendants for the sum of $601.32, with interest and costs; (2) in favor of the defendant Charles Moore against the defendants the First National Bank, Daniel Waggoner, and G. W. Trenchard, for \u201c all sums of money that may be collected from them on account of this judgment;\u201d (3) in favor, conditionally, of the defendants William Cameron & Co. and J. F. Ward against the appellant bank, G. W. Trenchard, and Daniel Waggoner for \u201c all sums of money that they may be required to pay on account of this judgment.\u201d\nIt thus appears that there is hostility of interest in the judgment appealed from between the appellant and the defendants Charles Moore, William Cameron & Co., and J. F. Ward.\n\u25a0 In the appeal bond filed by the appellant, the appellee is the sole obligee.\nTo confer jurisdiction upon the appellate court, it is imperative that the appeal bond shall be made payable to all parties in the judgment interested adversely to the appellant; and where this has not been done, it-is the duty of the appellate court, of its own motion, to dismiss the appeal for want of jurisdiction. Greenwade v. Smith, 57 Texas, 195; Young, v. Russell, 60 Texas, 684.\nThe appeal is accordingly dismissed.\nDismissed.\nDelivered November 29, 1892.",
+        "type": "majority",
+        "author": "TARLTON, Chief Justice."
+      },
+      {
+        "text": "ON MOTION FOB BEHEABING.\nTARLTON, Chief Justice.\nIn this case judgment was heretofore rendered by us dismissing the appeal because of a defect in the appeal bond.\nThereupon appellant filed its motion for a rehearing, in connection with which it tendered a new appeal bond curing the defect found to exist in the original. This action is founded upon section 39, page,32, of the General Laws of 1892, permitting the amendment of appeal bonds. As this case had been transferred to this court by our Supreme Court, we deemed it proper to certify to the latter the question for decision, whether,, by the act referred to, we were empowered to grant the relief sought.\nTo this question thus certified the Supreme Court has replied, that in a case thus transferred the power is delegated to this court to allow the filing of an amended bond, as well as in cases appealed originally to this, court; not, however, if \u201cat the time the statute was enacted the right to have the judgment reviewed in any manner had been lost by lapse of time.\u201d In that contingency, \u201cthe Legislature could not revive the right.\u201d National Bank v. National Bank, 85 Texas, 560.\nThe record here shows, that the original judgment involved was rendered on March 3, 1890.\nAs, therefore, at the passage of the act invoked by appellant, the time had elapsed within which it was empowered to seek in any manner a revision of the action of the trial court, we are constrained to deny the relief prayed for and to overrule the motion.\nMotion overruled..\nDelivered June 28, 1893.",
+        "type": "rehearing",
+        "author": "TARLTON, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "Carswell, Fuller & Terrell, for appellant.",
+      "Soward & Martin, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "First National Bank of Decatur v. Preston National Bank.\nNo. 36.\n1. Appeal Bond must be Payable to Whom.\u2014To confer jurisdiction upon the appellate court, the appeal hand must be made payable to all parties in the judgment interested adversely to appellant; and where the judgment below \u25a0is in favor of plaintiff against all the defendants, and also in favor of some of the defendants against another defendant, who appeals, executing an appeal bond payable alone to plaintiff, as appellee, the appellate court will, of its own motion, dismiss the appeal.\nON MOTION FOR REHEARING.\n2. Practice on Appeal \u2014 Amending Appeal Bond. \u2014An appellant lias the right, under section 39, page 32, of the Acts of 1892, to file in the appellate court a new appeal bond, curing defects in the original bond, in cases transferred by the Supreme Court to the Court of Civil Appeals, as well as in eases appealed originally to the latter court; unless, at the time the statute was enacted, the right to have the judgment reviewed in any manner had been lost by lapse of time. Where the original judgment was rendered March 3, 1890, such aright of amendment by giving a new appeal bond does not apply.\nAppeal from Wise. Tried below before Hon. J. W. Patterson.\nCarswell, Fuller & Terrell, for appellant.\nSoward & Martin, for appellee."
+  },
+  "file_name": "0545-01",
+  "first_page_order": 571,
+  "last_page_order": 572
+}

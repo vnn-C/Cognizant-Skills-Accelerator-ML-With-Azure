@@ -1,0 +1,103 @@
+{
+  "id": 219169,
+  "name": "August Garteiser v. Galveston, Harrisburg & San Antonio Railway Company",
+  "name_abbreviation": "Garteiser v. Galveston, Harrisburg & San Antonio Railway Co.",
+  "decision_date": "1893-01-18",
+  "docket_number": "No. 60",
+  "first_page": "230",
+  "last_page": "236",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 230"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "6 So. Rep., 40",
+      "category": "reporters:state_regional",
+      "reporter": "So.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "58 N. Y., 56",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2158484
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/58/0056-01"
+      ]
+    },
+    {
+      "cite": "57 Am. Rep., 447",
+      "category": "reporters:state_regional",
+      "reporter": "Am. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "116 U. S., 366",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3516269
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/116/0366-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 762,
+    "char_count": 17346,
+    "ocr_confidence": 0.554,
+    "pagerank": {
+      "raw": 1.2149751739064978e-07,
+      "percentile": 0.596909704002048
+    },
+    "sha256": "2f15fa54bab6bc9669293c6272c1cb8998b28e8ee57cd397d9b6f58198489658",
+    "simhash": "1:4b8c00b39614e5e9",
+    "word_count": 3059
+  },
+  "last_updated": "2024-02-27T19:43:33.086404+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "August Garteiser v. Galveston, Harrisburg & San Antonio Railway Company."
+    ],
+    "opinions": [
+      {
+        "text": "KEY, Associate Justice.\nThis suit was brought by August Garteiser,. against the Galveston, Harrisburg & San Antonio Railway Company, to-recover damages for personal injuries sustained by him through the alleged negligence of defendant, its agents and employes, on the 25th day of March, 1887, while plaintiff was in the act of crossing a bridge on a hand car on the line of defendant\u2019s railway.\nAmong other matters, the defendant\u2019s answer contained a general denial and a plea of contributory negligence.\nThe specific charges of negligence in the plaintiff\u2019s petition, are:\n1. Failure to ring the bell or blow the whistle upon the part of defendant\u2019s employes when the train which occasioned the accident in question approached and crossed a certain public road near the bridge.\n2. The excessive rate of speed at which the train was running at the time.\nA verdict and judgment were rendered in favor of the defendant, and plaintiff has appealed.\nThe assignments of error are numerous, and complain of nearly every paragraph of the court\u2019s charge, and of its refusal to give certain special instructions asked by plaintiff.\nAt the time in question, the Southern Pacific Railway Company had possession of and was operating appellee\u2019s railway, and one Heinemann had a contract with saifl company to fence the right of way of the railway. Appellant and five other men were employed by Heinemann to assist him, and together they constituted what was called \u201cthe fence gang.\u201d They were furnished by the company with a hand car to transport themselves and tools from place to place on the road, as their work required. This car was furnished to Heinemann under his contract with the company. Appellant had no contract with the company.\nThere is some conflict in the testimony as to the particular instructions Heinemann had received from the representative of the company who employed him, as to the care he should observe in crossing bridges, passing curves, etc.\nOn the morning of March 25, 1887, Heinemann and his fence gang started on the hand car from Seguin to the place of their work, over two miles east of Seguin. To reach their destination they had to pass over the Ger\u00f3nimo bridge, on appellee\u2019s railway. The weather was foggy, and when they got about half across the bridge they saw a freight train approaching and about to cross the bridge from the opposite direction. The threatened collision between the train and the hand car was not known by those operating either in time to avert it. The collision occurred ; the men on the hand car jumped off, and appellant fell through the bridge and was injured. The train was going west and the hand car east. There was a public road crossing the railway not far east of the bridge, and the railway track made a curve near the bridge, on the east side of the stream.\nThere is conflict in the testimony as to the rate of speed at which the train was moving, and as to signals (whistle and bell) at the road crossing, and between there and the bridge. The train was an extra, not running on schedule time.\nAppellant testified, that he was acquainted with the road where the accident curred; knew that the railway ran across the public road east of and near the bridge; that when he and his associates reached the bridge, they stopped and listened for trains and could hear none.\nThe first, second, and third paragraphs of the charge contain only a statement of the issues in the case and an introduction to the succeeding paragraphs. Paragraphs 10 and 11 are abstract propositions, and do not bear on any special fact in this case.\nParagraphs 14 and 15 relate to statutory signals at road crossings, and therein the jury are told that said signals are solely for the benefit and protection of parties on the road crossing, and that a failure to give said signals would not be negligence so far as plaintiff was concerned; and that it would be sufficient if the whistle was blown before reaching the crossing.\nIn the fourth, seventh, eighth, and twelfth paragraphs the jury are told, in substance, that the railway company has the right to make rules to regulate the running of trains and hand cars on its railway; that all persons using hand cars are bound to know, of and to obey these rules. That any notice of such rules given to Heinemann was notice to plaintiff; and that if the company had rules requiring flagmen to be sent out ahead of hand cars in foggy weather, then if the jury believe the weather was foggy at the time of the accident, and no flagman was sent out in advance of the hand car, and that the failure to so flag the train caused the collision, then plaintiff could not recover. That if the rules of the railway company did not require signals by bell or whistle to be given by the train which collided with the hand car, on account of fogs, or on approaching bridges, etc., and that if said rules only required such signals to be given when approaching road crossings, or when in dangerous proximity to obstructions upon it road track, and such obstructions are discovered by some of the employes in charge of the train, then it was not negligence on the part of the employes not to have blown the whistle of said train after passing the first public road crossing east of the bridge. And the fourth paragraph, in effect, told the jury that appellant was chargeable with the contributory negligence of Heinemann, if the latter was guilty of any.\nIn paragraphs 5,6, and 9 the jury are told that a railway company has the right to run extra or special trains on its roads whenever it deems it proper to do so, and that all persons rightfully on the track are chargeable with notice of this fact. That a person rightfully on the track can only expect from the company such care and consideration as it owes to the general public, and has no right to expect anything more, and is bound to use the highest degree of care to protect himself from accidents.\nThe fifth, sixth, and ninth paragraphs of the charge required appellant to exercise a degree of care greater than that imposed upon him by law. He was not a trespasser, nor was he on the railway track by mere courtesy or permission. A fair construction of the testimony shows that Heinemann and his employes, under his contract with the company, had a legal right to the use of the track in the manner they were using it. Of course this right was subordinate to the company\u2019s right to run its trains on the track; and whenever it became necessary for one to yield its use to the other, the right of the company was superior. Under these circumstances, it was not proper to instruct the jury that appellant was required to exercise \u201cthe highest degree of care.\u201d While expressions in text books and decisions may be found stating as a fact that persons on the track of a railway are requirad to use the highest degree of care to protect themselves, still, without qualification, it is not in a case of this character an accurate statement of the law, and should not, under the rules that prevail in this State, be given as a charge to a jury.\nAll that the law required of appellant on the occasion in question, was the exercise of such care for his own safety as ordinarily prudent persons would have exercised under like circumstances; and the court could not legitimately tell the jury that such care was \u201cthe highest degree of care.\u201d Railway v. Dyer, 76 Texas, 156; Railway v. Garcia, 75 Texas, 583; Railway v. Brin, 77 Texas, 174; Artusy v. Railway, 73 Texas, 191.\nAlthough in Brown v. Griffin, 71 Texas, 654, a charge is approved which appears to encroach upon it, the rule obtains in this State, that in the absence of a statute or other express provision of law declaring a particular act or omission unlawful, the court can not properly instruct the jury that such act or omission constitutes negligence. Railway v. Murphy, 46 Texas, 356; Railway v. Chapman, 57 Texas, 82; Railway v. Lee, 70 Texas, 496; Railway v. Hill, 71 Texas, 451; Campbell v. Trimble, 75 Texas, 270; Railway v. Anderson, 76 Texas, 244; Calhoun v. Railway, 84 Texas, 226. The fourth, seventh, eighth, and twelfth paragraphs of the charge contravened this rule.\nAs regards rules and regulations by the company for the government of hand cars on its road, it was not permissible for the court to do more than tell the jury, that if there was proof of such rules or regulations, and it was shown that appellant knew, or by the use of ordinary diligence might have known, of such rules or regulations, then that fact might be considered by the jury in determining whether or not he had been guilty of contributory negligence. Railway v. Lamothe, 76 Texas, 220.\nThat portion of the charge which instructed the jury, that the statutory signals required to be given by railway trains when they approach and cross public roads or streets were for the sole benefit of-persons travelling such roads and streets, and that a failure to give them would not be negligence as to persons travelling on the railroad track, was incorrect. It was held in Railway v. Gray, 65 Texas, 32, that while the primary object of the statute was the protection of persons using the public roads and streets, that as to persons rightfully travelling in hand cars on railway tracks, whether or not a failure to give such signals would constitute negligence must be determined by the jury. Appellant asked a charge embodying the doctrine announced in that case, and the refusal of the court to give it was error.\nThe fifteenth paragraph of the charge was inaccurate in not stating the distance from the crossing that the signals are to be given; and the latter part of it, telling the jury that if the whistle was blown the failure to ring the bell would not be negligence, was violative of the rule already referred to, denying the right of the court to tell the jury that any given .state of facts will or will not constitute negligence.\nThe court also erred in charging that notice of the company\u2019s rules to Heinemann would be notice to appellant. If the former had been the agent of the latter, the charge might have been correct. But the evidence shows the reverse. Heinemann was the master and appellant his servant.\nFor a like reason, the court was wrong in charging that co-operative negligence on the part of Heinemann would be imputed to appellant, and preclude his right of recovery, if otherwise any existed.\nUnder the English rule, as declared in Thorogood v. Bryan, 8 Common Bench, 115, this holding would be correct; but the American doctrine, as settled by the great weight of authority, is, that the negligence of another person, not participated in by the plaintiff, will not be attributed to him unless he has some right of control over such person, or they are, on terms of equality, engaged in a joint enterprise. In some States there are exceptions to this rule, when suits are brought for persons non sui juris, and contributory negligence of parents, guardians, etc., is interposed as a defense.\nIn support of the general rule, the following authorities are referred to: Beach on Con. Neg., beginning on page 103; 4 Am. and Eng. Encyc. of Law, 82, and cases there cited; Little v. Hackett, 116 U. S., 366; Railway v. Kutac, 72 Texas, 643; Markham v. Navigation Co., 73 Texas, 247.\nThe general objection to the charge, that it gave undue prominence to appellee\u2019s side of the case and minimized appellant\u2019s, thereby indicating to the jury that in the opinion of the court appellant was not entitled to recover, is to some extent true. This results, however, from the court\u2019s-misapprehension of the law applicable to the case, and not through any design to improperly influence the jury. Besides, it is to some extent, cured by the special charge asked by appellant and given, which presented the appellant\u2019s theory of the case affirmatively to the jury.\nFor the errors pointed out in the charge of the court, the judgment is reversed and cause remanded.\nReversed and remanded.\nDelivered January 18, 1893.",
+        "type": "majority",
+        "author": "KEY, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "W. W. Boone and C. L. Wurzbach, for appellant.",
+      "Upson & Bergstrom, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "August Garteiser v. Galveston, Harrisburg & San Antonio Railway Company.\nNo. 60.\n1. Degree of Care\u2014Using Hand Car.\u2014A contractor to fence the right of way was authorized to use a hand car in transporting his employes to and from their labor. In going to labor the hand car collided with an occasional train, and in the collision the plaintiff, one of the fence gang, was injured. In a suit for damages by him against the railway company it was not proper to instruct the jury that the plaintiff was required to exercise \u201c the highest degree of care.\u201d The plaintiff was not a trespasser, nor was he on the track by mere courtesy or permission. Ordinary care was all that was imposed upon him under the.circumstances.\n2. Charge \u2014 Negligence. \u2014 The rule obtains in this State, that in the absence of a statute or other express provision of law declaring a particular act or omission unlawful, the court can not properly instruct the jury that such act or omission constitutes negligence.\n3. Rules by Railway Company for Use of Hand Cars.\u2014In an action for damages for personal injuries suffered by plaintiff, who in his employment was rightfully upon a hand car which collided with a train, in which collision plaintiff was injured, the trial court should only instruct the jury that they should consider such rules, etc., if known to plaintiff, upon the issue of contributory negligence.\n4. Signals at Crossings, etc. \u2014 The failure to give such signals may be considered in determining the question of due care on part of the railway company, in behalf of a plaintiff injured in a collision with an approaching train while lawfully upon a hand car belonging to the defendant.\n5. Notice to Master not Notice to Servant.\u2014A contractor to fence the right of way had work hands in liis employ. Held, that notice to the master was not chargeable upon his servants, of the rules and regulations touching the use of hand cars by such employes.\n6. Co-operative Negligence.\u2014The negligence of another person not participated in by the plaintiff will not be attributed to him, unless he has some right of control over such person, or they are on terms of equality, engaged in a joint enterprise.\nAppeal from Bexar. Tried below before Hon. G. H. Noonan.\nW. W. Boone and C. L. Wurzbach, for appellant.\n1. When a person is rightfully on the track of a railway company, and is there not only by the permission, but at the instance and by the invitation of the company, and at a place designated by the company, then the company owes such person a higher duty than it owes to the public generally; and such person is not bound to use the highest degree of care to shield himself from injury, but is only bound to use such reasonable care as a person of ordinary prudence would use under similar circumstances. Railway v. Gray, 65 Texas, 32; Davis v. Railway, 15 Am. and Eng. Ry. Cases, 424, and note; Railway v. White\u2019s Admr., 34 Am, and Eng. Ry. Cases, 25; Taylor v. Canal Co., 57 Am. Rep., 447; Barry v. Railway, 13 Am. and Eng. Ry. Cases, 617; McKune v. Railway, 17 Am. and Eng. Ry. Cases, 589; Railway v. Crosnoe, 72 Texas, 84; 3 Laws. Rights, Rem. and Prac. sec. 1193.\n2. The rules and regulations of a railway company being purely arbitrary, or in other words, a railway company having the arbitrary power to make, unmake, change, or alter its rules and regulations at pleasure, there is no legal presumption that such rules and regulations are known to any one outside of the railway company or its officials; and this is undoubtedly true as to one who has no direct connection or privity with the company, and a charge to the contrary is a charge on the weight of the evidence. Wood\u2019s Mast. and Serv., 776, 777; Fay v. Railway, 11 Am. and Eng. Ry. Cases, 193; Sprong v. Railway, 58 N. Y., 56; Railway v. Perry, 6 So. Rep., 40.\nAs to this being a charge on the weight of the evidence: Railway v. Murphy, 46 Texas, 366; Heldt v. Webster, 60 Texas, 209; Hays v. Railway, 70 Texas, 608; Costley v. Railway, 70 Texas, 114; Railway v. Porfert, 72 Texas, 349.\n3. Negligence is generally a question of fact and not of law; and being a question of fact, it is not proper for the court to charge the jury, as-matter of law, what facts do or do not constitute negligence, as such a charge is a charge on the weight of the evidence; but the jury should be allowed to consider the question of negligence in connection with all the other surrounding facts and circumstances of the case. Railway v. Murphy, 46 Texas, 366; Heldt v. Webster, 60 Texas, 209; Hays v. Railway, 70 Texas, 608; Costley v. Railway, 70 Texas, 114; Railway v. Porfert, 72 Texas, 349.\n4. A charge which repeatedly calls the attention of the jury to defendant\u2019s evidence, thereby giving the same undue prominence, and which fails to give due prominence to plaintiff\u2019s evidence, is improper, and is,, in effect, a charge on the weight of the evidence. Rev. Stats., art. 1317; Ormond v. Hayes, 60 Texas, 181; Heldt v. Webster, 60 Texas, 209; Costley v. Railway, 70 Texas, 114; Hays v. Railway, 70 Texas, 608; Railway v. Murphy, 46 Texas, 366; Austin v. Talk, 26 Texas, 130; Altgelt v. Brister, 57 Texas, 436; Lee v. Yandell, 69 Texas, 37; Railway v. Ormond, 62 Texas, 277; Railway v. Wright, 62 Texas, 518; Andrews v. Marshall, 26 Texas, 215; Railway v. Porfert, 72 Texas, 349.\nUpson & Bergstrom, for appellee."
+  },
+  "file_name": "0230-01",
+  "first_page_order": 256,
+  "last_page_order": 262
+}

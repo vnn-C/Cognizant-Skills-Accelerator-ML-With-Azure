@@ -1,0 +1,108 @@
+{
+  "id": 219133,
+  "name": "R. A. Black v. E. G. Caviness and E. E. Patterson",
+  "name_abbreviation": "Black v. Caviness",
+  "decision_date": "1893-01-10",
+  "docket_number": "No. 67",
+  "first_page": "118",
+  "last_page": "122",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 118"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "26 Ala., 312",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        8493861
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/26/0312-01"
+      ]
+    },
+    {
+      "cite": "2 Johns. Ch., 30",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "12 How., 139",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "case_ids": [
+        3365659
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/53/0139-01"
+      ]
+    },
+    {
+      "cite": "10 Paige Ch., 179",
+      "category": "reporters:state",
+      "reporter": "Paige Ch.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "26 Miss., 574",
+      "category": "reporters:state",
+      "reporter": "Miss.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 588,
+    "char_count": 11024,
+    "ocr_confidence": 0.56,
+    "pagerank": {
+      "raw": 8.987821375973466e-08,
+      "percentile": 0.5027876142585919
+    },
+    "sha256": "a059142cb1c4f64acd83fb9da5b7c2bc4c813b6689e0bbc82a132424471fb46d",
+    "simhash": "1:ac02b48c5f70b12f",
+    "word_count": 1937
+  },
+  "last_updated": "2024-02-27T19:43:33.086404+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "R. A. Black v. E. G. Caviness and E. E. Patterson."
+    ],
+    "opinions": [
+      {
+        "text": "STEPHENS, Associate Justice.\nIn the summer of 1886, plaintiff in error, R. A. Black, and one J. D. Cock, entered into a verbal agreement to purchase together a certain tract of land situated in Lamar County. In pursuance of this agreement the deed was taken in the name of Cock, but the purchase was understood to be for their mutual benefit. The purchase price of the land was $300, of which $50 was borrowed on their joint note, and paid as the money of Black. After the execution of the deed to Cock, he borrowed, with the consent of Black, from E. G. Caviness, in the month of September, 1886, $300, secured by a deed of trust on the land, out of which money so borrowed the $50 note was paid off, together with the rest of the purchase money.\nIn December following, the land was conveyed by Cock, without the knowledge or consent of Black, to Caviness, in satisfaction of this $300 loan, then not due.\nPrior to this, said Cock and Black agreed to sell to E. E. Patterson the tract of land in consideration of his paying the $300 note on the 1st day of January, 1887 (the date of its maturity), and executing his own note for $300 additional, payable one year from that date; out of which transactions Cock seems to have made a profit to the amount of 37-\u00a1- bushels of corn, exacted by him of Patterson as an additional consideration for the sale. Patterson failed to raise the money prior to the conveyance of the land to Caviness, and the latter afterward sold and conveyed the same to the former for the same price and on the same terms as he agreed to do when Cock conveyed to him.\nThe evidence is conflicting as to whether at the date of the conveyanceirom Cock to Caviness the latter had notice of the interest or claim of Black. The court, in the third finding of fact, found that Caviness had no such notice of any interest or claim of Black, and there is evidence to sustain this conclusion.\nAfter the $300 note executed by Patterson matured, suit was brought thereon by Caviness to foreclose the vendor\u2019s lien on the land. R. A. Black intervened in this suit, claiming that he had been defrauded, and that he was entitled to half the amount to be collected on said note as against' Caviness, the plainiiff in said suit, and that the same should be paid him on foreclosure of the vendor\u2019s lien, praying in addition for general relief; and failing to recover, he prosecutes this writ of error. The court\u2019s conclusions of fact are all sustained by the statement of facts.\nBetween plaintiff and defendant an agreed judgment was entered, by which plaintiff\u2019s suit was dismissed.\nOur construction of the transactions disclosed in the foregoing conclusions of fact leads to the following conclusions of law:\n1. The conveyance to J. D. Cock made him a trustee for R. A. Black, to the extent of a half-interest in the land in controversy, subject to the encumbrance created by the deed of trust.\n2. Inasmuch as Caviness paid no new consideration, but accepted am absolute conveyance from Cock in satisfaction of his pre-existing debt, he was substituted to Cock\u2019s position as trustee for Black, though he accepted said deed without notice of the interest of Black.\n3. By the sale and conveyance to Patterson by Caviness, the former succeeded to the position of trustee to the extent of a half-interest in the-land for the benefit of Black, subject to the satisfaction by the latter of his proportionate part of the encumbrance removed from the title by the-payment of the amount originally secured by the deed of trust.\nThese conclusions are supported by the following propositions and authorities:\n1. Under the facts found, Cock and his assigns became trustees by construction of law to the extent of Black\u2019s interest in the land; or at least between Cock and Black an express trust was created (which may be shown by paroi in this State). Clark v. Haney, 62 Texas, 511; Hudson v. Wilkinson, 45 Texas, 444; Bailey v. Harris, 19 Texas, 109.\n\u20222. A purchaser from a trustee without notice of the trust, where the sole consideration is the payment of a pre-existing debt, takes the property subject to the trust. Everett v. Railway, 67 Texas, 430; 1 Perry on Trusts, secs. 217, 241; McKamey v. Thorp, 61 Texas, 652; Overstreet v. Manning, 67 Texas, 660.\nIn McKamey v. Thorp, above cited, it was decided, in accordance with the great weight of American authority, that a creditor who buys from his debtor, and pays the consideration money by merely crediting the amount upon a pre-existing debt, is not a bona fide purchaser for value. Chief Justice Willie, however, in commenting on the statement in Wallace v. Campbell 54 Texas, 90, that such a purchase might be bona fide when a previous judgment or execution lien had been secured upon the property sold, uses this language: \u201cIt may also be remarked, that in such case a purchaser surrenders an existing security, viz., the previous lien of his judgment or execution, and this is held equivalent to the payment of a valuable consideration,\u201d Citing Love v. Taylor, 26 Miss., 574, and Padgett v. Lawrence, 10 Paige Ch., 179.\nAs this remark of the learned chief justice, though in substance repeated in a subsequent part of the opinion, was merely by way of illustration or comment, and not essential to the determination of the question involved in that case, it is not believed to be binding on us as authority, especially after examining the cases cited in its support. The first case cited is from Mississippi, where the general American rule followed in this State, as decided in McKamey v. Thorp, and reaffirmed in Overstreet v. Manning, does not prevail, it having been expressly decided by the Supreme Court of that State, in the subsequent case of Soule v. Shotwell, 52 Mississippi, 236, that the payment and extinguishment of an antecedent debt, in consideration of a simultaneous transfer of property, constituted the vendee a purchaser for value to the same extent as-if he had paid the money; citing the above case of Love v. Taylor, 26 Mississippi, 574.\nIn McKamey v. Thorp, commercial paper taken in due course of trade is recognized as an exception to the general American rule, as is well settled by a long line of decisions in and out of this State, following Swift v. Tyson, 16 Peters, 1-24; and yet the decision in Love v. Taylor was rested upon the ground that no reason was perceived why the rule in regard to negotiable securities was not applicable to the purchase of lands.\nIn the other case cited, the property purchased seems to have been taken in payment and satisfaction of a debt secured by a judgment lien on other property. If the satisfaction of a mortgage on the identical property conveyed to the purchaser, as in this case, should be deemed a new consideration, it would seem that for the same reason the satisfaction of an unsecured debt should have like effect. On this point see West v. Naylor, 93 Indiana, 431, though on the main question the courts of Indiana seem to follow the rule adopted in Mississippi.\nWe can not perceive how an absolute deed to Caviness could place him in a worse position than when he held only a mortgage on the property. If the transaction was not to his disadvantage in its results, we think he should not be permitted to avail himself of the equity of an innocent purchaser to deprive Black of a profit which he otherwise might have made.\nWe are therefore of opinion that if plaintiff in error was willing to accept in satisfaction of his interest in the land one-half the amount of the profit derived by Caviness from the sale to Patterson, as represented in the $300 note of the latter, that defendant in error should not be heard to deny him that relief. Wiseman v. Baylor, 69 Texas, 63.\nWe think plaintiff in error should be permitted to choose between this relief and the assertion of his interest in the land.\nIt follows that the judgment must be reversed, and we think the cause' should be remanded for a new trial, and it is so ordered.\nReversed and remanded.\nDelivered January 10, 1893.",
+        "type": "majority",
+        "author": "STEPHENS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "W. P. Good, for plaintiff in error."
+    ],
+    "corrections": "",
+    "head_matter": "R. A. Black v. E. G. Caviness and E. E. Patterson.\nNo. 67.\n1. Express Trust\u2014Parol Evidence.\u2014Where one, under an agreement, purchases lands with joint funds, but takes the title in his own name alone, an ex- \u25a0 press trust is created, which in this State may be shown by paroi evidence.\n2. Constructive Trust.\u2014Where such trustee conveys the title to another person who is without notice of the trust, such other person will nevertheless be constructively charged with the trust and take subject thereto, unless he is a purchaser for \u201cvaluable consideration\u201d within the meaning of the law in this connection.\n3. Pre-existing Debt as Valuable Consideration.\u2014A purchaser from a trustee, without notice of the trust, where the sole consideration is the payment of a pre-existing debt, takes the property subject to the trust. Following Everett v. Railway, 67 Texas, 430; MeKamey v. Thorp, 61 Texas, 652; Overstreet v. Manning, 67 Texas, 660.\n4. Same \u2014 Discharge of Lien \u2014 Case Reviewed.\u2014The intimation in MeKamey v. Thorp, 61 Texas, 652, commenting on Wallace v. Campbell, 54 Texas, 90, to the effect that the discharge of a prior lien may, in such cases, constitute valuable consideration, is reviewed; and it is held, that where a prior mortgage lien is, by the mortgagee\u2019s own purchase of the property, merged into a deed absolute to himself, the transaction is not to his disadvantage, and he can not be permitted to avail himself of the equity of an innocent purchaser to defeat a prior trust on such property.\n5. C\u00e9stui que Trust\u2014Election of Remedies. \u2014 The beneficiary in a trust, instead of suing for his part interest in the trust property, may sue a pur\u25a0chaser of the property for purchase money yet due by him thereon.\nError from Lamar. Tried below before Hon. E. D, McClelland.\nW. P. Good, for plaintiff in error.\n1. As Black elected to affirm the acts of Caviness in the premises, this constituted Caviness trustee for him. Story\u2019s Eq. Jur., secs. 1211, 1211a, 1258-1265.\n2. To justify the judgment, the court should have further found that Caviness paid a valuable consideration. Belt v. Raguet, 27 Texas, 471; Rev. Stats., art. 2465; Hill on Trustees, *163; Story\u2019s Eq., sec. 1502; Bump, on Fraud. Con., 268; Bassett v. Norsworthy, 2 Lead. Cases in Eq., 77; Huguenin v. Basely, Id., 1262.\n3. Caviness, under the circumstances of this case, must still be considered, as far as Black\u2019s rights are concerned, as if he held the position of mortgagee whose claim has been satisfied. Whart. Eq. Jur., 1193; 1 Lead. Cases in Eq., 216; Russell v. Southard, 12 How., 139-154; Halridge v. Gillespie, 2 Johns. Ch., 30; Locke v. Palmer, 26 Ala., 312; Thornburg v. Baker, 2 Lead. Cases in Eq., 444.\n4. The court erred in not finding that Caviness was trustee for Black, and that all his acts must be considered as done with a view to the interest of Black. Story\u2019s Eq., sec. 1201c; Neill v. Keese, 5 Texas, 29; Dyer v. Dyer, 1 Lead. Cases in Eq., 314.\nNo brief for defendant in error has reached the Reporter."
+  },
+  "file_name": "0118-01",
+  "first_page_order": 144,
+  "last_page_order": 148
+}

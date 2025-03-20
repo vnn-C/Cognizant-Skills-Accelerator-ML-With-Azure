@@ -1,0 +1,66 @@
+{
+  "id": 221202,
+  "name": "The Birmingham Iron and Land Company v. John A. Boyd",
+  "name_abbreviation": "Birmingham Iron & Land Co. v. Boyd",
+  "decision_date": "1893-04-06",
+  "docket_number": "No. 206",
+  "first_page": "102",
+  "last_page": "102",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 102"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 135,
+    "char_count": 1841,
+    "ocr_confidence": 0.528,
+    "pagerank": {
+      "raw": 5.676830387708631e-08,
+      "percentile": 0.35402025369046614
+    },
+    "sha256": "af9657a2de1200dbdc014fdbc80e43a1786f3e00327be2200f757fb9ea8865c7",
+    "simhash": "1:f196d7b2cf3b9853",
+    "word_count": 315
+  },
+  "last_updated": "2023-07-14T18:08:23.206239+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The Birmingham Iron and Land Company v. John A. Boyd."
+    ],
+    "opinions": [
+      {
+        "text": "PLEASANTS, Associate Justice.\nIn this case the appellant has not observed the rules of court in the preparation of his brief. The brief contains five assignments of error, but there is not a single statement following any one of the propositions submitted under the several assignments. This court must insist upon a compliance with the rules of court .by parties and their counsel, in the preparation of appeals for submission.\nRule 45 provides, that \u201cWhen one party has fully complied with the rules, and has filed a satisfactory brief that will enable the court to decide -the case, and the other party is in default, and has not filed a satisfactory brief in accordance with the rules, the court may, in its discretion, disregard the latter party\u2019s brief, as if not filed in the case, and act upon that alone which has been properly filed in accordance with the rules.\u201d\nIn the exercise of the discretion given them under this rule, the court has disregarded the appellant\u2019s brief, and considered the case as it is presented in the brief of the appellee, and a majority of the court are of the opinion that the judgment of the court below should be affirmed, and it is so ordered.\nAffirmed.\nDelivered April 6, 1893.",
+        "type": "majority",
+        "author": "PLEASANTS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Gregg & Morris, for appellant.",
+      "McClure & Gibson, J. I. Perkins and Sam P. Willson, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "The Birmingham Iron and Land Company v. John A. Boyd.\nNo. 206.\nBrief must Conform to Rules.\u2014The brief contains -five assignments of error, but no statement following any one of the propositions submitted. The court, under the discretion given them under Rule 45, disregards appellant\u2019s brief, considers The case as presented by the brief of appellee, and a majority of the court being of opinion that the judgment should be affirmed, it is so ordered.\nAppeal from Cherokee. Tried below before Hon, F, B. Guinn, County Judge.\nGregg & Morris, for appellant.\nMcClure & Gibson, J. I. Perkins and Sam P. Willson, for appellee."
+  },
+  "file_name": "0102-01",
+  "first_page_order": 128,
+  "last_page_order": 128
+}

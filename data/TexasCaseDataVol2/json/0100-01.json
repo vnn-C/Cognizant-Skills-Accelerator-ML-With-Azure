@@ -1,0 +1,163 @@
+{
+  "id": 219217,
+  "name": "The Western Union Telegraph Company v. J. M. Haman & Co.",
+  "name_abbreviation": "Western Union Telegraph Co. v. J. M. Haman & Co.",
+  "decision_date": "1893-01-03",
+  "docket_number": "No. 954",
+  "first_page": "100",
+  "last_page": "103",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 100"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "16 N. Y., 489",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1297822
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/16/0481-01"
+      ]
+    },
+    {
+      "cite": "54 Am. Rep., 644",
+      "category": "reporters:state_regional",
+      "reporter": "Am. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "18 Am. Rep., 8",
+      "category": "reporters:state_regional",
+      "reporter": "Am. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "61 Am. Rep., 436",
+      "category": "reporters:state_regional",
+      "reporter": "Am. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "17 Am. Rep., 460",
+      "category": "reporters:state_regional",
+      "reporter": "Am. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Am. Rep., 623",
+      "category": "reporters:state_regional",
+      "reporter": "Am. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "31 Fed. Rep., 134",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3761613
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f/31/0134-01"
+      ]
+    },
+    {
+      "cite": "132 U. S., 125",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5699719
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/132/0125-01"
+      ]
+    },
+    {
+      "cite": "124 U. S., 444",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3525023
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/124/0444-01"
+      ]
+    },
+    {
+      "cite": "17 Am. Rep., 425",
+      "category": "reporters:state_regional",
+      "reporter": "Am. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "24 Am. Law Reg., 336",
+      "category": "reporters:state",
+      "reporter": "Am. Law Reg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "23 Am. Law Reg., 287",
+      "category": "reporters:state",
+      "reporter": "Am. Law Reg.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 490,
+    "char_count": 8962,
+    "ocr_confidence": 0.579,
+    "pagerank": {
+      "raw": 6.815217895340059e-08,
+      "percentile": 0.4163074758412556
+    },
+    "sha256": "f3d22592bc39106d759587e05b78899f251b272f15a7b000817dd3181fdbc880",
+    "simhash": "1:423f08e30de0bb73",
+    "word_count": 1543
+  },
+  "last_updated": "2024-02-27T19:43:33.086404+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The Western Union Telegraph Company v. J. M. Haman & Co."
+    ],
+    "opinions": [
+      {
+        "text": "TARLTON, Chief Justice.\nThis appeal is prosecuted by the appellant from a judgment rendered by the County Court of Parker County in favor of appellees in the sum of 8561.12. The judgment was for damages found by the court to have resulted from a failure to deliver a telegraphic message delivered to the agent of the company at Albany, Texas, to be transmitted to Weatherford, Texas.\nWe find from the record the following conclusions of fact:\n1. On and before June 21, 1889, the appellees constituted a firm composed of J. M. Haman, J. E. Dunbaugh, and R. W. Ellis, engaged at Weatherford, Texas, in the business of buying and selling wool.\n2. On Friday, June 21, 1889, J. E. Dunbaugh was at Albany, in Shackelford County, for the purpose of purchasing wool for his firm. Finding a quantity of wool for sale, he telegraphed his house through defendant as follows:\n\u201cJune 21, 1889.\n\u201cJ. M. Haman & Co., Weatherford, Texas:\n\u201c Can buy some light bright medium at nineteen. Best can do. If can not buy will come home. Answer quick.\n\u201cJ. E. Dunbaugh.\u201d\nTo this telegram he received the following reply:\n\u201c Weatherford, Texas, June 21, 1889.\n\u201cJ\". E. Dunbaugh, Albany, Texas:\n\u201c If not over 10,000 pounds and twelve months, buy it and come home.\n\u201cJ. M. Haman & Co.\u201d\n3. Thereupon Dunbaugh purchased of one E. A. Rose 14,444 pounds of wool, for 13,444 pounds of which he paid 18-J- cents per pound. The remainder was of inferior quality. After this purchase he delivered to the defendant\u2019s agent at Albany for transmission the following dispatch:\n\u201cAlbany, Texas, June 21, 1889.\n\u201cJ\". M. Haman & Go., Weatherford, Texas:\n\u201c Bought seventy-six sacks, fourteen thousand, one thousand off One-third, eighteen and a half. All light wools. Twelve months. Be home Sunday,\n\u201cJ. E. Dunbaugh.\u201d\n4. Dunbaugh delivered this message to the agent about 7 o\u2019clock p. m. June 21, 1889, paying the price of the message, 55 cents. He told the agent that it would be in time if sent next morning. He also informed him that the message was important; that he expected his house had probably sold the wool, meaning that his house had probably contracted the sale of it. To be certain that no mistake should be made, Dunbaugh, having written the message, had the agent to transcribe it and himself signed the copy.\n5. The defendant did not transmit the message, nor did it on the trial offer to show any excuse whatever for failing to send it. The members of the firm at Weatherford were not informed of the purchase until the arrival of Dunbaugh on June 25.\n6. Thirteen thousand four hundred and forty-four pounds of this wool were, on June 21 and June 22, 1889, worth in the market 21 cents per pound. On June 25, 1889, when the firm at Weatherford were first informed of the purchase of the wool, the price had declined. Immediately on receiving the information that the dispatch had not been received, plaintiffs wrote and wired with great diligence to secure a purchaser for the wool. They could not find a purchaser willing to pay more than 14 cents per pound. The wool at the trial remained unsold.\n7. Had the dispatch been received on June 22, the plaintiffs could and would have sold the wool at 21 cents per pound.\nThe facts embodied in the foregoing conclusions would have justified the court, on the application to them of a proper rule for the measure of damages, in awarding to the plaintiffs a greater sum than that included in the judgment. The circumstances surrounding the delivery of the telegram were sufficient to apprise the company, through its agent, of the importance of the message and of the consequences of a failure to deliver it. The loss sustained by the plaintiffs, exceeding under the facts the amount of the judgment, must be held to have been within the contemplation of the parties at the time of the delivery of the message for transmission. The appellant can not complain that the loss of a sale contemplated by the plaintiffs, resulting as it did from the failure to transmit the message, should be measured by the difference \u201c between the market value of the wool at the time the message should have been delivered and at a reasonable time after the omission to transmit had been discovered.\u201d 2 Sedg. on Dam., sec. 683.\nIt follows that the court committed no material error in overruling the special exception to plaintiffs\u2019 petition, which exception was to the effect, that the damages sought to be recovered were too \u201cremote, uncertain, and contingent.\u201d The facts stated in our conclusions were amply covered by the averments of the plaintiffs\u2019 petition.\nThe court did not err in sustaining the motion to suppress the interrogatories propounded to the plaintiffs and the answers thereto. These answers were taken by the officer without the issuance of a commission authorizing them. Eev. Stats., art. 2239-2241.\nNor did the court err in overruling the application, on the ground of newly discovered evidence, praying for a new trial. The plaintiffs, or one of them, had testified that had the message in question been duly delivered, Haman & Co. would have sold the wool to one Loupheimer. The purported newly discovered evidence consisted in a statement by Loupheimer, which defendant expected to procure, contradicting this testimony of plaintiffs. No affidavit by Loupheimer, however, that he would make a statement of such a character was attached to the application. As & substitute for such affidavit, the defendant attached to the application a telegram from one of its employes, that he had interviewed Loupheimer, and that the latter had communicated to him certain facts stated in the telegram and indicating that the testimony of the plaintiffs was untrue. This was manifestly insufficient.\nThe judgment is therefore affirmed.\nAffirmed.\nDelivered January 3, 1893.",
+        "type": "majority",
+        "author": "TARLTON, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "B. G. Bidwell, for appellant.",
+      "George A. McCall, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "The Western Union Telegraph Company v. J. M. Haman & Co.\nNo. 954.\n1. Telegraph Company\u2014Notice of Importance of Message.\u2014See the opinion for facts and circumstances held sufficient to charge a telegraph company with notice of the importance of a message delivered for transmission, and of the probable consequences of a failure to deliver it.\n2. Damages for Negligence in Delivery of Message.\u2014Through the failure of a telegraph company to deliver a message, plaintiffs missed an early sale of a lot of wool, with consequent loss. Held, that the damages thus sustained were within the contemplation of the parties at the time of the contract to deliver the message, and that defendant can not complain of a verdict for a less amount than the actual loss suffered by plaintiffs.\n3. Evidence\u2014Deposition Suppressed, When.\u2014Where interrogatories were propounded to a party to the suit and his answers thereto taken without the issuance of a commission, such deposition was, on motion, properly suppressed.\n4. New Trial \u2014 Newly Discovered Evidence. \u2014 An application for a new trial on the ground of newly discovered evidence of a witness, is properly overruled where it is not accompanied by the affidavit of the witness to the effect that he will testify to the facts stated in the application.\nAppeal from County Court of Parker. Tried below before Hon. I. N. Roach.\nB. G. Bidwell, for appellant.\n1. The damages sought to be recovered are too remote, uncertain, and contingent. They are not the natural results of the negligence complained of, nor such as were within the contemplation of the parties at the time the message was delivered to appellant. Daniel v. Tel. Co., 61 Texas, 452; Tel. Co. Sheffield, 71 Texas, 570; Tel. Co. v. Brown, 71 Texas, 723; Tel. Co. v. Kirkpatrick, 76 Texas, 217; Tel. Co. v. Smith, 76 Texas, 253; 2 Willson\u2019s C. C., secs. 113, 644.\n2. The facts show that there was no notice given the telegraph company of any pecuniary value of the message. It was therefore not proper for the court to render judgment against the company, because the damages shown are not the natural and proximate result of negligence complained of. 23 Am. Law Reg., 287; 24 Am. Law Reg., 336; 17 Am. Rep., 425; Gray on Tel., arts. 82-87; 124 U. S., 444; 132 U. S., 125; 31 Fed. Rep., 134; Sedg. on Dam., 108, 112.\nGeorge A. McCall, for appellees.\n1. The damages sought to be recovered are the natural results of the admitted negligence of the defendants, or are such as might reasonably be supposed to have been in contemplation of the parties at the time they made the contract as to the probable results of a breach of it. 3 Willson\u2019s C. C., sec. 645; Rittenhouse v. Tel. Co., 4 Am. Rep., 623; Caudle v. Tel. Co., 17 Am. Rep., 460; Daugherty v. Tel. Co., 61 Am. Rep., 436; Broesch v. Broesch, 72 Texas, 659; Loper v. Tel. Co., 70 Texas, 692.\n2. The nature of the dispatches show that the wool was bought to sell, and that it was important that the firm be promptly advised, and that the message had a pecuniary value. Plaintiffs sue to recover an actual loss, not profits. Manville v. Tel. Co., 18 Am. Rep., 8; Thompson v. Tel. Co., 54 Am. Rep., 644; Griffin v. Calvin, 16 N. Y., 489."
+  },
+  "file_name": "0100-01",
+  "first_page_order": 126,
+  "last_page_order": 129
+}

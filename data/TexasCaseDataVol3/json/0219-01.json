@@ -1,0 +1,79 @@
+{
+  "id": 221000,
+  "name": "J. W. Stokes et al. v. R. H. Burney et al.",
+  "name_abbreviation": "Stokes v. Burney",
+  "decision_date": "1893-04-26",
+  "docket_number": "No. 121",
+  "first_page": "219",
+  "last_page": "222",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 219"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "50 Ind., 339",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1415710
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/50/0339-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 507,
+    "char_count": 9631,
+    "ocr_confidence": 0.534,
+    "pagerank": {
+      "raw": 1.1146904769136531e-07,
+      "percentile": 0.5716767657110511
+    },
+    "sha256": "3810533b0fa0b57ce76d759c075105eb82b31e5fe535d78db27c454b225f1b1f",
+    "simhash": "1:2507a785ecf92a5a",
+    "word_count": 1660
+  },
+  "last_updated": "2024-02-27T16:31:46.217873+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "J. W. Stokes et al. v. R. H. Burney et al."
+    ],
+    "opinions": [
+      {
+        "text": "KEY, Associate Justice.\nThis suit was begun by appellees, Burney and wife, landlords, by distress warrant issued out of the Justice Court, against their tenants, appellants P. Stokes, J. W. Stokes, E. M. Stokes, and J. Hutto, on November 2, 1887, which was levied on a small part of the produce of the rented premises; and on November 22, 1887, appellants filed their petition in the County Court of Falls County, and in addition to above tenants made M. N. Rosenthal, Henry Weibush, G. W. Gartman, and Sam Oakes defendants; and sue said tenants for rents-for 1887, the sum of 8356.80, and use of a pair of mules for same year $40, making 8396.80 sued for; asking foreclosure of landlord\u2019s lien on the crops raised on the rented premises for 1887; and sue the other defendants, alleging that they had purchased parts of the crops of corn and cotton, and converted same to their own use, to plaintiffs\u2019 loss and damage. The case was tried August 27, 1889, and resulted in a verdict for plaintiffs against said tenants for $386.05, against defendantRosenthal for $186.20, and against defendant Henry Weibush for $67.50, and foreclosing landlord\u2019s lien on crops raised on rented premises; and on which verdict judgment was rendered, and from which defendants have appealed.\n1. It is alleged in appellees\u2019 petition, that after the death of H. S. Stokes, with whom the written lease contract was made, appellants P-Stokes, J. W. Stokes, E. M. Stokes, and J. Hutto by certain acts adopted said contract as their own, and thereby became bound to appellees as tenants in the same manner that H. S. Stokes was bound. And substantially the same averments are made in reference to the contract for and use of the mules.\nWe think the petition alleges an implied contract on the part of these appellants, and does not disclose an attempt to collect the rent from the estate of H. S. Stokes. Of course it is a question of fact, to be determined from all the testimony relevant thereto, whether or not the appellants referred to intended to become substitute tenants for H. S. Stokes. There was no error, therefore, in overruling the exception which challenged the sufficiency of the petition and the jurisdiction of the County Court because the proceeding was not on the probate docket.\n2. The court did not err in holding that the landlord\u2019s lien was superior to the claim of Mrs. Stokes and her minor children to an allowance in lieu of property exempt from forced sale, as authorized by our probate law.\nIt is expressly provided by statute (Revised Statutes, article 2342), that exemptions of personal property shall not override claims for rent; and it necessarily follows that an allowance in lieu of such exempted property is controlled by the same statute.\n3. The assignment which complains of the court\u2019s ruling in allowing appellees to testify that appellants Hutto and the Stokes had expressly agreed to pay the rent and carry out the contract of H. S. Stokes, must be sustained.\nIf appellees\u2019 petition had merely alleged that these appellants had agreed to perform H. S. Stokes\u2019 part of the contract, testimony tending to prove either an express or implied contract would have been admissible. But it charges that by reason of certain acts and conduct they adopted the contract and became bound by its terms. These averments show an implied contract. Under such pleading, proof of an express contract was a variance, and not admissible.\n4. Even if the witness Samuels and appellant Rosenthal were partners, still, if Samuels purchased cotton raised on the premises in question, and such purchase was not made for the firm, but for himself alone, and Rosenthal had nothing to do with its conversion and received none of its proceeds, then he would not be liable to appellees therefor; and the court erred in not giving a charge covering this phase of the case, which was asked by Rosenthal.\n5. There was testimony tending to show that Hutto and E. W. Stokes, during the lifetime of H. S. Stokes, had rented portions of the premises from said II. S. Stokes, and a charge was asked, and refused, to the effect, that if the jury should find that Hutto and E. W, Stokes were subtenants under II. S. Stokes, and had not contracted to become tenants of appellees, and appellants Rosenthal and Weibush obtained any portion of the crop of either subtenant, they could not be held responsible therefor.\nThere are decisions in this State holding, that a subtenant, in the absence of a contract between him and the landlord, is not responsible to the landlord, and the crop raised by him can not be distrained for rent. Lea v. Hogue, 1 W. & W. C. C., sec. 607; King v. Old, 2 Willson\u2019s C. C., sec. 79; Harvey v. McGrew, 44 Texas, 412; Gibson v. Mullican, 58 Texas, 432; Giddings v. Felker, 70 Texas, 176.\nOf the three decisions by the Supreme Court, all, except the last one, are founded upon transactions prior to the amendment to our landlord and tenant statute of March 14,1876, which prohibits a tenant subleasing the rented premises without the consent of the landlord. Sayles\u2019 Civ. Stats., art. 3122.\nIn the opinion in the case in 58 Texas, attention is called to the fact, that the rights of the parties in that case accrued prior to the passage of the amendment we have alluded to, restricting the right of the tenant to sublet the rented premises.\nIn the case in 70 Texas, it would seem that this amendment was entirely overlooked, as it is not referred to in the opinion.\nPrior to the enactment of this statute, a tenant could, unless otherwise stipulated in the contract with his landlord, subrent the premises; and as the sublease contract created no privity between the landlord and subtenant, there may have been some reason for holding that the crop-raised by the subtenant was not liable to the landlord for rent. But when the Legislature, for the protection of the landlord, and apparently to avoid the effect of such a holding, enacted a law denying to the tenant the power or right to sublet without the consent of the landlord, we think, in the absence of consent to subleasing, it must be held, that all produce raised on the rented premises, whether by the tenant or a so-called subtenant, is subject to the statutory lien for rent and advances. To hold otherwise, would render nugatory the statute referred to.\nThe other matters presented in appellant\u2019s brief are mainly questions of fact; and as they may be eliminated or changed upon another trial, we deem it unnecessary to consider them now.\nFor the errors indicated, the judgment is reversed and the cause remanded.\nReversed and remanded.\nDelivered April 26, 1893.",
+        "type": "majority",
+        "author": "KEY, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Alexander, Winter & Campbell, for appellants P. Stokes, Rosenthal, and Hutto.",
+      "Rice & Scott, for appellant Weibush."
+    ],
+    "corrections": "",
+    "head_matter": "J. W. Stokes et al. v. R. H. Burney et al.\nNo. 121.\n1. Implied Lease Contract\u2014Landlord and Tenant.\u2014A distress warrant was procured and made returnable to the County Court, where the land owners filed their petition, alleging a written contract made by them with one H. S. Stokes, his death, and certain acts by the defendants by which they had adopted said lease contracts, the occupation, etc.,by defendants, and default in payment of rent. Held, the petition was good against demurrer on ground that the Probate Court had jurisdiction in the administration of H. S. Stokes, deceased.\n2. Landlord\u2019s Lien Prior to Claim of Widow and Children of Tenant for Allowance. \u2014 It is expressly provided (Revised Statutes, article 2347), that exemptions of personal property shall not override claims for rent; it follows, that an allowance in lieu of such exempted property is controlled by the same statute.\n3. Variance\u2014Pleading.\u2014Under a petition alleging an implied lease contract, evidence of an express contract is irrelevant, and should have been excluded.\n4. Liability of Members of Firm.\u2014Suit against partners for value of cotton bought by one of the firm, the cotton being liable for rent. Held, that if the purchase was not made in the firm business, and that one of the firm had not authorized the purchase nor received any of the proceeds, he would not be liable.\n5. Subtenancy \u2014 Landlord\u2019s Lien Holds Against Subtenants.\u2014 Since the enactment (Sayles\u2019 Civil Statutes, article -3122) prohibiting a tenant from subleasing the rented premises without the consent of the landlord, all produce raised on the rented premises, whether raised by tenant or a subtenant, is subject to the statutory lien for rent and advances.\nAppeal from County Court of Falls. Tried below before Hon. E. C. Stuart.\nAlexander, Winter & Campbell, for appellants P. Stokes, Rosenthal, and Hutto.\n1. If plaintiffs have any cause of action it must be asserted in the Probate Court, and the County Court had no jurisdiction of said suit, the petition showing the debt to be that of her husband, and also showing him to be dead. Perkins v. Traynham, 3 Willson\u2019s C. C., sec. 78.\n2. The proceeds of the farm should have been appropriated in lieu of exemptions, the deceased, H. S. Stokes, having left no other property. Green v. Raymond, 58 Texas, 80.\n3. A pleader can not rely on an implied contract in his pleading and prove an express contract without pleading same. Railway v. Hamm, 2 Willson\u2019s C. C., sec. 495; Boone Code Plead., sec. 219; Railway v. Worland, 50 Ind., 339.\n4. There is no evidence that Rosenthal ever had any connection with the crops raised on the rented premises.\nRice & Scott, for appellant Weibush.\nA purchaser of produce from a subtenant does not become liable to the landlord for rent due said landlord by his tenant. Lea v. Hogue, 1 W. & W. C. C., sec. 607; Washb. on Real Prop., 336; Harvey v. McGrew, 44 Texas, 412; Tayl. on Landl. and Ten., sec. 16; Knight v. Old & Ragland, 2 Willson\u2019s C. C., sec. 79."
+  },
+  "file_name": "0219-01",
+  "first_page_order": 245,
+  "last_page_order": 248
+}

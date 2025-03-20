@@ -1,0 +1,73 @@
+{
+  "id": 227406,
+  "name": "Wilbarger County v. T. Windsor Robinson et al.",
+  "name_abbreviation": "Wilbarger County v. Robinson",
+  "decision_date": "1893-11-01",
+  "docket_number": "No. 247",
+  "first_page": "10",
+  "last_page": "12",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Tex. Civ. App. 10"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "4 S. W. Rep., 215",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 359,
+    "char_count": 5427,
+    "ocr_confidence": 0.534,
+    "pagerank": {
+      "raw": 1.388194195985048e-07,
+      "percentile": 0.6419937996385118
+    },
+    "sha256": "aa9529f815ade6629b4d7e90366fd8ef47c661840fc185996321780777e5cec0",
+    "simhash": "1:c80b00350e99b743",
+    "word_count": 980
+  },
+  "last_updated": "2024-02-27T16:31:09.266747+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Wilbarger County v. T. Windsor Robinson et al."
+    ],
+    "opinions": [
+      {
+        "text": "HEAD, Associate Justice.\nT. Windsor Bobinson and others, being the owners of the south half of section 18 and the north half of section 64 of block 12 of the Houston & Texas Central Bailway Company surveys in Wilbarger County, undertook to divide it into lots, blocks, and streets suitable for a town thereon, but made a mistake as to the location of their east line, and surveyed a portion of their town on the land of their neighbors on the east, and left an equal amount of their own undivided on the west. This was a strip 366 varas wide. After this, and before the mistake was discovered, Bobinson and his associates executed to J. Doan, as county judge of Wilbarger County, their bond for title, by which they agreed to convey to him and his successors in office, for the use of said county, 130 of the lots, being two front and two rear lots in each of the even numbered blocks of said town laid off as aforesaid, so soon as patent should be obtained from the State therefor.\nThereafter, the patent to the land having been obtained, but the mistake in the location of the line not yet discovered, Bobinson and his associates, in compliance with their said bond, executed their deed, the material part of which is as follows: \u201c Have granted, bargained, sold, and conveyed, donated and transferred and set apart, and by these presents do bargain, sell, convey, donate, transfer, set apart unto J. Doan, county judge of Wilbarger County, Texas, and his successors in office, for the use and benefit of said county, all of our right, title, and interest in and to block 4 for court house; block 51 for a jail; also, in and to the following described lots and parcels of land being situated in the town of Vernon, in said county, as follows, to-wit, two front and two rear lots in every even numbered block, as is shown by the town plat of said town now on record in the county clerk\u2019s office of said county, to which reference is hereby made for a more particular description as follows.\u201d Then follows a description of the lots convejmd, by numbers, making 130 in all, and concludes with the covenant of general warranty of title.\nThe consideration of this title bond and deed was a proposition made to the voters of the county for the location of the county seat at the town surveyed as aforesaid, which had been done at an election held between the date of the proposition and bond for title. A part of the lots conveyed to appellant were in that part of the town laid off east of the land owned by Bobinson and his associates, and its title thereto having therefore failed, it seeks in this case to have compensation out of the 366 varas strip that was left undivided as above set forth.\nWe think it plain from an inspection of this deed and bond for title, that the land intended to be conveyed thereby is correctly described therein, and it is therefore an ordinary case of a grantor conveying land to which he has no title. In such case, the grantee must look to his covenant of warranty for money compensation, and can not have other land of Ms warrantor set aside to him. Arnold v. Cauble, 49 Texas, 527; Koenigheim v. Miles, 67 Texas, 113; Willis & Bro. v. Robinson, this day decided by us [ante, p. 7 ].\nDelivered November 1, 1893.\nThe judgment of the court below is affirmed.\nAffirmed.",
+        "type": "majority",
+        "author": "HEAD, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "R. P. Elliott and H. P. Bailey, for appellant.",
+      "R. T. Sitterly and Stephens & Huff, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Wilbarger County v. T. Windsor Robinson et al.\nNo. 247.\nWarranty \u2014 Rights of Vendee on Failure of Title to Land. \u2014 The defendants, by mistake in surveying and platting their land for a town site, left out a part, and included other land they did not own. Afterwards, they conveyed to plaintiff by warranty deed a number of the lots, some of which were on the land included by mistake. Held, that on failure of title to such lots plaintiff was not entitled to have other land of defendants set aside to it out of the part omitted by mistake, but must look to the covenant of warranty for money compensation.\nAppeal from Wilbarger. Tried below before Hon. G. A. Brown.\nR. P. Elliott and H. P. Bailey, for appellant.\n1. The court erred in holding that appellant was confined to the land described in the deed to it, the evidence clearly showing that the land intended to be conveyed was not conveyed; and the court should have corrected the error. O\u2019 Connor v. Duke, 29 Texas, 300; Moore v. Hazlewood, 4 S. W. Rep., 215; James v. Adams, 64 Texas, 193; 1 Washb. on Real Prop., 590; Grigsby v. Peak, 68 Texas, 239; 3 Wait\u2019s Act. and Def., 165-167; 7 Wait\u2019s Act. and Def., 437-439; 1 Story\u2019s Eq., 152-168; Bish. on Con., secs. 79, 711.\n2. The court erred in holding that appellant was not a party to the original partition, and a tenant in common with'the defendants.\nR. T. Sitterly and Stephens & Huff, for appellees.\n1. The appellant, Wilbarger County, having taken a deed with general covenants of warranty to certain designated lots in the town, the title to which had failed, could not compel contribution out of other lands belonging to the original town company, but must rely on its general covenant of warranty. Koenigheim v. Miles, 67 Texas, 113; Blumberg v. Mauer, 37 Texas, 2.\n2. If the appellant was damaged by the mutual mistake of the parties, it should sue for damages for such mistake, and not for a partition of land in which it had no interest, and for which no contract-was ever made to give it an interest. Blythe v. Speake, 23 Texas, 436; Mitchell v. Zimmerman, 4 Texas, 81, 82; Grigsby v. Peak, 68 Texas, 239."
+  },
+  "file_name": "0010-01",
+  "first_page_order": 36,
+  "last_page_order": 38
+}

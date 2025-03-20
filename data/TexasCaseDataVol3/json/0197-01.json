@@ -1,0 +1,103 @@
+{
+  "id": 221035,
+  "name": "The International & Great Northern Railway Company v. W. J. Thornton",
+  "name_abbreviation": "International & Great Northern Railway Co. v. Thornton",
+  "decision_date": "1893-04-19",
+  "docket_number": "No. 145",
+  "first_page": "197",
+  "last_page": "199",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 197"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "54 N. Y., 500",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        514607
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/54/0500-01"
+      ]
+    },
+    {
+      "cite": "22 Wall., 124",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "22 Wall., 594",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.,",
+      "case_ids": [
+        3409855
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/89/0594-01"
+      ]
+    },
+    {
+      "cite": "71 Am. Dec,, 291",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 358,
+    "char_count": 8065,
+    "ocr_confidence": 0.548,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.008769237125407697
+    },
+    "sha256": "a4d9aeda1e669a370a1eb67b2dc65651b79d52a1dde6fbddcafa3a84384cde90",
+    "simhash": "1:58609b11b7907910",
+    "word_count": 1368
+  },
+  "last_updated": "2024-02-27T16:31:46.217873+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The International & Great Northern Railway Company v. W. J. Thornton."
+    ],
+    "opinions": [
+      {
+        "text": "COLLARD, Associate Justice.\nSuit by the defendant in error, W. J. Thornton, against the International & Great Northern Railway Company, for damages to 70 head of cattle shipped from Pearsall, Texas, to be delivered at Chicago, Illinois, and alleged to have been injured at Denison, Texas, by being placed in an open pen \u201c so small that the cattle could not lie down and so muddy that they could not be fed,\u201d where they were kept by defendant, in mud up to their knees, without food, for twelve hours.\nDefendant answered by general denial, and set up that at the time of \"the shipment of the cattle its road was operated by the Missouri Pacific Railway Company, and that the contract of shipment was made with that company, which agreed to carry the cattle as stated, which contract, marked exhibit A, is attached to the answer. It is further set up, that the road of defendant only extends to Taylor, a point between Pearsall and Denison, Texas, and that the injury to the cattle occurred beyond its line, wherefore, by the terms of the twelfth section of the contract, it was not liable.\nThe contract of shipment was made at Pearsall, Texas, by the Missouri Pacific Railway Company, at the time operating the road of the defendant as lessee. Pearsall is a point on defendant\u2019s road.\nThe twelfth clause of the contract of shipment, set up by defendant, stipulates, that in case the cattle are to be shipped over roads other than the Missouri Pacific Railway Company, the latter should be released from all liability after they shall have left its road; the agreement being, that the Missouri Pacific Railway Company shall not be held liable for anything beyond its line, except to protect the through rate of freight named in the contract.\nThe injury occurred not on the defendant\u2019s road, and not on the Missouri Pacific line,' but on that of the Missouri, Kansas & Texas Railway Company, \u201c which was one of the intermediate connecting carriers over which the transportation was to be made as contemplated by the original contract.\u201d\nThe case was tried by the court without a jury, and the defendant, the International & Great Northern Railway Company, was held liable for the injury to the cattle found to have been damaged as alleged, but not while on defendant\u2019s road or that of the Missouri Pacific Railway Company, but while in the hands of another intermediate carrier\u2014the Missouri, Kansas & Texas Railway Company. Judgment was rendered accordingly, and defendant has brought the case up by writ of error.\nIt is not deemed necessary to decide whether or not the International & Great Northern Railway Company would be liable for the contract of shipment made by its lessee beyond defendant\u2019s own line of road\u2014that is, beyond Taylor, Texas\u2014because there is another question which is conclusive of the rights of the parties, and which must be decided in favor of the plaintiff in error.\nConstruing the contract of shipment most strongly against the International & Great Northern Railway Company, and conceding, for the present, that its lessee had the power to bind it to carry beyond its own line of road, and treating the contract as that of plaintiff in error, it would not bind the latter to do more than its lessee was bound to do. It certainly could avail itself of the provision in the contract that there should be no liability of the contracting carrier for the cattle after they passed into the hands of another carrier, except to protect the through rate of freight.\nThat such a contract will be upheld, has been often decided in this State. Railway v. Baird, 75 Texas, 256; Railway v. Williams, 77 Texas, 121; Railway v. Mahula, 1 Texas Civ. App., 182; and see Hunter v. Railway Company, 76 Texas, 195, and Railway Company v. Adams, 78 Texas, 373.\nThere can be no question but that defendant, even if it were bound by contract of through shipment made by its lessee, would be protected by the same contract. It would be inconsistent and unjust to hold it bound by the contract by implication of law, and at the same time entitled to no protection or benefit under it.\nWithout assigning other reasons insisted upon by plaintiff in error, the one given above is sufficient to relieve it of all liability in this suit.\nThe judgment of the court below should be and is reversed, and the cause remanded.\nReversed and remanded.\nDelivered April 19, 1893.",
+        "type": "majority",
+        "author": "COLLARD, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Barnard & Green, for appellant.",
+      "Lane & Mayfield, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "The International & Great Northern Railway Company v. W. J. Thornton.\nNo. 145.\n1. Limitation of Liability by Railway to Injuries Upon its Own Line.\u2014That such a contract will be upheld has been often decided in this State. Railway v. Baird, 75 Texas, 256; Railway v. Williams, 77 Texas, 121; Railway v. Mahula, 1 Texas Civil Appeals, 182; Hunter v. Railway, 76 Texas, 195; Railway v. Adams, 78 Texas, 373.\n2. Same\u2014Case in Judgment.\u2014The Missouri Pacific Railway Company, while operating the International & Great Northern Railway, contracted to carry certain cattle from Pearsall, on the line of the International & Great Northern Railway, to Chicago. Injury to the cattle was alleged to have been caused at Denison, Texas, on the Missouri, Kansas & Texas Railway. Suit against the International & Great Northern Railway Company for damages. Held, that the clause in the shipping contract, that in case the cattle are to be shipped over other roads than the Missouri Pacific Railway, the latter should be released from all liability after they shall have left its road, protected the International & Great Northern Railway Company against loss, regardless of its being the lessor of the line of road upon which the cattle were first shipped. The loss happened after the freight had left the line of the Missouri Pacific Railway Company. It would be inequitable to impose the burdens of the freight contract upon the lessor company and not give the benefit of its restrictions.\nAppeal from La Salle. Tried below before Hon. D. P. Marr.\nBarnard & Green, for appellant.\nWhen a railway company leases its line to another railway company in this State, the fact that said lease is invalid under the law does not make the lessor liable for the acts of the lessee for anything beyond a tort committed by the lessee upon the line of the lessor, or for a breach of the charter obligations or public duties of the lessor. It does not make the lessor liable for the acts of the lessee and its agents beyond the line of the lessor. Railway v. Underwood, 67 Texas, 589; Railway v. Morris & Crawford, 67 Texas, 692; Railway v. Morris, 68 Texas, 49; Railway v. Culberson, 72 Texas, 375; Railway v. Dunbar, 71 Am. Dec,, 291, and authorities.\nLane & Mayfield, for appellee.\nIn the contract sued upon in this case, the Missouri Pacific Railway Company, as the agent of the International & Great Northern Railway Company, contracted to ship the live stock of the defendant in error from Pearsall, Texas, to Chicago, Illinois, and limited the liability of its principal, the International & Great Northern Railway Company, not at the termination of the line of the International & Great Northern Railway Company, but at the termination of the line of the Missouri Pacific Railway Companjr; therefore the International & Great Northern Railway Company is liable for all damages to defendant\u2019s live stock thdft may have occurred between the initial point at Pearsall, Texas, and the termination of the Missouri Pacific Railway Company. It is neither a charter obligation nor a public duty that a railway company should make a contract of shipment beyond its line; but if it has the power to make a contract over connecting lines without exempting itself from any liability whatever, and having made a contract of through shipment over connecting lines, without exempting itself from liability at the termination of its own line, it is bound by such contract for all damages that may occur on such shipment. Railway v. Underwood, 67 Texas, 590; Railway v. Morris, 67 Texas, 693; Railway v. Morris, 68 Texas, 55; Railway v. Androscoggin Mills, 22 Wall., 594; Railway v. Pratt, 22 Wall., 124; Condict v. Railway, 54 N. Y., 500."
+  },
+  "file_name": "0197-01",
+  "first_page_order": 223,
+  "last_page_order": 225
+}

@@ -1,0 +1,266 @@
+{
+  "id": 221176,
+  "name": "North British Mercantile Insurance Company v. The First National Bank of Tyler",
+  "name_abbreviation": "North British Mercantile Insurance v. First National Bank",
+  "decision_date": "1893-05-11",
+  "docket_number": "No. 167",
+  "first_page": "293",
+  "last_page": "296",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 293"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Brad., 360",
+      "category": "reporters:state",
+      "reporter": "Bradf.",
+      "case_ids": [
+        1127724
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/brad/2/0360-01"
+      ]
+    },
+    {
+      "cite": "8 Cow., 315",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "45 Minn., 23",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        758315
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/minn/45/0023-01"
+      ]
+    },
+    {
+      "cite": "25 Ohio St., 347",
+      "category": "reporters:state",
+      "reporter": "Ohio St.",
+      "case_ids": [
+        44833
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ohio-st/25/0347-01"
+      ]
+    },
+    {
+      "cite": "99 Mass., 313",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2139674
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/99/0313-01"
+      ]
+    },
+    {
+      "cite": "13 Pet., 336",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Johns., 101",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2131441
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/5/0101-01"
+      ]
+    },
+    {
+      "cite": "52 N. W. Rep., 906",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "13 Pet., 136",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "case_ids": [
+        3337844
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/38/0136-01"
+      ]
+    },
+    {
+      "cite": "24 Mo., 44",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        8853839
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mo/24/0044-01"
+      ]
+    },
+    {
+      "cite": "45 Mo., 409",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        11745897
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mo/45/0409-01"
+      ]
+    },
+    {
+      "cite": "9 Ill., 354",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        2562777
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill/9/0354-01"
+      ]
+    },
+    {
+      "cite": "16 Ill., 435",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        2589908
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill/16/0435-01"
+      ]
+    },
+    {
+      "cite": "8 Cow., 315",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "45 Minn., 23",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        758315
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/minn/45/0023-01"
+      ]
+    },
+    {
+      "cite": "25 Ohio St., 347",
+      "category": "reporters:state",
+      "reporter": "Ohio St.",
+      "case_ids": [
+        44833
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ohio-st/25/0347-01"
+      ]
+    },
+    {
+      "cite": "99 Mass., 313",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2139674
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/99/0313-01"
+      ]
+    },
+    {
+      "cite": "5 Johns., 101",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2131441
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/5/0101-01"
+      ]
+    },
+    {
+      "cite": "52 N. W. Rep., 906",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 381,
+    "char_count": 6881,
+    "ocr_confidence": 0.549,
+    "pagerank": {
+      "raw": 4.89950402824256e-08,
+      "percentile": 0.3069684757682784
+    },
+    "sha256": "d3df5299a3b229c25778f032e9db44a1c65688d438c21c6b657c8e8fc5b63db1",
+    "simhash": "1:09419fcd1a1b6469",
+    "word_count": 1198
+  },
+  "last_updated": "2024-02-27T16:31:46.217873+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "North British Mercantile Insurance Company v. The First National Bank of Tyler."
+    ],
+    "opinions": [
+      {
+        "text": "WILLIAMS, Associate Justice.\nAppellant issued to Lavender, Hunter & Co., of Tyler, Texas, a policy of insurance against loss by fire on a stock of goods situated in that town. A loss having occurred, and having been proved and adjusted, Lavender, Hunter & Co. assigned to appellee, also resident at Tyler, their policy and all their rights under it. This assignment was made March 7, 1891, and appellant was duly notified of it the same day.\nOn March 10, 1891, creditors of Lavender, Hunter & Co. sued them in Illinois on a debt, and caused a garnishment to be issued and served on appellant, requiring it to answer as to any'indebtedness which it owed to that firm. June 15, 1891, appellant filed its answer to the interrogatories propounded to it in the garnishment proceeding, stating the facts as to the policy of insurance, the assignment of it to appellee, and notice thereof served by appellant.\nThis suit was brought upon the policy by appellee, as assignee, August 3, 1891, to recover the amount due on it.\nAppellant filed its answer, setting up the pendency of the garnishment proceedings in Illinois, and asking that this suit be abated or judgment suspended until the determination of that action. Appellant also, when the cause was called for trial, made application to have it continued upon the same grounds. The court sustained exceptions to the plea, overruled the application for continuance, and, upon hearing, rendered judgment for appellee, from which this appeal is taken.\nThe ruling sustaining exceptions to the answer and refusing to continue the cause is assigned as error.\nThe court is of opinion that the action of the court below was correct. \u2022 Appellee was not a party to the garnishment suit, and its rights could not be affected by the judgment which might be rendered therein. As such judgment would not be binding when rendered, it would have been futile to require appellee to await the rendition thereof. That it would not be bound by any judgment in the garnishment suit is, we think, quite clear. Its right to the money due upon the policy accrued before the service of the garnishment. The court in which that proceeding was instituted acquired no jurisdiction over appellee and no power to deprive it of the right acquired by the assignment. Drake on Att., see. 703a; Cooper v. McClure, 16 Ill., 435; Lawrence v. Lane, 9 Ill., 354; Wilson v. Murphy, 45 Mo., 409; Funkhouser v. How, 24 Mo., 44.\nThe authorities cited in appellant\u2019s brief, so far as we have been able to get them, except one, seem to be cases in which the defendant in the garnishment sued his debtor upon the claim attached by the writ. Embree v. Hanna, 5 Johns., 101; Wallace v. McConnell, 13 Pet., 136; Bank v. Rollins, 99 Mass., 313; Railway v. May, 25 Ohio St., 347; 2 Kent Com., 122; Blair v. Hilgedick, 45 Minn., 23; Wheeler v. Raymond, 8 Cow., 315; Andrews v. Herriot, 4 Cow., note p. 521.\nIn such cases the pendency of the garnishment is held to be sufficient either to abate a suit, or suspend judgment, or stay execution in behalf of the creditor of the garnishee, the defendant in the writ.\nThe rule has no application when an assignee, who has acquired a right to the debt sought to be reached by garnishment before the service of it, sues to enforce collection. Authorities first cited.\nThe case of Harvey v. Railway, 52 N. W. Rep., 906, decided by the Supreme Court of Minnesota, was a case in which an assignee of the claim sought to enforce it by suit against the debtor, who had been garnished by a creditor of the assignor. It was held, that the plea of the garnishee setting up the garnishment proceeding was sufficient to suspend the suit of the assignee until the determination of the suit in which the writ was issued. The report of the case does not show whether the assignment of the debt was made before or after the service of the garnishment. Throughout the opinion the rights of the assignee are assumed to be the same as those of the defendant in the garnishment, and we do not consider that case an authority to sustain appellant\u2019s position.\nThe debt was created in Texas; the contract was made and to be performed here. By the laws of this State the claim was assignable, and the assignee took the title when it was transferred to it.\nThe cases of Hull v. Blake, 13 Massachusetts, 153, and Cottle v. American Screw Company, 13 Rhode Island, 527, have no application.\nThe judgment is affirmed.\nAffirmed.\nDelivered May 11, 1893.",
+        "type": "majority",
+        "author": "WILLIAMS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Ben B. Cain, for appellant.",
+      "No brief for appellee reached the Reporter."
+    ],
+    "corrections": "",
+    "head_matter": "North British Mercantile Insurance Company v. The First National Bank of Tyler.\nNo. 167.\n1. Garnishment \u2014 Rights of Assignee of Debt Garnished. \u2014 Loss having occurred on a policy of insurance issued by appellant, and the loss having-been adjusted thereafter, the policy was assigned by the insured to appellee, and notice of the assignment given appellant. Thereafter appellant was garnished by a creditor of the insured in Illinois, and when appellee sued on the policy for a recovery, answered setting up the garnishment proceedings, and asking a stay of proceedings and a continuance. Ileld, that both were properly denied.\n2. Same\u2014Delaying the Suit on the Policy.\u2014Appellee was not a party to the garnishment suit, and the court in which that proceeding was instituted acquired no jurisdiction over appellee. Its right to the money due upon the policy accrued before service of the garnishment, and it is clear that appellee would not be bound by any judgment in the garnishment suit; wherefore, it would have been futile to require appellee to await the rendition thereof.\n3. Same \u2014Rule when the Defendant in the Garnishment Sues His Debtor.\u2014When the defendant in garnishment sues his debtor for the claim attached by the writ, the authorities hold that pendency of such suit is sufficient either to abate the suit, or suspend judgment, or stay execution in behalf of the creditor of the garnishee; but this is not such case, and those authorities do not apply here.\nAppeal from Smith. Tried below before Hon. Benjamin B. Beard, County Judge.\nBen B. Cain, for appellant.\n1. The pendency of a prior action by foreign attachment in another jurisdiction, which binds the debt, may always be set up by way of defense to a suit by the defendant in the attachment to recover the same debt. Harvey v. Railway, 52 N. W. Rep., 906; Embree v. Hanna, 5 Johns., 101; Wallace v. McConnell, 13 Pet., 336; Bank v. Rollins, 99 Mass., 313; Railway v. May, 25 Ohio St., 347; :2 Kent Comm., 122.\n2. Suit pending in Illinois, if not good in abatement, was at all events good ground for a continuance while the attachment proceedings were pending. Harvey v. Railway, 52 N. W. Rep., 906; Drake on Att., secs. 700, 701; Blair v. Hilgedeck, 45 Minn., 23; Brooks v. Smith, 1 Salk., 280; Wheeler v. Raymond, 8 Cow., 315; Andrew v. Herriot, 4 Cow., note p. 521; Roche v. Ins. Assn., 2 Brad., 360.\nNo brief for appellee reached the Reporter."
+  },
+  "file_name": "0293-01",
+  "first_page_order": 319,
+  "last_page_order": 322
+}

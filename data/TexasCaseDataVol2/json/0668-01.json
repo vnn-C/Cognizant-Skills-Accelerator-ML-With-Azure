@@ -1,0 +1,73 @@
+{
+  "id": 219247,
+  "name": "W. G. Barry v. V. W. Hale et al.",
+  "name_abbreviation": "Barry v. Hale",
+  "decision_date": "1893-03-23",
+  "docket_number": "No. 130",
+  "first_page": "668",
+  "last_page": "670",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 668"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "17 Ala., 488",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 348,
+    "char_count": 4992,
+    "ocr_confidence": 0.605,
+    "pagerank": {
+      "raw": 1.453258179350832e-07,
+      "percentile": 0.6554748944822651
+    },
+    "sha256": "3f1332b6091973733ed7559a7e54e579e2f933346a0a5779aae56e0e8ea1ea00",
+    "simhash": "1:bafbd0a1a8459b97",
+    "word_count": 894
+  },
+  "last_updated": "2024-02-27T19:43:33.086404+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "W. G. Barry v. V. W. Hale et al."
+    ],
+    "opinions": [
+      {
+        "text": "HEAD, Associate Justice.\nThe only question in this case is, whether or not the following evidence shows that the lot in question was exempt from forced sale as the homestead of a family; to-wit: \u201clam the plaintiff in this case. I am a single man,-years of age, and have never been married. I own the house and lot, the subject matter of this suit. I bought the lot something over three years ago for a home for my widowed mother, my sister, and myself. My mother is well advanced in years, and has no other homestead. Soon after I bought the lot, I built the house now on it, and when completed, my mother and sister, and also a younger brother, moved in the house, and they and myself have been living in it ever since as a home, and neither my mother nor I have any other home. I bought and paid for all the furniture in the house, except a few things in my mother\u2019s room belonging to my mother. We occupied the house as our home at the date of the execution which was enjoined in this case, and now so occupy it. I support my mother out of my own earnings.\u201d\nWe believe that this evidence certainly describes a family within the ordinary meaning of this word, and we are also of opinion that it shows such a family as was intended by our Constitution and exemption statute. It is true, it is not stated in so many words that appellant\u2019s mother had no other property, and was dependent upon him for a support, but we believe that this is the fair construction that should be placed upon the evidence. It is stated that his mother has no other home, and that he supports her out of his own earnings, and we believe it would be attributing to appellant qualities far above the average to co'nstrue this evidence as meaning that he is taking care of his mother out of his own earnings, although she has property from which she could support herself.\nWe believe it would comport more with common experience to look for the son to use the mother\u2019s property in supporting himself, rather than expect him to support an independent mother out of his own earnings. If his mother is dependent upon him for a support, it can hardly be contended that appellant would not be entitled to this exemption. Roco v. Green, 50 Texas, 483; Wolfe v. Buckley, 52 Texas, 641; Ramey v. Allison, 64 Texas, 697.\nIn Wolf v. Buckley it was held that an old lady, taking care of dependent step-grandchildren, was entitled to the homestead exemption, although such children had no legal claim upon her.\nWe have copied in the opinion all of the evidence in the case, which will be taken as our conclusions of fact.\nWe are of opinion, that the court below erred in holding the property not exempt, and in dissolving the injunction; and as the trial was before the court without a jury, the judgment will be reversed, and will here be-rendered perpetuating the injunction as prayed for in appellant\u2019s petition.\nReversed and rendered.\nDelivered March 23, 1893.\nA motion for rehearing was overruled.",
+        "type": "majority",
+        "author": "HEAD, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Hodges & Pollard, for appellant.",
+      "Hale & Hale, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "W. G. Barry v. V. W. Hale et al.\nNo. 130.\nHomestead Exemption\u2014Family of Single Man.\u2014Where an unmarried man has a sister, and also a widowed mother whom he supports and who has no homestead of her own, residing with him upon his own place, this constitutes a family within the meaning of the Constitution and exemption statutes, and the1 property so occupied is not subject to forced sale.\nAppeal from Lamar. Tried below before 1-Ion. E. D. McClelland.\nHodges & Pollard, for appellant.\nPlaintiff and his widowed mother and dependent sister constituted such a family as was intended to be protected by the exemption laws of this State. Webster\u2019s Dictionary, title \u201cFamily,\u201d defines a family to be \u201cthe collective body of persons who live in one house, and under one head or manager; a household, including parents, children and servants, and as the case may be, lodgers or boarders.\u201d 1 Bouv. Law Die., title \u201c Family;\u201d Const., art. 16, sec. 50; Rev. Stats., arts. 2335, 2336; Taylor v. Boulware, 17 Texas, 77; Wilson v. Cochran, 31 Texas, 680; Roco v. Green, 50 Texas, 490; Wolfe v. Buckley, 52 Texas, 648, 649; Thomp. on Home. Ex., secs. 55-62.\nHale & Hale, for appellees.\nPlaintiff\u2019s allegations, and the evidence thereunder, do not show that he was entitled to hold the property in controversy as a homestead, he being a single man. To entitle a single man to a homestead exemption, it is necessary for him to allege and prove that the persons who constitute the family are such persons as the law or morals require him to support and provide for, and in addition to that, he must allege and prove that such person or persons are dependent on him for maintenance and support\u2014not simply that he supports them. This appellant has neither alleged nor proved. Roco v. Green, 50 Texas, 490; Whitehead v. Nickelson, 48 Texas, 528; Howard v. Marshall, 48 Texas, 475; Thomp. on Home. Ex., sec. 46; Sallee v. Waters, 17 Ala., 488; Edrington v. Newland, 57 Texas, 632; Walton v. Reager, 20 Texas, 108; Ramey v. Allison, 64 Texas, 700."
+  },
+  "file_name": "0668-01",
+  "first_page_order": 694,
+  "last_page_order": 696
+}

@@ -1,0 +1,62 @@
+{
+  "id": 219249,
+  "name": "W. R. Baker's Executors v. Julia W. Clark",
+  "name_abbreviation": "W. R. Baker's Executors v. Clark",
+  "decision_date": "1893-03-09",
+  "docket_number": "No. 112",
+  "first_page": "530",
+  "last_page": "532",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 530"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 324,
+    "char_count": 6323,
+    "ocr_confidence": 0.516,
+    "sha256": "a699d243c3785962f208f28e196409509cf1054d2f5c4eceb00cc0c154863c86",
+    "simhash": "1:2bc679e64b2f0ec7",
+    "word_count": 1114
+  },
+  "last_updated": "2023-07-14T16:01:39.065288+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "W. R. Baker\u2019s Executors v. Julia W. Clark."
+    ],
+    "opinions": [
+      {
+        "text": "PLEASANTS, Associate Justice.\nThe law applicable to this case is-that announced in the opinion rendered in the case of W. R. Baker\u2019s Executors v. Isa R. De Freese, ante, page 524. The defense in each case is the same, and the facts are very similar. This suit is an action of trespass to try title, brought by W. R. Baker\u2019s executors, to recover from defendant certain lots described in the petition, and situated in the city of Houston. The defendant answered by general denial; and plead specially, that the property sued for was donated to her in 1882 by her deceased brother, W. R. Baker, the plaintiffs\u2019 testator, and that her said brother placed defendant in possession of the premises in the same year; that the lots were purchased by her brother for her, and the title taken in his name in trust for her in 1881; and in 1882 her said brother erected a dwelling upon them, and then donated both the lots and dwelling upon them to defendant; and that he ever afterwards regarded defendant as the owner of the property and vested with the absolute title thereto, and that he made this declaration at various times, and to various persons, and that he made such declaration but a few days before his death in 1890; that defendant had occupied the lots as her home continuously since 1882, and claimed the same as her property; and that in consequence of the gift of the property by her brother to her, she had made large and valuable improvements upon the same, and that said improvements were made with the full knowledge of her brother, and that she was making the same upon the belief that she was the real owner of the property, and that he made no objections to her making the improvements. She averred her improvements were of the value of $5000. She averred that she would not have made such improvements if she had not believed that the property was hers. Defendant further averred, that by reason of all the above facts, plaintiffs were estopped from claiming said property; and she prayed that plaintiffs take nothing by their suit, and for specific performance of the said donation by decree of the court, and that she be quieted in her title and possession.\nPlaintiffs, by supplemental'petition, denied that the improvements made by defendant added anything to the value of the property, and averred that the improvements were only such as contributed to the comfort and convenience of the defendant, and such as any conscientious tenant would place upon land occupied by him. And plaintiffs further averred, that the lots in controversy were never given to defendant; that they were improved by Baker for the purpose of allowing defendant to occupy the same at his pleasure; that Baker was a cautious, prudent, and methodical business man, and well read in the land laws of Texas; and that during all the time the premises were occupied by defendant the property was assessed in his (Baker\u2019s) name, and the taxes thereon paid by him, and that the property was also insured by Baker in his name, and the premiums paid by him; that the rental value of the property was $50 per month, and that during all the time defendant occupied the premises Baker paid her monthly $150, which sum was more than sufficient to compensate defendant for any outlay made by her in improvements, and for any labor and care bestowed by her in improving and preserving the premises.\nDefendant, by supplemental answer, denied the allegation of plaintiffs\u2019 supplemental petition, and averred, that if the property was insured by Baker, and if he paid the taxes thereon, it was done by him as her agent, and for her use and benefit, and that the said Baker did not intend thereby to assert any right to the property, but only intended thereby to protect the defendant in her title and ownership of the same.\nThe cause was tried on May 21, 1891, and verdict and judgment were rendered for the defendant, and plaintiffs appealed.\nThe evidence of the purchase and improvement of the lots by Baker for the defendant, and his donation of the same to her, and his placing her in possession of the premises, and her continued occupancy of the same, and Baker\u2019s frequent and continuous admission that the property was the defendant\u2019s, and that he had bought it and improved it for her and had given it to her, that he had no claim on it, was full and convincing.\nThe improvements made by the defendant (and their nature and character show that many of them were permanent and valuable), and that they were made with the knowledge of and without objection by the said Baker, were also established by the evidence. The value of all the improvements was shown to be about $2000.\nPlaintiffs proved that Mr. Baker was a careful and prudent man of business, and that he assessed the property in his name and paid the taxes thereon, and that he insured the house upon the lots in his name, and described them as occupied by a tenant, and paid the premiums himself; and that he also insured the property in the house in the name of the defendant, and also paid the insurance himself; and the rental value of the premises was shown to be in excess of the improvements from $300 to $500 for the eight years they were occupied by defendant previous to the institution of this suit.\nOur conclusions upon the law are, that under the foregoing facts, the judgment rendered for the defendant was a proper one, and such as should have been rendered, and that the same should be affirmed, and it is now so ordered.\nAffirmed.\nDelivered March 9, 1893.",
+        "type": "majority",
+        "author": "PLEASANTS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "E. P. Hamblin, for appellants.",
+      "Jones & Garnett, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "W. R. Baker\u2019s Executors v. Julia W. Clark.\nNo. 112.\nParol Gift\u2014When Irrevocable.\u2014The lots were purchased by Baker and given to appellee, and she was placed in possession by him. Permanent and valuable improvements were made by her, with the knowledge of Baker, and without objection on his part. He made frequent and continuous admissions that the property was hers, rendered it for taxes in his own name, and insured the property in the house in the name of Mrs. Clark, who was his sister, and paid her in money $150 per month. The judgment rendered for defendant is a proper one, and is affirmed.\nAppeal from Harris. Tried below before Hon. James E. Masterson.\nE. P. Hamblin, for appellants.\nJones & Garnett, for appellee.\nFor report of briefs, see Baker\u2019s Executors v. Isa R. De Freese, ante,, page 524."
+  },
+  "file_name": "0530-01",
+  "first_page_order": 556,
+  "last_page_order": 558
+}

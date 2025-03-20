@@ -1,0 +1,66 @@
+{
+  "id": 216254,
+  "name": "J. C. Roberts v. D. M. Helm",
+  "name_abbreviation": "Roberts v. Helm",
+  "decision_date": "1892-10-25",
+  "docket_number": "No. 2",
+  "first_page": "100",
+  "last_page": "102",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Tex. Civ. App. 100"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 327,
+    "char_count": 6124,
+    "ocr_confidence": 0.565,
+    "pagerank": {
+      "raw": 4.076306636737454e-08,
+      "percentile": 0.008675739309684542
+    },
+    "sha256": "abeef1db66e3b29c62e5f74020c37a4e6ebe3243408737da3c5ec5028493ae68",
+    "simhash": "1:a10131330ac6b542",
+    "word_count": 1106
+  },
+  "last_updated": "2023-07-14T14:31:22.177647+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "J. C. Roberts v. D. M. Helm."
+    ],
+    "opinions": [
+      {
+        "text": "TARLTON, Chief Justice.\nThis suit was brought in the District Court of Eastland County by appellant, J. C. Roberts, against appellee, D. M. Helm, to recover a strip or tract of land in Eastland County, 330 varas in width and 2736 varas in length, containing 160 acres. The appellant claims this land to be a part of the W. G. McGrew survey. The appellee claims that it is no part of the McGrew survey, and that, as vacant public domain, lying between the McGrew survey west of it and the John Bradley survey east of it, he pre-empted it. The McGrew survey, among other matters, calls to course from its beginning corner east 1650 varas to a stake on the north line of the John Bradley survey; thence south with the west line of the John Bradley survey, passing its southwest corner. To reach a stake on the north line of the Bradley, the course of the north line of the McGrew would be seriously deflected to the north, and the distance traversed in reaching the west line of the Bradley would be 1990 varas, instead of 1650 varas, as called for in the McGrew field notes.\nOne J. P. Davidson testified for the plaintiff, that in 1871, as county surveyor of Eastland County, he surveyed the G. W. McGrew survey; that he was actually on the ground; that he ran the north and east lines, the east line of the McGrew and the west line of the Bradley being identical. Evidence, on the other hand, was introduced for the defendant impeaching the correctness of Davidson\u2019s statement, and tending to show that no actual survey was made; that the McGrew survey \u201c was platted on paper as office work.\u201d\nDelivered October 25, 1892.\nSuch being the condition of the testimony, the court instructed the jury to the effect:\n1. That if they should believe the statement of the witness Davidson, no vacancy would exist and the3r would find for plaintiff.\n2. That, on the other hand, if the3r should believe that no actual surArey was made by Davidson, but that he \u201cplatted the survey without actually running the lines, course and distance would control,\u201d and they would fix the east boundary of the McGrew 1650 varas east of its northwest corner; and if the line thus fixed was west of the land claimed b3r defendant, they would find for the defendant.\nThe jury, evidently influenced ly the latter instruction, returned a verdict accordingly.\nThis latter charge is complained of as error.\nIt will be noted that the other calls in the patent were thus b3r the court subordinated to course and distance. Among the remaining calls is one for the southwest corner of the John Bradley survey as on the east line of the McGrew. This southwest corner of the Bradley is well established. Can it be stated, then, as a matter of law, that in the absence of an actual surve3'' the juiy should be instructed that the McGrew should be identified by reference alone to course and distance ? We think not. When no survey has been made on the ground, the rule is, that in finding the true locality of the land in question, the court or jury should look to all the calls in the patent, and from them should conclude what was the particular land intended to be conveyed. The intention of the State and of the grantee is of controlling force in such investigation, and this intention must be sought by means of all the calls, \u201cmatters of description,\u201d in the patent. It is true that such matters of description as are referred to b3r mistake should be disregarded, but in a trial b3r jury the question as to what was the subject matter of such reference should be left to the jury. We think the court erred in the charge complained of, in confining the jury, as a matter of law, to course and distance, in the absence of an actual survey, as the exclusive test of the true localit3T of the McGrew survey. Boon v. Hunter, 62 Texas, 588.\nWe find no merit in the remaining assignments relied upon.\nFor the error pointed out, the judgment is reversed and the cause remanded.\nReversed and remanded.",
+        "type": "majority",
+        "author": "TARLTON, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "J. H. Davenport and B. F. Cotton, for appellant.",
+      "Black & Hunt, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "J. C. Roberts v. D. M. Helm.\nNo. 2.\n1. Boundary Lines, Rules for Ascertaining. \u2014 When no survey has been made on the ground, the rule in finding the true locality .of the land in question is that the court or juiy should look to all the calls in the patent, and from them should conclude what was the particular land intended to he conveyed.\n2. Same. \u2014 It is error, therefore, for the charge of the court to confine the jury, as matter of law. in the absence of an actual survey, to course and distance as the exclusive test of the true locality of the land, where this requires other calls in the patent to be entirely ignored.\nAppeal from Eastland. Tried below before Hon. T. H. Conner.\nThe opinion states the case.\nJ. H. Davenport and B. F. Cotton, for appellant.\n1. In construing the calls of a grant, the intention of the original surveyor must prevail if ascertained. Lilly v. Blum, 70 Texas, 704; 26 Texas, 437-439; 62 Texas, 588; 30 Texas, 273; 29 Texas, 329; 26 Texas, 64; 18 Texas, 163.\n2. The court erred in that part of its charge making course and distance the exclusive test of locality. If the McGrew survey could have been identified by calls in the patent for the lines and corners of contiguous surveys, then plaintiff would have been entitled to a verdict.\nBlack & Hunt, for appellee.\n1. The true intent of the grant is to prevail in construing its calls. Lilly v. Blum, 70 Texas, 707; Booth v. Upshur, 26 Texas, 70; Boon v. Hunter, 62 Texas, 588; Fagan v. Stoner, 67 Texas, 287.\n2. As to rules where there is a mistake in the calls of the patent: Phillips v. Ayres, 45 Texas, 604; Fagan v. Stoner, 67 Texas, 287; Schaeffer v. Berry, 62 Texas, 714; Boon v. Hunter, 62 Texas, 588.\n3. When the calls for natural and artificial objects are made through mistake, and when to observe them would change the configuration of the survey and defeat the real intention of the grant, then course and distance must control. Booth v. Upshur, 26 Texas, 70; Booth v. Strippleman, 26 Texas, 441; Boon v. Hunter, 62 Texas, 588; Fagan v. Stoner, 67 Texas, 287.\n4. Where no actual survey was ever made, course and distance will control calls for artificial objects."
+  },
+  "file_name": "0100-01",
+  "first_page_order": 124,
+  "last_page_order": 126
+}

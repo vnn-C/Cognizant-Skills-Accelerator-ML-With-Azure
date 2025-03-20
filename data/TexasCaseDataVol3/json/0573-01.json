@@ -1,0 +1,71 @@
+{
+  "id": 220976,
+  "name": "J. C. League v. Frank Thorp et al.",
+  "name_abbreviation": "League v. Thorp",
+  "decision_date": "1893-04-19",
+  "docket_number": "No. 147",
+  "first_page": "573",
+  "last_page": "575",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 573"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 333,
+    "char_count": 6269,
+    "ocr_confidence": 0.563,
+    "pagerank": {
+      "raw": 4.076306636737454e-08,
+      "percentile": 0.00888500278431794
+    },
+    "sha256": "7898a2f70d1030f695dbcaba0c77f12d44ef3fbe79ccb1b6518fc422ef50b8a0",
+    "simhash": "1:341dbc97820ba5d0",
+    "word_count": 1113
+  },
+  "last_updated": "2023-07-14T18:08:23.206239+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "J. C. League v. Frank Thorp et al."
+    ],
+    "opinions": [
+      {
+        "text": "HEAD, Associate Justice.\nOn the 18th of September, 1889, appellant filed his petition in trespass to try title, to recover of appellees 640 acres of land situated in Stephens County, Texas, and known as survey number 453, abstract number 195, patent number 86, volume 6, patented to the Southern Pacific Railway Company, June 19, 1862, and particularly described by field notes. As a link in his -chain of title, appellant offered in evidence a certified copy of a deed from the records of Bexar County, from the Southern Pacific Railway Company to Montraville J. Hall, William T. Scott, and Alexander Pope, as trustees, dated August 7, 1860, in which the land conveyed was described as \u201cfour hundred sections, making about the quantity of 256,000 acres, situated in the land districts of Milam and Bexar of said State, located and surveyed for said company by H. Wickland, surveyor; the field notes of the surveys are on file in the Land Office at Austin, Texas, to which reference is here made for greater certainty, being the same lands to which said company is entitled as a bonus from the State of Texas for the completion of the first twenty-five miles of the Southern Pacific Railroad.\u201d\nTo the introduction of this copy appellees objected, \u201c first, because the deed does not convey, describe, or sufficiently identify the land in controversy; second, it does not appear that the original was properly recorded in Bexar County, in this, it is not made to appear that any part of the land was in Bexar County; that said instrument recited land in Bexar Land District is not sufficient.\u201d\nIn reply to these objections, appellant offered evidence for the purpose of showing the land in controversy to be one of the 400 sections described in said deed, but offered no evidence to show that any of the land conveyed by this deed was situated in Bexar County, or in any county attached to said county for registration purposes, or in any county subsequently created out of said county. After hearing the evidence offered by appellant, the court sustained the objections of appellees; and appellant failing to show title otherwise, judgment was rendered that he take nothing by his suit; from which this appeal is prosecuted.\nWe are of the opinion, that the second objection interposed by appellees to the introduction of this copy was well taken, and it will therefore be unnecessary for us to decide as to whether or not the evidence offered by appellant was sufficient to show that the land in controversy was a part, of the 400 sections conveyed by the deed. It has several times been decided in this State, that in order to authorize the admission in evidence of a certified copy of a deed under our statute, the original must have been properly recorded in a county in which a part of the land conveyed by it is situated. Hancock v. Lumber Co., 65 Texas, 225; Land Co. v. Chisholm, 71 Texas, 523; Ansaldua v. Schwing, 81 Texas, 198.\nWe are aware of no law authorizing the recording of a deed in a county because a part of the land conveyed therein is situated in a land district-of that name. Baker v. Beck, 74 Texas, 562. The land in controversy was not even situated in Bexar Land District; and we think, that in order to have made this copy admissible, appellants should have shown that some part of the 400 sections conveyed by the deed was either situated in Bexar County or in a county attached to Bexar for registration purposes; and as this was not done, there was no error in the action of the' court in excluding it.\nIn a motion for a new trial appellant offered to produce additional evidence to identify the land in controversy as being a part of the 400 sections conveyed by the deed, but made no offer to show that the original deed had been properly registered; and the court therefore committed no error in refusing the motion, even though appellant had shown sufficient reason for his failure to have the proffered evidence at the trial.\nWe are of opinion that the judgment of the court below should be in all things affirmed.\nAffirmed.\nDelivered April 19, 1893.",
+        "type": "majority",
+        "author": "HEAD, Associate Justice."
+      },
+      {
+        "text": "ON REHEARING.\nHEAD, Associate Justice.\nThe deed from the railway company to Hall, Scott, and Pope, as trustees, a copy of which was offered in evidence, was dated and recorded in Bexar County in 1860, and the deed from Todd, as commissioner, to appellant was not made until 1888, twenty-eight years thereafter. This last deed recites that a part of the land conveyed by it at the time of its execution was situated in Tom Green County, but does not recite that it had been located or patented at the time of the record of the first deed in 1860, or at any time previous to the creation of said last named county; and we are therefore still of opinion that the record does not show that the first deed was properly recorded in Bexar County, so as to make a copy admissible under the statute, even if it be conceded that a recital in the subsequent deed could be received as evidence for this purpose. We do not, however, wish to be taken as conceding this. This deed was made to comply with a judgment to which appellees were in no manner parties, and we are not prepared to\u2019 hold that an ex parte recital therein should be received as evidence against them.\nThis being the only question raised in the motion for rehearing, it is hereby refused.\nRefused.\nDelivered June 28, 1893.",
+        "type": "rehearing",
+        "author": "HEAD, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "D. G. Hunt, for appellant.",
+      "William Veale & Son, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "J. C. League v. Frank Thorp et al.\nNo. 147.\nEvidence \u2014 Certified Copy of Deed.\u2014A deed conveying \u201c400 sections of land situated in the land districts of Milam and Bexar, in said State, surveyed for the Southern Pacific Bailway Company by H. Wickland, the field notes of which surveys are on file in the Land Office at Austin, Texas,\u201d was made in 1860 and recorded the same year in Bexar County. In a suit for one of the surveys situated in Stephens County a certified copy of the deed from the records of Bexar County was offered in evidence. Held, in the absence of proof that at the time such record was made some of the lands were situated in Bexar County, or in a county attached to it for registration purposes, or afterwards created out of it, that the copy was not admissible.\nAppeal from Stephens. Tried below before Hon. T. H. Conner.\nD. G. Hunt, for appellant.\nWilliam Veale & Son, for appellees."
+  },
+  "file_name": "0573-01",
+  "first_page_order": 599,
+  "last_page_order": 601
+}

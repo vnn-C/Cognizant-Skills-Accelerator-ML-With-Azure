@@ -1,0 +1,66 @@
+{
+  "id": 227347,
+  "name": "Wells, Fargo & Co. v. O. D. Battle",
+  "name_abbreviation": "Wells, Fargo & Co. v. Battle",
+  "decision_date": "1893-12-13",
+  "docket_number": "No. 461",
+  "first_page": "532",
+  "last_page": "535",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Tex. Civ. App. 532"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 447,
+    "char_count": 9258,
+    "ocr_confidence": 0.566,
+    "pagerank": {
+      "raw": 1.2458494271439249e-07,
+      "percentile": 0.608981064146983
+    },
+    "sha256": "5032c37d68db30e687bc2254ef9b3f87683b66e93874693534192b1bbb2e84a4",
+    "simhash": "1:fe65fabb0cb02820",
+    "word_count": 1590
+  },
+  "last_updated": "2023-07-14T18:07:14.925501+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Wells, Fargo & Co. v. O. D. Battle."
+    ],
+    "opinions": [
+      {
+        "text": "KEY, Associate Justice.\nAppellee, as plaintiff in the court below, averred in his petition, that on the 16th day of December, 1890, he caused to be delivered to the Pacific Express Company, at Jacksonville, Cherokee County, Texas, two bundles of fruit trees, vines, and flowers, and a package containing an \u201c order book;\u201d that said company, as partner and agent of the appellant, Wells, Fargo & Co.\u2019s Express, received said freight and agreed and undertook to transport same to Ballinger, Runnels County, Texas, and deliver to appellee, to whom it was consigned, within a reasonable time; that the fruit trees, etc., were duly delivered at said point December 19, 1890, but that the package containing the \u201c order-book \u2019\u2019 was not delivered within a reasonable time; that he had contracted to sell said fruit trees, etc., to various persons in and about Ballinger, for the aggregate sum of $526, and had notified them to meet him there on the 19th day of December, 1890, and receive the goods they had respectively ordered; that because of the nondelivery of the \u201c order book\u201d he was unable to determine the kind and number of trees, etc., each customer had ordered, and was therefore unable to deliver said nursery stock; and that although he exercised proper care and diligence to preserve and sell the same, it perished on his hands.\nHe obtained a verdict and judgment in the court below for $379.10.\nIn reference to the measure of damages, the court instructed the jury as follows:\n\u201cThe jury are charged, that in ascertaining the amount of damages sustained by plaintiff in this case, if you find from the evidence that he has sustained any damages, under, the instructions herein before given, you will consider the aggregate amount of the orders and contract prices for the- fruit trees, vines, and shrubbery as shown by the evidence, and find for such amount of damages, if any, that plaintiff has sustained by the failure of the defendant to deliver said order book, less such amount as shown by the evidence plaintiff realized from said fruit trees, vines, and shrubbery, and less such sum as from the evidence you believe plaintiff would have failed to collect on said orders and contracts if said order book had been delivered to plaintiff by defendant within a reasonable time.\u201d\nSince the case of Hadley v. Baxendale, 9 Exchequer, 353, the rule of law has been, that in actions to recover for a breach of contract, only such damages are recoverable as might be reasonably supposed to have entered into the contemplation of the respective parties at the time the contract was made, as the probable result of its breach. Suth. on Dam., sec. 1261; Jones v. George, 61 Texas, 349; Express Company v. Darnell, 62 Texas, 639.\nIt follows from this rule, that the charge above quoted does not correctly state the law; because, unless appellant had notice when it received the package for shipment that it contained the \u201c order book,\u201d and that it was necessary for' appellee to have the book in order to deliver the fruit trees, etc., to his customers, it could not have contemplated that a failure to deliver said package within a reasonable time would result in a failure by appellee to deliver any of the shrubbery, and its,loss to him. This essential element of special damages was omitted in the charge referred to; and appellant asked a special charge on the subject, which, if not entirely correct, was sufficient to call attention to the omission.\nThe omission was positive error, however, and we are not to be understood as holding that it would not avail to reverse the case if no special charge had been asked.\nHowever, the entire case appears to have proceeded in the court below upon an erroneous basis. It was not alleged in the plaintiff\u2019s petition that appellant or its alleged agent had notice when the contract of shipment was made that the shipment included the \u201corder book,\u201d or were notified that the book was in anywise necessary to the sale, delivery, or any other use of the other freight; nor was there any evidence tending to prove such notice prior to or at the time of shipment. Therefore, as the delay in the delivery of the book was only three or four days, and it was not shown to have been injured, appellee was not entitled to recover more than nominal damages; and the jury should have been so instructed.\nThis court considered the question of special damages in Railway v. Gilbert, 4 Texas Civil Appeals, 366. In that case it was held: \u201c In order to make the carrier liable for the damages that result by reason of the special circumstances known to it, those circumstances, and the knowledge resulting therefrom, must be made known to the carrier at the time the contract of shipment is entered into; this upon the principle that the carrier, by reason of the additional risk and the increased liability, may enter into suitable stipulations looking to its protection.\u201d\nIt was also held in that case, as in Express Company v. Darnell, supra, that the petition must aver that the carrier had notice of the intended use of the property at the time of making the contract of shipment, to be held liable for special damages.\nUpon one theory, and by proper pleading, this case may be taken out of the rule announced in the Gilbert case. If it be true, as contended by appellee, that appellant received the order book and transported it with the other freight to Ballinger, the point of destination, and thereafter received notice of the relation the book bore to the other freight, and the necessity for its prompt delivery to appellee, and then negligently failed to make such delivery, we see no reason why it should not be held liable for special damages, although it may have had no notice of the importance of the book and necessity for its early delivery before it reached its destination.\nAs the petition stated no ground for special damages, appellant\u2019s objection to appellee\u2019s testimony tending to show the importance of a prompt delivery of the order book should have been sustained.\nDelivered December 13, 1893.\nTo rebut the evidence tending to show that the Pacific Express Company was the agent or partner of appellant, the latter offered to prove by Morris, the agent of the Pacific Express Company, that it was the custom of said company to charge full local tariff from Jacksonville to Temple on all shipments from the former place to Ballinger. This testimony was excluded on appellee\u2019s objection that it would vary the terms of the written contract.\nThe written contract does not show that the Pacific Express Company charged other than full local tariff on this shipment. But regardless of what said contract may show, the testimony was admissible. The contract does not purport to have been executed by appellant; and before it could be bound by its terms, appellee was required to prove that the Pacific Express Company was its agent or partner; and any circumstance that tended to rebut such agency or partnership was admissible. The excluded evidence tended to show such a circumstance.\nThe admission in evidence of the copy of a telegram from Davis to appellee was harmless error, as the fact stated in it was proved by Davis\u2019 deposition.\nUpon the merits of appellee\u2019s case as disclosed by the evidence, we express no opinion. Pretermitting this question, other assignments are not regarded as tenable.\nThe judgment appealed from is reversed and the cause remanded.\nReversed and remanded.",
+        "type": "majority",
+        "author": "KEY, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "I. J. White, for appellant.",
+      "J. P. Ledbetter and J. D. Woodward, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Wells, Fargo & Co. v. O. D. Battle.\nNo. 461.\n1. Damages Contemplated by Parties to Contract. \u2014 Since the ease of Hadley v. Baxendale, 9 Exchequer, 353, the rule of law has been, that in actions to recover for a breach of contract, only such damages are recoverable as might reasonably be supposed to have entered into the contemplation of the respective parties at the time the contract was made, as the probable result of its breach. Jones v. George, 61 Texas, 349; Pacific Express Go. v. Darnell, 62 Texas, 639. See example.\n2. Special Damages \u2014 Fact Case. \u2014 Action for damages against an express company for delay in delivering an order booh which accompanied a quantity of fruit trees shipped to a dealer. The order book was necessary in order to deliver the fruit trees as ordered to customers. Held, that as a basis for dam- . ages for loss of fruit trees from nondelivery of the order book, it was necessary to allege that the carrier had notice of the intended use of the shipment at the time the freight contract was made. Or such damages might be recovered if after the arrival of the goods at destination, and knowledge of the importance of the order book was received, there was negligent delay in its delivery.\n3. Circumstantial Evidence. \u2014 It not appearing by a freight contract that the company signing it acted as agent of a company over whose line the goods had to pass to their destination was a partner of such company, it was competent to prove that the party signing the contract charged its full local rates for service upon its lines in carrying the freight, to negative proof of such agency in action against the latter.\nAppeal from the County Court of Coleman. Tried below before Hon. H. A. Orr, County Judge.\nI. J. White, for appellant.\nJ. P. Ledbetter and J. D. Woodward, for appellee."
+  },
+  "file_name": "0532-01",
+  "first_page_order": 558,
+  "last_page_order": 561
+}

@@ -1,0 +1,170 @@
+{
+  "id": 216287,
+  "name": "L. G. Huddleston, Administrator, v. H. Kempner",
+  "name_abbreviation": "Huddleston v. Kempner",
+  "decision_date": "1892-11-03",
+  "docket_number": "No. 13",
+  "first_page": "211",
+  "last_page": "214",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Tex. Civ. App. 211"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "79 Ga., 356",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        63812
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ga/79/0356-01"
+      ]
+    },
+    {
+      "cite": "5 So. Rep., 204",
+      "category": "reporters:state_regional",
+      "reporter": "So.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 So. Rep., 197",
+      "category": "reporters:state_regional",
+      "reporter": "So.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "65 Ala., 511",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        5543927
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/65/0511-01"
+      ]
+    },
+    {
+      "cite": "53 Am. Rep., 717",
+      "category": "reporters:state_regional",
+      "reporter": "Am. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "22 S. C., 367",
+      "category": "reporters:state",
+      "reporter": "S.C.",
+      "case_ids": [
+        4381693
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/sc/22/0367-01"
+      ]
+    },
+    {
+      "cite": "93 U. S., 344",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5644674
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/93/0344-01"
+      ]
+    },
+    {
+      "cite": "70 N. Y., 239",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2166403
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/70/0239-01"
+      ]
+    },
+    {
+      "cite": "43 U. S., 344",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3327991
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/43/0344-01"
+      ]
+    },
+    {
+      "cite": "83 Texas 59",
+      "category": "reporters:state",
+      "reporter": "Tex.",
+      "case_ids": [
+        2211472
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/tex/83/0059-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 438,
+    "char_count": 7743,
+    "ocr_confidence": 0.542,
+    "pagerank": {
+      "raw": 1.7046770709105195e-07,
+      "percentile": 0.7014470727830078
+    },
+    "sha256": "7a85c5c2bdb5a4d036da769096af22f6c9412cdabc377185f3260a0390625db6",
+    "simhash": "1:135bfd4481b06087",
+    "word_count": 1354
+  },
+  "last_updated": "2024-02-27T16:44:05.763049+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "L. G. Huddleston, Administrator, v. H. Kempner."
+    ],
+    "opinions": [
+      {
+        "text": "GARRETT, Chief Justice.\nThis is an action by the appellee against the appellant as administrator of the estate of F. M. Huddleston, deceased, in the District Court of Anderson County, upon a rejected claim.\nDefendant pleaded usury. Judgment was rendered in favor of the plaintiff, establishing the claim as presented to the. administrator. The facts are:\n1. Plaintiff, H. Kemper, on March 3, 1890, was a cotton, factor and commission merchant in the city of Galveston, where he had an office and sample rooms, and employed clerks and carried on his business, to which he gave his personal attention.\n2. On March 3, 1890, the plaintiff loaned the defendant\u2019s intestate $3896.63, which was evidenced by several promissory notes payable to plaintiff, with 10 per cent interest until maturity, and after maturity 12 per cent interest per annum, together with 10 per cent as collection fees on the amount of principal and interest thereof, if sued upon or placed in the hands of an attorney for collection.\n3. At the same time, and as a part of the same transaction, F. M. Huddleston contracted in writing with the plaintiff that he would ship and consign to him during the cotton season of 1890-91, extending to February 15, 1891, for sale by him on commission, subject to the customary charges in Galveston, Texas, and commissions to himself for the sale and handling thereof of 2-1 per cent of the amounts of the accounts of sale thereof, one bale of cotton for every $10 loaned, and in default of shipment of said cotton that he would pay plaintiff on February 15, 1891, $1.25 for each bale he so failed to ship, as liquidated damages. A mortgage upon real estate was executed by Huddleston to plaintiff to secure the money loaned, as well as the stipulated damages under the cotton contract, and all other indebtedness which might accrue; and as further security assigned to plaintiff certain collateral promissory notes. Such contracts were customary between cotton factors and their customers.\n4. It was shown by the evidence that plaintiff used his capital in connection with his business in making advances to cotton shippers and to pay drafts drawn on cotton, in order to induce shipments of cotton, and not as a money lender; that he gave his personal attention to his business of cotton factor, and had an office, sample rooms, several clerks, and had provided every facility for carrying on his business.\n5. F. M. Huddleston, on March 3, 1890, and up to his death, which occurred October 10, 1890, was engaged in a general merchandise business at Alder Branch in Anderson County. It was customary to make advancements and loans to merchants in the interior to assist them in buying bacon, lard, flour, and other goods to advance to the farmers to help them make their crops, especially cotton, consignments of which the plaintiff sought to induce.\n6. After the death of Huddleston the notes were sent to plaintiff\u2019s attorney for collection out of his estate. A claim was prepared and presented for the amount of the notes, interest, and attorney fees. No claim was made for the stipulated damages for failure to ship cotton, and no recovery was had therefor.\n1. Whether or not the contract was usurious was a question for the determination of the court trying the case without a jury, under all the evidence. Such contracts have been usually upheld by the courts, when fairly made with the purpose of inducing consignments to the factor. Huddles-ton was a country merchant, and by his contract agreed to consign cotton to the plaintiff for sale on commission. The case of Cockle v. Flack, 93 United States, 343, is very similar to this case; and the cases of Norwood v. Faulkner, 53 American Reports, 717; Dozier v. Mitchell, 65 Alabama, 511; and Callaway v. Butler, 7 Southeastern Reporter, 224, are in point, to the effect that such contracts are not usurious when made in good faith for the purpose of inducing shipments of products to factors and commission merchants. There are no conclusions of fact in the record found by the court, but its judgment upon the statement of facts necessarily involves the conclusion that the transaction was not a cover for usurious interest.\nIt has been held by our Supreme Court, that a commission merchant may charge a commission for advances and legal interest thereon; and that such a transaction was not a mere loan for the sake of interest. Mills v. Johnson, 23 Texas, 309, 324. Appellant claims that it was a mere loan made by Kempner to Huddleston.\nWe think that the evidence shows very conclusively that it was a loan or advancement made in connection with the business of plaintiff, for the purpose of promoting the consignment of cotton to him as a cotton factor and commission merchant.\n2. The attorney fees stipulated for in the notes were properly allowed by the court, although the maker of the notes had died, because they were placed in the hands of an attorney for collection. Simmons v. Terrell, 75 Texas, 275; Morrill v. Hoyt, 83 Texas 59.\n3. It was also proper to allow interest at the rate of 12 per cent per annum after maturity, for such were the terms of the contract, and the delay caused by the death of Huddleston would not have the effect to change the tenor of the note.\n4. Appellant\u2019s second amended assignment of error is, \u201c that the court erred in finding against appellant\u2019s exceptions in his supplemental answer to appellee\u2019s first supplemental petition.\u201d\nDelivered November 3, 1892.\nThe record shows no ruling of the court below on these exceptions, and they will be held to have been waived.\nThere is no error in the judgment of the court below, and it will be affirmed.\nAffirmed.\nJustice Williams did not sit in this case.",
+        "type": "majority",
+        "author": "GARRETT, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "Thomas B. Greenwood, for appellant.",
+      "J. R. Burnett, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "L. G. Huddleston, Administrator, v. H. Kempner.\nNo. 13.\n1. Contract Not Usurious. \u2014 K. loaned H. money on notes bearing 10per cent interest to maturity and 12 per cent thereafter, with contract for 10 per cent attorney fees in the event that the note was placed with an attorney for collection ; and at the same time and as a part of the same transaction, H. contracted to ship to K. during the cotton season, for sale on a commission of 2% per cent to K.. one bale of cotton for every $10 loaned, or in default thereof to pay to If. at the end of the season $1.25 for each bale he failed to ship, as liquidated damages. The claim made being only for the amount of the note, and the loan being-made for the purpose of promoting consignments of cotton, held, not usurious.\n2. Attorney Fees! \u2014 The attorney fees stipulated for in the notes were properly allowed by the court, although the maker of the notes was dead, because they were placed with an attorney for collection.\n3. Interest. \u2014 It was proper to allow interest at the rate of 12 per cent after maturity as provided for. The delay caused by the death of H. would not have the effect to change the tenor of the notes.\n4. Exceptions Waived. \u2014 The record showing no ruling in the court below upon the exceptions of the appellant, they will beheld to have been waived.\nAppeal from Anderson. Tried below before Hon. F. A. Williams.\nThomas B. Greenwood, for appellant.\nThe transaction was usurious. Rev. Stats., 2978, 2979; Jackson v. Cassidy, 68 Texas, 282; Cockle v. Flack, 43 U. S., 344; Matthews v. Coe, 70 N. Y., 239.\nJ. R. Burnett, for appellee.\n1. The contract was not usurious. Mills v. Johnson, 23 Texas, 309; Cockle v. Flack, 93 U. S., 344; Norwood v. Faulkner, 22 S. C., 367; 53 Am. Rep., 717; Dozier v. Mitchell, 65 Ala., 511; Harmon v. Lehman, 5 So. Rep., 197; Smith v. Lehman, 5 So. Rep., 204; Calloway v. Butler, 79 Ga., 356; Matthews v. Coe, 70 N. Y., 239; Stark v. Perry, 2 Tenn. Ch., 304.\n2. Attorney fees were properly allowed. Simmons v. Terrell, 75 Texas, 275."
+  },
+  "file_name": "0211-01",
+  "first_page_order": 235,
+  "last_page_order": 238
+}

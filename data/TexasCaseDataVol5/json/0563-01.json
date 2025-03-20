@@ -1,0 +1,119 @@
+{
+  "id": 227554,
+  "name": "Angelo Battaglia v. J. P. Thomas",
+  "name_abbreviation": "Battaglia v. Thomas",
+  "decision_date": "1893-12-06",
+  "docket_number": "No. 32",
+  "first_page": "563",
+  "last_page": "568",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Tex. Civ. App. 563"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "96 Pa. St., 449",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        494643
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/96/0449-01"
+      ]
+    },
+    {
+      "cite": "65 Wis., 161",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Denio, 378",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        483905
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/denio/1/0378-01"
+      ]
+    },
+    {
+      "cite": "110 Mass., 321",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "27 Kans., 664",
+      "category": "reporters:state",
+      "reporter": "Kan.",
+      "case_ids": [
+        611207
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/kan/27/0664-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 612,
+    "char_count": 15415,
+    "ocr_confidence": 0.557,
+    "pagerank": {
+      "raw": 2.19958856256352e-07,
+      "percentile": 0.77500194026756
+    },
+    "sha256": "ef353af4293d27e285926919fe74e991ba3a2fffe4c00e814ab0507f262493e5",
+    "simhash": "1:36cbb885e8f18af3",
+    "word_count": 2688
+  },
+  "last_updated": "2024-02-27T16:31:09.266747+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Angelo Battaglia v. J. P. Thomas."
+    ],
+    "opinions": [
+      {
+        "text": "NEILL, Associate Justice.\nThe appellee sued appellant for a carload of cabbages and one of onions, alleging, that on the 1st day of February, 1888, at the special instance and request of appellant, he sold and delivered him the carload of cabbages, for which appellant bound himself and promised to pay plaintiff, thirty days thereafter, the sum of $250.26. That he, on the 7th day of February, 1888, at the special instance and request of appellant, sold and delivered him the carload of onions, for which appellant bound and promised to pay him the sum of $376.61 thirty days thereafter.\nThe appellant plead (1) a general denial, and (2) specially that he purchased from appellee, through his duly authorized agent, G. Lewis, a carload of cabbages, for which he agreed to pay him the sum of money by him alleged; but that in his contract with appellee for the purchase of said cabbages, it was agreed and understood between them that the carload of cabbages was to arrive in San Antonio, Texas, in good, sound, merchantable condition, or he would not receive them, and that when they arrived in San Antonio they were in bad, decayed, and unmerchantable condition, and that he immediately notified appellee of that fact through his agent, and called his attention to the condition of said carload of cabbages, and notified him that he would not receive it. That at the request of said Lewis, he at once notified appellee by wire of the condition in which the cabbages had arrived and of his refusal to receive them; that he notified appellee by letter that he would receive and assort and sell the cabbages at the very best price possible, for the account of appellee; that he did so sell the carload of cabbages for the account of appellee, and that after the payment of the freight and drayage there remained in his hands to appellee\u2019s account $100.40, which sum he was and at all times had been ready to pay him. Appellant also admitted in his answer that he purchased the carload of onions from appellee at the time charged by him in his petition, but alleged that they were purchased under a contract which he averred was similar in every respect to the one by which he purchased the cabbages; and that when they arrived in San Antonio they were in a bad and unmerchantable condition. That he immediately notified appellee of their condition and his refusal to receive them.\nThe appellee, by his supplemental petition, denied that he ever sold the cabbages and onions to appellant with the agreement that they were to be delivered to him in good condition in San Antonio, Texas, and alleged, that he agreed to deliver and appellant agreed to receive the same free on board the cars in San Francisco, California, and that he did deliver them to appellant in good condition in San Francisco, free on board the cars, and that from the time they were so delivered they were at the risk of appellant, and that he was not responsible for their loss in transit.\nConclusions of Fact.\u2014 1. On the 1st day of February, 1888, the appellee, through his agent, Gr. Lewis, sold appellant one carload of cabbages, for which he agreed to pay appellee, thirty days after date, $250.26; and on the 7tli day of said month appellee sold him a carload of onions, for which appellant agreed to pay him $376.61, thirty days thereafter; and that at the time of the sale both appellee and appellant were merchants and dealers in cabbages and onions.\n2. That said onions and cabbages were by the contract to be delivered appellant by appellee free on board the cars at San Francisco, California, to be shipped from there to appellant at San Antonio, Texas, and were so delivered.\n3. That appellee\u2019s agent, Lewis, was not authorized to contract with appellant that the cabbages and onions should arrive at San Antonio in good, sound, merchantable condition; that appellant at the time he purchased the goods knew that the agent did not have such authority from his principal, and that said agent did not contract that they should arrive in San Antonio in a good, sound, merchantable condition.\n4. That the carloads of cabbages and onions arrived in San Antonio in a bad condition.\n5. That the appellant never paid for them.\nConclusions of Law. \u2014 Where goods are sold by dealers to dealers, there is no implied warranty as to their quality arising out of the ultimate intention that the goods shall be consumed as food. Lukens v. Freiund, 27 Kans., 664; Howard v. Emerson, 110 Mass., 321; Moses v. Mead, 1 Denio, 378. Therefore there was no warranty on appellee\u2019s part at the time the goods were sold and delivered as to their quality or condition. Their condition or unfitness for market was not put in issue by either appellant\u2019s denial or special plea. It could only have been put in issue by a plea of fraud, alleging that at the time of sale and shipment that appellee knew that they were unsound and unfit for market. This issue not being made, it was immaterial in the case whether the goods were sound and marketable at the time of sale and shipment or not. The only issue made by the pleadings was, whether appellee, at the time the cabbages and onions were sold to appellant, warranted they should arrive in good, sound, and merchantable condition in San Antonio; and the correctness of the court\u2019s rulings as to the admission or rejection of testimony, as well as the correctness of its charge, must be determined in view of this issue.\nIt is assigned as error, that the court erred in admitting in evidence, over appellant\u2019s objection, copies of certain letters purported to have been written by appellee to appellant in regard to the subject matter of the controversy, upon the ground that the originals were the best evidence. It appears that the original letters were at the time of the trial in the possession of appellant at his office in the city of San Antonio, where the trial occurred, and that he was notified by appellee\u2019s counsel on the trial to produce them, and that he had time and opportunity to so produce them before the copies were read in evidence; the copies had been on file with the papers sometime, and had been read in evidence upon a former trial without objection. Appellant might have reasonably anticipated that they would be offered in evidence again, and was prepared to produce originals, and would have doubtless \"done so if they would have been to his advantage. Under these circumstances we think secondary evidence was admissible.\nIt has been seen that the only issue made by the pleadings in this case was whether appellee, at the time the cabbages and onions were sold to appellant, warranted they should arrive at San Antonio in good, sound, and merchantable condition. It was not plead in defense that they were not in such condition when shipped from San Francisco. If there was any question about their condition when they arrived in San Antonio, it would have been permissible to prove they were not in good condition at the time of shipment, for the purpose of establishing, under appellant\u2019s special plea, their condition- when they reached San Antonio. The uncontradicted testimony shows that when they arrived at their destination their condition was not good and merchantable. Hence the testimony of the witnesses offered as experts to prove by circumstances that their condition could not have been good when shipped, was immaterial and not pertinent, and it was not error to exclude it.\nThe appellant offered to prove by several witnesses, that the reputation of S. Antolde, a witness for appellee, who had for years resided in San Antonio, but who for the last four years prior to the trial had resided in California, for truth and veracity in San Antonio, Texas, was bad when he lived in said city. It seems from Mynatt v. Hendson, 66 Texas, 67, that the credibility of a witness may be impeached in this way. But in this case the only fact testified to by Antolde was the condition of the goods at the time of shipment, and as his evidence was on an immaterial issue, it was a matter of no importance in the case whether he testified to the truth or not.\nThe goods were sold by plaintiff through his broker, G. Lewis. The court instructed the jury, that \u201c If they believed from the evidence that Lewis was unauthorized to warrant the produce to be sound and in good marketable condition on its arrival in San Antonio, and defendant knew said agent\u2019s want of authority to make such warranty, it could not be binding on plaintiff; and the defendant could not recover for the breach, even though the warranty was made by the agent while acting in the usual scope of his authority.\u201d This part of the charge is assigned as error, upon the ground, that if the warranty was made by the agent, it was binding upon the principal after he elected to confirm the contract. There was no evidence that appellee ever, with knowledge of an unauthorized warranty by his agent, elected to confirm the contract. All the evidence was the other way. In the absence of knowledge on the part of the principal that his agent has exceeded his authority, there can be no ratification of his unauthorized act.\nThe charge of the court did not, perhaps, present the issue to the jury as clearly as it might have; but wherein it failed to do so was upon the measure of damages in the event the contract should be found to be such as was pleaded by appellant. As that issue was determined against appellant, the error, if any, was wholly immaterial. The charge did clearly present the issue upon which the jury found their verdict, and in view of its finding, it is unnecessary for us to determine whether the charge on the measure of damages was correct upon the hypothesis that the contract was such as pleaded by appellant.\nThe appellee was entitled to recover from the appellant the contract price for said carloads of cabbages and onions, with interest thereon at the rate of 8 per cent per annum from the 1st day of January, 1889.\nNo reversible error appears in the record, and the judgment of the District Court is affirmed.\nAffirmed.\nDelivered October 11, 1893.",
+        "type": "majority",
+        "author": "NEILL, Associate Justice."
+      },
+      {
+        "text": "ON MOTION FOB REHEABING.\nNEILL, Associate Justice.\nA general denial has the effect of requiring the plaintiff to establish the allegations he has made which are material to his case: Altgelt v. Emilienburg, 64 Texas, 150; Guess v. Lubbock, 5 Texas, 535.\nIt is not necessary that he should prove an allegation which he may unnecessarily have made. For example, in suits for debt it is common for the plaintiff to allege that no payment has been made; yet it would not be contended that in such case the defendant would be allowed, under his general denial, to disprove the averment by proving payment.\nDelivered December 6, 1893.\nIt is our opinion that if redress is sought for the breach of an implied as well as an express warranty, the defendant must plead it specially. A general denial will not avail him, although the plaintiff may have needlessly alleged facts which, if proved, would show compliance with a warranty. In this case no implied warranty is claimed, nor is any fraudulent conduct on the part of plaintiff alleged in the delivery of the goods, either of which would have afforded defendant like ground for redress, and are subject to the same rules of pleading when sought to be used. Nor is there anything in defendant\u2019s pleadings \u2014 as, for instance, an allegation that the produce was sold and bought directly for consumption\u2014 from which a warranty would necessarily be implied. On the contrary, an express warranty is alleged by the defendant to have been given, viz., that the goods should be delivered in good condition in San Antonio, which of course would involve their being in good condition when shipped, and this view of the case clearly excludes the existence of an implied warranty. The verdict of the jury in this case, to whom was submitted the issue concerning the express warranty, was a finding against such warranty having been made; and as stated by this court in its opinion, this event renders immaterial errors the court may have committed in respect to testimony concerning the condition of the goods in California when shipped. We see no reason to reverse the conclusion arrived at in our opinion rendered in this case. The question concerning jurisdiction has no merit.\nThe motion for rehearing is overruled.\nMotion refused.",
+        "type": "rehearing",
+        "author": "NEILL, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "W. H. Huston and George G. Altgelt, for appellant."
+    ],
+    "corrections": "",
+    "head_matter": "Angelo Battaglia v. J. P. Thomas.\nNo. 32.\n1. Pleading \u2014 Practice \u2014 Evidence. \u2014 In an action for the contract price of goods sold and delivered, there being no implied or express warranty as to quality, under a plea that they reached the buyer in an unsound and unmarketable condition, evidence of condition of goods at time and place of shipment was properly excluded. There should have been a special plea that the seller knew the goods were unsound and unmarketable when he shipped them.\n2. Secondary Evidence. \u2014 It was not error to admit as secondary evidence copies of letters the originals of which were in the possession of defendant, and he had been notified to produce them on the trial, and the copies had been on file in the case sometime, and had been read without objection on a former trial of the same case.\n3. Impeachment of a Witness. \u2014 It was not error to exclude evidence to impeach a witness where the only fact testified to by him was on an immaterial issue.\nON REHEARING.\n4. Implied Warranty \u2014 Pleading. \u2014 In an action for merchandise sold and delivered, defendant can not prove an implied warranty, in the absence of an allegation thereof, or of facts from which it would necessarily be implied, especially where he alleges an express warranty.\nAppeal from Bexar. Tried below before Hon. W. W. King.\nW. H. Huston and George G. Altgelt, for appellant.\n1. The copies of the letters were not admissible in evidence until after showing the execution of the originals, the correctness of the copies, that they had been received, and after accounting for the nonproduction of the originals. Mueller v. Hoyt, 14 Texas, 49; Renn v. Samos, 33 Texas, 760; Railway v. Donaldson, 2 Willson\u2019s C. C., sec. 241; 1 Greenl. on Ev., sec. 88; Wade on Notice,-; 1 Thomp. on Trials, 832.\n2. The court erred in excluding evidence of the condition of the goods at the time of shipment. Armendiaz v. Stillman, 67 Texas, 458; Railway v. Klaus, 64 Texas, 294; Carwell v. Welch, 26 Texas, 147.\n3. Appellant was not bound to receive the goods unless they were what he contracted for; and the court erred in instructing the jury, if they found that the goods were in sound, marketable condition when they were delivered on board cars at place of shipment, appellant was bound for their contract price, whether they reached him in sound, marketable condition or not. Love v. Wyatt, 19 Texas, 312; Loving v. Dixon, 56 Texas, 77; Markham v. Carothers, 47 Texas, 22; Railway v. Terry, 42 Texas, 451; Bish. on Con., secs. 1097, 1110, 1114.\nDenman & Franklin and Filis & Haley, for appellee. \u2014 1. As to the correctness of admitting the copies of the letters in evidence: Lumber Co. v. Tel. Co., 58 Texas, 398; 1 Thomp. on Trials, secs. 772, 781, 783.\n2. The condition of goods at place of shipment was not an issue in the case, and the purchase of same by defendant at price stated in plaintiff\u2019s petition is not denied. The rejection of testimony on that point, if an error, was an immaterial one. Sarbecker v. State, 65 Wis., 161; Garbracht v. Commonwealth, 96 Pa. St., 449."
+  },
+  "file_name": "0563-01",
+  "first_page_order": 589,
+  "last_page_order": 594
+}

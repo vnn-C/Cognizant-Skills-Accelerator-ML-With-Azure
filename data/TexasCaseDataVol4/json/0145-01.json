@@ -1,0 +1,63 @@
+{
+  "id": 223710,
+  "name": "W. H. Long v. Frances Kruger",
+  "name_abbreviation": "Long v. Kruger",
+  "decision_date": "1893-09-20",
+  "docket_number": "",
+  "first_page": "145",
+  "last_page": "145",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Tex. Civ. App. 145"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 123,
+    "char_count": 1701,
+    "ocr_confidence": 0.57,
+    "pagerank": {
+      "raw": 5.061447019797991e-08,
+      "percentile": 0.3194971984853171
+    },
+    "sha256": "873de47b6b6a5c454bc7e9ddcdbbb91c0f597ee3d9ff369e30a673b9e5a7f580",
+    "simhash": "1:4ee8e049dcc854b0",
+    "word_count": 292
+  },
+  "last_updated": "2023-07-14T14:53:58.701798+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "W. H. Long v. Frances Kruger."
+    ],
+    "opinions": [
+      {
+        "text": "FISHER, Chief Justice.\nWe are asked to dismiss this appeal for want \u25a0of jurisdiction on account of the alleged insufficiency of the appeal bond, for the following reasons:\nThis is an injunction suit, in which appellant gave an injunction bond, \u25a0on which Leonard Magee was a surety; judgment was rendered in favor of appellee against appellant and said surety for damages and costs on the appeal bond filed in this case; the said Leonard Magee is one of the sureties. That there is only one surety on said bond besides Magee.\nThe point here raised is, that the appeal bond is insufficient because it has only one surety; that Magee is not a proper surety, as judgment was rendered against him for damages and costs, by reason of his being a surety on the injunction bond.\nWe will follow the cases of Trammell v. Trammell, 15 Texas, 291; Saylor v. Marx, 56 Texas, 90; and Sampson v. Solinsky, 75 Texas, 663, which authorizes us to hold the bond sufficient. The alleged defects in the bonds passed upon in those cases, and the liabilities of the sureties against whom the judgments were rendered, are practically the same as exist in the case before us.\nMotion to dismiss the appeal will be overruled.\nMotion overruled.",
+        "type": "majority",
+        "author": "FISHER, Chief Justice."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "W. H. Long v. Frances Kruger.\nSurety on Appeal Bond \u2014 Cases Adhered to. \u2014 Trammell v. Trammel], 15 Texas, 291; and Sampson v. Solinsky, 75 Texas, 663, adhered to. A surety upon an injunction bond may become surety on appeal bond,.the principal appealing in same case, although upon dissolution of the injunction judgment was entered against him for damages and costs.\nAppeal from McLennan. On motion to dismiss appeal for want of sufficient appeal bond.\nDelivered September 20, 1893."
+  },
+  "file_name": "0145-01",
+  "first_page_order": 169,
+  "last_page_order": 169
+}

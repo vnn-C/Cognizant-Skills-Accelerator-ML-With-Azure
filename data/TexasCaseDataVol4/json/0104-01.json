@@ -1,0 +1,169 @@
+{
+  "id": 223757,
+  "name": "F. P. McGhee, Administrator, v. W. T. Dickey et al.",
+  "name_abbreviation": "McGhee v. Dickey",
+  "decision_date": "1893-09-20",
+  "docket_number": "No. 199",
+  "first_page": "104",
+  "last_page": "106",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Tex. Civ. App. 104"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "1 McLean, 509",
+      "category": "reporters:federal",
+      "reporter": "McLean",
+      "case_ids": [
+        6130305
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f-cas/28/0792-01"
+      ]
+    },
+    {
+      "cite": "6 Cal., 26",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2215637
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal/6/0026-01"
+      ]
+    },
+    {
+      "cite": "49 Ala., 402",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        5475548
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/49/0402-01"
+      ]
+    },
+    {
+      "cite": "70 N. Y., 521",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2166477
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/70/0521-01"
+      ]
+    },
+    {
+      "cite": "19 Am. Rep., 58",
+      "category": "reporters:state_regional",
+      "reporter": "Am. Rep.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "41 Am. Rep., 418",
+      "category": "reporters:state_regional",
+      "reporter": "Am. Rep.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "25 Am. Dec., 677",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "93 U. S., 599",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5645864
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/93/0599-01"
+      ]
+    },
+    {
+      "cite": "103 U. S., 480",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1522311
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/103/0480-01"
+      ]
+    },
+    {
+      "cite": "103 U. S., 471",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1522286
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/103/0471-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 366,
+    "char_count": 5113,
+    "ocr_confidence": 0.576,
+    "pagerank": {
+      "raw": 1.655339145117248e-07,
+      "percentile": 0.6934429381790213
+    },
+    "sha256": "0a5be2284f2dc22c6b4cd51237b017d6df68298c251c5b09b7499c025d5b2c32",
+    "simhash": "1:acac54070d3a8bbe",
+    "word_count": 871
+  },
+  "last_updated": "2024-02-27T18:01:03.208661+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "F. P. McGhee, Administrator, v. W. T. Dickey et al."
+    ],
+    "opinions": [
+      {
+        "text": "STEPHENS, Associate Justice.\nThe judgment appealed from contains the conclusions of law and fact upon which it rests, and these conclusions we approve and adopt.\nThe title of appellees to the lot of land in controversy depends upon the validity of a probate sale. The application for the sale was regular, and the order therefor duly entered, but no order approving the sale could be found. The court, however, found that a report of the sale had been made and approved, and we think the paroi testimony was sufficient to warrant this finding. The sale seems to have been approved at the August Term, 1884, of the County Court of Wilbarger County, by Judge Doan, then acting as county judge, though he had a few months prior thereto made an unconditional tender of his resignation to the Commissioners Court, which had not been accepted, but at the instance of said Commissioners Court had been withdrawn. The contention of appellant, that this unconditional tender of resignation created a vacancy in the office of county judge of Wilbarger County, is supported by a decision of the Court of Appeals, reported in 2 Willson\u2019s Civil Cases, sections 707, 708, and by other authorities cited in that opinion.\nWe have reached the conclusion, however, that the weight both of reason and authority is with the holding, that so far as the rights of third persons are concerned, a public office does not become vacant by an unaccepted resignation, especially in this State, where we have the following constitutional provision: \u201cAll officers within this State shall continue to perform the duties of their offices until their successors shall be duly qualified.\u201d Const., art. 16, sec. 17. In this respect the State, it seems, like nature, abhors a vacuum. The public necessity for continuity of official tenure is not left to the caprice of the office holder. The contract for public service imposes a mutual obligation upon the officer and the public, which can not be arbitrarily dispensed with by either party. Mech. on Pub. Off., sec. 414; 19 Am. and Eng. Encycl. of Law, 562r; Edwards v. United States, 103 U. S., 471; Thompson v. United States, 103 U. S., 480; Badger v. United States, 93 U. S., 599; Henderson v. Hoke, 25 Am. Dec., 677; The State v. Clayton, 41 Am. Rep., 418; Jones v. City of Jefferson, 66 Texas, 576.\nIf, however, this position be erroneous, it would seem that the action of the Commissioners Court in inducing Judge Doan to withdraw his resignation amounted to the exercise of the appointive power lodged in that'tribunal. Whether this action of the Commissioners Court was evideuced by writing does not appear, and whether a verbal appointment to office is valid we need not decide. Mech. on Pub. Off., secs. 115, 116; Hoke v. Field, 19 Am. Rep., 58; People v. Murray, 70 N. Y., 521. In this state of the record, on collateral attack, we think it should be presumed that a minute was made of the action of said court in making choice of Judge Doan to fill out his unexpired term of office, and that in approving the sale he was at least a de facto officer.\nDelivered September 20, 1893.\nThere was no error in the admission of evidence of which appellant can justly complain. The foregoing conclusions dispose of all the other assignments of error, and lead to an affirmance of the judgment.\nAffirmed.",
+        "type": "majority",
+        "author": "STEPHENS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "McGhee & Easton, for appellant.",
+      "No brief for appellees reached the Reporter."
+    ],
+    "corrections": "",
+    "head_matter": "F. P. McGhee, Administrator, v. W. T. Dickey et al.\nNo. 199.\n1. Office \u2014 Time when Resignation Takes Effect. \u2014 In view of the constitutional provision, that \u201call officers within this State shall continue to perform the duties of their offices until their successors shall be duly qualified,\u201d it must be held, that an unaccepted resignation afterwards withdrawn does not* in so far as the rights of third parties are concerned, create a vacancy, though it be unconditionally tendered.\n2. Same\u2014De Facto Officer.\u2014Where a county judge tendered an unconditional resignation to the Commissioners Court, which was not accepted, but was at the instance of said court withdrawn, his subsequent acts as county judge will,\" on collateral attack, be at least regarded as those of a de facto officer.\nAppeal from Wilbarger.\nTried below before Hon. G. A. Brown.\nThis was an action of trespass to try title, brought by appellant, as administrator, to recover a lot in the city of Vernon. From a judgment in favor of defendants, plaintiff appealed.\nMcGhee & Easton, for appellant.\nThe court erred in finding that the sale of the lots had been approved by the probate judge, because the evidence shows that the office of the probate judge of Wilbarger County, at August Term, 1884, was vacant, Judge Doan having before that time resigned, and had not been appointed judge. When an officer tenders his unconditional resignation, no acceptance is necessary, and the office thereby becomes vacant; and all judgments and orders done or made by a judge after such resignation, without reappointment, are coram non judice and void. 2 Willson\u2019s C. C., secs. 707, 708; Williams v. Fitts, 49 Ala., 402; People v. Porter, 6 Cal., 26; United States v. Wright, 1 McLean, 509.\nNo brief for appellees reached the Reporter."
+  },
+  "file_name": "0104-01",
+  "first_page_order": 128,
+  "last_page_order": 130
+}

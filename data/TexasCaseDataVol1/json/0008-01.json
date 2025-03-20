@@ -1,0 +1,85 @@
+{
+  "id": 216221,
+  "name": "T. J. Todd et al. v. E. Roberts",
+  "name_abbreviation": "Todd v. Roberts",
+  "decision_date": "1892-10-11",
+  "docket_number": "No. 7",
+  "first_page": "8",
+  "last_page": "9",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Tex. Civ. App. 8"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "91 U. S., 291",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5648235
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/91/0291-01"
+      ]
+    },
+    {
+      "cite": "95 U. S., 480",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 204,
+    "char_count": 2851,
+    "ocr_confidence": 0.594,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.00856517117407231
+    },
+    "sha256": "12be6c88862b3d4954d020f65edd8920e990510438bf8506b43ac292d995ccf6",
+    "simhash": "1:5f5fdce3080272ed",
+    "word_count": 486
+  },
+  "last_updated": "2024-02-27T16:44:05.763049+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "T. J. Todd et al. v. E. Roberts."
+    ],
+    "opinions": [
+      {
+        "text": "WILLIAMS, Associate Justice.\nThis suit was brought in Justice Court by appellee against appellant upon two drafts or bills of exchange drawn by appellant in favor of appellee on the Houston, East & West Texas Railway Company, payment of which had been refused by the drawee on presentation.\nAppellant filed in the Justice Court a written plea under oath, alleging, in substance, that the drafts were given for tie timber purchased of appellee for the Houston, East & West Texas Railway; that it was understood between appellant and appellee, at the time the drafts were given, that appellant was not to be held liable upon them, but that appellee was to look to the railway company for payment; and that the drafts were intended only as memoranda or vouchers to show the amount due appellee from the compafiy for timber.\nExceptions to this plea were sustained in the Justice Court; and in the \u25a0 District Court, to which the case was taken on appeal, the same ruling was made; this ruling forms the basis of the only complaint made in this court on appeal.\nThe ruling of the court below sustaining exceptions to the plea, was correct. The plea plainly sought to vary the written instruments sued on, by proof of parol contemporaneous agreement.\nDelivered October 11, 1892.\nBy those instruments appellant agreed that the railway company would pay the amounts specified in them, and that if the company failed to do so, appellee would. Parol evidence was not admissible to show a different agreement. Rockmore v. Davenport, 14 Texas, 605. The judgment is affirmed.\nAffirmed.",
+        "type": "majority",
+        "author": "WILLIAMS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "E. B. Wheels, for appellants.",
+      "Davis & Garrison, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "T. J. Todd et al. v. E. Roberts.\nNo. 7.\nSuit on Drafts \u2014 Insufficient Answer. \u2014 An answer to a suit on two protested drafts, drawn by the defendant, which sets up under oath that they were given for tie timber purchased by defendant from plaintiff, and that at the time they were given it was understood between plaintiff and defendant that defendant was not to be held liable upon them, but that plaintiff was to look to the railway company for payment, and that the drafts were intended only as memoranda or vouchers to show the amount due the plaintiff from the company for timber, presents no defense to the action; being an effort to vary the written instrument sued on by proof of parol contemporaneous agreement.\nAppeal from Shelby. Tried below before the .Hon. Jas. I. Perkins.\nThe opinion states the case.\nE. B. Wheels, for appellants.\nThat the answer was sufficient, cited Ross v. Armstrong, 25 Texas Sup., 354; Barrel v. De Normandie, 26 Texas, 120; 1 White & Willson Rep., sec. 8; 2 White & Willson, sec. 2; Dun-ham v. Chatham, 21. Texas, 230; 1 Story Eq., secs. 153, 156, 157.\nDavis & Garrison, for appellee.\nThat parol evidence is inadmissible to contradict or vary a written instrument, cited. Brown v. Spofford, 95 U. S., 480; Forsythe v. Kimball, 91 U. S., 291."
+  },
+  "file_name": "0008-01",
+  "first_page_order": 32,
+  "last_page_order": 33
+}

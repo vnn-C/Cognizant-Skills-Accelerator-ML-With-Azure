@@ -1,0 +1,66 @@
+{
+  "id": 216252,
+  "name": "J. W. Welborn et al. v. P. J. Norwood",
+  "name_abbreviation": "Welborn v. Norwood",
+  "decision_date": "1892-12-13",
+  "docket_number": "No. 732",
+  "first_page": "614",
+  "last_page": "615",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Tex. Civ. App. 614"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 271,
+    "char_count": 4957,
+    "ocr_confidence": 0.579,
+    "pagerank": {
+      "raw": 5.110286969632169e-08,
+      "percentile": 0.32079534366675433
+    },
+    "sha256": "fc957a0b294958fc3f4f0a541440d09b7f1fbb2e1fd9a80f5ad8a80590e9d06e",
+    "simhash": "1:a43f952eb4471064",
+    "word_count": 858
+  },
+  "last_updated": "2023-07-14T14:31:22.177647+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "J. W. Welborn et al. v. P. J. Norwood."
+    ],
+    "opinions": [
+      {
+        "text": "TARLTON, Chief Justice.\nAugust 20, 1889, the appellee, P. J. Norwood, brought this suit against J. W. Welborn and T. H. Griffin, appellants, in the County Court of Johnson County, to recover the sum of $194.26, besides interest and 10 per cent attorney fees, as evidenced by a promissory note executed by appellants to appellee. Appellants filed a special defense, charging failure of consideration, in this, that the note sued upon was executed in consideration-of a promise by plaintiff that he would deliver to defendants a certain promissory note for the sum of $173.45, which had been previously drawn in favor of plaintiff by P. H. Welborn and two others, and that plaintiff had failed and refused to deliver up, in compliance with his promise, the note so previously executed.\nDelivered December 13, 1892.\nTo this plea the court sustained a special exception, and we think correctly. The plea nowhere specifies that the plaintiff undertook to surrender the note at any particular time. If, as stated in the plea, the note sued upon was received by the plaintiff in consideration of the cancellation of the substituted note, the latter could constitute no obligation against the defendants, whether it was actually surrendered or not. The time of performance in no way appears to have been of the essence of the agreement to surrender, and the plaintiff, by the terms of the agreement, was not called upon to surrender the former note before asserting the latter. Tied, on Com. Paper, sec. 204.\nAppellant Welborn filed a further defense, alleging that the consideration for said note was illegal, in this, that the note sued upon was executed in consideration of the \u201cpromise of the plaintiff to refrain and desist from prosecuting P. H. Welborn, who is the son of this defendant (J. W. Welborn), for forging and passing a certain note alleged by plaintiff to have been forged by P. H. Welborn, and to conceal from the officers of the law all the information and knowledge that the plaintiff had of the fact that P. H. Welborn had forged and passed said note.\u201d The note referred to as forged was the note already referred to for $173.45, executed by P. H. Welborn and two others in favor of plaintiff. A special exception was sustained to this plea, and we think erroneously. The ground of the exception is, that the answer 16 does not allege by any positive averment that P. H. Welborn forged said note for $173.45.\u201d The answer does show an agreement not to prosecute P. H. Welborn for forgery. It shows an agreement on the part of the plaintiff, in consideration of the note sued on, to stifle a prosecution and to suppress evidence with reference to the investigation of a felony. We think these facts, if true, were sufficient to taint the contract and avoid it. Wegner Bros. v. Biering & Co., 65 Texas, 509; Tied. on Com. Paper, sec. 183.\nThe judgment is reversed and the cause remanded.\nMeversed and remanded.",
+        "type": "majority",
+        "author": "TARLTON, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "J. O. Davis and W. B. Featherston, for appellants.",
+      "O. T. Plummer, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "J. W. Welborn et al. v. P. J. Norwood.\nNo. 732.\n1. Promissory Note \u2014 Failure of Consideration \u2014 Surrender of Another Note. \u2014 A plea charging failure of consideration, in this, that the note sued on was executed in consideration of a promise by plaintiff to deliver up another note previously executed to plaintiff, and which he had failed to so surrender, is bad on special exception in failing to show that plaintiff undertook to surrender such other note at any particular time, or that time was of the essence of the agreement to surrender it.\n2. Same \u2014 Pleadings \u2014Illegal Consideration. \u2014A plea alleging that the note sued on was executed in consideration of a promise of the plaintiff (payee) to refrain from prosecuting one P. for forging and passing a certain note alleged by plaintiff to have been forged by P., and to conceal from the officers of the law all the information plaintiff had of the fact that P. had forged said note, is a good plea; and a special exception on the ground that it does not allege by any positive averment that P. forged said note, was erroneously sustained.\nAppeal from the County Court of Johnson. Tried below before Hon. F. E. Adams.\nJ. O. Davis and W. B. Featherston, for appellants.\nAll contracts, including commercial paper, made and given for compounding a felony, are against public policy, illegal, and void. 1 W. & W. Cond. Cases, secs. 1331, 1332; Seeligson v. Lewis, 65 Texas, 215; Wegner Bros. v. Biering, 65 Texas, 506; 2 Rand. on Com. Paper, secs. 494, 501, 504.\nO. T. Plummer, for appellee.\n1. The. contract evidenced by the note sued on did not depend on the delivery of the former note. Where no time is specified, and the character of the contract will permit its performance at any time, there can not be a failure of consideration as long as the contract is not rescinded. Tied. on Com. Paper, sec. 204.\n2. The plea of illegal consideration should have specifically averred that R. H. Welborn had forged the note therein mentioned. 2 Rand. on Com. Paper, sec. 501, and note 2."
+  },
+  "file_name": "0614-01",
+  "first_page_order": 638,
+  "last_page_order": 639
+}

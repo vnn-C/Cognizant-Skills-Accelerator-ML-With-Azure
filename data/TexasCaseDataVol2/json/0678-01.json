@@ -1,0 +1,139 @@
+{
+  "id": 219159,
+  "name": "A. H. Andrews & Co. v. John Curtis et al., Trustees",
+  "name_abbreviation": "A. H. Andrews & Co. v. Curtis",
+  "decision_date": "1893-03-30",
+  "docket_number": "No. 748",
+  "first_page": "678",
+  "last_page": "679",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 678"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "15 Wall., 566",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.,",
+      "case_ids": [
+        3424380
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/82/0566-01"
+      ]
+    },
+    {
+      "cite": "10 Wall., 676",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.,",
+      "case_ids": [
+        3436848
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/77/0676-01"
+      ]
+    },
+    {
+      "cite": "19 Wall., 468",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.,",
+      "case_ids": [
+        3432959
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/86/0468-01"
+      ]
+    },
+    {
+      "cite": "44 Iowa, 564",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        103772
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/iowa/44/0564-01"
+      ]
+    },
+    {
+      "cite": "78 Ill, 474",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        824035
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/78/0474-01"
+      ]
+    },
+    {
+      "cite": "78 Ill, 474",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        824035
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill/78/0474-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 238,
+    "char_count": 2518,
+    "ocr_confidence": 0.593,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.008707457461805687
+    },
+    "sha256": "f04dc09266a1153671f68514066b270963d15af48866348dd46bd95c11fd0114",
+    "simhash": "1:78abd4782edce3fc",
+    "word_count": 426
+  },
+  "last_updated": "2024-02-27T19:43:33.086404+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "A. H. Andrews & Co. v. John Curtis et al., Trustees."
+    ],
+    "opinions": [
+      {
+        "text": "STEPHENS, Associate Justice.\nThis case went off on demurrer. Appellant, a corporation chartered in Illinois, sued the trustees of a school district in Clay County on a promissory note executed by their predecessors, under the school law of 1884, for school furniture for said district; alleging that the furniture was necessary, and that the school community continued to use it, etc., and praying in the alternative to recover on a quantum meruit.\nWe are of opinion that the law did not authorize the trustees to bind the school district in the manner alleged, and that appellant\u2019s only remedy was to recover the furniture. We are confirmed in these views by the case cited by appellant from the Supreme Court of the State of its domicile, which decides both propositions squarely against it. Clark v. School District, 78 Ill., 474.\nThe judgment will be affirmed.\nAffirmed.\nDelivered March 30, 1893.\nA motion for rehearing was overruled.",
+        "type": "majority",
+        "author": "STEPHENS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "R. D. Welborne, for appellant.",
+      "Templeton & Patton, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "A. H. Andrews & Co. v. John Curtis et al., Trustees.\nNo. 748.\nSchool District\u2014Power of Trustees to Contract Debt for School Furniture.\u2014Under the school law of 1884, the trustees of a public school district were not authorized to bind the district by a note given for school furniture; nor would the district be liable therefor on a quantum meruit because the furniture had been received and used.\nAppeal from County Court of Clay. Tried below before Hon. J. C. Chesnutt.\nR. D. Welborne, for appellant.\nPlaintiff\u2019s pleading showed a valid cause of action on the note, and on a quantum meruit, and the court erred in sustaining exceptions to it. Sayles\u2019 Civ. Stats., arts. 3733f, 3746, 3754, 3759; Clark v. School District, 78 Ill, 474; Bellmeyer v. Independent District, 44 Iowa, 564.\nTempleton & Patton, for appellees.\nThe contract set out in plaintiff\u2019s petition was ultra vires and void, and the use of the furniture by the patrons of the school could not operate as a ratification of such void contract, or create a liability on a quantum meruit. Const., art. 7, sec. 5; Acts 1884, pp. 50-52, secs. 37-53; Railway v. Galveston, 69 Texas, 660; Bank v. Terrell, 78 Texas, 450; Mayor v. Ray, 19 Wall., 468; Marsh v. Fulton, 10 Wall., 676; Police Jury v. Britton, 15 Wall., 566; 10 Myers\u2019 Fed. Dec., secs. 2001, 1979, 2037-2039 of title \u201c Corporations;\u201d Waterman on Spec. Perf., secs. 219-221; Dan. on Neg. Inst., secs. 377-379, 421-423; Tied, on Com. Paper, secs. 133-136; Boone on Corp., secs. 100, 322, 323; Green\u2019s Brice\u2019s Ultra Vires, 58-62; 1 Dill, on Mun. Corp., sec. 381."
+  },
+  "file_name": "0678-01",
+  "first_page_order": 704,
+  "last_page_order": 705
+}

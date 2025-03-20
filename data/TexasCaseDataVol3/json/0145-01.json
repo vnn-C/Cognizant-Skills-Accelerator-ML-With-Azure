@@ -1,0 +1,66 @@
+{
+  "id": 221018,
+  "name": "Justin Cook v. The Texas & Pacific Railway Company",
+  "name_abbreviation": "Cook v. Texas & Pacific Railway Co.",
+  "decision_date": "1893-04-12",
+  "docket_number": "No. 138",
+  "first_page": "145",
+  "last_page": "146",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 145"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 237,
+    "char_count": 3909,
+    "ocr_confidence": 0.542,
+    "pagerank": {
+      "raw": 4.719567370958748e-08,
+      "percentile": 0.29669992343182944
+    },
+    "sha256": "85d8b20a834b082c790b8df8e71458bd81f39a0ee0b331c7fc7951ab4226f398",
+    "simhash": "1:a34912cb205e7ca9",
+    "word_count": 672
+  },
+  "last_updated": "2023-07-14T18:08:23.206239+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Justin Cook v. The Texas & Pacific Railway Company."
+    ],
+    "opinions": [
+      {
+        "text": "STEPHENS, Associate Justice.\nThe assignment of errors was stricken from this record by the Supreme Court, and unless there is fundamental error in the judgment it must be affirmed.\nDefendant in error obtained a temporary injunction, restraining the sale under execution of four lots of land situated in the same block in the town of Baird.\nOn final hearing the injunction was made perpetual. The sale was restrained on the ground, that defendant in error was not a party to the judgment upon which the execution issued, and that by the sale a cloud would be cast upon its title; and as the four lots might pass into the hands of as many different purchasers, there was an apprehension of a multiplicity of suits. No facts were alleged tending to show that the contemplated sale under execution would affect the title of defendant in error. Under the well settled rule in this State, it must be held that the petition upon which the judgment enjoining the sale was rendered will not support such a judgment. Mann v. Wallis, Landes & Co., 75 Texas, 611, and cases there cited.\nIn the case of Purinton v. Davis, 66 Texas, 455, where seven tracts of land had been levied upon as the property of the defendant in the execution, an injunction of the sale at the instance of one not a party to the judgment was refused, because the petition did not state facts showing that a sale would cast a cloud upon the title of the owner. In reference to the alleged multiplicity of suits apprehended in that case, the court, in substance, stated, that as no cloud would be cast upon the title by the sale, the owner had no occasion to sue the purchasers, and there was no ground for apprehending that the purchasers would institute suits without even a cloud of title. In the case relied on by appellee to sustain the judgment (Anderson County v. Kennedy, 58 Texas, 624), which was a suit to enjoin a tax sale of thirteen tracts of land, to prevent a multiplicity of suits alone was not announced as one of the grounds upon which the injunction was sustained, but to prevent a multiplicity of suits to remove cloud from title. Where the title is not affected by the sale, there is no occasion, in legal contemplation, for any suit whatever. The petition of appellee being entirely wanting in this respect, fundamental error is presented, which necessitates a reversal of the judgment.\nThe cause will be remanded for further proceedings, should appellant desire to amend.\nReversed and remanded.\nDelivered April 12, 1893.",
+        "type": "majority",
+        "author": "STEPHENS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "J. E. Thomas, for plaintiff in error.",
+      "F. S. Bell, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Justin Cook v. The Texas & Pacific Railway Company.\nNo. 138.\nInjunction Restraining Execution Sale\u2014Cloud on Title\u2014Multiplicity of Suits.\u2014A petition for injunction, alleging that four lots, the property of plaintiff, had been levied on under an execution issued in a suit to which plaintiff was not a party, and that a sale thereunder would cast a cloud on plaintiff\u2019s title, and probably result in a multiplicity of suits, will not support a judgment restraining such sale, since the facts stated do not show that the sale could create a cloud on plaintiff\u2019s title, and in such case apprehension of a multiplicity of suits will not alone afford ground for the injunction.\nError from Callahan. Tried below before Hon. T. H. Conner.\nJ. E. Thomas, for plaintiff in error.\nPlaintiff was not entitled to the injunction asked, and the judgment should have been for the defendant. Bourke v. Vanderlip, 22 Texas, 222; Willis v. Gordon, 22 Texas, 241.\nF. S. Bell, for defendant in error.\nPlaintiff\u2019s petition for injunction showed that there existed no judgment against it; that it was never served or appeared in the suit in the Justice Court against John C. Brown, receiver, in which the execution issued that had been levied on plaintiff\u2019s property; and that by the threatened sale of its property, plaintiff would be harrassed and forced into unnecessary litigation. Anderson County v. Kennedy, 58 Texas, 616."
+  },
+  "file_name": "0145-01",
+  "first_page_order": 171,
+  "last_page_order": 172
+}

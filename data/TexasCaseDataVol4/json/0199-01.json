@@ -1,0 +1,79 @@
+{
+  "id": 223695,
+  "name": "Stringfellow & Wilson v. W. R. Powers",
+  "name_abbreviation": "Stringfellow & Wilson v. Powers",
+  "decision_date": "1893-09-27",
+  "docket_number": "No. 13",
+  "first_page": "199",
+  "last_page": "201",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Tex. Civ. App. 199"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "32 Wis., 344",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "case_ids": [
+        8708206
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis/32/0344-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 327,
+    "char_count": 5972,
+    "ocr_confidence": 0.529,
+    "pagerank": {
+      "raw": 1.6013550766325677e-07,
+      "percentile": 0.6839425773471736
+    },
+    "sha256": "f003d1032d6a21ece36413d8343b32fb712f2298f3be2e43003c3c5cb0e84a52",
+    "simhash": "1:134665e821a5f35a",
+    "word_count": 1042
+  },
+  "last_updated": "2024-02-27T18:01:03.208661+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Stringfellow & Wilson v. W. R. Powers."
+    ],
+    "opinions": [
+      {
+        "text": "FLY, Associate Justice.\nAppellants, as plaintiffs in the lower court, brought suit on a contract alleged to have been made with defendant, which placed in their hands for eight months, for sale, certain land, one tract being a 4-\u00a1- acres lot or block in the town of Lockhart. Plaintiffs allege, that the contract was shown by a memorandum in writing, in-inscribed in their land register and signed by defendant. By the terms-of the contract plaintiffs were to have the land for sale for eight months-from the first part of January, 1889, and defendant agreed to send any purchaser who might come to him to plaintiffs, and as a remuneration for their services plaintiffs were to receive all that they might sell the property for over and above $1000. Plaintiffs allege, that they advertised the property, and that some two or three months after it was placed in their hands, defendant, without their knowledge or consent, sold the-property for $1200, which they allege was worth on the market the sum of $1800, and they pray for judgment for $800, being the amount over $1000 as agreed.\nDefendant answered by general demurrer and general denial; and specially answered, that there was no consideration expressed or implied in the contract; that the property sold by him was not worth $1000; that, while $1200 was the consideration set forth in the deed, yet in truth and in fact the land was exchanged for property not worth more than $800, etc.\nA trial was had, and resulted in a verdict for the defendant.\nIt is unnecessary for us to review the testimony, except as it may become necessary to elucidate the law of the case.\nThe contract was proved as laid, and the consideration being the bringing about of a sale, was clearly a valid one. Under the terms of the contract,-plaintiffs, for eight months, had exclusive authority to sell the land, and the defendant could not deprive them of their rights under the contract by a sale of the land. Under the contract, the plaintiffs had proceeded to advertise the land, and were doing what they could to sell the-land, and had shown the land to the man who afterwards bought from defendant, and were endeavoring to negotiate a sale with him. There being an express contract, to it we must look for the rights of the parties. As a general rule, where the contract is an entire one, the question of quantum meruit can not arise, but the whole amount agreed on must be recovered, or nothing. Ewell\u2019s Evans on Agency, 448.\nThis is a case in which the authority conferred by the agency had not been executed. There was a time limited in which it was to be executed, and that time had not expired. \u201c If the vendor voluntarily reduces the price of the property, or the quantity, or otherwise changes the terms of the sale as proposed to the broker, so that a sale is consummated or terms- or conditions are offered which the proposed buyer is ready and willing to accept, in either case the broker will be entitled to his commission at the rate specified in his agreement with his principal.\u201d Whart. on Agency, sec. 329; Stewart v. Mather, 32 Wis., 344.\nUnder the terms of the contract proved up in this case, the plaintiffs were entitled to what they might sell the land for above the $1000, and defendant could not deprive them of this right during the eight montha contemplated by the contract; and it was error in the court to instruct the jury, that Powers did not deprive himself of the right of disposing of said property during the eight months, and that the plaintiffs could only recover a quantum meruit for their services. The court also charged the jury, that Powers had in the contract only \u201c obligated himself to send any proposed purchaser that might come to him within eight months to the plaintiffs; that after having complied with this agreement, if defendant did comply, and plaintiffs having failed to effect a sale with such persons, Powers would have the right to sell to such person himself,\u201d etc. This was erroneous. Plaintiffs had the right under the contract to eight months in which to perfect a sale of the property in question, and the defendant had no authority to resume control of the sale of his property in violation of the terms of his contract. The court gave no charge of its own, both of the charges given having been requested by the defendant. The three charges requested by the plaintiffs embody the law as enunciated in this opinion, and should have been given by the trial court. We hold in this case, that the contract sued upon was not revocable at the pleasure of the defendant, and upon a breach of the contract by him, as pleaded, the plaintiffs would be entitled to recover any amount over and above \u00a71000, which they prove they could have sold the land for, but for the breach. The other errors are not likely to occur on another trial, and need not be noticed.\nDelivered September 27, 1893.\nFor the errors indicated, the cause is reversed and remanded.\nReversed and remanded.",
+        "type": "majority",
+        "author": "FLY, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "M. R. Stringfellow, for appellants.",
+      "No briefs filed by appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Stringfellow & Wilson v. W. R. Powers.\nNo. 13.\nContract to Sell Land. \u2014 Agents\u2019 Commissions for Sale. \u2014Appellants sued on a written contract, whereby appellee placed certain land in their hands for sale, and gave them the exclusive right to sell the same for eight months from the 1st day of January, 1889. As remuneration they were to receive all they could sell the property for, over $1000; and within the eight months appellee, without their knowledge or consent, sold it for $1200: they alleged it was worth $1800; the contract being proved as laid, the consideration being the bringing about of a sale, was valid. Under the contract, appellants for eight months had exclusive authority to sell the land, and appellee could not defeat their right by a sale of the land. And upon such sale appellants were entitled to recover the excess in value over $1000.\nAppeal from Guadalupe.\nTried below before Hon. James Greenwood, County Judge.\nM. R. Stringfellow, for appellants.\nNo briefs filed by appellee."
+  },
+  "file_name": "0199-01",
+  "first_page_order": 223,
+  "last_page_order": 225
+}

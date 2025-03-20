@@ -1,0 +1,66 @@
+{
+  "id": 219223,
+  "name": "Sabine & East Texas Railway Company v. William Hanks",
+  "name_abbreviation": "Sabine & East Texas Railway Co. v. Hanks",
+  "decision_date": "1893-02-23",
+  "docket_number": "No. 72",
+  "first_page": "306",
+  "last_page": "308",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 306"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 262,
+    "char_count": 5050,
+    "ocr_confidence": 0.538,
+    "pagerank": {
+      "raw": 4.076306636737454e-08,
+      "percentile": 0.008821500796217236
+    },
+    "sha256": "d6dc72a2e218b89de9d03d426372cc405af57c2507e247f629e38f6cb437717c",
+    "simhash": "1:167412b298ac2d5c",
+    "word_count": 874
+  },
+  "last_updated": "2023-07-14T16:01:39.065288+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Sabine & East Texas Railway Company v. William Hanks."
+    ],
+    "opinions": [
+      {
+        "text": "WILLIAMS, Associate Justice.\nThis case has twice been before the . Supreme Court prior to this appeal. 73 Texas, 324; 79 Texas, 642. The killing of the child by the servants of appellant occurred in July, 1886, and in order to fix the liability upon the company, it was necessary for the plaintiff to show that the death was caused by gross negligence of such, servants. At the last trial the court\u2019s charge contained the following instruction, which is assigned as error: \u201c But if you find that the deceased was not far enough from the track to be out of danger, and they, the servants of defendant company, could by the exercise of unusual care have stopped the engine in time to have prevented the accident, if any, but negligently ran on, then you will find for the plaintiff; and if you find that the deceased went back on the track, but that the servants of the defendant company could by the exercise of extraordinary diligence have stopped the engine and cars, but did not, you will find for plaintiff.\u201d\nThis instruction misstated the law. Even in ordinary cases, where less than gross negligence would make the defendant liable, only ordinary care, and not \u201c unusual\u201d care or \u201c extraordinary diligence,\u201d would be required. Here it was necessary that gross negligence be shown, and the court so charged, but in applying the law to the facts, gave the instruction above quoted. \" #\nThis will necessitate a reversal of the case, as the evidence was such as to require that the question whether or not the child was killed through the gross negligence of appellants servants be left to the jury.\nIn the opinion delivered by the Supreme Court on the first appeal (73 Texas, 324), it was said: \u201cEven if the servants saw the danger, the company was only responsible for their gross negligence. However, the question of negligence and of its degree usually depends upon the particular facts of each case, and a state of facts which would show ordinary negligence in case of the injury of a person who had arrived at years of discretion, might in case of a child establish gross negligence. The case must always be proportioned to the danger, and in cases like this, the danger to a child is obviously greater than it would be to an adult.\u201d These remarks are obviously just and applicable to the facts of the case, but they were not intended to be given in charge to the jury.\nThe degree of care which the servants were required to use, so far as liability of appellant depended on it, was such as would exempt them from the charge of gross negligence, and whether or not that degree of care was used in this case was a question that should have been left to the jury. What particular acts or facts would constitute gross negligence should not be stated in the charge. The care should be proportioned to the danger, and the question whether or not there was gross negligence in the conduct of the servants operating the train should be determined with reference to all of the circumstances disclosed by the evidence. And if the circumstances, considered with reference to the dangers of the sit\u00faatian, showed the exercise of so slight a degree of care as evinced a disregard of or indifference to the safety of the child, and if the death of the child was caused thereby, then, and not otherwise, defendant would be liable.\nIt was proper for the court to explain to the jury what constitutes negligence in general, in order to make them to understand the difference which the law has undertaken to make between ordinary negligence and gross negligence.\nThe court did not err in refusing to instruct a verdict for defendant. The question of its liability should be submitted to the jury, to depend upon proof by appellee that the death was caused by the gross negligence of appellant\u2019s servants.\nReversed and remanded.\nDelivered February 23, 1893.",
+        "type": "majority",
+        "author": "WILLIAMS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Perryman & Gfillaspie, for appellant.",
+      "No brief for appellee reached the Reporter."
+    ],
+    "corrections": "",
+    "head_matter": "Sabine & East Texas Railway Company v. William Hanks.\nNo. 72.\n1. Erroneous Charge when Gross Negligence had to be Proved. The killing of the child, for which the suit was instituted, having occurred in 1880, when in order to fix liability gross negligence had to be- proved, a charge which required the servants of the company to exercise \u201cunusual care\u201d and \u201c extraordinary diligence\u201d was erroneous.\n2. Same.\u2014What particular facts would constitute gross negligence should not be stated in the charge, but determined by the jury, with reference to all of the circumstances disclosed by the evidence; and if they showed so slight a degree of care as evidenced a disregard of or indifference to the safety of the child, and if the death of the child was caused thereby, then, and not otherwise, defendant would be liable.\n3. Liability a Question for the Jury.\u2014The court properly refused to instruct the jury to return a verdict for the defendant. The question of liability should be submitted to the jury.\nAppeal from Tyler. Tried below before Hon. W. H. Ford.\nThe case is stated in opinion on former appeal, 73 Texas, 324.\nPerryman & Gfillaspie, for appellant.\nNo brief for appellee reached the Reporter."
+  },
+  "file_name": "0306-01",
+  "first_page_order": 332,
+  "last_page_order": 334
+}

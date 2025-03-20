@@ -1,0 +1,66 @@
+{
+  "id": 223632,
+  "name": "C. D. Kemp v. Wharton County Bank",
+  "name_abbreviation": "Kemp v. Wharton County Bank",
+  "decision_date": "1893-11-09",
+  "docket_number": "No. 342",
+  "first_page": "648",
+  "last_page": "649",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Tex. Civ. App. 648"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 275,
+    "char_count": 4671,
+    "ocr_confidence": 0.53,
+    "pagerank": {
+      "raw": 4.277134884225609e-08,
+      "percentile": 0.2702360253435625
+    },
+    "sha256": "d30f089ea5b20e2927dbfbbd462ec045412ab4ee1466ed81a57bcb87eb2c6645",
+    "simhash": "1:75b63585470873d8",
+    "word_count": 806
+  },
+  "last_updated": "2023-07-14T14:53:58.701798+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "C. D. Kemp v. Wharton County Bank."
+    ],
+    "opinions": [
+      {
+        "text": "WILLIAMS, Associate Justice.\nAppellant has filed in this court, affidavits, for the purpose of showing that the special county judge who tried the case below was disqualified by interest and by reason of having been counsel in the case.\nDelivered November 9, 1893.\nThe suit is an action against several persons who are alleged to be partners in the banking business, and as such conducting their business under the firm name of the Wharton County Bank. An attachment was sued out and levied upon a safe as the property of the defendants. The affidavits to which we refer above state, that prior to the attachment of the safe some of the alleged partners had made an assignment of all the property of the bank, including the safe, and that this suit involved the validity of the assignment; that the special judge had drawn the assignment and had counselled and advised the assignee about the execution of his trust; and that, besides, he was a creditor of the bank in a small amount, and had accepted under the assignment, and was therefore interested in sustaining it. Without pausing now to consider whether or not this is a proper method of making the facts appear for the first time in the appellate court, we hold that the judge, under the facts stated, taken in connection with the record, was not disqualified. The suit did not involve the validity of the assignment or the adjudication of any right under it. Neither the assignee nor any person claiming under the assignment was a party. The suit was merely to recover judgment for a debt against the assignors and a foreclosure against them of the attachment lien on the safe. The title of the assignees and the rights of all persons claiming under the deed would remain unaffected by such a judgment. There is not, so far as we can find, a word in the record about the assignment.\nThe court erred in dismissing the whole case upon sustaining the plea of the defendants Gillespie and Porter, asserting their right to be sued in the county where they resided. There was no such plea made by Brown, and the judgment recites that both parties appeared. There was no denial of the alleged partnership between Gillespie, Porter, and Brown. The latter being before the court, and there being no denial of the partnership,, except as to Hayward, the plaintiff was, under the authority of Sanger Bros. v. Overmier & O\u2019Neil, 64 Texas, 57, entitled to judgment against him, and binding his personal estate and the partnership property.\nThis suffices to dispose of the appeal, and we will not consider the numerous other points made.\nReversed and remanded.",
+        "type": "majority",
+        "author": "WILLIAMS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "G. C. Kelly, for appellant.",
+      "No brief for appellee reached the Reporter."
+    ],
+    "corrections": "",
+    "head_matter": "C. D. Kemp v. Wharton County Bank.\nNo. 342.\n1. Disqualification of Judge\u2014 Interest.\u2014Suit was against several persons alleged to be partners in the banking business, under the firm name of the Wharton Bank. A safe belonging to the bank was attached, but prior thereto some of the partners had made an assignment of all of the bank property, including the safe. The attorney who drew the assignment, advised the assignee, and as creditor of the bank had accepted under the assignment, was not thereby disqualified to sit as special judge to try this ease, because the validity of the assignment is not involved in the action as brought, nor will the title of the assignees nor the rights of persons claiming under the deed be affected by it, none of them having been made parties.\n2. Partners \u2014 Practice.\u2014When suit is against partners, all of whom have appeared in the case, and two of them pleaded their privilege to be sued in the county of their residence, and the plea is sustained, it is error to dismiss the whole case. Judgment should be rendered against the defendant who filed no-plea of privilege, binding his estate and the partnership property.\nAppeal from Wharton.\nTried below before John A. Ballow, Esq.,, Special Judge.\nG. C. Kelly, for appellant.\n1. Where there are several defendants in the suit, and some of them plead to the jurisdiction of the court over their persons, it is error for the court, on sustaining the plea, to dismiss, the whole case, without regard to the other defendants in the suit, and without giving plaintiff an opportunity to amend. Alexander v. Stern, 41 Texas, 193; Rev. Stats., art. 1346.\n2. Judgment may be obtained against the firm whenever the court acquires jurisdiction over one of the members. Defendant J. C. Brown, had not been dismissed from the suit. General denial was filed by all defendants, all the parties appeared, and all, except Hayward, were before the court on the trial of the merits. Rev. Stats., art. 1346; Sanger Bros. v. Overmier & O\u2019Neil, 64 Texas, 57.\nNo brief for appellee reached the Reporter."
+  },
+  "file_name": "0648-01",
+  "first_page_order": 672,
+  "last_page_order": 673
+}

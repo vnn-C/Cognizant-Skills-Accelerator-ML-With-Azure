@@ -1,0 +1,66 @@
+{
+  "id": 219077,
+  "name": "L. C. Downtain v. C. U. Connellee",
+  "name_abbreviation": "Downtain v. Connellee",
+  "decision_date": "1893-01-03",
+  "docket_number": "No. 899",
+  "first_page": "95",
+  "last_page": "97",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 95"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 266,
+    "char_count": 4173,
+    "ocr_confidence": 0.581,
+    "pagerank": {
+      "raw": 1.2240919645422112e-07,
+      "percentile": 0.6032345901247524
+    },
+    "sha256": "352afb8b44eba59b174c5dd44fc2eb5e6a01577663f68880ad9995eb268ee0f7",
+    "simhash": "1:963f16a8747f4c00",
+    "word_count": 729
+  },
+  "last_updated": "2023-07-14T16:01:39.065288+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "L. C. Downtain v. C. U. Connellee."
+    ],
+    "opinions": [
+      {
+        "text": "HEAD, Associate Justice.\nThis suit originated in the Justice Court, where appellee pleaded in offset to the account sued on by appellant a number of items; and on appeal to the County Court he was permitted, over the objection of the appellant, to add to this counter-claim items aggregating 8107.45 more than the sums pleaded by him in the Justice Court. We think this was error. It has been settled that article 316 of the Revised Statutes, which prohibits any setoff or counter-claim from being set up by the defendant in the County Court which was not pleaded in the court below, in cases brought by certiorari, applies as well to a case taken to the County Court by appeal. Curry v. Terrell, 1 W. & W. C. C., 239; Blanton v. Langston, 60 Texas, 149.\nThe only answer appellee makes to this is, that appellant was himself permitted to amend his claim by adding new items in the County Court. This, however, seems to have been done without objection from appellee, and we are of opinion that this furnishes no sufficient reason for overruling the objection of appellant. We do not wish, however, to be understood as holding that the amendment' made by appellant was subject to exception had it been interposed by appellee. As to this we express no opinion.\nOne of the items in appellee\u2019s counter-claim was 820, claimed to have been paid by A. S. Connellee, a brother of appellee, to appellant, and to prove this item said Connellee was allowed to testify in reference to its payment, over the objection of appellant, as follows: \u201cI do not know anything from my own personal knowledge, but I do from circumstances. My wife told me that I borrowed 820 from her, and that at the time I borrowed it I told her I wanted it to pay Dr. Downtain for brother Charley; but I do not know whether I paid it or not, or anything further about it.\u201d That this evidence was pure hearsay and inadmissible, we think quite too clear for argument.\nFor the errors above indicated, the judgment of the court below 17111 be reversed and the cause remanded.\nReversed and remanded.\nDelivered January 3, 1893.",
+        "type": "majority",
+        "author": "HEAD, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Black & Hunt and B. F. Cotton, for appellant.",
+      "Williams & Butts, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "L. C. Downtain v. C. U. Connellee.\nNo. 899.\n1. Practice in County Court on Appeal from Justice CourtSetoff.\u2014Article 316 of the Revised Statutes, which prohibits any setoff or counterclaim from being set up by the defendant in the County Court which was not pleaded in the court below, in cases brought by certiorari, applies as well to a case taken to the County Court by appeal.\n2. Practice \u2014Objections Necessary, When. \u2014 That the County Court permitted plaintiff to amend his claim by setting up new items, no objection thereto being made by defendant, furnishes no sufficient reason for allowing defendant, over objections of plaintiff then made, to also set up new items not pleaded in the Justice Court.\n3. Hearsay Evidence.\u2014For an illustration of the rule that hearsay evidence is not admissible, see the opinion.\nAppeal from Eastland. Tried below before Hon. D. K. Scott, County Judge.\nBlack & Hunt and B. F. Cotton, for appellant.\n1. In the County Court, on an appeal from Justice Court, neither party will be permitted to plead causes of action or defenses which were not pleaded in the Justice Court. Rev. Stats., arts. 316, 317; Railway v. Melear, 2 Willson\u2019s C. C., secs. 457, 625; 1 W. & W. C. C., secs. 239, 240.\n2. Hearsay evidence is not admissible. 1 G-reenl., sec. 99.\nWilliams & Butts, for appellee.\n1. Appellant having amended his account in the County Court, and added thereto items not embraced in the account sued upon in the Justice Court, he ought not to be permitted to \u2022complain of the action of the trial court in permitting appellee to plead in offset to these new items matters not pleaded in the Justice Court. Appellant occupies the inconsistent position of violating the rules of practice, and at the same time invoking these rules against appellee. This he can not do.\n2. Appellant having amended his account in the County Court so as to include many items not included in the account sued upon in the Justice Court, appellee was certainly entitled to plead in offset against these items matters not pleaded in the Justice Court. Rev. Stats., art. 1640."
+  },
+  "file_name": "0095-01",
+  "first_page_order": 121,
+  "last_page_order": 123
+}

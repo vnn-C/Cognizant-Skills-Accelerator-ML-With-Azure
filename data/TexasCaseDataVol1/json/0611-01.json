@@ -1,0 +1,84 @@
+{
+  "id": 216202,
+  "name": "S. J. McGrady v. James Monks",
+  "name_abbreviation": "McGrady v. Monks",
+  "decision_date": "1892-12-13",
+  "docket_number": "No. 52",
+  "first_page": "611",
+  "last_page": "614",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Tex. Civ. App. 611"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "132 Mass., 109",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "pin_cites": [
+        {
+          "page": "111"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "94 U. S., 608",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 414,
+    "char_count": 7653,
+    "ocr_confidence": 0.554,
+    "pagerank": {
+      "raw": 8.147360692215376e-08,
+      "percentile": 0.47447225687675226
+    },
+    "sha256": "31d67c88177ecda72da9dc8d23ed68af784e758e177aeff99788468b95ebd2e4",
+    "simhash": "1:e770f511740cdcde",
+    "word_count": 1360
+  },
+  "last_updated": "2024-02-27T16:44:05.763049+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "S. J. McGrady v. James Monks."
+    ],
+    "opinions": [
+      {
+        "text": "STEPHENS, Associate Justice.\nThis is the second appeal in this case. The former appeal was taken by the appellee here, James Monks, and the judgment was reversed because the trial court refused to give a requested instruction submitting the issue of res adjudicata. Upon the last trial this charge was, in substance, given; and now the appellee in the former appeal, S. J. McGrady, seeks a reversal principally on the ground that it was given.\nA full statement of the issues of law and fact arising upon the former appeal may be found in 71 Texas, 134. We find in this record substantially the same pleadings and proof as are there reported. The answer of James Monks is precisely the same, and the amended petition of S. J. McGrady contained in this record seems to be, in substance, the same as his former pleading. The facts stated in said report we find to be, in substance, the same as disclosed by this record.\nAppellant\u2019s first assignment of error reads as follows:\n\u201c The court erred in excluding from the jury the testimony of witnesses D. H. Scott and Richard B. Semple, which was offered to prove that in the trial of McRae v. McGrady the issue made by the cross-bill of McGrady v. Monks was not the same issue as is made in the present suit, because in doing so the court excluded from the jury the evidence upon which the said issue of res adjudicata should have been determined, as required by the decision of our Supreme Court in this cause.\u201d\nIn brief, the rejected testimony tended to show, that in the case of McRae v. McGrady the trial judge and the attorney for McGrady did not intend to try the issue as to the amount of damage sustained by McGrady on account of the alleged fraud and deceit in changing a clause of general warranty to that of special warranty; nor was any moneyed judgment sought against Monks, nor any reformation of said deed; but that the purpose in making him a party to said suit by said cross-action was to have him bound by any judgment that might be rendered in that suit depriving McGrady of the land, which judgment was expected to be used in the suit then about to be brought by McGrady for damages on account of the alleged fraud and deceit.\nWe are of opinion that this testimony tended to vary and contradict the record, and to substitute the opinion and understanding of witnesses as to the meaning and effect of the pleadings and judgment in that ease for the legal construction thereof by the court trying this case. There are cases where oral evidence is admissible to show what was determined in the former suit, but this is clearly not one of that class. Roberts v. Johnson, 48 Texas, 133; 2 Whart. Ev., 157, note 1 at end of sec. 988; also end of sec. 785, vol. 1. We are further of the opinion that the testimony, if admitted, could not have changed the result. According to appellant\u2019s own theory, said Monks was made a party to the original suit on the alleged ground that Monks was liable to McGrady on a covenant of general warranty which had been fraudulently changed to a special warranty, which liability was denied by said Monks, and this issue, at least, was tried and determined in the original suit. It could not be determined that he was liable as warrantor, and hence properly brought before the court to be bound by the judgment rendered therein, without proving the identical fraud and transaction alleged in this suit as the foundation for a recovery. The alleged wrong constitutes an essential part of the cause of action, whether the suit be upon the warranty or for damages for the deceit merely, and until that is established no damage could be recovered in either suit. It seems clear to us that appellant is not entitled to have a second trial of the same issue determined in the original suit, merely because in the subsequent suit he has a different purpose in view and seeks different relief.\nThe point is made, that after filing his original answer, which contained the cross-petition, an amended original answer was filed, which must be held under the rules of pleading to take the place of the former pleading. It seems, however, whether properly so or not, that the issue was tried under the cross-action as set up in the original answer, and this must be held to be conclusive in a subsequent suit where the question arises collaterally.\nDelivered December 13, 1892.\nThe questions raised by the other assignments have all been passed upon and decided correctly, as we think, by the Supreme Court on the former appeal.\nThe judgment will therefore be affirmed.\nAffirmed.",
+        "type": "majority",
+        "author": "STEPHENS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "E. L. Agnew and Richard B. Semple, for appellant.",
+      "Taylor & Gallaway, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "S. J. McGrady v. James Monks.\nNo. 52.\n1. Parol Evidence \u2014 Res Adjudicata \u2014 Oral Proof Varying Written Pleadings. \u2014 Where under a plea of res adjudicata the pleadings and judgment in a former suit are averred and shown, parol evidence is not admissible which tends to vary and contradict the record, and to substitute the opinion and understanding of witnesses as to the meaning and effect of such former pleadings and judgment in the place and stead of a legal construction thereof by the court.\n2. Res Adjudicata \u2014 Former Judgment Covering Essential Point. Where an issue determined in the original suit is involved in the subsequent suit, and is essential to any recovery therein, a party is not entitled to have this same issue tried again, merely because in the subsequent suit he has a different purpose in view and seeks a different relief.\n3. Practice \u2014 Error not Subject to Collateral Attack. \u2014 Error of the court in trying an issue on the original answer, instead of on an amended original answer then on file, is not subject to collateral attack in a different suit.\nAppeal from Fannin. Tried below before Hon. E. D. McClellan.\nE. L. Agnew and Richard B. Semple, for appellant.\n1. Where there are two judgments relative to the same object, and in which the parties are the same, though the former judgment is prima facie admissible to sustain the plea of res adjudicata, it is always open to a party against whom such judgment is offered, to show, by parol or otherwise, notwithstanding this apparent identity, that there is a difference in the points submitted in the two cases, and that the judgment in the former case does not cover a subject propounded in the latter. Cook v. Burnley, 45 Texas, 97; Philipowski v. Spencer, 63 Texas, 604; Whart. Ev., secs. 785, 988; 1 Herm. on Estop., secs. 211, 212,\n2. In order to sustain a plea of res adjudicata in a court of record, not only must the evidence in the two cases be substantially the same, but the pleadings in the two cases must also present substantially the same issue and the former judgment must have been upon the merits. Hall v. Jackson, 3 Texas, 305; Russell v. Place, 94 U. S., 608; Frye v. Patch, 132 Mass., 109, 111.\n3. The identity of issue required in the plea of res adjudicata must be in the two causes of action upon which the two suits are founded, and not in any collateral fact in dispute between the parties. 1 Herm. on Estop., sec. 461; Traylor v. Townsend, 61 Texas, 144; Bradshaw v. Mayfield, 24 Texas, 482.\nTaylor & Gallaway, for appellee.\n1. Parol evidence can not be introduced for the purpose of varying the record, and is only permissible when the record is vague and uncertain as to what was the real issue in the case. Oldham v. McIver, 49 Texas, 556; Roberts v. Johnson, 48 Texas, 133; Herm. on Estop., secs. 211, 212-279; 6 Wait\u2019s Act. and Def., sec. 20.\n2. A former judgment is conclusive between the parties, although the cause of action is different, if the issue tried was the same, and a charge of the court confining the jury to the issue is proper. 6 Wait\u2019s Act. and Def., secs. 20, 23, 24."
+  },
+  "file_name": "0611-01",
+  "first_page_order": 635,
+  "last_page_order": 638
+}

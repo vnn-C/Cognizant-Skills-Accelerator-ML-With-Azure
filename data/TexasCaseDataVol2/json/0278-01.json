@@ -1,0 +1,97 @@
+{
+  "id": 219218,
+  "name": "Texas & New Orleans Railway Company v. Jane Bingham",
+  "name_abbreviation": "Texas & New Orleans Railway Co. v. Bingham",
+  "decision_date": "1893-02-09",
+  "docket_number": "No. 71",
+  "first_page": "278",
+  "last_page": "279",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 278"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "8 S. W. Rep., 350",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "14 S. W. Rep., 642",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "15 S. W. Rep., 266",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "23 Pa. St., 147",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        974007
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/23/0147-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 233,
+    "char_count": 3401,
+    "ocr_confidence": 0.59,
+    "pagerank": {
+      "raw": 9.828650818829683e-08,
+      "percentile": 0.5334982850351507
+    },
+    "sha256": "de95f8fb5f6d797ebae485402e0d0332c3cf52c761a9caf3ce9cd17c1fba2d78",
+    "simhash": "1:1141da84a11db3e9",
+    "word_count": 594
+  },
+  "last_updated": "2024-02-27T19:43:33.086404+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Texas & New Orleans Railway Company v. Jane Bingham."
+    ],
+    "opinions": [
+      {
+        "text": "WILLIAMS, Associate Justice.\nAppellee was a passenger upon one of the appellant\u2019s trains from Beaumont to Liberty. When the latter place was reached the train did not come to a stop, but slackened its \u2022speed so that two male passengers safely alighted in appellee\u2019s presence. Appellee, when the name of the station was announced, had gone upon the platform of the car, and was standing there waiting for the cars to stop. Seeing that they were not stopping, she asked an employe of appellant, whom she supposed to be the conductor, if she should jump off. He directed her to wait until the train got opposite the depot. The train \u25a0continued to move on, increasing its speed, and finally appellant\u2019s servant told her she would have to jump off, which she did, receiving the injuries for which she seeks compensation in this suit.\nThere is a conflict of evidence upon all of the material facts just stated, but the issues having been submitted to a jury by a charge of which no complaint is made, and the jury having found in appellee\u2019s favor, we must conclude that all the facts testified to by witnesses which are necessary to sustain the verdict are established. In view of these facts, we conclude that appellant was guilty of negligence in not stopping its train at the station, and that appellee was not, under the circumstances testified to by her and her witnesses, guilty of negligence in trying to alight, so as to preclude her from recovering.\nWe therefore conclude as matter of law, that appellant is liable in damages for this breach of its contract of carriage. The amount found by the jury is not claimed to be excessive, and is warranted by the evidence.\nThe point made in appellant\u2019s fifth assignment of error, that the evidence fails to show that the train on which she was a passenger, and the servants of whose negligence she complains, were those of appellant, was not raised in the motion for a new trial in the court below, and can not therefore be considered here.\nAffirmed.\nDelivered February 9, 1893.",
+        "type": "majority",
+        "author": "WILLIAMS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Perryman & Gillaspie, for plaintiff in error, cited:",
+      "Tom J. Russell, for defendant in error, cited:"
+    ],
+    "corrections": "",
+    "head_matter": "Texas & New Orleans Railway Company v. Jane Bingham.\nNo. 71.\nNegligence of Railway Company.\u2014Appellee was a passenger upon one of appellant\u2019s trains from Beaumont to Liberty. When the latter place was reached the train did not stop, but slackened its speed, so that two male passengers alighted in safety in appellee's presence. She was standing on the platform waiting for the cars to stop. Seeing that they were not stopping, she asked an employe of appellant, whom she supposed to be the conductor, if she should jump off. and he directed her to wait until the train got opposite the depot. The train continued to move with increasing speed, and finally appellant\u2019s servant told her she would have to jump off, which she did, receiving the injuries for which she seeks compensation. Appellant was guilty of negligence in not stopping the train, and judgment is affirmed.\nError from Liberty. Tried below before Hon. L. B. Hightower.\nPerryman & Gillaspie, for plaintiff in error, cited:\nThomp. on Carr, of Pass., 227; Railway v. Aspell, 23 Pa. St., 147.\nTom J. Russell, for defendant in error, cited:\nRailway v. Rushing, 69 Texas, 307; Railway v. Finley, 15 S. W. Rep., 266; Railway v. Smith, 14 S. W. Rep., 642; Owens v. Railway, 8 S. W. Rep., 350; Railway v. Pollard, 2 Willson\u2019s C. C., sec. 484; Railway v. Terry, 62 Texas, 380; Railway v. Rand, 1 W. & W. C. C., sec. 255."
+  },
+  "file_name": "0278-01",
+  "first_page_order": 304,
+  "last_page_order": 305
+}

@@ -1,0 +1,121 @@
+{
+  "id": 223664,
+  "name": "John F. Needham v. R. G. Dial",
+  "name_abbreviation": "Needham v. Dial",
+  "decision_date": "1893-09-20",
+  "docket_number": "No. 274",
+  "first_page": "141",
+  "last_page": "144",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Tex. Civ. App. 141"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "7 S. W. Rep., 421",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "45 N. W. Rep., 462",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "13 Ohio St., 502",
+      "category": "reporters:state",
+      "reporter": "Ohio St.",
+      "case_ids": [
+        8842965
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ohio-st/13/0502-01"
+      ]
+    },
+    {
+      "cite": "18 Wend., 449",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "34 Conn., 469",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        507720
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/conn/34/0469-01"
+      ]
+    },
+    {
+      "cite": "10 Wall., 383",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.,",
+      "case_ids": [
+        3436634
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/77/0383-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 557,
+    "char_count": 9993,
+    "ocr_confidence": 0.531,
+    "pagerank": {
+      "raw": 1.7457556676307772e-07,
+      "percentile": 0.7077543903138754
+    },
+    "sha256": "4a1f67d803afa6e507944dd57f7f42ba2b8e7f71104cd6471f266f3b949b69de",
+    "simhash": "1:1756465640645166",
+    "word_count": 1775
+  },
+  "last_updated": "2024-02-27T18:01:03.208661+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John F. Needham v. R. G. Dial."
+    ],
+    "opinions": [
+      {
+        "text": "KEY, Associate Justice.\nThis suit was brought by appellee, Dial, against J. E. Schute and appellant, Needham, in a Justice Court, from which it was appealed to the County Court. In the latter court a judgment was rendered in favor of appellee for $121.81, from which this appeal is prosecuted.\nThe statement of the plaintiff\u2019s cause of action, as appears in the citation issued by the justice of the peace, is as follows:\n\u201cPlaintiff alleges, that said defendants, on and about the 28th day of September, 1889, sold to plaintiff 30 head or more of hogs, at $3.81 per head, to be used by plaintiff at his meat market in Hearne, Texas; that said hogs, at the time defendants sold to plaintiff, were diseased with cholera, and immediately after the delivery of said hogs to plaintiff 30 of said hogs died of cholera. That defendants well knew that said hogs were diseased when they sold them to plaintiff. That plaintiff paid them for said hogs at the time of the delivery; and plaintiff sues for $114.30, the value of said hogs, and for $7.50 cost of hauling off said dead hogs, and $50 damages to plaintiff\u2019s business by reason of defendants selling plaintiff diseased hogs.\u201d\nThe defendant Needham filed a sworn plea, showing that he resided in another county, and negativing all the facts which would confer jurisdiction on the courts of Robertson County if the suit had been against him alone. He also averred in this plea, that he and Schute were not partners; that Schute had no interest in the hogs sold to Dial, and was in nowise liable for any damages resulting from said sale. Schute was sued in the county of his residence, but made default, however, and judgment went against him. The plea referred to did not charge that Schute was made a party for the fraudulent purpose of conferring jurisdiction on Robertson County; for this reason it was defective, and should not have been sustained, whatever the testimony may have been tending to show such fraudulent purpose.\nIt is contended on behalf of appellant, that the judgment of the court below is not supported by the testimony; and after a careful consideration of all the evidence contained in the record, our conclusion is that this contention is correct.\nThere is no pretense that there was any express warranty of the quality, health, or fitness for a particular use of the hogs sold, or that there was any misrepresentation of their condition. Appellee\u2019s contention is, that as he was engaged in the market business, and bought the hogs for use in his business, that fact and the other circumstances of the case raise an implied warranty that the animals sold to him were suitable for slaughter.\nThere is no conflict in the testimony concerning the material facts.\nAppellant had a bunch of hogs which he desired to sell; he let it be known that they were for sale; sent word to appellee to come and look at them, which appellee did. Appellee testified, that he examined the hogs before he bought them; that they did not appear to be in very good condition; that appellant told him that they did not seem to be doing well in his- pen, and he wanted to get rid of them, but did not tell him that they were diseased; that he purchased them for use in his market; that they were of mixed ages, but the most of them were young hogs; that he wanted young hogs, because they would grow; that he paid an average of S3.81 per head for them. That two of them were found dead the morning after they were delivered, and they continued to die at the rate of from three to five per day, until thirty head had died; that they were diseased with what was generally called, and witness understood to be, cholera, and this disease caused the death of the thirty head.\nAppellant testified, that so far as he knew, the hogs were sound and healthy when he sold them to appellee; that they ate and drank heartily and acted like healthy animals; that they did not look as well as, and improve like, he thought they ought to, considering the amount of corn they ate, but that -there was no perceptible disease among them.\nThis is all of the evidence material to the question now under consideration; and in our opinion the facts shown do not justify the conclusion of an implied warranty.\nAs a general rule, in a sale of an existing specific chattel inspected or selected by the purchaser, or subject to his inspection, the maxim of caveat emptor applies, and a sound price does not, in and of itself, import a sound quality. Benj. on Sales, Am. ed. 1888, 623; 10 Am. and Eng. Encycl. of Law, 127, 136.\nThere are several qualifications to this doctrine, one of which is, that in purchases for a particular use made known to the seller, if .the buyer relies on the vendor\u2019s judgment to select, and not on his own, there is an implied warranty that the article furnished is reasonably fit and suitable for that purpose. Benj. on Sales, 626.\nDelivered September 20, 1893.\nThe case of Jones v. George, decided first in 56 Texas, 149, and again in 61 Texas, 343, comes within the latter rule.\nBut the doctrine of implied warranty of fitness does not arise, in the absence of fraud, when the buyer selects his own article on his own judgment, although the vendor, not being the manufacturer or producer, knows it is intended for a particular use. Benj. on Sales, 628, and cases cited.\nWhile some cases hold, that in a sale of food or provisions it is implied that the thing sold is wholesome, the weight of American authorities is, that in sales made to a dealer who purchases to sell again, and not for his own consumption, there is no implied warranty. Benj. on Sales, Am. ed. 1887, 629; 10 Am. and Eng. Encycl. of Law, 156, 157.\nThe case of Howard v. Emerson, 110 Massachusetts, 320, is quite similar to the one at bar; and, in an opinion citing many authorities, it is there held, that in the sale of a live cow by a farmer to retail butchers, there was no implied warranty that she was fit for food, although the seller knew that the purchasers bought the animal for use in their business.\nWe do not agree with appellee\u2019s contention, that because the animals were in appellant\u2019s possession up to the day before they began dying, therefore he must have known that they were diseased.\nThe testimony does not show that cholera is a disease the symptoms of which would necessarily be discovered by a person in possession of hogs afflicted with it.\nAppellant testified, and his evidence is undisputed, that the hogs in question ate and drank heartily, and, so far as he knew, were free from disease; and appellee, being in a business in which hogs were constantly handled, was equally as well prepared as appellant to judge from appearances.\nIf appellee was not willing to risk his own judgment as to the soundness of the animals bought, he could have required a warranty. Not having done this, and as the facts do not raise an implied warranty, and as there is no proof of fraud or deceit, the trial court should not have rendered judgment against appellant.\nThe judgment against appellant is reversed and the cause remanded. As against Schute, who has not appealed,' it is not disturbed.\nReversed and remanded.",
+        "type": "majority",
+        "author": "KEY, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Campbell & Dunn, for appellant.",
+      "Simmons & Crawford, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "John F. Needham v. R. G. Dial.\nNo. 274.\n1. Caveat Emptor.\u2014In a sale of a specific chattel inspected or selected by the purchaser, or subject to his inspection, the maxim of caveat emptor applies; and a sound price does not in and of itself import a sound quality. Applied to a sale of hogs inspected by the purchaser before buying, and which showed disease soon after the sale.\n2. Implied \"Warranty.\u2014The doctrine of implied warranty of fitness does not arise, in the absence of fraud, when the buyer selects his own article on his own judgment, although the vendor (not being the manufacturer or producer) knows it is intended for a particular use. So held in sale of hogs by a dealer to a butcher.\nAppeal from the County Court of Robertson.\nTried below before Hon. O. D. Cannon, County Judge.\nCampbell & Dunn, for appellant.\nWhere specific articles are purchased, and the buyer examines them for himself before the sale, and there is no express warranty of soundness or quality, and the seller does not conceal from the buyer any latent defect of which he himself has knowledge, and is guilty of no fraud or misrepresentation, and is neither the grower nor the manufacturer of the articles, the maxim caveat emptor applies, and there is no implied warranty of soundness or quality, even though there exists in the things at the time of the sale a latent defect which is not discoverable by examination. And if the articles thus purchased are animals intended for food, bought by one dealer from another, not for immediate consumption by the buyer, but to be sold directly to consumers for domestic use as food, there is no implied warranty of soundness or fitness for such use merely because they are finally intended for that use. Wintz v. Morrison, 17 Texas, 372; Barnard v. Kellogg, 10 Wall., 383; Frazier v. Harvey, 34 Conn., 469; Wright v. Hart, 18 Wend., 449; Hadley v. Clinton, 13 Ohio St., 502; Benj. on Sales, Am. ed. 1888, secs. 644, 653, 657, 663, 672, 673, 664, last paragraph of article on p. 601, and note subdiv. 13, \u201cCaveat Emptor,\u201d p. 623, and subdiv. \u201cSales of Provisions,\u201d p. 629, to the end of the note at the end of ch. 1, part 2,, \u201c Warranty.\u201d\nSimmons & Crawford, for appellee.\nFraud vitiates every contract,, and the inference of fraud is inevitably drawn where there is a suppression or concealment of material circumstances, and one of the contracting parties is knowingly suffered to deal under a delusion. The tendency of modern decisions is to enlarge the responsibility of the seller and to imply a warranty from acts and circumstances. Wintz v. Morrison, 17 Texas, 372; Walker v. Herron, 22 Texas, 55; Jones v. George, 56 Texas, 149, and 61 Texas, 345; Cullens & Henry v. Wilson, 2 Willson\u2019s C. C., sec.. 819; Johnson v. Chilson, 45 N. W. Rep., 462; Grigsby v. Stapleton, 7 S. W. Rep., 421; Crim. Code, art. 392."
+  },
+  "file_name": "0141-01",
+  "first_page_order": 165,
+  "last_page_order": 168
+}

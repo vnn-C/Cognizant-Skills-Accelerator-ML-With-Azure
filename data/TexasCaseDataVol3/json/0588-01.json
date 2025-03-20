@@ -1,0 +1,66 @@
+{
+  "id": 221220,
+  "name": "The Gulf, Colorado & Santa Fe Railway Company v. Pettit & Kilgore",
+  "name_abbreviation": "Gulf, Colorado & Santa Fe Railway Co. v. Pettit & Kilgore",
+  "decision_date": "1893-06-07",
+  "docket_number": "No. 279",
+  "first_page": "588",
+  "last_page": "590",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 588"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 274,
+    "char_count": 5373,
+    "ocr_confidence": 0.553,
+    "pagerank": {
+      "raw": 5.207966869300525e-08,
+      "percentile": 0.3266568823124437
+    },
+    "sha256": "29fd9f7106a631841bceb36827c72a4f243178e940a973148d510020a8b00d93",
+    "simhash": "1:8b5802d3375030a0",
+    "word_count": 955
+  },
+  "last_updated": "2023-07-14T18:08:23.206239+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The Gulf, Colorado & Santa Fe Railway Company v. Pettit & Kilgore."
+    ],
+    "opinions": [
+      {
+        "text": "FISHER, Chief Justice.\nThe court below erred in charging the jury, that the rental value of the machine during the time of the delay in its transportation was the measure of damages that should govern their finding, if it should be in favor of the plaintiffs.\nThe evidence shows, that the machine was shipped to Hurlbert & Semple, merchants engaged in handling such machines, at Brownwood, Texas. There is no evidence in the record showing that the appellant, or any of its partnership lines, during the time of the transportation of the machine, had any notice or knowledge of any facts that would put it upon contemplation or inquiry that the machine was to be used for the purpose of operating a gin during the cotton season of that year. This fact is the distinguishing feature between this case and that of the Gulf, Colorado & Santa Fe Railway Company v. Gilbert, this day decided by us. In other respects the two cases are similar.\nWe understand the rule to be, that for delay in cases of ordinary shipments of goods to a merchant of the kind in which he deals, when there is no fact shown that would put the carrier upon contemplation or knowledge of the fact that the goods are designed for a special purpose and a definite use other than is inferred from such character of shipments, the measure of damages is the difference in the value of the goods from the time they should have arrived and the time they did arrive.\nWhen the facts show that the carrier had notice of the intended purpose and use to which the machine will be put, then the rule laid down in the Gilbert case is the measure of damages for the delay in its transportation.\nThe point is here raised, as also in the Gilbert case, that there are no averments in the appellees\u2019 petition upon which to base the rental value of the machine during the time of such delay as the measure of damages that he was entitled to.\nThe petition does not state that the purposes for which the machine was intended to be used were known to the appellant or its partnership carriers, but it does state the facts showing the delay, and asks for judgment for the rental value of the machine during that time.\nThere was no special demurrer in this case, nor was there any presented in the Gilbert case, calling the attention of the trial court to the pleadings in this respect, but there was a general demurrer.\nThe fact that the appellees asked for the rental value of the machine, although they did not definitely state all the facts that would entitle them to it, was a sufficient allegation when tested by a general demurrer. If this defect in the petition had been raised by a special exception, the court should have sustained the demurrer. No such demurrer being addressed to the petition, there was no error in admitting the evidence of the witnesses showing the rental value of the machine.\nThe sufficiency of pleadings will not be determined upon the admission of evidence where it is sufficient to resist attack by a general denial. But admitting such evidence as the rental value of the machine does not authorize plaintiff to recover such rental value unless he goes further and shows that tlie intended use of the machine was known to the shipper.\nThe rule here laid down, that the consignee can only recover the difference in the market value of the goods between the time they should have arrived and the time they did arrive, is only intended to apply to this particular case as shown by the facts in the record before us. There may be shipments of goods of such character that the. carrier would be liable for the value of the rent or use of the property during the time of a delay, although it was not informed of any special object or purpose in the shipment.\nJudgment reversed and cause remanded.\nBeversed and remanded.\nDelivered June 7, 1893.\nThe Gilbert case was continued on motion for rehearing, and was reversed on the facts at the next term.",
+        "type": "majority",
+        "author": "FISHER, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "J. W. Terry, for appellant.",
+      "Harrell & Rogan and Wilkinson & Lynch, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "THIED DISTEIOT,\nJUNE, 1893.\nThe Gulf, Colorado & Santa Fe Railway Company v. Pettit & Kilgore.\nNo. 279.\n1. Measure of Damages for Delaying Freight.\u2014In cases of ordinary shipment of goods to a merchant of the kind in which he deals, wh\u00e9n there is no fact shown that would put the carrier upon notice of the fact that the goods were designed for a special purpose other than is inferred from such character of shipments, the measure of damages for delay in the delivery is the difference in the value of the goods at the time they should have arrived, and at the time they did arrive. It was error to allow rents for delayed machinery, delayed under such circumstances.\n2. Pleading\u2014General Demurrer.\u2014A petition against a carrier, alleging delay in the delivery of a cotton gin in shipment, and asking compensation for use of such machinery during the alleged delay, is good on general demurrer, as a claim for rents.\n3. Practice.\u2014The sufficiency of pleadings will not be determined upon the admission of testimony when sufficient to resist an attack by general demurrer. See example.\nAppeal from the County Court of Brown. Tried below before Hon, R. P. Conner, County Judge.\nJ. W. Terry, for appellant.\nThe ordinary measure of damages for delay is the difference in the value Of the property at the time it did arrive and the time it should have arrived. Ligon v. Railway, 3 Willson\u2019s. C. C., 17.\nHarrell & Rogan and Wilkinson & Lynch, for appellees."
+  },
+  "file_name": "0588-01",
+  "first_page_order": 614,
+  "last_page_order": 616
+}

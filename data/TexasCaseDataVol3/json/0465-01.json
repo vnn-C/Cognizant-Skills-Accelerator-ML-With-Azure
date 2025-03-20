@@ -1,0 +1,66 @@
+{
+  "id": 221140,
+  "name": "J. B. Edwards et al. v. W. J. Hefley",
+  "name_abbreviation": "Edwards v. Hefley",
+  "decision_date": "1893-05-31",
+  "docket_number": "No. 239",
+  "first_page": "465",
+  "last_page": "468",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 465"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 440,
+    "char_count": 8634,
+    "ocr_confidence": 0.56,
+    "pagerank": {
+      "raw": 4.5330875625009783e-08,
+      "percentile": 0.2843358821305798
+    },
+    "sha256": "9e3ed4f0e9f171d216e93dc37af6afb6b210ac96cb77bd6764d6dcc2ec72c29a",
+    "simhash": "1:1213bbff2c9f57e8",
+    "word_count": 1531
+  },
+  "last_updated": "2023-07-14T18:08:23.206239+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "J. B. Edwards et al. v. W. J. Hefley."
+    ],
+    "opinions": [
+      {
+        "text": "KEY, Associate Justice.\nThis suit was instituted by appellee to recover $104, with interest, as purchase money due for 13 acres of land. His cause of action is based upon a written obligation transferred to him by G. W. and E. A. Hefley, which reads as follows:\n\u201c The State of Texas, County of Bell.\u2014Know all men by these presents, that whereas, on the-day of February, A. D. 1887, George W. Hefley and his wife, Mrs. E. A. Hefley, of Belton, Texas, did sell, convey, and confirm unto Messrs. Edwards and Wilkey, of Kaufman County, Texas, by their deed of that date, a certain tract, piece, or parcel of land lying and being situated in said Kaufman County, and being 224.4 acres, out of the David Harris league and labor, and particularly described by metes and bounds in said deed, to which said deed reference is here made for particular description and identification of said 224.4 acres. And whereas said land was sold and conveyed for the price and sum of $8 per acre, and said deed recites a cash payment by said Wilkey and Edwards to said George W. and E. A. Hefley of the sum of $598.40, the receipt of which is in said deed acknowledged, and two promissory notes of even date with said deed for the sum of $598.40 each, one payable 12 months, after date and one payable 24 months after date, and particularly described in said deed, to which reference is made for further description and identification; and whereas, it is claimed that said tract of land falls short of 224.4 acres to the extent and amount of 13 acres, by reason of a supposed conflict in the north line of said tract of 224.4 acres with the lines of another survey; and whereas, the said Edwards and Wilkey have deducted the value of said 13 acres out of said cash payment mentioned in said deed, at $8 per acre:\n\u201c Now, therefore, in consideration of the premises, we, the said Edwards and Wilkey, as principals, and Joe H. Chisholm and Edward Frazier, as securities, acknowledge ourselves jointly and severally bound to pay to the said George W. and E. A. Hefley, their heirs and assigns, the sum of $250, for the payment of which well and truly to be made according to the tenor hereof, we bind ourselves and heirs and legal representatives, firmly, jointly, and severally, by these presents: Conditioned, that in case the said George W. and E. A. Hefley maintain their title and possession to said 13 acres of land, and shall place the said Edwards and Wilkey in the lawful and peaceable and undisturbed and adverse possession thereof, under superior title, that then and in that event the said Edwards and Wilkey will and shall pay or cause to be paid unto the said George W. Hefley and E. A. Hefley, their heirs and assigns, immediately on the happening of said condition, the said sum of $8 per acre for said 13 acres of land, or so much thereof as the said George W. and E. A. Hefley may maintain their title and possession of, and place the said Edwards and Wilkey in possession of, as herein stipulated. Now, if the said Edwards and Wilkey shall pay said money when due according to the tenor hereof, or if the said George W. Hefley and the said E. A. Hefley, or their legal representatives, shall fail, neglect, or refuse to perform their part hereof, then this obligation to become void, otherwise to. remain in full force and virtue in law.\n\u201c Witness our'hands, this-day of March, A. D. 1887.\n\u201c J. B. Edwards,\n\u201c G.- W. Wilkie,\n\u201c Joe H. Chisholm,\n\u201cAttest: \u201cEdward Frazier.\n\u201c J. B. Harris,\n\u201c R. L. Browning.\u201d\nThe judgment rendered by the County Court in favor of appellee must-be reversed, because, in our opinion, a breach of the above obligation is-not shown by the record.\nAt the time said instrument was executed, appellants Edwards and! Wilkie were in possession of the 13 acres of land referred to, claiming it as part of a tract of land they had purchased from another party on a-survey adjoining the Harris survey, on which the land sold to them by the Hefleys is situated. This instrument recites the fact that there is a-supposed conflict of 13 acres between the land conveyed by the Hefleys to Edwards and Wilkie and\u2019 a tract of land already owned by Edwards- and Wilkie, and obligates said Edwards and Wilkie and their sureties to pay said G. W. and E. A. Hefley $8 per acre for said 13 acres of land whenever said Hefleys \u201cmaintain their title and possession to said 13 acres of land and place the said Edwards and Wilkie in the lawful, peaceable, undisturbed, and adverse possession thereof under superior title.\u201d'\nSuch being the case, we think it was contemplated by the parties to the obligation that the purchase money for the 13 acres was not to be paid until G. W. and E. A. Hefley, in a tribunal having jurisdiction to-determine the question of title arising out of the alleged conflict between, the two surveys, should obtain a judgment establishing the superiority of their title.\nEdwards and Wilkie were in possession of the 13 acres at the time the obligation was executed; and because they have remained in possession since then, it can not be fairly said that they have been placed in possession by the Hefleys. Being in possession when they signed the instrument sued on, it is evident that it was contemplated by the parties to the-instrument that they should remain in possession under their former-claim without paying the Hefleys for the land until they, by a proper-proceeding in the District Court, should establish the fact that their title was superior to the title under which Edwards and Wilkie held the land.\nNo such adjudication was shown on the trial of this case. It is true that County and Justice Courts are not deprived of authority to try cases otherwise within their jurisdiction merely because the title to land may be inch - den tally involved. In such cases, it is usually held that possession insufficient evidence of title. But when the gist of a cause of actionr whether in form of trespass to try title or in any other form, rests upon-1 the proposition that the title to land asserted by the plaintiff is superior\" to that of the defendant, the District Court alone has jurisdiction to adjudicate the matter. Cronn v. Peterson, 1 W. & W. C. C.,sec. 1061; Carter Lumber Co. v. Antonio de Grazier, 3 Willson\u2019s C. C., sec. 177; Scripture v. Kent, 1 W. & W. C. C., secs. 1056, 1057. The County Court could, not adjudicate the question of title as involved in this case. If a District Court judgment had been produced showing an adjudication of title in-favor of the Hefleys, the County Court could have rendered judgment on. the bond.\nInasmuch as it will be necessary for appellee to bring suit in the District Court, and as such a suit may be instituted in a county not in this-supreme judicial district, we deem it unnecessary to consider other questions presented in appellant\u2019s brief. Nor do we decide whether or not the whole matter can be adjudicated in the one suit.\nThe judgment of the County Court is reversed and the cause remanded.\nReversed and remanded.\nDelivered May 31, 1893.",
+        "type": "majority",
+        "author": "KEY, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "L. K. Tarver and Word & Charlton, for appellants.",
+      "H. E. Bradford, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "J. B. Edwards et al. v. W. J. Hefley.\nNo. 239.\n1. Construction of Contract.\u2014Sale of land, part for cash. The vendees -claimed 13 acres of the tract of land under another title, and they were in possession. The price of the 13 acres was deducted from the cash payment, the vendees executing a bond with sureties to pay \u201cfor said 13 acres, or so much thereof as the vendors may maintain their title and possession of, and place the said vendees in possession of, as herein stipulated in suit on the bond.\u201d Reid, that said obligation was not payable until the title of the vendors had been adjudicated to be superior to that held by the vendees prior to the sale. This result is not changed from the fact that the vendees remained in possession.\n2. Jurisdiction of the County Court \u2014 Case Involving Title to Land.\u2014This litigation involved the title to the 13 acres of land, and the County Court had no jurisdiction of an action upon the bond for the purchase money.\nAppeal from County Court of Bell. Tried below before Hon. John M. Furman.\nL. K. Tarver and Word & Charlton, for appellants.\nTo determine the questions involved in this suit, the County Court had to adjudicate the title to 13 acres of land situated in Kaufman County, Texas, and had no jurisdiction of the subject matter. Rev. Stats., arts. 1556, 1198; Blum v. Root, 2 Willson\u2019s C. C., sec. 98; Holloway v. Blum, 60 Texas, 625.\nH. E. Bradford, for appellee.\nThe court did not err in overruling defendant\u2019s plea to the jurisdiction of the County Court to the subject matter of the suit. 2 Willson\u2019s C. C., sec. 433; 3 Willson\u2019s C. C., sec. 229."
+  },
+  "file_name": "0465-01",
+  "first_page_order": 491,
+  "last_page_order": 494
+}

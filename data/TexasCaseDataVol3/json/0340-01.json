@@ -1,0 +1,80 @@
+{
+  "id": 221194,
+  "name": "Fort Worth & Denver City Railway Company v. T. A. Fuller",
+  "name_abbreviation": "Fort Worth & Denver City Railway Co. v. Fuller",
+  "decision_date": "1893-05-17",
+  "docket_number": "No. 773",
+  "first_page": "340",
+  "last_page": "342",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 340"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "13 S. W. Rep., 637",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "13 S. W. Rep., 637",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "weight": 2,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 363,
+    "char_count": 5840,
+    "ocr_confidence": 0.559,
+    "pagerank": {
+      "raw": 4.6922169990516086e-08,
+      "percentile": 0.29435384070654314
+    },
+    "sha256": "160e64b97abd330ac57bb4f839dc9e06183798527ecf90d6801142316d2a1be3",
+    "simhash": "1:3e4caaaf9e3294e3",
+    "word_count": 1012
+  },
+  "last_updated": "2024-02-27T16:31:46.217873+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Fort Worth & Denver City Railway Company v. T. A. Fuller."
+    ],
+    "opinions": [
+      {
+        "text": "HEAD, Associate Justice.\nAppellee sued appellant for damage alleged to have been caused to a lot of jacks and jennets by improper treatment while being shipped from Murfreesboro, Tennessee, to Decatur, Texas. The shipping contract, or bill of lading, was executed by the \u00a1Nashville, Chattanooga & St. Louis Railway Company, at Murfreesboro, and was quite similar in its terms to the one considered in the case of Railway v. Baird, 75 Texas, 256. The principal part of the damage was caused before the stock reached appellant\u2019s line, and while it was in the hands of connecting carriers. The petition alleged a partnership and joint contract on the part of the several carriers handling the stock, and sought to hold appellant for the whole damage. Appellant denied such partnership and joint contract under oath, and denied liability for everything not occurring bn its own line. The court below, after hearing the evidence, found in favor of appellee upon these issues, and gave judgment in his favor for the whole damage.\nAfter a careful examination of the statement of facts, we have been unable to find that any evidence was introduced upon this trial which, upon principle, will distinguish this case from the Baird case cited above, and the several decisions of our Supreme Court following it; and feeling ourselves bound by these decisions, we are constrained to reverse the judgment, regardless of what our opinion might have been as an original proposition. As the case will be remanded for a new trial, we deem it best not to attempt a discussion of the evidence. In justice to the learned trial judge, however, we will add that at the time of the trial before him, the appeal from his judgment was to the Court of Appeals, and that court had several times decided the evidence introduced in this case sufficient to sustain a finding, that the several carriers engaged in this shipment were partners or joint contractors therein in such sense as to render each liable for the negligence of the others. Railway v. Ryan, 2 Willson\u2019s C. C., secs. 430, 431; Railway v. Parish, 1 W. & W. C. C., sec. 942; Railway v. Fort., Id., sec. 1252; Railway v. Ferguson, Id., sec. 1253; Railway v. Golding, 3 Willson\u2019s C. C., sec. 33; also, see Railway v. Tisdale, 74 Texas, 8. In none of these cases, however, was the statute of this State which requires railroads under severe penalties to receive and transport cars and freight tendered to them by another road, and to which so much importance is attached in the Baird case, alluded to. While it may be that more importance is attached to this statute in this line of decisions by our Supreme Court than we would be disposed to accord it upon principle, yet we are governed by their opinions, and do not feel disposed to undertake to draw distinctions from shades of difference in the evidence introduced in the several cases brought before us, which should not control in the application of the rules of law announced therein.\nLet the judgment of the court below be reversed, and the cause remanded for a new trial.\nReversed and remanded.\nDelivered May 17, 1893.\nA motion for rehearing was refused.",
+        "type": "majority",
+        "author": "HEAD, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Stanley, Spoonts & Meek and J. H. Davenport, for appellant.",
+      "Carswell, Fuller & Terrell and Carlock & Powell, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Fort Worth & Denver City Railway Company v. T. A. Fuller.\nNo. 773.\nRailway Company \u2014 Liability of Connecting Lines \u2014Case Followed.\u2014Where, in an action against a railway company for damages to live stock occurring in shipment, the principal part of the damages recovered was caused before the stock reached defendant\u2019s line, and while it was in the hands of connecting carriers, and the proof as to the terms of the contract of shipment, and as to &n alleged partnership and joint contract between the several carriers, being such as would not distinguish the case in principle from that of Railway v. Baird, 75 Texas, 256, the cause will be reversed and remanded in accordance with the decision in that case.\nAppeal from the County Court of Wise. Tried below before Hon. J. T. Johnson.\nStanley, Spoonts & Meek and J. H. Davenport, for appellant.\n1. A performance of some of the services in a through shipment, or participation in proportionate profits or freight charges for the whole distance, or the collection of entire freight charges, is not sufficient to show ratification and adoption of bill of lading or shipping contract made without authority of the carrier. Railway v. Baird, 75 Texas, 256; Railway v. Williams, 13 S. W. Rep., 637; Railway v. Ryan, 2 Willson\u2019s C. C., sec. 431; Railway v. Van Winkle & Co., 3 Willson\u2019s C. C., sec. 443.\n2. A common carrier is not liable for injuries occurring on lines other than its own, in the absence of a through bill of lading or other shipping contract to which it is a party. Railway v. Van Winkle, 3 Willson\u2019s C. C., sec. 443; Railway v. Dwyer, 75 Texas, 581; Hutch, on Carr., secs. 108, 111, 476, 478; Rev. Stats., arts. 4226, 4227, 4238, 4251, 4254.\nCarswell, Fuller & Terrell and Carlock & Powell, for appellee.\nWhere freight is shipped over connecting lines of carriers on a through bill of lading, each, is responsible for injury to such freight, and the person damaged may sue either one or all such lines; and his right to recover does not depend upon whether or not such loss or injury occurred while in charge of the line sued; and the bill of lading being a through bill of lading, the appellant is liable, although the injury may have occurred on some other connecting line. The stock having been shipped on a through bill of lading, and by virtue of a joint undertaking between appellant and the other connecting lines, and appellant having ratified the contract of shipment, and made it its own, is liable for any injury and damage occurring on any of its connecting lines in said shipment. Railway v. Tisdale, 74 Texas, 16; 1 W. & W. C. C., secs. 941, 1252; 2 Willson\u2019s C. C., secs. 430, 431; 3 Willson\u2019s C. C., secs. 33, 87."
+  },
+  "file_name": "0340-01",
+  "first_page_order": 366,
+  "last_page_order": 368
+}

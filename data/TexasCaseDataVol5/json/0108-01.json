@@ -1,0 +1,66 @@
+{
+  "id": 227572,
+  "name": "The Llano Improvement and Furnace Company v. C. P. Eubanks",
+  "name_abbreviation": "Llano Improvement & Furnace Co. v. Eubanks",
+  "decision_date": "1893-11-01",
+  "docket_number": "No. 538",
+  "first_page": "108",
+  "last_page": "109",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Tex. Civ. App. 108"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 139,
+    "char_count": 1899,
+    "ocr_confidence": 0.564,
+    "pagerank": {
+      "raw": 4.076306636737454e-08,
+      "percentile": 0.009010639025391025
+    },
+    "sha256": "22f82d213b220ada83a8fe11b5c068155cf028ad3b7f89d5ab2da2fc6db1dd1b",
+    "simhash": "1:5b0f415c7ff7b0c5",
+    "word_count": 330
+  },
+  "last_updated": "2023-07-14T18:07:14.925501+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The Llano Improvement and Furnace Company v. C. P. Eubanks."
+    ],
+    "opinions": [
+      {
+        "text": "FISHER, Chief Justice.\nThe note sued on, in addition to the principal, called for 12 per cent interest from date, and 10 per cent on the amount of principal and interest as attorney fees, in case the same was placed in the hands of an attorney for collection. There is no express stipulation in the note that the attorney fees shall bear interest.\nThe court below rendered judgment against the appellant for the principal amount of the note, and interest on that sum at the rate stated in the note, and upon this amount rendered judgment for the 10 per cent attorney fees, and that the gross sum of the judgment shall bear interest at 12 per cent.\nThe validity of this judgment is attacked by the following assignment of error:\n\u201c The court erred in rendering judgment for 10 per cent of the principal and interest of the note sued on as attorney fees, and for interest on said attorney fees from the date of the judgment at the rate of 12 per cent per annum.\u201d\nThe following authorities on the points raised hold against the appellant: Washington v. First National Bank of Denton, 64 Texas, 4; Llano Improvement Co. v. Watkins, decided at the present term [4 Texas Civ. App., 428].\nThe judgment of the court below is affirmed.\nAffirmed.",
+        "type": "majority",
+        "author": "FISHER, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "Miller & Lauderdale, for appellant,",
+      "Slator & McLean, for appellee,"
+    ],
+    "corrections": "",
+    "head_matter": "The Llano Improvement and Furnace Company v. C. P. Eubanks.\nNo. 538.\nInterest on Stipulated Attorney Fee. \u2014 Action upon a promissory note bearing 12 per cent interest, with stipulated attorney fee of 10 per cent, ft was not error that the judgment provided that the entire judgment, including the attorney fee, bear the stipulated rate of interest.\nAppeal from the County Court of Llano. Tried below before Hon. W. S. Maxwell.\nDelivered November 1, 1893.\nMiller & Lauderdale, for appellant,\ncited, 11 Am. and Eng. Encycl. of Law, 379.\nSlator & McLean, for appellee,\ncited, Washington v. Bank, 64 Texas, 417; Hagood v. Aiken, 57 Texas, 511; Rev. Stats, art. 2980."
+  },
+  "file_name": "0108-01",
+  "first_page_order": 134,
+  "last_page_order": 135
+}

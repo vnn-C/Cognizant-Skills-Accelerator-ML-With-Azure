@@ -1,0 +1,66 @@
+{
+  "id": 219205,
+  "name": "Henry Ash v. D. A. Akin",
+  "name_abbreviation": "Ash v. Akin",
+  "decision_date": "1893-01-26",
+  "docket_number": "No. 204",
+  "first_page": "83",
+  "last_page": "85",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 83"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 412,
+    "char_count": 8629,
+    "ocr_confidence": 0.516,
+    "pagerank": {
+      "raw": 8.611735680820908e-08,
+      "percentile": 0.49031777528342385
+    },
+    "sha256": "2456e04e82b6b14f059e5ab6a3d1ba04674d873a42c2f00ab7c24e49e5281232",
+    "simhash": "1:028bde40e8a26a87",
+    "word_count": 1535
+  },
+  "last_updated": "2023-07-14T16:01:39.065288+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Henry Ash v. D. A. Akin."
+    ],
+    "opinions": [
+      {
+        "text": "WILLIAMS, Associate Justice.\nBy the service of the garnishments upon appellant in the suits of the creditors of Theo. Ash, the effects held by him under the deed of trust were put in the custody of the law, \u25a0and a lien was fixed upon them in case they were subject to Theo. Ash\u2019s debts in favor of the plaintiffs in those suits. Focke, Wilkens & Lange v. Blum, 82 Texas, 439; Harrell v. Cattle Co., 73 Texas, 614.\nIt was the duty of the garnishee to hold them, in order to apply them in accordance with the judgment of the court, when it should determine the rights of the parties. Waples on Attach., 290-292. If he has converted them into money, this may make him liable to the garnishing creditors for their value; but it does not, we think, defeat his right, as against appellee, to hold the proceeds with which to meet such liability, if established by the courts in which those suits are pending. Appellee by his garnishment acquired no greater right to the fund held by appellant than Gabriel Ash had. Appellant, it is true, received the money in trust for Gabriel Ash, but the latter had no right to recover it of him so long as there were garnishments in force requiring appellee to hold it. Waples, 197-199.\nThe court below, therefore, should not have rendered judgment requiring appellant to pay over to appellee a part of the funds thus held, unless the bond of indemnity entitled the latter to it. We know of no authority by which a garnishee may be required to surrender property which he is entitled to hold for his protection, and to accept in its stead the personal undertaking of the creditor and sureties. The authorities cited by appellee do not sustain such a proposition. That Gabriel Ash is not a party to the other suits, and not therefore to be bound by judgments which may be rendered therein, does not affect the question. Appellant is a party, and a judgment may be rendered against him as garnishee in favor of the creditors of Theo. Ash, which will bind him. Gabriel Ash is not a party necessary to a valid judgment in those suits.\nThe cases cited by appellee are not applicable. Alamo Ice Co. v. Yancey, 66 Texas, 187-189; Arthur v. Batte, 42 Texas, 159.\nIn the first case, the garnishee in his answer admitted his indebtedness to the judgment debtor, and asked no relief. An intervenor came in, asserting a right to the debt owed by the garnishee. His petition was excluded on exception, and there stood before the court the answer of the garnishee admitting the indebtedness and giving no reason why judgment should not be rendered against him. The court held that no course was open but to render judgment.\nIn Arthur v. Batte a creditor of Batte had garnished one Hughes in the Federal court. Batte had subsequently recovered judgment against Hughes in a State court on the demand sought to be reached by the garnishment, and was proceeding to collect it by execution. \u2022 Arthur, the creditor, sought an injunction to restrain such execution in aid of his garnishment. The court held, that he could not maintain such proceeding, because, among other reasons, it was for Hughes to take proper steps to protect himself against double liability.\nHere the appellant sought the protection of the court in which appellee\u2019s garnishment was pending. His plea was very defective, and the exceptions to it should have been sustained. But the court overruled them, holding the answer sufficient; and appellant then showed a state of facts which, under the ruling on the exceptions, should have exempted him from judgment. The court held him liable because a bond was tendered to secure him against loss. Thus by the action of the court he was prevented from doing anything more than he had attempted, and at the same time judgment was rendered against him on a ground which, we have seen, did not authorize it.\nWhen the case goes back the exceptions to the answer should be sustained, and if appellant then seeks to perfect his pleadings, he should be allowed to do so, and an opportunity afforded him to take such other timely steps as will protect him against double recoveries.\nThe case should not be indefinitely continued until the other cases are disposed of, nor unreasonably delayed, but such proceedings should be had as to reach a definite determination of the rights respecting the fund.\nReversed and remanded.\nDelivered January 26, 1893.",
+        "type": "majority",
+        "author": "WILLIAMS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Gregg & Reeves, for appellant.",
+      "Thomas B. Greenwood, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Henry Ash v. D. A. Akin.\nNo. 204.\n1. Effect of Garnishment. \u2014 When the trustee in a deed of trust made by the debtor for the benefit of certain preferred creditors, is garnished by the non-preferred creditors, who attack the validity of the trust deed upon the ground of fraud, the sendee of the writ places the effects held by him under the trust deed in the custody of the law, and fixes a lien upon them, in case they are subject to the nonpreferred debts of the debtor, in favor of such creditors.\n2. Bight of Garnishee to Hold Effects. \u2014 The garnishment suits in which the trustee had been cited as garnishee not having been decided, and the trustee being directed by the trust deed to pay over proceeds of sales of goods to the preferred creditors, and the question of the validity of the trust deed being undecided, it was the duty of the garnishee to hold the goods or their proceeds, in order to apply them in accordance with the judgment of the court, when it should determine the rights of the parties. A subsequent garnishment creditor had no better right to the proceeds of sales in the hands of the trustee than did G. Ash, to whom, by the terms of the trust deed, it ivas payable; and neither had right of recovery so long as there were garnishments in force against the trustee.\n3. Bond of Indemnity.\u2014We know of no authority by Avhich a garnishee may be required to surrender property which he is entitled to hold for his protection, and to accept in its stead the personal undertaking of the creditor and his sureties.\n4. Garnishee Entitled to Protection, When.\u2014Though the trustee had money in his hands, proceeds of sales of the goods, which by the terms of the trust deed may have been payable to G. Ash, the debtor of appellee, and though G. Ash was not a party to any of the other garnishment suits, the trustee is a party to them, and judgment may be rendered against him as garnishee in favor of those creditors, and G. Ash is not a necessary party to a valid judgment in those suits; and as the garnishee seeks the protection of the court against a double liability, he is entitled to it.\n5. Delay.\u2014The case should not be indefinitely continued until the other cases are disposed of, nor unreasonably delayed, but such proceedings should be had as to reach a definite determination of the rights respecting the fund.\nAppeal from Anderson. Tried below before Hon. W. G. W. Jo wees.\nDecember 15, 1890, Theo. Ash executed a deed of trust, by which he conveyed to Henry Ash, trustee, two stocks of goods. The deed of trust directed that the goods should be sold and the proceeds applied to the payment of certain preferred creditors of Theo. Ash, and one of the named preferred creditors was Gabriel Ash, to whom was due 84800.\nWhile Henry Ash was executing said trust, and prior to June 20, 1891, eighteen nonpreferred creditors of Theo. Ash, whose debts amount to more than the entire proceeds of the goods, filed suits against Theo. Ash for the recovery of their respective debts, and sued out writs of garnishment against Henry Ash, the trustee, attacking the validity of the trust deed, upon the ground that it was fraudulent, and that the $4800 debt claimed to be due Gabriel Ash was fictitious and unreal.\nAll of the garnishment suits were pending at the time of trial of this case, except one, in which the validity of the trust deed had been sustained in the District Court, but the case was still pending on appeal when this cause was tried.\nAkin sued Gabriel Ash on June 20, 1891, and at the same time sued out a writ of garnishment against Henry Ash, and on July 8, 1891, recovered judgment against Gabriel Ash for $379.20 and costs.\nThe answer of Henry Ash as garnishee admitted that he had in his hands $3613.38, proceeds of sale of the goods, to be paid on the debt due Gabriel Ash, set out the above facts, and claimed that no judgment could be rendered in this case until a decision as to the validity of the trust deed. Akin tendered the garnishee a bond of indemnity, and the court gave judgment against him, and directed that he should pay over to the clerk of the court the amount of Akin\u2019s judgment within one day after the adjournment of the court.\nGregg & Reeves, for appellant.\nThomas B. Greenwood, for appellee."
+  },
+  "file_name": "0083-01",
+  "first_page_order": 109,
+  "last_page_order": 111
+}

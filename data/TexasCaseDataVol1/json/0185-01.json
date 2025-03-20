@@ -1,0 +1,66 @@
+{
+  "id": 216204,
+  "name": "E. A. Bates v. W. W. Van Pelt",
+  "name_abbreviation": "Bates v. Van Pelt",
+  "decision_date": "1892-10-26",
+  "docket_number": "No. 17",
+  "first_page": "185",
+  "last_page": "187",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Tex. Civ. App. 185"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 374,
+    "char_count": 6509,
+    "ocr_confidence": 0.546,
+    "pagerank": {
+      "raw": 1.2349224376282462e-07,
+      "percentile": 0.6065075608655176
+    },
+    "sha256": "97cb2a602251ab6b1645d0de0e444978f3d495ea71c52be542e2df1fb2fc7c7f",
+    "simhash": "1:a623e4882dd3bfc1",
+    "word_count": 1124
+  },
+  "last_updated": "2023-07-14T14:31:22.177647+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "E. A. Bates v. W. W. Van Pelt."
+    ],
+    "opinions": [
+      {
+        "text": "COLLARD, Associate Justice.\nThe appellee, W. W. Van Pelt, brought this suit April 20, 1889, in the District Court, against the appellant, E. A. Bates, for damages to his homestead, one acre of ground, 75 varas square, fronting on Garden Street, alleged to be a public street of the town of Batesville, in Zavala County. The petition shows that plaintiff has but one way to and from his premises, by and on Garden Street on the east, and that defendant obstructed this way b)r digging two ditches, one in the street next to his lot, and one across the street near the southeast corner of the same, both connecting with the \u201c mother ditch\u201d on the north. Plaintiff asks for $600 actual damages and $1000 exemplary damages, and prays that defendant be compelled to fill up the ditches and open the street.\nDefendant answered by plea in abatement, that the ditches were constructed by authority of the Comanche Irrigation Company, a private corporation, incorporated February 12, 1876, and that the ditches were for legitimate purposes of irrigation under the charter, and are the property of the company; that the corporation is still in existence; that its business is required to be conducted by its president and board of directors; that defendant is and at the time of the institution of the suit was president of the company, whose principal office, by its charter, is at Uvalde, Texas; that if plaintiff has been damaged as alleged, it was caused by the company and not by\" the defendant, who is not liable in his individual capacity, and he asks to be dismissed with his costs.\nThere was no order making the irrigation company a party defendant, nor was there any order in relation to the plea in abatement, except to overrule the plaintiff\u2019s exceptions thereto.\nThe evidence showed that the ditches were dug for the irrigation company, as alleged by defendant, and were the property of the company.\nThe verdict of the jury was for plaintiff for $100 actual damages, and \u201c that the ditches complained of in plaintiff\u2019s petition be destroyed.\u201d Judgment followed for plaintiff for his damages, and that the ditches complained of be filled up and destroyed, and unless this is done by the defendant in twenty days after adjournment of the court, the clerk is ordered to issue a writ to the sheriff requiring him to do so. Defendant appealed.\nAppellant insists, that the judgment of the court below is unauthorized because it requires defendant to fill up the ditches and remove obstructions over which he has no control or ownership.\nWe think in this respect the judgment went too far and was erroneous.\nIt is true defendant would be personally liable in damages for the wrong committed by him, and he could not defend the wrong by showing that he was acting for and at the instance of the irrigation company. Both would be liable for any tort committed by him as its agent, and the action could be maintained against each separately or jointly. Cool, on Torts, 133; 1 Beach on Priv. Corp., sec. 253; Railway v. Hackney, 83 Texas, 410.\nOrdinarily the company would not be liable for the malicious acts of its servants. 2 Beach on Priv. Corp., secs, 442-444.\nIt seems from defendant\u2019s answer that he thought the law would excuse him for the alleged trespass, because he was acting for the company in the discharge of his duties as its president, and that the company had a license from the State to clo the acts complained of, by its charter. A chartered company is liable for its torts, and has no more license to commit them than a natural person. The irrigation company was bound to so construct its works as not to trespass upon the rights of adjacent landowners, and its servants or officers committing such wrong would also be personally liable.\nDelivered October 26, 1892.\nBut there being no controversy of the fact that the ditches were the works and property of the company, and that defendant had no control of them in his individual capacity, the court exceeded its powers in commanding that the ditches be filled up and destroyed.\nThe petition asked for such relief, and when the answer by plea in abatement set up the facts the company should have been made a party defendant. The company was to be affected by the relief prayed for, and it was a necessary party. The court\u2019s judgment was erroneous.\nOn the question of jurisdiction, it should be said that the petition was sufficient to give jurisdiction to the District Court.\nThere was no plea that the amount claimed was fraudulently alleged to obtain jurisdiction, and without such allegations and a finding sustaining them the court had the power to hear the cause and render judgment for any amount found to be due. Ratigan v. Holloway, 69 Texas, 468; Dwyer v. Bassett. 63 Texas, 274; 66 Texas, 58.\nBecause of the error in the judgment, it should be reversed and the cause remanded, and it is so ordered.\nReversed and remanded.",
+        "type": "majority",
+        "author": "COLLARD, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "M. L. Moody, Jno. T. Bivens and A. A. Dial, for appellant.",
+      "No brief for appellee reached the Reporter."
+    ],
+    "corrections": "",
+    "head_matter": "E. A. Bates v. W. W. Van Pelt.\nNo. 17.\n1. Joint Trespasser \u2014 Corporation and its Officers. \u2014 An incorporated irrigation company, its president acting for it, by its ditches injured the land along which they were dug. In suit against the president by an adjacent landowner, held, that the corporation and its president were both guilty and liable, and an action could be maintained against both or either.\n2. Chartered Irrigation Company Liable for Injury. \u2014 A chartered company is liable for its torts, and has no more license to commit them than a natural person. An irrigation company is bound to so construct its works as not to trespass upon the rights of adjacent land-owners. Its officers and servants committing such wrong would also be liable.\n3. Suit to Abate Irrigation Ditch \u2014 Parties.\u2014While for the tort in so placing irrigation ditches as to injure adjacent land the officer superintending the work would be personally liable, yet in a suit to abate the ditch the irrigation company would be a necessary party. In such action, joined with one for damages against the president alone, it was error to order the removal of the ditch.\n4. Jurisdiction \u2014 Amount in Controversy. \u2014 In the absence of 'a plea and evidence sustaining it that the amount alleged in the petition was fraudulently alleged to obtain jurisdiction, the court below had the right to hear and render judgment for any amount found to be due, however small such damages maybe.\nAppeal from Zavala. Tried below before Hon. D. P. Mare.\nM. L. Moody, Jno. T. Bivens and A. A. Dial, for appellant.\nNo brief for appellee reached the Reporter."
+  },
+  "file_name": "0185-01",
+  "first_page_order": 209,
+  "last_page_order": 211
+}

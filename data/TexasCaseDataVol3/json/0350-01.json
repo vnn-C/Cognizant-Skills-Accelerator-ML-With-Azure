@@ -1,0 +1,79 @@
+{
+  "id": 221210,
+  "name": "J. B. Puckett et al. v. Reed Bros.",
+  "name_abbreviation": "Puckett v. Reed Bros.",
+  "decision_date": "1893-05-24",
+  "docket_number": "No. 172",
+  "first_page": "350",
+  "last_page": "352",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 350"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "31 Cal., 180",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2222592
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/31/0180-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 396,
+    "char_count": 7246,
+    "ocr_confidence": 0.539,
+    "pagerank": {
+      "raw": 1.225762432391612e-07,
+      "percentile": 0.6045086026250951
+    },
+    "sha256": "e8a735976abb5ca91a2d1d67e5820903118d3d9e15f6833f3486de2c24959cdb",
+    "simhash": "1:897cd4b5c5b92d1e",
+    "word_count": 1286
+  },
+  "last_updated": "2024-02-27T16:31:46.217873+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "J. B. Puckett et al. v. Reed Bros."
+    ],
+    "opinions": [
+      {
+        "text": "HEAD, Associate Justice.\nE. G. Puckett was the son of appellants, J. B. Puckett and E. C. Puckett, and was the owner of the land in controversy. On the 20th day of August, 1887, said E. G-. Puckett, for a valuable consideration, conveyed by deed the said land to his mother, E. C. Puckett. This deed was not recorded until the 8th day of June, 1888.\nOn the 11th day of November, 1887, after the execution of the deed to his mother, and before its registration, the said E. G. Puckett, for a valuable consideration, executed his note to J. N. Porter for the sum of 8388, to bear interest at the rate of 12 per cent, and stipulating for the payment of an additional 10 per cent as attorney fee if collected by suit, and secured this note by a mortgage upon the land. This mortgage was recorded on the day after its execution, prior to the registration of the deed to E. C. Puckett. E. G. Puckett was a single man, and at the time of the execution of said mortgage was living with his father and mother upon the land, and at this time the records showed the title in him.\nThe finding of the court below, that Porter had no actual notice of the deed to E. C. Puckett, can be sustained by the evidence.\nE. G. Puckett died on the 1st day of November, 1888, leaving both his parents surviving him, and leaving no property except some notes and accounts amounting to between 81300 and 81400, but in reality of insignificant value, and these had been placed in the hands of his brother to collect and apply to the payment of certain specified debts. His estate was badly insolvent.\nAppellant Grantham claims by purchase from his coappellants. Appellees purchased the note from Porter after maturity, but paid value therefor, and instituted this suit in the District Court to foreclose the mortgage given to secure it, without administering upon the estate of E. G. Puckett, and only making his parents and the then owner of .the land parties defendant. No personal judgment was sought against the estate of said E. G. Puckett or his heirs. Judgment was rendered in favor of appellees, ordering the land sold to pay the amount due on the note, any balance to be paid to appellant Grantham; and from this judgment this appeal is prosecuted.\nConclusions of Law.\u2014No administration upon the estate of E. G. Puckett was necessary. The only relief sought by appellees was the foreclosure of their mortgage upon land, the entire interest in which had passed out of Puckett prior to his death. No judgment was sought against his estate for any balance that might remain after subjecting the land; he did not leave sufficient property to justify administration thereon; his administrator, if he had one, would have no interest in this controversy, whether the deed to E. C. Puckett or the mortgage of appellees be adjudged to have priority. In such case no useful purpose could be subserved bjr requiring costs to be incurred in making parties who have no interest to be affected by the litigation. This question has been so exhaustively and satisfactorily treated in the case of Heard v. McKinney, 1 Posey\u2019s Unreported Cases, 83, that we shall not undertake to add anything to what is there said. Also, see Jones v. Smith, 55 Texas, 383; Patterson v. Allen, 50 Texas, 23.\nThe court below found that Porter was not charged with notice of the prior deed to E. C. Puckett at the time he took the mortgage, and appellants challenge the correctness of this finding, upon the ground that the grantee in such deed was in actual possession at this time. It is true, E. C. Puckett and her husband were living upon the land, but the common grantor, E. G. Puckett, was also living upon it with them, and the records showed the title to be in him. For possession alone to be notice of an unrecorded deed, it must be exclusive as against the grantor, or the right of possession will be referred to the recorded title. Wade on Notice, 290; Smith v. Yule, 31 Cal., 180.\nFinding no error in the judgment as rendered by the court below, it is in all things affirmed.\nAffirmed.\nDelivered May 24, 1893.\nA motion for rehearing was refused.\nChief Justice Taelton did not sit in this case.",
+        "type": "majority",
+        "author": "HEAD, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Tarlton, Tarlton & Morrow, for appellants.",
+      "Upshaw & Jordan, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "J. B. Puckett et al. v. Reed Bros.\nNo. 172.\n1. Parties to Suit for Foreclosure of Mortgage.\u2014Where the mortgagor\u2019s entire interest in the mortgaged property had passed from him prior to bis death, his administrator is not a necessary party to an action for foreclosure wherein no personal judgment is sought.\n2. Notice\u2014Possession not Notice of Unrecorded Deed, When.\u2014 Where a grantor whose title is of record continues to reside upon the premises together with the grantee, his mother, her possession not being exclusive of the grantor, is not notice of the unrecorded deed to her, and the right of possession will be referred to the recorded title.\nAppeal from Hill. Tried below before Hon. J. M. Hall.\nTarlton, Tarlton & Morrow, for appellants.\n1. The petition showed that plaintiffs\u2019 claim ought to have been prosecuted through the Probate Court, and that the District Court had no jurisdiction. If E. G. Puckett died intestate, indebted to plaintiffs as alleged in their petition, and said indebtedness was secured by deed of trust, conveying the real estate described in plaintiffs\u2019 petition to S. C. Upshaw, the proper way to foreclose the lien was by administration through the Probate Court; and the fact that defendants had taken possession gf the real estate, when it was not shown that they had wasted or destroyed the property, did not release plaintiffs of the necessity of proceeding through the Probate Court, and did not entitle them to sue in the District Court, especially when it was not shown that theirs was not the only debt. Webster v. Willis, 56 Texas, 468; Green v. Rugely, 23 Texas, 539.\n2. At the time the deed of trust and note described in plaintiffs\u2019 petition were executed and delivered to J. N. Porter, J. B. and E. C. Puckett were living on the real estate and had the exclusive control of it, and a deed to it from E. G. Puckett, which was not recorded. Their possession was sufficient to charge Porter with notice of the deed from E. G-. Puckett in their possession, and was sufficient at least to have required him to make inquiry of them as to the character of their possession; and this was true, even though E. G-. Puckett, who was their son, might have made their home his staying place on his occasional visits. Webb on Record of Title, sec. 228, and cases cited.\nUpshaw & Jordan, for appellees.\n1. There being no necessity for administration upon the estate of E. G-. Puckett, and the only claim against him at the time of his death, which was secured, was the claim of plaintiffs, and there being no administration, the proper court to enforce said claim and foreclose the lien upon real estate was the District Court, especially so as there were other persons living upon and claiming the land.\n2. A party having a deed on record to property (real estate) is constructive notice of his ownership, and the fact that others may be occupying with him the same premises, without a deed on record, is neither actual nor constructive notice to the world of claim or ownership of the same. The law presumes the owner to be the occupant whose deed is recorded."
+  },
+  "file_name": "0350-01",
+  "first_page_order": 376,
+  "last_page_order": 378
+}

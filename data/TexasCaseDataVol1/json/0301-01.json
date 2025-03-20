@@ -1,0 +1,66 @@
+{
+  "id": 216269,
+  "name": "Western Union Telegraph Company v. F. E. Piner",
+  "name_abbreviation": "Western Union Telegraph Co. v. Piner",
+  "decision_date": "1892-11-01",
+  "docket_number": "No. 22",
+  "first_page": "301",
+  "last_page": "302",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Tex. Civ. App. 301"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 227,
+    "char_count": 2901,
+    "ocr_confidence": 0.563,
+    "pagerank": {
+      "raw": 4.076306636737454e-08,
+      "percentile": 0.008676325481882394
+    },
+    "sha256": "89b8eda4415a5eb56eeac0c926380824481eba5e8414f16d0e58926a08d4fcf5",
+    "simhash": "1:e22e07b327376c76",
+    "word_count": 501
+  },
+  "last_updated": "2023-07-14T14:31:22.177647+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Western Union Telegraph Company v. F. E. Piner."
+    ],
+    "opinions": [
+      {
+        "text": "HEAD, Associate Justice.\nOn the 17th day of February, 1889, appellee\u2019s mother delivered to appellant for transmission to him the following message:\n\u201c Bonham, Texas, Feb. 17.\n\u201c To F. E. Piner, Denton, Texas:\n\u201c Tour father is no better; come on first train.\n\u201c Sallie Finer.\u201d\nThis message was received at appellant\u2019s office in Denton about 6:46 o\u2019clock p. m. on the day of its date, but was not delivered to appellee until between 8 and 9 o\u2019clock a. m. of the next day. Had the message been received by appellee on the 17th he would have reached his father about 7:15 a. m. on the 18th, but not having been delivered on that day, he was delayed in reaching his father until about 1 o\u2019 clock p. m. of the 18tli. During the morning of the 18th appellee\u2019s father was conscious, but became unconscious before appellee reached him, and never afterward regained consciousness. Appellee was, however, with his father for about two days before his death, and was present at his burial. For the mental anguish caused to appellee by his failure to reach his father before he became unconscious he brought this suit, and recovered a verdict and judgment in the sum of $4750.\nAppellant\u2019s sixth assignment of error complains of the verdict and judgment as being excessive in amount, and we believe this assignment to be well taken.\nAppellee\u2019s father was a man about 73 years of age, while appellee was himself about 50; and while the evidence in this case discloses an unusual degree of affection and confidence existing between father and son, we are constrained to hold, in the light of previous decisions by our Supreme Court, that $4750 is too large an amount to be allowed solely as compensation for the mental anguish caused by the failure of appellee to be with his father while conscious during the very short time of which he was deprived by the negligence of appellant. Tel. Co. v. Houghton, 82 Texas, 561; Tel. Co. v. Evans, supra, 297.\nDelivered November 1, 1892.\nWe have examined the other assignments of error contained in appellant\u2019s brief, and are of opinion there is nothing in any of them of which it can justly complain. Several of the questions therein presented have been disposed of in the case of Western Union \"Telegraph Company v. Evans, this day decided by us, and cited above.\nLet the judgment be reversed and the cause remanded for a new trial.\nReversed and remanded.",
+        "type": "majority",
+        "author": "HEAD, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Stemmons & Field, for appellant.",
+      "Potter & Potter and Stuart & Bailey, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Western Union Telegraph Company v. F. E. Piner.\nNo. 22.\nDamages for Mental Anguish \u2014 Excessive Verdict. \u2014 By reason of the negligence of a telegraph company in the delivery of a message, a son failed to reach the bedside of his dying father until after the father became unconscious. Held, that a verdict of $4750 in favor of the son for the mental anguish caused was excessive.\nAppeal from Cooke. Tried below before Hon. D. E. Barrett.\nStemmons & Field, for appellant.\nPotter & Potter and Stuart & Bailey, for appellee."
+  },
+  "file_name": "0301-01",
+  "first_page_order": 325,
+  "last_page_order": 326
+}

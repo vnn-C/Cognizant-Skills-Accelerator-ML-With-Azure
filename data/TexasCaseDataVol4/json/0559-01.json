@@ -1,0 +1,319 @@
+{
+  "id": 223660,
+  "name": "A. J. Jordan v. Sarah E. Jordan",
+  "name_abbreviation": "Jordan v. Jordan",
+  "decision_date": "1893-10-06",
+  "docket_number": "No. 33",
+  "first_page": "559",
+  "last_page": "566",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Tex. Civ. App. 559"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "13 Ill., 140",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        2583352
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/13/0140-01"
+      ]
+    },
+    {
+      "cite": "76 Ill., 409",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "33 Ga., 195",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        843496
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ga/33/0195-01"
+      ]
+    },
+    {
+      "cite": "25 Wend., 64",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "37 Ark., 27",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1870919
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/37/0027-01"
+      ]
+    },
+    {
+      "cite": "26 Kans., 650",
+      "category": "reporters:state",
+      "reporter": "Kan.",
+      "case_ids": [
+        50733
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/kan/26/0650-01"
+      ]
+    },
+    {
+      "cite": "25 Kans., 308",
+      "category": "reporters:state",
+      "reporter": "Kan.",
+      "case_ids": [
+        8864481
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/kan/25/0308-01"
+      ]
+    },
+    {
+      "cite": "11 Ill., 43",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        2575085
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/11/0043-01"
+      ]
+    },
+    {
+      "cite": "52 Iowa, 181",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "opinion_index": -1
+    },
+    {
+      "cite": "75 N. Y., 221",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        536776
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/75/0221-01"
+      ]
+    },
+    {
+      "cite": "13 Ind., 523",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1436683,
+        1436686
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/13/0523-01",
+        "/ind/13/0523-02"
+      ]
+    },
+    {
+      "cite": "67 Ind., 583",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1521076
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/67/0583-01"
+      ]
+    },
+    {
+      "cite": "59 Miss., 423",
+      "category": "reporters:state",
+      "reporter": "Miss.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "37 Ind., 164",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1443538
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/37/0164-01"
+      ]
+    },
+    {
+      "cite": "55 N. Y., 656",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        517499,
+        517364
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/55/0656-02",
+        "/ny/55/0656-01"
+      ]
+    },
+    {
+      "cite": "15 Ohio St., 427",
+      "category": "reporters:state",
+      "reporter": "Ohio St.",
+      "case_ids": [
+        524535
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ohio-st/15/0427-01"
+      ]
+    },
+    {
+      "cite": "35 Cal., 688",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2305392
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal/35/0688-01"
+      ]
+    },
+    {
+      "cite": "96 Ill., 6",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "80 Ill., 342",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        2680907
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill/80/0342-01"
+      ]
+    },
+    {
+      "cite": "35 Iowa, 238",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        109147
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/iowa/35/0238-01"
+      ]
+    },
+    {
+      "cite": "52 Iowa, 182",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        2322241
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/iowa/52/0182-01"
+      ]
+    },
+    {
+      "cite": "49 Ind., 252",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1411758
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ind/49/0252-01"
+      ]
+    },
+    {
+      "cite": "13 Ind., 523",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1436683,
+        1436686
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ind/13/0523-01",
+        "/ind/13/0523-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 812,
+    "char_count": 19158,
+    "ocr_confidence": 0.566,
+    "pagerank": {
+      "raw": 1.0630319135040183e-07,
+      "percentile": 0.5575713101420199
+    },
+    "sha256": "fe5700ebac94f9b18ace96aa46fc51071133fa69f2ba1c8e927cfbd7bfa7f666",
+    "simhash": "1:faeb9bc6ce9139cc",
+    "word_count": 3418
+  },
+  "last_updated": "2024-02-27T18:01:03.208661+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "A. J. Jordan v. Sarah E. Jordan."
+    ],
+    "opinions": [
+      {
+        "text": "LIGHTFOOT, Chief Justice.\nOn December 19, 1890, Sarah E. Jordan filed a petition in the County Court of Kaufman County against A. -J. Jordan, for the guardianship of the person of Andrew Jordan, Jr., a minor 14 years of age, residing in said county. She set up in her petition, that she was married to A. J. Jordan (appellant) October 29, 1861, \u25a0and they had five children, the said Andrew being the youngest. That \u25a0on September 13, 1884, a divorce was granted by the District Court of Panola County, Texas, and that the custody of two of the children (the two girls) was decreed to said Sarah E. Jordan, and the custody of Andrew and his brother was decreed to the husband (the eldest child was of age). That said A. J. Jordan, the husband, is unfit to have the care of said minor, Andrew, because he has neglected the education of said child. That immediately after said divorce, defendant brought said child to Kaufman County, and plaintiff moved to Marshall. That during said time the minor has been hired out to various parties while defendant was off teaching school, and petitioner has not been allowed to see him, nor to write to him, nor send him books, etc.; that he was poorly provided for, and defendant had denied him the gift of clothing, etc., sent him by his mother; that he was not allowed the privilege of church and schools, nor of clean and comfortable clothing; and his physical, moral, and mental training were neglected, setting out a number of alleged acts of negligence on the part of the father. She further sets up, that she has a good and comfortable home in the city of Marshall, and the two sisters have been well educated, and are refined in their manners; and that she is able to raise the minor and give him proper physical, moral, and mental training under Christian influences and in the refined and elevating society of the two sisters. She prays for an order in vacation giving her the custody of the child during the pendency of the application, and that A. J.. Jordan, Sr., be enjoined from exercising any control over or having-charge or custody of said minor during the pendency of the application;, and on final hearing for permanent guardianship of the person of said minor.\nOn December 19, 1890, the county judge, at chambers, granted the order requiring the sheriff to deliver said minor to petitioner, requiring-her to execute bond in the sum of $500, conditioned for the delivery of' the minor at the time designated by the County Court, and enjoining the' defendant from interfering in any manner with the applicant in the custody of said child. The bond was given and approved, and the custody of the minor delivered to applicant.\nThe dfeendant demurred to the petition, and plead the judgment of the District Court of Panola County, settling the rights of the parties as to the custody of said minor, as res adjudicata; and specifically denied each of complainant\u2019s allegations of any failure on his part to properly provide forsaid minor physically, or for his mental or moral training, but set up the full performance of his duty in every respect, and claimed that he could better manage, control, and provide for the minor, who is a boy over 14 years of age, and praj'-ed that the order of the County Court in taking said minor and placing him in the complainant\u2019s custody be vacated, and that he be restored to defendant\u2019s custody, for a writ of habeas corpus, etc.\nBoth parties filed supplemental pleadings, attaching requests of the minor; to the complainant\u2019s petition a request that his mother be appointed his guardian, and to defendant\u2019s answer a request that his father be appointed his guardian.\nJudgment was rendered in the County Court in favor of the applicant, which was appealed to the District Court, where it was again tried June 5, 1891, and the demurrer of defendant to plaintiff\u2019s petition was overruled and judgment rendered appointing complainant, Sarah E. Jordan, as guardian of the person of said minor, and against defendant for costs.\nThe following are the conclusions of fact found by the court:\n\u201c 1. In 1874 [1884] Sarah E. Jordan and A. J. Jordan, man and wife, were duly divorced by a decree of the District Court of Panola County, Texas, by the terms of which decree A. J. Jordan was awarded the custody of the minor, said minor being at the time about 7 years of age.\n\u201c 2. After said decree A. J. Jordan moved to this, Kaufman County, where he has since resided, teaching school, which is his profession. He has been boarding the minor with other parties while he was away teaching school. While he has not been personally unkind to said minor, he has neglected him and failed to give him that parental care that he should.\n\u201c S. That after said decree Sarah E. Jordan moved to Marshall, and has lived there since. She has a home, and is financially able to take care of said minor. Her influence as a mother, her education, her surroundings, all combine to make it much to the advantage of the minor that she have his care and custody.\n\u201c 4. The financial ability of Sarah E. and A. J. Jordan are about equal.\n\u201c5. The minor is now 14 years of age, and in open court signified his preference for Sarah E. Jordan to be his guardian.\u201d\nThe leading question in the case is clearly presented in the assignments of error by appellant, from one to five, inclusive. Can the judgment of the District Court of Panola County, which awarded the custody of the minor to the father, be set aside by the County Court of Kaufman County in a subsequent suit between the same parties, and the custody of the minor given to the mother ? There are other questions presented by the assignments of error upon the findings of the court; but we think that a proper solution of the above question will settle the case.\nUnder our statutes, the father and mother are recognized as the natural guardians of the persons of their minor children, and ordinarily they need no appointment of any court to act as such.\nRevised Statutes: \u201cArticle 2494. When the parents of a minor live' together, the father is the natural guardian of the persons of the minor children by the marriage, and is entitled to be appointed guardian of' their estates.\n\u201cArticle 2495. Where the parents do not live together, their rights are equal, and the guardianship of their minor children shall be assigned to one or the other, according to the circumstances of each case, taking into consideration the interest of the child alone.\u201d\nUnder the divorce statutes, the District Court is given the power and jurisdiction to determine which of the spouses shall have the custody of such children.\n\u201cArticle 2871. Custody of Children. The courts aforesaid shall have power in all cases of separation between man and wife to give the custody and education of the children to either the father or mother, as to the said court shall seem right and proper, having regard to the prudence and ability of the parents, and the age and sex of the child or children, to be determined and decided on the petition of either party; and in the meantime to issue an injunction or make any order that the safety and well being of any such children may require.\u201d\nIn this case it appears, that the father and mother having separated, a petition tor divorce was duly filed in the District Court of Panola County; and that court having full jurisdiction of all the parties, and having fully inquired into all matters appertaining to the prudence and ability of the parents and the age and sex of the children, and looking to the safety and well being of the children, awarded to the mother the custody of the two girls, and to the father the custody of the two boys, including the minor, Andrew, in controversy in this suit.\nThat being a court of competent jurisdiction, and having jurisdiction of all the parties and the subject matter, its decree can not be collaterally attacked, but as to the questions therein adjudicated its judgment is final. Rev. Stats., art. 2871; Haymond v. Haymond, 74 Texas, 421; Williams v. Williams, 13 Ind., 523; Sullivan v. Leonard, 49 Ind., 252; Shaw v. McHenry, 52 Iowa, 182; Wakefield v. Ives, 35 Iowa, 238; Wilkinson v. Deming, 80 Ill., 342; Dubois v. Johnson, 96 Ill., 6; 2 Bish. on Marr. and Div., secs. 530, 750, 754, 765.\nIn the case of Haymond v. Haymond, supra, the court, after quoting in full article 2871 of our divorce statute, says: \u201cNo more sacred trust or greater responsibility can be devolved upon a court than the duty of determining which one of the two contending parties shall have the control of their minor children. It is a question of the welfare of the child, rather than of outrage to the affections of a mother, and one that should be solved by all the circumstances and conditions surrounding the parties at the time the final order shall be made.'\u201d The italics are ours.\nThis sacred trust and grave responsibility of the trial court would be of but little importance if the same question could be adjudicated again between the same parties the next day, in another tribunal, the custodian selected by the court set aside, and the custody of the child awarded to the other parent. But it is contended that the County Court has general supervision over the appointment of guardians for minors, and in such supervision can appoint a guardian of the person of a minor, notwithstanding the decree of the District Court in settling the custody of the minor in a suit between the two parents.\nMr. Bishop says: \u201c The relation of parent and child constitutes a status not altogether unlike that of husband and wife. Hence an order for the custody of the children is, in this sort of ex parte divorce, competent and proper.\u201d Bish. on Marr. and Div.,,sec. 170.\nUnder our statute the District Court is expressly given jurisdiction to determine the custody of the children. Where the father or mother is living, the County Court is not called upon to appoint a guardian of the persons of their minor children, but the natural guardianship of the parent is fully recognized, even to the extent of appointing by will the guardians of such children. Rev. Stats., arts. 2494-2497, inclusive.\nUpon the decree of the District Court awarding the custody of a child to one of the parents, such parent is thereby selected by the court as the natural guardian, entitled to all the rights and privileges and subject to all the duties and responsibilities of such natural guardian. In the case of Kahn v. Israelson, 62 Texas, 226, Judge Stayton says: \u201c Under the statutes now in force, the surviving parent is the natural guardian of his or her minor child; * * as to the person, the surviving parent, as under the former statute, without appointment by the County Court, is the guardian.\u201d Cook v. Bybee, 24 Texas, 278.\nSo it is clear, that the guardianship of the person of a minor who has surviving parents is fixed by law, without an appointment of the County Court; and when the custody has been settled by a decree of the District Court in a divorce proceeding, the interference of another court should not be permitted.\nBut it is further contended by appellee, that the minor, Andrew Jordan, having reached the age of 14 years, is under the statute entitled to select his own guardian, and that having selected his mother, she is entitled to the appointment. Let us examine this question in the light of the statute. Rev. Stats., art. 2505.\n1 \u2018A minor who is 14 years of age or over has the right to select a guardian either of his person or estate, or both, which selection may be made in open court, in person or by attorney, and the person selected, if qualfied, shall be entitled to be appointed guardian, except in the case where the surviving parent of such minor has appointed a guardian by will or written declaration, in which case the person so appointed shall be entitled to the guardianship.\u201d\nAlso, in article 2510, which gives the right to a minor over 14 years of age to change his guardian, the same exception is made. So that the natural right of the parent to the guardianship of the person of his minor child can not be changed at the will of the minor when he arrives at the age of 14 years, nor can the minor change the appointment of a guardian appointed by the will or written declaration of the parent. The right of a minor over 14 years of age to choose his guardian applies only to such minors as have no surviving parents nor \u201c guardians appointed by them by will or written declaration.\u201d\nHow far the District Court of Panola County, which rendered the decree awarding the custody of the minor to appellant, could go in reopening or changing its decree, it is not necessary .for us here to inquire. Gray v. Thomas, 83 Texas, 246.\nUnder the facts of this case, it is evident, that while this elegant and refined woman is reaching out with all the warmth and tenderness of a mother\u2019s love to secure the custody of her child, yet no such facts are shown as should deprive the father of that legal custody awarded him by the District Court of Panola County. It may be that if the question was before us as an original proposition, we would not make the same decree as was made by that court; but such is not the case, and in this collateral proceeding we are compelled to recognize the binding authority of that adjudication.\nDelivered October 6, 1893.\nThe judgment of the District Court is reversed and remanded, with instruction that such judgment be rendered therein as will restore the custody of said minor to appellant, and that the demurrer and exceptions of defendant below be sustained and said cause dismissed.\nReversed and remanded.",
+        "type": "majority",
+        "author": "LIGHTFOOT, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "Dillard & Stroud, Clark & Morrow, and Woods & Gossett, for appellant.",
+      "A. J. Booty and W. H. Allen, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "A. J. Jordan v. Sarah E. Jordan.\nNo. 33.\n1. Divorce \u2014Custody of Child \u2014 Collateral Attack.\u2014A judgment of the District Court in a divorce proceeding, which awarded the custody of the minor child to the father, can not be set aside by the County Court in a subsequent proceeding between the same parties, and the custody of the minor given to the mother. The proceeding in the County Court for the guardianship of the minor is a collateral attack upon the decree of the District Court, and is bad upon demurrer. 1\n2. Same\u2014Guardianship of Minors\u2014Jurisdiction.\u2014The guardianship of the person of a minor who has surviving parents is fixed by law, and upon granting a divorce the District Court has jurisdiction to award the custody of a minor child to one of the parents, who is thereby selected as the natural guardian.\n3. Same\u2014Minor over Fourteen.\u2014The natural right of the parent to the guardianship of the person of his minor child can not be changed at the will of the minor when he arrives at the age of 14 years. The right of a minor over 14 to choose his guardian applies only to such minors as have no surviving parents or \u201cguardians appointed by them by will or written declaration.\u201d\nAppeal from Kaufman.\nTried below before Hon. Anson Rainey.\nDillard & Stroud, Clark & Morrow, and Woods & Gossett, for appellant.\n1. The court erred in overruling defendant\u2019s exception to plaintiff\u2019s petition, because said petition showed upon its face that the District Court \u2022of Panola County had already adjudicated the matter in controversy between the parties.\n2. Whenever any matter has been finally adjudicated by any court of competent jurisdiction, it is forever binding upon the parties, unless the same be set aside by appeal or some other mode prescribed by the law; -and no other court or tribunal has any power or right to inquire into the same or in any manner to destroy its force and effect. Stew. on Marr. and Div., sec. 403; 1 Greenl. on Ev., sec. 531; Kahn v. Israelson, 62 Texas, 221; Nicholas v. Dibrell, 61 Texas, 539; Harn v. Phillips, 65 Texas, 592; Crain v. Leon & H. Blum, 56 Texas, 325; 2 Bish. on Marr. and Div., 164, note 6.\n3. The court erred in overruling the exception to plaintiff\u2019s petition, because the petition showed that the applicant was the mother and natural guardian of the person of the minor, and that defendant was also the father and natural guardian of said minor. A parent can never be appointed legal guardian of the person of his child by the Probate Court. Rev. Stats., arts. 2494, 2495; Cook v. Bybee, 24 Texas, 280; Harris v. Petty, 66 Texas, 514; Byrne v. Love, 14 Texas, 87.\n4. A judgment in the District Court awarding the custody of a minor in a divorce proceeding to one of the parents, when said judgment does not in express terms reserve the right to interfere further in the child\u2019s behalf, is binding upon the parents as long as they both live, and is binding on the child until it arrives at the age of maturity. 2 Kent, 12 ed., 206; 20 Texas, 611; 26 Texas, 719.\n5. The court erred in its second conclusion of law, in concluding that the minor, being 14 years of age, had a right to choose as his guardian \u2022either his mother or his father when there is a separation. When the custody of a minor has been awarded to one of his parents in a divorce proceeding, he has no power or right when he arrives at the age of 14 to disregard the determination of the court, and to select the other party as his guardian. Courts will not permit a minor, at any age, to renounce the natural guardianship of the father, except in extreme cases, where such father has been guilty of gross neglect in failing to maintain and \u2022educate his child.\n6. The District Court is the only court having jurisdiction over the custody of minors when the parents have been separated by a decree of \u2022divorce. Rev. Stats., art. 2871; Const., art. 5, secs. 8, 16; 2 Bish. on Marr. and Div., sec. 530; Burnett v. Southwell, 35 Cal., 688; Hoffman v. Hoffman, 15 Ohio St., 427; Price v. Price, 55 N. Y., 656; Bush v. Bush, 37 Ind., 164; Cush v. Hannam, 59 Miss., 423; Hunt v. Hunt, 4 Green, 216; Husband v. Husband, 67 Ind., 583; Williams v. Williams, 13 Ind., 523; Davis v. Davis, 75 N. Y., 221; Shaw v. McHenry, 52 Iowa, 181; Winer v. Winer, 11 Ill., 43.\nA. J. Booty and W. H. Allen, for appellee.\n1. Judgments are binding on parties and privies, and no one else; and while the decree of divorce binds the parties inter sese, the children themselves are not bound -or concluded thereby. McCoy v. Crawford, 9 Texas, 356; Morrison v. Loftin, 44 Texas, 23; Freem. on Judg., secs. 154, 155, 156; In re Bort, 25 Kans., 308; 5 Am. and Eng. Encycl. of Law, 836.\n2. Where the parents do \"not live together, either may be appointed guardian of the person of the minor children, the interest of the child alone being considered. Rev. Stats., arts. 2494, 2495.\n3. A minor on becoming 14 years of age may select his own guardian, either of his person or estate, and the person selected will, if qualified, be appointed. Rev. Stats., arts. 2492, 2505, 2510.\n4. The bestowal of the custody of a minor on any person is a mere trust, whether it be done in the form of a divorce decree or by appointment of a guardian by the Probate Court, the custody to be taken away whenever the trust is abused. Story on Eq. Jur., secs. 1339-1341; Cowls v. Cowls, 3 Gilman, 435; Chapsy v. Wood, 26 Kans., 650; Versey v. Ford, 37 Ark., 27; Mercein v. People, 25 Wend., 64; Taylor v. Jeter, 33 Ga., 195; Hewitt v. Long, 76 Ill., 409; In re Smith, 13 Ill., 140."
+  },
+  "file_name": "0559-01",
+  "first_page_order": 583,
+  "last_page_order": 590
+}

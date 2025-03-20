@@ -1,0 +1,66 @@
+{
+  "id": 221113,
+  "name": "Floyd Gilbert v. J. D. Rankin et al.",
+  "name_abbreviation": "Gilbert v. Rankin",
+  "decision_date": "1893-03-29",
+  "docket_number": "No. 98",
+  "first_page": "78",
+  "last_page": "80",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 78"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 336,
+    "char_count": 6937,
+    "ocr_confidence": 0.543,
+    "pagerank": {
+      "raw": 4.076306636737454e-08,
+      "percentile": 0.008893209195087877
+    },
+    "sha256": "9761154caf5aaa0ef4d1caa9787a905423f849a3bd2f22b98f69f5bc06cf5381",
+    "simhash": "1:0f6276f43415a36e",
+    "word_count": 1225
+  },
+  "last_updated": "2023-07-14T18:08:23.206239+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Floyd Gilbert v. J. D. Rankin et al."
+    ],
+    "opinions": [
+      {
+        "text": "FISHER, Chief Justice.\nThis was an action by appellees, in the form of trespass to try title, against appellant, to recover certain lands described in the petition. Judgment was rendered by the court below in favor of appellees.\nThe principal question in the case is one of boundary between the Barker survey, claimed by appellees, and the Henry survey, claimed by appellant. The appellees contend that the land in controversy is within the limits of the Barker survey, and appellant claims that the land is a part of the Henry survey. Appellees in their petition also claim that the land sued for is included within the boundaries of lands described in the deeds under which they hold, and the five years limitation of land in controversy.\nNo evidence was offered by appellees showing title back from the State, or that the State had ever parted with its title to the land. Nor was such fact shown by the appellant. To obviate the necessity of this, appellees sought to show that they and appellant claimed their respective surveys from one Buddington, a common source. The deeds from Buddington were introduced, and the appellees offered some evidence tending to show that the land was claimed by appellant by virtue of the Buddington deed. The question being one of boundary, the burden was upon appellees to prove that the appellant claimed the land under the Buddington deed, so as to make it available as evidence of common source. This, we understand, from the manner in which the case is presented here, is a controverted question; and the court by a proper charge presented this question to the determination of the jury. This much of the case is briefly stated so as to understand the reasons for which we reverse the judgment.\nAppellant contends that the court erred in the seventh section of the charge, in virtually instructing the jury that limitation could run in favor of a party in possession, even though the State had not parted with its title. The charge objected to is as follows:\n\u2018 \u2018 Unless you find that the plaintiffs and those under whom they claim have for a period of five years next before the bringing of this suit' by them had peaceable and adverse possession, in person or by tenant, of said Barker 500 acres survey, cultivating, using, or enjoying the same under a deed or deeds duly registered, and paying taxes upon the same, and all these concurring during said period of five years, and if you so find (that is, if you find also the line in dispute to be where claimed by plaintiffs), then you will find for the plaintiffs, whether you find such title in plaintiffs and such claim by defendant, as mentioned in section 6 of this charg\u00e9, or not.\u201d\nSection 6 of the charge reads: \u201cIf you find under these instructions that the true line between said Barker and Henry surveys is where it is claimed by the plaintiffs, you will then inquire whether the plaintiff M. E. Rankin and the minor Louetta Barker have traced their title by deeds or by deeds and inheritance from H. J. Buddington to themselves, and whether from the evidence the defendant has also claimed title to the land in controversy from and through or under said Buddington; and if you find such title in plaintiffs and such claim by the defendant, you will find for the plaintiffs; but if you find either that plaintiffs have not such title or that defendant has not made such claim of title as above mentioned, in either case you will find for defendant.\u201d\nThe effect of section 7 of the charge was to permit the jury to find in appellees\u2019 favor as to the five years limitation, without requiring them first to find that the land was claimed by the parties from a common source, or that the State had parted with its title to it.\nWe believe the charge under the facts in this respect was erroneous. It was not pretended that it was shown that the State had parted with its title to the land, but to obviate that the appellees sought to show that they and appellant claimed under a common source. This was a controverted issue. If the court had submitted this issue along with the plea of limitation, instead of permitting limitation to be found independent of this fact, there would have been no error in the charge.\nFor the error in giving this charge we reverse the judgment and remand the cause.\nAppellant contends, that the principal issue being a question of boundary, it was not proper to present to the jury the question of limitation.\nIf it be true that the land is included within the bounds of appellees\u2019 deeds (and there is some evidence found upon the ground tending to show that fact), they may, under certain circumstances, acquire title by limitation, although the land may also be covered by the deed under which the appellant claims. The deeds of each party may convey and cover the land, and the one having the character of possession required by law, with the other elements of the statute concurring, may hold by limitation. We are not prepared to say that there is no evidence on this branch of the case. We suppose upon another trial the evidence may be more full concerning the execution and contents of the power of attorney to J. C. Kerby, and of its loss and inability to produce the original.\nJudgment reversed and cause remanded.\nReversed amd remanded.\nDelivered March 29, 1893.",
+        "type": "majority",
+        "author": "FISHER, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "L. J. Farrar, for appellant.",
+      "No brief for appellees came to the Reporter."
+    ],
+    "corrections": "",
+    "head_matter": "Floyd Gilbert v. J. D. Rankin et al.\nNo. 98.\n1. Title by Limitation \u2014 Must Show Common Source, or that Title had. Passed from State.\u2014In an action in form of trespass to try title for land in dispute by reason of an uncertain division line, it devolves upon the plaintiff, in order to recover upon ground of limitation of five years, to show that the title to the land had passed out of the State, or that the defendants claim under a common source of title.\n2. Adverse Possession Under Deed.\u2014Where the same land is held by different parties under deeds to them respectively, adverse possession by one with the requisites prescribed by the statute of limitations will confer title as against the other.\nAppeal from Limestone. Tried below before Hon. Rufus Hardy.\nL. J. Farrar, for appellant.\n1. In an action of trespass to try title, if there is no common source under which plaintiff and defendant both claim, before the plaintiff can recover he must show title in himself, not only against the defendant, but all other persons. Hughes v. Lane, 6 Texas, 291; Hooper v. Hall, 35 Texas, 82.\n2. The court erred in the seventh section of his charge, in assuming that limitation could run in favor of a party in possession, even though the State had not parted with its title. Paschal v. Dangerfield, 37 Texas, 273; Walker v. Hanks, 27 Texas, 535.\n3. The plaintiff in error, to make the plea of the statute of limitation available, must have shown that the government had parted with its title to the land in controversy. Walker v. Hanks, 27 Texas, 535; Paschal v. Dangerfield, 37 Texas, 273.\nNo brief for appellees came to the Reporter."
+  },
+  "file_name": "0078-01",
+  "first_page_order": 104,
+  "last_page_order": 106
+}

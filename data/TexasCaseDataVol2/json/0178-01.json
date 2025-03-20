@@ -1,0 +1,293 @@
+{
+  "id": 219083,
+  "name": "W. R. Buford v. Lark Smith",
+  "name_abbreviation": "Buford v. Smith",
+  "decision_date": "1893-01-31",
+  "docket_number": "No. 79",
+  "first_page": "178",
+  "last_page": "181",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 178"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Cranch, 443",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch,",
+      "case_ids": [
+        6768630,
+        6768599
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/dc/1/0443-02",
+        "/dc/1/0443-01"
+      ]
+    },
+    {
+      "cite": "17 Kans., 278",
+      "category": "reporters:state",
+      "reporter": "Kan.",
+      "case_ids": [
+        81445
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/kan/17/0278-01"
+      ]
+    },
+    {
+      "cite": "47 N. H., 426",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        4468999
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nh/47/0426-01"
+      ]
+    },
+    {
+      "cite": "18 Iowa, 367",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        339521
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/iowa/18/0367-01"
+      ]
+    },
+    {
+      "cite": "6 Whart., 25",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1836978
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/whart/6/0025-01"
+      ]
+    },
+    {
+      "cite": "16 N. Y., 97",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1297806
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/16/0089-01"
+      ]
+    },
+    {
+      "cite": "14 N. Y., 526",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "25 Wend., 462",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2026600
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/25/0353-01"
+      ]
+    },
+    {
+      "cite": "23 N. Y., 61",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "25 N. Y., 526",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2031401
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/25/0526-01"
+      ]
+    },
+    {
+      "cite": "24 N. Y., 655",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2029490
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/24/0655-01"
+      ]
+    },
+    {
+      "cite": "24 N. Y., 658",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2029422
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/24/0658-01"
+      ]
+    },
+    {
+      "cite": "12 Iowa, 246",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        8664874
+      ],
+      "pin_cites": [
+        {
+          "page": "259"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/iowa/12/0246-01"
+      ]
+    },
+    {
+      "cite": "3 Iowa, 1",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        2270127
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/iowa/3/0001-01"
+      ]
+    },
+    {
+      "cite": "8 Watts, 434",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1848425
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/8/0434-01"
+      ]
+    },
+    {
+      "cite": "3 Watts, 219",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1841312
+      ],
+      "year": 1834,
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/3/0219-01"
+      ]
+    },
+    {
+      "cite": "1 Murph., 279",
+      "category": "reporters:state",
+      "reporter": "Mur.",
+      "case_ids": [
+        11276519
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nc/5/0279-01"
+      ]
+    },
+    {
+      "cite": "9 Iowa, 594",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        8665603
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/iowa/9/0594-01"
+      ]
+    },
+    {
+      "cite": "18 Iowa, 327",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        339391
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/iowa/18/0327-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 595,
+    "char_count": 10430,
+    "ocr_confidence": 0.559,
+    "pagerank": {
+      "raw": 8.031340664931945e-08,
+      "percentile": 0.4652383208441882
+    },
+    "sha256": "faf9e02b353f40ef256cb8cb97f2fe6a3232e7185e726879fcaa744ed49e8d5d",
+    "simhash": "1:3477ec13e9a4da92",
+    "word_count": 1859
+  },
+  "last_updated": "2024-02-27T19:43:33.086404+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "W. R. Buford v. Lark Smith."
+    ],
+    "opinions": [
+      {
+        "text": "HEAD, Associate Justice.\nIn August, 1889, the Commissioners Court of Cooke County established a second class public road known as the Rock Bluff and County Line road, the northern terminus of which is at Red River, on land owned by appellant. Since the establishment of said road, appellee, without any license from the Commissioners Court of Cooke County, has been engaged in operating a ferry across Red River, landing his passengers upon that part of appellant\u2019s land condemned for use as a public road under the laws of this State as aforesaid, and appellant instituted this suit to recover the land, and also to enjoin appellee from its use for said ferry purposes. The court below gave appellant judgment for the land, but refused the injunction; and from the judgment refusing the injunction appellant prosecutes this appeal.\nThis question has been so ably and exhaustively treated in an opinion delivered by Justice Dillon, while a member of the Supreme Court of Iowa, in the case of Prosser v. Wapello County, 18 Iowa, 327, that it would be a waste of time upon our part to attempt to add anything to what is there said, and we shall content ourselves with copying at length from that opinion as follows:\n\u2018 \u2018 This brings us to the next question, and that is, whether the location of a county road on the land does, to the extent of its width on the bank of the river, deprive the land owner of his riparian rights as above defined.\n\u201cAnd here we feel compelled to yield our doubts to the almost if not quite uniform current of authority, and to hold that it does not. The argument is this: By the location of the road the public acquire simply the right of way over the soil; the bare right of passage and its incidents, nothing more. Deaton v. Polk County, 9 Iowa, 594; Trustees v. Railway, 3 Hill (N. Y.), 567; Sir John Lade v. Shepherd, 2 Strange, 1004; Mayor v. Ward, 1 Wils., 110, 111.\n\u201c The property or freehold still remains in the owner of the land; how completely so, the case last cited, with others there referred to, strikingly illustrate.\n1 '\u25a0 This question has arisen in several cases, and among others in Pipkins v. Wynns, before cited (2 Dev., N. C., 402), and which overruled Rayner v. Dowdy, 1 Murph., 279. Speaking of this subject, Henderson, C. J., says: 1 For the uses and purposes of a highway it (the highway) is the sovereign\u2019s\u2014the public\u2019s; for all other purposes it is the former proprietor\u2019s. The right of using it as a landing place for a ferry has never been taken from him; and although there is scarcely a perceptible difference between stepping from a boat on the land and stepping from land to land, yet that has never been taken from the former proprietor for such purposes, as he has never been compensated for the right (limited as above stated) of transporting persons across the watercourse, as that was not considered when the price of taking the land for a highway was fixed; and although it is of little value without the franchise, yet the ownership of the land gives him the preferable right to call for the franchise when the ferry becomes necessary. This right is valuable, for, unless there are good reasons to the contrary, the sovereign must grant it to the owner, as sovereigns are bound to be just. * * * If it be asked, what is to be done if the owner of land, where a ferry is necessary, refuses to receive the franchise, it is answered, to pay him for the land and grant it to another. * * * Let it not be taken for a road and used as a ferry.\u2019 It was accordingly held, that compensation must be made to the owner of the fee for the use of the soil for the ferry right, although there is a public road leading to the river on both sides.\n\u201cAnd such is substantially the decisions in Tennessee (Memphis v. Overton, 3 Yerger, 387) and in Pennsylvania. Thus in Chambers v. Furey, 1 Yeates (1792), 167, it was decided that the dedication or laying out of ground as a public road gave no right to the defendants, the owners of a ferry, to land upon or receive freight from the plaintiff\u2019s freehold on the banks of a navigable river, without his consent. That the owner of a ferry has no right to land his passengers or boat on a public highway without the consent of the owner of the soil, see, also, Cooper v. Smith, 9 Sergeant & Eawle, 31 (1822); not even (it was held in a subsequent case) at the terminus of a highway between high and low water mark. Chess v. Manoun, 3 Watts, 219 (1834); and see Bird v. Smith, 8 Watts, 434; also, the thoroughly considered case of Pearsall v. Post, 20 Wendell, 111-131, in which the doctrine of the Pennsylvania cases above cited is approved. There is ,a dictum contra per Bailey, Judge, in Peter v. Kendal, 6 Barnewald & Cresswell, 703.\n\u201c Whether the decision in Chess v. Manoun, above cited, is reconcilable with McManus v. Carmichael, 3 Iowa, 1, is a question of some difficulty. See, on this subject, Prosser v. Davis, infra.\n\u2018 \u2018 Without committing ourselves to the entire correctness of all the positions taken in these cases, which we have referred to as illustrating the subject, we feel free in holding:\n\u201c1. That the dedication or taking of land for a public highway does not, in cases where the owner retains the fee and the public have only an easement, deprive such owner of his preferable right to a ferry, if one is established.\n2. That a ferry license to a stranger will not authorize him, against the consent of the owner, or without compensating him therefor, to use the termini of such highway, certainly above high water mark (see on this point, Prosser v. Davis, infra), for the purpose of fastening boats and of receiving and discharging freight and passengers. Such a use is not a public use, so much as it is a use by the licensee or holder of the franchise for his own gain and advantage. Like the use of an ordinary road for railway purposes, such a use for ferry purposes would be an additional burden or servitude, for which compensation must be made to the owner. Milburn v. Cedar Rapids, etc., 12 Iowa, 246, 259. Forcibly illustrative of this question, see Mahon v. Railway, 24 N. Y., 658; Carpenter v Railway, 24 N. Y., 655; Wager v. Railway, 25 N. Y., 526; Bissell v. Railway, 23 N. Y., 61; Fletcher v. Railway, 25 Wend., 462; Davis v. Mayor, 14 N. Y., 526; Williams v. Railway, 16 N. Y., 97-106, reviewing Chief Justice Gibson\u2019s opinion, contra, in Philadelphia v. Railway, 6 Whart., 25; and see, where owner parts with fee, Aldrich v. Wallace, 8 Dana (Ky.), 289; 16 N. Y., 97; arguendo, Wager v. Railway, 25 N. Y., 526-533.\u201d\nThis decision was approved by the same court in the case of Prosser v. Davis, 18 Iowa, 367, and it is there held, that on the application of the riparian owner the proprietor of a ferry will be enjoined from landing his boat on the land of such owner that has not been condemned to that use and the owner compensated therefor.\nIt follows, therefore, that we are of opinion that the court below erred in not granting the injunction as prayed for by appellant. It will be borne in mind that appellee did not claim to be licensed by the Commissioners Court of Cooke County to operate a public ferry at the terminus of this road, but only claimed the right to operate a private ferry, regulating his own tolls, he being at the time a citizen of the Indian Territory., and we are therefore not called upon to decide whether or not the condemnation of the land for the purpose of a public road since article 4436 of our Revised Statutes has been in force will authorize the operation of a public ferry in connection therewith under a license from the Commissioners Court of the proper county. This last named article, after authorizing a riparian owner to operate a public ferry with the consent of the owner of the land on the opposite shore, provides, \u201cif such consent can not be obtained he may apply to the Commissioners Court for the establishment of a public road from said opposite shore, and said court shall act on said application as in other cases.\u2019 \u2019\nIn the case of Tugwell & Madison v. Eagle Pass Ferry Company, 74 Texas, 480, our Supreme Court strongly intimates, if it does not decide, ' that the condemnation of a p\u00fcblic road from such opposite shore would, under this statute, authorize the owner of such public ferry to land his boat upon the land so condemned.\nIn this ease we only decide that the operator of a private ferry can not, without license from the proper Commissioners Court, land his boat without the consent of the riparian proprietor upon his land, even where it has been condemned for the purpose of a public road under our statute.\nAs establishing that the estate and rights acquired by condemnation proceedings for a public use in this State do not extend beyond the purpose for which the condemnation is made, see O\u2019Neal v. The City of Sherman, 77 Texas, 182; Lyon v. McDonald, 78 Texas, 71.\nFor the error above indicated, let that part of the judgment of the court below which refuses the injunction prayed for by appellant Buford, and adjudges the costs against him, be reversed and here rendered, granting such injunction against appellee Smith, and adjudging appellee to pay the costs of this appeal and of the court below; and in all other respects let the judgment rendered by the court below be affirmed.\nlieversed and rendered.\nDelivered January 31, 1893.",
+        "type": "majority",
+        "author": "HEAD, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Potter, Potter & Mathis, for appellant.",
+      "Garnett & Eldredge, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "W. R. Buford v. Lark Smith.\nNo. 79.\nFerry\u2014Public Road\u2014Right of Riparian Owner.\u2014The operator of a private ferry, without license from the proper Commissioners Court, can not land his boat on property condemned under the statute for a public road without the consent of the riparian proprietor of the land so condemned.\nAppeal from Cooke. Tried below before Hon. D. E. Barrett.\nPotter, Potter & Mathis, for appellant.\nThe owner of real estate over which a public road has been legally established owns the fee in the land, and he can recover the land from a trespasser, and prevent its use for any purpose except that for which the easement was granted. Cool, on Torts., 372, 373; Ell. on Roads and Streets, 172-177; Washb. on Ease., 292-302.\nGarnett & Eldredge, for appellee.\nA court of equity will not interfere by injunction to prevent an injury, which by all the evidence is shown to be merely nominal, imaginary, or theoretical in its nature. Watrous v. Rodgers, 16 Texas, 410; Bassett v. Salesbury, 47 N. H., 426: Railway v. Dryden, 17 Kans., 278; Jenny v. Crase, 1 Cranch, 443."
+  },
+  "file_name": "0178-01",
+  "first_page_order": 204,
+  "last_page_order": 207
+}

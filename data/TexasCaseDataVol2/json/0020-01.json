@@ -1,0 +1,204 @@
+{
+  "id": 219212,
+  "name": "Henry F. Grimes v. James M. Shaw",
+  "name_abbreviation": "Grimes v. Shaw",
+  "decision_date": "1893-01-12",
+  "docket_number": "No. 70",
+  "first_page": "20",
+  "last_page": "24",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 20"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "93 Am. Dec., 691",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "70 Am. Dec., 196",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "68 Am. Dec., 465",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "22 Iowa, 343",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        2287318
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/iowa/22/0343-01"
+      ]
+    },
+    {
+      "cite": "10 Iowa, 212",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        8664797
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/iowa/10/0212-01"
+      ]
+    },
+    {
+      "cite": "25 Ill., 328",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "15 Ill., 500",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "19 Ind., 365",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Ind., 483",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1479390
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/2/0483-01"
+      ]
+    },
+    {
+      "cite": "22 Barb., 77",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "76 N. C., 182",
+      "category": "reporters:state",
+      "reporter": "N.C.",
+      "case_ids": [
+        8688235
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nc/76/0182-01"
+      ]
+    },
+    {
+      "cite": "74 Pa., 479",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1034739
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/74/0479-01"
+      ]
+    },
+    {
+      "cite": "3 Hill, 47",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Conn., 297",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        12127524
+      ],
+      "pin_cites": [
+        {
+          "page": "323"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/conn/4/0297-01"
+      ]
+    },
+    {
+      "cite": "18 Am. Dec., 417",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "51 N. Y., 359",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 670,
+    "char_count": 13489,
+    "ocr_confidence": 0.546,
+    "pagerank": {
+      "raw": 5.304231118249049e-08,
+      "percentile": 0.33503961041744135
+    },
+    "sha256": "668754071ca111515d77ed6d98bf12f70b5f9426dd6be99e2f6c76e1a53e6a2a",
+    "simhash": "1:705f7429122e7f0c",
+    "word_count": 2349
+  },
+  "last_updated": "2024-02-27T19:43:33.086404+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Henry F. Grimes v. James M. Shaw."
+    ],
+    "opinions": [
+      {
+        "text": "PLEASANTS, Associate Justice.\nIn 1883, upon an inquisition of lunacy, duly instituted therein, the County Court of Grimes County adjudged William Berryman to be a lunatic, and by an order duly entered upon its minutes appointed one W. H. Gussett guardian of the person and estate of the lunatic. From this judgment Berryman appealed to the District Court, and executed a bond in accordance with the provisions of the statute, and thereby suspended the operation of the judgment, and prevented the said Gussett from qualifying as guardian.\nIn June, 1887, appellant purchased from Berryman a tract of 250 acres of land situated in Grimes County. By the terms of the sale, the appellant agreed and promised to improve the land and reside upon it, and the vendor, the said Berryman, was to reside with him, and was to be maintained and comfortably supported by Grimes for the remainder of his life. Grimes took possession of the land, made improvements thereon, and Berryman became an inmate of his family.\nIn April, 1888, the District Court of Grimes County, upon trial of the case appealed from the County Court, adjudged Berryman to be insane, and appointed appellee guardian of his person and estate; and as such guardian, appellee, on the 14th day of March, 1889, instituted this suit for the recovery of the land purchased as aforesaid by Grimes, and for cancellation of the deed of conveyance, and for rents. Appellee also caused a writ of sequestration to be levied upon the land, and the appellant replevied it.\nTo the appellee\u2019s suit appellant pleaded to the jurisdiction of the court, pleaded also the general denial, and pleaded specially the sanity of his vendor, Berryman, averring that he never had been insane, and that he had capacity to contract at the time of the sale of the land to him; he pleaded also tenancy in good faith and the erection of valuable improvements upon the land, and that he had maintained and supported Berry-man until he was induced by the persuasion of the appellee to abandon the home of the appellant; and he charged that the writ of sequestration was maliciously sued out and levied upon the land in controversy by appellee, for the purpose of injuring and harassing him; and he pleaded in reconvention damages, resulting to him from the malice of appellee in levying the writ of sequestration upon his lands, and in alienating Berryman from him and destroying the friendly relations existing between them; and concluded with alternative prayer, that if the court should adjudge the sale of the land to appellant by Berryman to be invalid, that he might be allowed the value of his improvements, and that he be reimbursed out of the estate of Berryman for the expenses incurred in supporting him and in supplying him with proper medical treatment while an inmate of his family.\nThe defendant\u2019s pleas and answers, original, amended, and supplemental, and the exceptions to them, are so numerous, that we find it difficult to determine with certainty what were the issues which were finally presented and determined by the court; but as we read the transcript, exceptions were sustained to the defendant\u2019s plea to the jurisdiction, and to all of his answer except the general denial; and judgment was rendered for the plaintiff for the land and for the value of its use and occupation. One of the pleas to the jurisdiction was based upon the assumption that the judgment of the District Court declaring Berryman a lunatic, and appointing appellee his guardian, was void, as the judgment showed upon its face that it was rendered by consent of plaintiff and counsel representing Berryman, and without evidence; but the record does not sustain this assumption, and the judgment is not void, and we therefore conclude that the court did not err in sustaining exceptions to this plea. While from the statement of facts in evidence upon trial of this cause, it might be inferred that there was no trial had in the District Court, and that the court rendered judgment upon consent of parties, yet we can scarcely believe that the learned judge who pronounced that judgment would have adjudged a citizen insane, and placed him and his estate in the custody of another, except upon ample proof and after mature deliberation. Nor did the court err in sustaining exceptions to appellant\u2019s plea to its jurisdiction, based upon the assumption that the court was not being held at the county seat.\nThe controlling question presented by the assignments of error for our decision is, Did the court err in holding that the judgment of lunacy was conclusive against the appellant, and in refusing to permit him to show, if he could, that Berryman was sane and capable of contracting at the time of the purchase of the land in question ?\nThere is, perhaps, no subject upon which mankind are more disposed to differ than that of the condition of the human mind; and a rule of law which would make a judgment of lunacy conclusive against the world would be fraught with danger and injustice to third parties. Our Supreme Court, in accord with the great weight of authority, has said, that a contract made with one who has been adjudged insane, and is under the control and custody of a guardian, duly appointed, is void. Elston v. Jasper, 45 Texas, 409. But in this case, the judgment of lunacy pronounced by the County Court was suspended by the appeal and the supersedeas bond, at the time of the purchase of the land by appellant, and at that time Berryman was without a guardian of either his person or his estate. And when such is the case, it seems a judgment in lunacy is only prima facie evidence against third persons. Black on Judg., 803, par. 802; 51 N. Y., 359; 18 Am. Dec., 417; 1 Greenl., sec. 550. This rule commends itself to our judgment, and especially when, as in this \u2022case, the judgment in lunacy is retroactive.\nFor this error of the trial court the case must be reversed, and the appellant permitted to show, if he can, that Berryman was not a lunatic, and had mental capacity to make sale of the lands. The burden of proof will be on appellant, and the judgment of lunacy will be prima facie evidence of the insanity of Berryman at the time of the sale. If, upon this issue, the decision be for appellee, the appellant, if by proper averments and proof he shows himself to be a tenant in good faith, may recover for valuable and permanent improvements made by him upon the land, the measure of his compensation being the enhanced value of the realty by reason of such improvements; and the appellee will be entitled to recover the rental value of the premises, denuded of the improvements. The appellant will be also entitled to recover for actual necessaries furnished Berryman, if the latter should be found to have been insane at the time of the sale.\nIf the result Qf the trial be that Berryman was sane and capable to contract at the time of the sale to appellant, upon proof that the writ of sequestration was maliciously sued out and levied upon the land by appellee, with the intention and purpose to harass and injure appellant, the-latter should recover under his plea in reconvention such damages as the evidence may show were the proximate result of the levy of the writ; and exemplary damages also, if averred and claimed by the plea. We take occasion to say, that before another trial the parties should be required to replead.\nThe judgment of the lower court is reversed and the cause remanded for retrial.\nReversed and remanded.,\nDelivered January 12, 1893.",
+        "type": "majority",
+        "author": "PLEASANTS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Preston & Spencer, for appellant.",
+      "H. H. Boone, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Henry F. Grimes v. James M. Shaw.\nNo. 70.\n1. Lunacy Judgment, When not Void.\u2014A judgment declaring the defendant of unsound mind, is not void because rendered by consent of plaintiff and counsel representing the lunatic. It can not be presumed therefrom that there was no trial, and no evidence, and that the court rendered judgment upon consent of parties.\n2. Jurisdiction\u2014Change of County Seat.\u2014The court did not err in sustaining exceptions to the plea to its jurisdiction, based upon the assumption that the court was not legally held at the county seat. For facts see statement of the case.\nS. Judgment of Lunacy, How far Conclusive.\u2014In 1883 the District Court on appeal adjudged B. to be a lunatic. B. sold the land in controvery while the appeal was pending in the District Court. JSeld, that while the original judgment was suspended by the appeal, it was only prima facie evidence of B.\u2019s lunacy, and his vendee should be allowed to prove his sanity at the purchase.\n4. Improvements in Good Faith. \u2014 Appellant having, by the terms of sale, agreed with B. to reside upon and improve the land purchased, if it shall be found that B. was a lunatic when he sold it, but appellant by proper averment and proof shows himself to be a tenant in good faith, he may recover for valuable and permanent improvements made thereon.\n5. Necessaries Furnished Lunatic.\u2014Appellant having, in the contract of sale, agreed to support B. comfortably, if B. was insane at the time of sale, will be entitled to recover for actual necessaries furnished him.\n6. Damages for Wrongful Sequestration.\u2014If B. was sane when the sale was made, upon proof that the sequestration was maliciously sued out with intent to harrass and injure appellant, he should recover such damages, under his plea in reconvention, as were the proximate result of the levy of the writ.\nAppeal from Grimes. Tried below before Hon. Norman G. Kittrell.\nThe order adjudging Berryman of unsound mind is as follows:\n\u201c Grimes County v. William Berryman.\u2014No. 2725.\u2014April 9, A. D. 1888.\u2014On this day this cause was called for trial. Then came the parties by their attorneys, and both parties announced ready for trial. Thereupon the defendant withdrew his answer heretofore filed. Then came a jury, to-wit, J. L. Gillespie and eleven others, who were duly sworn, and said jury, under charge of the court and by consent of counsel for the defendant, returned the following verdict: \u2018 We, the jury, find the defendant to be of unsound mind. J. L. Gillespie, Foreman.\u2019\n\u201c It is therefore considered, adjudged, and decreed by the court, that the defendant, William Berryman, is of unsound mind.\u201d\nThe ground upon which it was claimed that Anderson was not the county seat was, that pending this suit an election had been held to fix the county seat, and Navasota had received more than two-thirds of the votes cast, but the county judge had illegally canvassed the votes and issued certificate of election to Anderson, and subsequently the county commissioners had legally canvassed the returns and issued certificate of election to Navasota.\nPreston & Spencer, for appellant.\n1. The court erred in sustaining plaintiff s demurrer and exceptions to defendant\u2019s plea to the jurisdiction of the court to try this cause at the town of Anderson, because said pleas show that Navasota is the county seat of said Grimes County. People v. Van Slyck, 4 Conn., 297, 323; Ex Parte Heath, 3 Hill, 47; Commonwealth v. Emminger, 74 Pa., 479; Moore v. Jones, 76 N. C., 182; Morgan v. Quackenbush, 22 Barb., 77; Thompson v. Ewing, 1 Brewst., 77; The State v. The Governor, 1 Dutch. (N. J.), 348; Brown v. O\u2019Bryan, 2 Ind., 483; The State v. Jones, 19 Ind., 365; People v. Kilduff, 15 Ill., 500; People v. Head, 25 Ill., 328; Deshon v. Smith, 10 Iowa, 212; The State v. Goners, 22 Iowa, 343; Am. Law of Elec., secs. 81-85.\n2. The court erred in sustaining plaintiff\u2019s exceptions to that part of defendant\u2019s answer wherein he sets up damages against plaintiff for wrongfully and maliciously suing out the writ of sequestration in this cause. Harris & Fox v. Finberg, 46 Texas, 80; Rountree & Green v. Walker, 46 Texas, 200; Portier v. Fernandez, 35 Texas, 534; Collins v. Warren, 63 Texas, 312; Buchanan v. Bilger, 64 Texas, 589.\n3. The court erred in its charge to the jury, in this, the charge assumes as a fact that on the 6th day of June, 1887, the date of the conveyance by Berryman to the defendant, that the said Berryman was mentally incapacitated to make such a conveyance. Field v. Lucas, 68 Am. Dec., 465; Sims v. McClure, 70 Am. Dec., 196; Titlow v. Titlow, 93 Am. Dec., 691; 2 Kent\u2019s Com., 450.\nH. H. Boone, for appellee.\n1. The court did not err in sustaining plaintiff\u2019s exceptions: (1) Because the election for the county seat was ordered by L. R. Wren, the county judge for Grimes County. Returns of the election were made to him, and he declared the result. His decision of the matter was final, and whether right or wrong must stand, and it can not be inquired into in this case and in this proceeding. Harrell v. Lynch, 65 Texas, 146. (2) Because defendant\u2019s answer claiming damages for the suing out of the writ of sequestration does not set up any actual damages, nor show in what manner defendant had been damaged. Jones v. Matthews, 75 Texas, 1; Vance v. Lindsey, 60 Texas, 286; Flanagan v. Womack, 54 Texas, 45.\n2. The court did not err in its charge to the jury, as follows: \u201c You are instructed, that by the decree in the case of Grimes County v. William Berryman the question of his mental incapacity on June 6, 1887, the date of the conveyance or contract with defendant Grimes, is a matter of law settled, and is not a matter for your determination.\u201d Elston v. Jasper, 45 Texas, 409; Denni v. Elliott, 60 Texas, 337; Yates v. Houston, 3 Texas, 433; Lee v. Kingsbury, 13 Texas, 68; Murchison v. White, 54 Texas, 78; Wheeler v. Ahrenbeak, 54 Texas, 535; Odle v. Frost, 59 Texas, 684; Gillenwaters v. Scott, 62 Texas, 670."
+  },
+  "file_name": "0020-01",
+  "first_page_order": 46,
+  "last_page_order": 50
+}

@@ -1,0 +1,65 @@
+{
+  "id": 221162,
+  "name": "L. B. Harris v. J. F. Byrd",
+  "name_abbreviation": "Harris v. Byrd",
+  "decision_date": "1893-05-31",
+  "docket_number": "No. 242",
+  "first_page": "677",
+  "last_page": "679",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 677"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 278,
+    "char_count": 3963,
+    "ocr_confidence": 0.556,
+    "pagerank": {
+      "raw": 5.207966869300525e-08,
+      "percentile": 0.32856336411891196
+    },
+    "sha256": "5413df20b982d81b13d4d9c9b3d7925b46abe6a5a507f669c10dd7452f1dc3f9",
+    "simhash": "1:6d25393df6cc828a",
+    "word_count": 703
+  },
+  "last_updated": "2023-07-14T18:08:23.206239+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "L. B. Harris v. J. F. Byrd."
+    ],
+    "opinions": [
+      {
+        "text": "KEY, Associate Justice.\nThis is an action of trespass to try title to a section of school land. Appellant was plaintiff, and appellee defendant in the court below. Verdict and judgment were rendered for appellee.\nAppellant\u2019s brief contains but two assignments of error, neither of which complain of the verdict of the jury, or the court\u2019s ruling on the motion for a new trial. We might, therefore, assume that the verdict is supported by the evidence. However, the record discloses testimony amply sustaining the finding of the jury on all issues submitted to them. As the appeal involves only a question of law, we deem it unnecessary to file separate conclusions of facts.\nAppellant claims the land as a general purchaser under the Act of April 13, 1883, providing for the sale and lease of school and other public lands. Appellee claims under the fifth section of the same law, giving to actual settlers a prior right to purchase said lands.\nThe Land Board, created by said act, awarded the land to appellant; \u2022and the only question presented in appellant\u2019s brief is, whether or not this action of the Land Board finally determines the rights of the parties.\nThere are some expressions in the opinion in Luckie v. Watt, 77 Texas, 262, tending to sustain the proposition that it does; but they were not necessary to the decision of that case, and must be regarded as obiter dicta.\nOur conclusion is, that as to the rights of an actual settler, who by the express terms of the law referred to is accorded a preference right to purchase, the action of th.e Land Board is in no sense a final adjudication.\nThat board was the creature of the law, and while it had discretion in certain matters of detail where the law did not expressly direct its procedure, it could not disregard plain requirements of the law and bind parties at interest by its unlawful action. It could neither add to nor subtract from the law by which it was created, and its action in violation of that law could have no binding effect. Martin v. McCarty, 74 Texas, 132; Chancey v. The State, 84 Texas, 529.\nTo hold that the action of the Land Board, refusing to recognize and protect the prior right of an actual settler, and awarding the land to a purchaser not an actual settler, was a final adjudication of the matter, would involve a holding that the Legislature intended to confer upon that board jurisdiction to try title to land. It is not believed that such was the purpose of the Legislature; but even if it was, it could not do so, because, at the time in question, the Constitution limited such jurisdiction to the District Courts.\nThis disposes of the only question presented for the consideration of this court; and we affirm the judgment of the court below.\nDelivered May 31, 1893.\nAffirmed.",
+        "type": "majority",
+        "author": "KEY, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Mays & Harris, for appellant."
+    ],
+    "corrections": "",
+    "head_matter": "L. B. Harris v. J. F. Byrd.\nNo. 242.\n1. Actual Settler \u2014 Land Board.\u2014As to the rights of an actual settler who by the express terms of the law (Act of April 13, 1883, Laws of Eighteenth Legislature, chapter 88, section 5), is accorded a preference right to purchase, the action of the Land Board allotting the land upon which he resided to another is in no sense a final adjudication. The board could not disregard the law, and its act in violation would have no binding effect against one injured by it.\n2. Case Limited.\u2014The expressions in Luclde v. Watt, 77 Texas, 262, tending to give conclusiveness to the action of the Land Board as against an actual settler, held to be obiter dicta.\nAppeal from Runnels. Tried below before Hon. J. W. Timmins.\nMays & Harris, for appellant.\nWhere two are applicants to purchase the same tract of land, before the Land Board under the Acts of 1883, the decision of the Land Board awarding such land to either one of said claimants can not be reviewed in an action between such claimants or those claiming under them. Luckie v. Watt, 77 Texas, 262; Murchison v. Warren, 50 Texas, 27; Stell v. Paschal, 41 Texas, 640; Ford v. McBryde, 45 Texas, 498."
+  },
+  "file_name": "0677-01",
+  "first_page_order": 703,
+  "last_page_order": 705
+}

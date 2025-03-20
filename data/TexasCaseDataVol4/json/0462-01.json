@@ -1,0 +1,66 @@
+{
+  "id": 223690,
+  "name": "G. W. Patterson v. Charles O'Docherty",
+  "name_abbreviation": "Patterson v. O'Docherty",
+  "decision_date": "1893-10-04",
+  "docket_number": "No. 342",
+  "first_page": "462",
+  "last_page": "463",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Tex. Civ. App. 462"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 236,
+    "char_count": 3951,
+    "ocr_confidence": 0.559,
+    "pagerank": {
+      "raw": 4.076306636737454e-08,
+      "percentile": 0.008946941646557703
+    },
+    "sha256": "d868fd6d987a0148455d35fac648c4a123f81c554dbfe980512a0640dcbd8497",
+    "simhash": "1:63fed12bba06a36c",
+    "word_count": 694
+  },
+  "last_updated": "2023-07-14T14:53:58.701798+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "G. W. Patterson v. Charles O\u2019Docherty."
+    ],
+    "opinions": [
+      {
+        "text": "JAMES, Chief Justice.\nIn this cause this court herewith filed conclusions of fact and of law as follows:\nConclusions of Fact.\u20141. The section of land in controversy is a portion of the public domain of Texas, set apart for the benefit of the public free-schools.\n2. George W. Patterson (appellant) applied for said section under the-provisions of the Act of April 1,1887, and the amendatory Acts of April 8, 1889, and April 16, 1890, and same was awarded him by the Commissioner of the General Land Office on April 16, 1890, and he (Patterson)complied in all things with the provisions thereof.\n3. On July 21, 1885, D. Odem regularly and in every respect had applied for the purchase of said section, and the same was duly awarded to him, and he made the annual payments regularly up to the time he sold the land to appellee, O\u2019Docherty; and O\u2019Docherty, on April 1, 1887, made default in the payment of the interest under the Act of 1883, to the State, and because of this default the Commissioner of the General Land Office declared the land forfeited, caused an entry to that effect to be made; upon the account kept with Charles O\u2019Docherty as the vendee of D.. Odem, notified him to that effect, and declared the land had reverted to the particular fund to which it originally belonged.\nDelivered October 4, 1893.\n4. That thereafter, on January 1, 1890, the Commissioner placed the land upon the market for sale, under the Act of April 1, 1887, as amended by the Acts of 1889, and sold the same to appellant.\n5. The case is submitted to this court, with agreement of counsel that there was only one issue of law to be determined, upon the above facts, viz.: Was there any law in force on August 1, 1887, under which the\nCommissioner of the General Land Office could legally forfeit the purchase of D. Odem under the Act of 1883, for nonpayment of interest due August 1, 1887 ?\n6. The judgment of the District Court was in favor of O\u2019Docherty.\nConclusions of Law.\u20141. That at the time of Odem\u2019s contract of purchase the Act of February 23, 1885, was in force, and this act had repealed the provision of the Act of 1883, authorizing a forfeiture for nonpayment of interest; and consequently Odem\u2019s right under this contract of purchase was not subject to such forfeiture, nor was it in the power of the Legislature by subsequent acts to subject the land to forfeiture. Stock Co. v. McCarty, 85 Texas, 412.\n2. Although it seems from the third finding of fact, viz., that O\u2019Docherty \u201c made default in the payment of interest under the Act of 1883,\u201d that the contract of sale between Odem and the State was in the terms of' said act, and therefore contained a provision by which the nonpayment of interest worked a forfeiture, still it is our conclusion, that the officers of the State had no authority to add to the contract terms not permitted by the statutes in force at the time, or to make better terms with intending purchasers than the law prescribed; and such provision in the contract, not supported by the statutes then in force, must be treated as nugatory, and remained so, notwithstanding subsequent legislation.\n3. That the summary declaration of forfeiture is of no effect, and therefore the judgment is affirmed.\nAffirmed.",
+        "type": "majority",
+        "author": "JAMES, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "West & Cochran and Barnard & McOown, for appellant.",
+      "W. S. Dugat and Beasley & Flournoy, for appellee, cited,"
+    ],
+    "corrections": "",
+    "head_matter": "G. W. Patterson v. Charles O\u2019Docherty.\nNo. 342.\nForfeiture of Purchase of Public School Land.\u2014At the time of the purchase of the section in controversy, the Act of February 23,1885, was in force, and had repealed the provision of the Act of 1883, authorizing a forfeiture for nonpayment of interest; and consequently Odem\u2019s right under the contract of purchase was not subject to such forfeiture, nor was it in the power of the Legislature by subsequent acts to subject the land to forfeiture.\nAppeal from Bee.\nTried below fore Hon. S. P. Grimes.\nWest & Cochran and Barnard & McOown, for appellant.\nW. S. Dugat and Beasley & Flournoy, for appellee, cited,\nAct. of Feb. 23, 1885; Stock Co. v. McCarty, 85 Texas, 412."
+  },
+  "file_name": "0462-01",
+  "first_page_order": 486,
+  "last_page_order": 487
+}

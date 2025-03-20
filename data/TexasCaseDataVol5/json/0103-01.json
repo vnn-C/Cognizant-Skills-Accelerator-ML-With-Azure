@@ -1,0 +1,73 @@
+{
+  "id": 227472,
+  "name": "J. D. Brymer et al. v. M. E. Taylor et al.",
+  "name_abbreviation": "Brymer v. Taylor",
+  "decision_date": "1893-11-01",
+  "docket_number": "No. 311",
+  "first_page": "103",
+  "last_page": "106",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Tex. Civ. App. 103"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "15 S. W. Rep., 578",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 437,
+    "char_count": 8322,
+    "ocr_confidence": 0.555,
+    "pagerank": {
+      "raw": 1.1874439627870219e-07,
+      "percentile": 0.5905446610980022
+    },
+    "sha256": "91c9c8ddc3ab9b0acca34b473182f121a8dce0f7bf40c15331d9d56197dffc5c",
+    "simhash": "1:67861b8ea7264cca",
+    "word_count": 1485
+  },
+  "last_updated": "2024-02-27T16:31:09.266747+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "J. D. Brymer et al. v. M. E. Taylor et al."
+    ],
+    "opinions": [
+      {
+        "text": "FISHER, Chief Justice.\nAction of trespass to try title, brought in 1889, by appellants against the appellees, to recover a part of the William Wills survey.\nThe appellees pleaded not guilty and the three, five, and ten years statutes of limitation, except defendant Vernon, who disclaimed. In replication to the pleas of limitation, plaintiffs pleaded infancy and coverture.\nThe court below rendered judgment in favor of some of the plaintiffs for a part of the land, and that plaintiffs J. D. Brymer, M. E. Brymer, W. W. Arnold, and M. E. Arnold take nothing by their suit. The court also decreed to appellee Mrs. M. E. Taylor an undivided fourteen-twenty-fourths interest in the land.\nThe judgment in favor of appellees M. E. Taylor and Bell County is based upon their pleas of limitation under the five and ten years statutes. The main question presented for our determination is the sufficiency of the evidence to support the judgment in this respect.\nObjections below were urged by the appellants to the admission in evidence of a tax deed executed by the collector of Bell County, which was introduced by appellees Taylor and Bell County under their pleas of five years limitation. The objection is, that it appears from the face of the deed that the taxes for which the land in controversy was sold were assessed against the unknown owners of the Reuben Wills survey, another and different survey from that in controversy, and that the lands in controversy were sold under that assessment for the taxes due on the Reuben Wills survey. The deed recites: \u201cThat whereas certain taxes are due the State of Texas and the county of Bell by unknown owner or owners as assessed against him or them for the year 1877 upon the following described tract or parcel of land, 20 acres of land out of the Reuben Wills survey, which taxes amount to the sum of $1.67, as appears from the tax roll of said county for the year 1877; and whereas the time provided by law for the payment of said taxes having expired, and though demanded of the said unknown owner or owners by proper legal notice, the same remaining unpaid, I, W. S. Rather, tax collector of Bell County, in compliance of the law and by virtue of the tax roll aforesaid, levied upon and seized certain tract of land as belonging to said unknown owner or owners, and hereafter described, to be sold to make the said amount,\u201d etc. The \u201chereafter described land\u201d is set out in the deed, and is described as the same land in controversy, a part of the William Wills survey, and is sold to appellee Taylor as the property of the unknown owners.\nIt will be seen from this statement that the land in controversy, the William Wills survey, was levied upon and sold as the property of the unknown owners for taxes due by said unknown owners on the Reuben Wills survey. This raises the point, can a levy and sale of one survey be made in order to satisfy the taxes due on another survey of land ?\nSection 14 of the Act of 1876, page 269, regulating the assessment of land for taxes, requires, that when the name of the owner is not known, the property shall be assessed as that of the \u201c unknown owner.\u201d Section 14 of the Act of 1876, page 262, regulating the collection of taxes, authorizes the collector to levy upon and seize any property of the tax payer for the purpose of collecting the taxes due. He is not limited in the right of seizure and levy to the identical property upon which the assessment is made, but can seize and sell any property subject to sale in order to collect and satisfy the taxes due on any other property. The homestead and exempt property may not be subject to this rule. The record does not show that such is the character of the property involved in this controversy. We measure this tax sale by the Act of 1876, as the sale was made under that law.\nAnother objection is, that it does not appear that the taxes upon the lands in controversy were paid by the appellees for five years continuously, as required by law in prescribing under the statute of limitation of five years.\nThe appellee Taylor testified that she had paid the taxes on the land continuously for ten or eleven years, and introduced tax receipts for the years 1878 to 1890, excepting the years 1879 and 1882. The tax receipts of the years 1883 and 1886 recited payment of taxes on the Reuben Wills survey, and not on the William Wills survey, the one in controversy.\nThe evidence shows that there is a Reuben Wills survey and a William Wills survey in Bell County. There is some evidence tending to show that although the tax receipts for the years 1883 and 1886 recite payment upon the Reuben Wills, they were in fact payments upon the William Wills survey.\nThe tax receipts are not conclusive, and may be explained by paroi evidence, and the payment of taxes can be proven independent of the receipts by either direct evidence to that effect, or by circumstances. We can not say in this respect that the judgment is not supported by the evidence, although it is somewhat indefinite. Seemuller v. Thornton, 77 Texas, 156-159.\nThere was no error in admitting the tax deed and the receipts in evidence.\nThe last objection urged to the evidence is, that it is not sufficient to show such an actual adverse possession as is required by law in order to support the pleas of limitation.\nThe only evidence of possession is that of appellee Mrs. M. E. Taylor, to the effect that the land in controversy has been in her possession and that she has paid taxes on the same for ten or eleven years, and that she had never seen the land; did not know the same was enclosed; that Mr. Rowlett and Mr. Miller had been her agents; did not know whether the land was fenced or not; did not know what character of possession her tenants had of said land, but she knew she had possession of it by her tenants, who always regularly paid the rents from year to year.\nDelivered November 1, 1893.\nAdverse possession, as defined by article 3198, Sayles\u2019 Civil Statutes, is \u201can actual and visible appropriation of the land.\u201d\nThe evidence upon this point does not fill the measure furnished by the law. At most, it only shows the assertion of a right through the tenants of appellee, and falls far short of showing that they have an actual and visible appropriation of the land. Richards v. Smith, 67 Texas, 611; Dutton v. Thompson, 85 Texas, 115; Devlin v. Lyons, 15 S. W. Rep., 578.\nThe last two cases cited are not upon the question of possession, but are useful in illustrating the certainty of the evidence required in showing the right of the defendant to prescribe under the statutes of limitation.\nFor the error last discussed, the judgment of the court below is reversed and the cause remanded.\nReversed and remanded.",
+        "type": "majority",
+        "author": "FISHER, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "Monteith & Furman, for appellants,",
+      "No brief for appellees reached the Reporter."
+    ],
+    "corrections": "",
+    "head_matter": "J. D. Brymer et al. v. M. E. Taylor et al.\nNo. 311.\n1. Tax Sale \u2014 Statute Construed. \u2014Section 14 of the Act of 1876, page 262, authorized the tax collector to levy upon any property of the tax-payer for the purpose of collecting his taxes due. A tax sale of part of the William Wills survey could be legally made to enforce taxes due from same owner but upon the Reuben Wills survey.\n2. Tax Receipts. \u2014 Where payment of taxes was made upon land other than that described in the receipt given, such fact of payment may be shown by other testimony.\n3. Possession. \u2014See testimony held insufficient- to prove possession under the statute of limitation of five years. The defendant testified that she had been in possession and had paid the taxes for ten or eleven years. Upon cross-examination she disclosed that she had never been upon the land, and had never seen it; that she had leased it to tenants who had paid her rents therefor. Held, insufficient.\nAppeal from Bell. Tried below before Hon. W. A. Blackburn.\nMonteith & Furman, for appellants,\ncited: Stock Co. v. Kaiser, 66 Texas, 352; Parker v. Bains, 59 Texas, 15; Wofford v. McKinna, 23 Texas, 36; Meredeth v. Coker, 65 Texas, 29; Murphy v. Welder, 58 Texas, 235; Ledyard v. Brown, 27 Texas, 393; Kelley v. Medlin, 26 Texas, 48; Rev. Stats., arts. 3193, 3194, 3198; Kimbro v. Hamilton, 28 Texas, 560; Chandler v. Rushing, 38 Texas, 591; Fitch v. Boyer, 51 Texas, 336; Cantagrel v. Von Lupin, 58 Texas, 570; Sellman v. Hardin, 58 Texas, 86; Railway v. Sherwood, 84 Texas, 126.\nNo brief for appellees reached the Reporter."
+  },
+  "file_name": "0103-01",
+  "first_page_order": 129,
+  "last_page_order": 132
+}

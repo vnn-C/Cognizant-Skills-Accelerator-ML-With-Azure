@@ -1,0 +1,85 @@
+{
+  "id": 219265,
+  "name": "D. D. Swearingen v. T. C. Wilson",
+  "name_abbreviation": "Swearingen v. Wilson",
+  "decision_date": "1893-01-24",
+  "docket_number": "No. 75",
+  "first_page": "157",
+  "last_page": "161",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 157"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "6 Mo, App., 588",
+      "category": "reporters:state",
+      "reporter": "Mo. App.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "19 Wall, 560",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall,",
+      "case_ids": [
+        3434452
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/86/0560-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 558,
+    "char_count": 10369,
+    "ocr_confidence": 0.585,
+    "pagerank": {
+      "raw": 4.137479370442261e-07,
+      "percentile": 0.9110297550166052
+    },
+    "sha256": "b2f18d0058f727b0052583b81bfb352347d4ce46d9df2585959ddb570540524b",
+    "simhash": "1:a3bccbbe4d232d71",
+    "word_count": 1852
+  },
+  "last_updated": "2024-02-27T19:43:33.086404+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "D. D. Swearingen v. T. C. Wilson."
+    ],
+    "opinions": [
+      {
+        "text": "HEAD, Associate Justice.\nAppellee T. C. Wilson sued C. W. Israel- & Co., in the District Court of Wichita County, for a debt amounting to $2818.85, and on the 16th day of December made affidavit and gave bond to obtain writs of garnishment against J. T. Craig, the State National-Bank of Fort Worth, and the City National Bank of Fort Worth; and on the 30th day of December, 1887, plaintiff filed an additional affidavit and application to obtain a writ of garnishment against appellant, D. D. Swearingen, whose residence was alleged to be in Hardeman County, Texas; but to obtain this garnishment no additional bond was given.\nAppellant first filed his motion to quash the garnishment against him upon several grounds, among which was the failure of appellee to give bond at the time the garnishment against him was sued out. This motion does not appear from the transcript to have been acted upon, unless the following entry therein should be taken as a part of the record to show that this had been done, to-wit:\n\u201c 182. T. C. Wilson v. D. D. Swearingen, garnishee. Cobb & Boyd. Motion to quash writ of garnishment and dismiss suit. November 12, 1890,. Overruled 5d 3 w.\u201d\nOn April 24, 1888, appellant answered the writ of garnishment, and after denying any indebtedness to defendants, or either of them, in the usual form, added to his answer the following: \u201c Defendant D. D. Swearingen, the garnishee herein, further answering, says, that on or about the-day of May, 1886, he purchased from one John Craig, who was acting as assignee of C. W. Israel & Co., or J. N. Israel and C. W. Israel, certain bank fixtures for the sum of $800, and thereupon gave his promissory note for said sum, payable to said John A. Craig as assignee of C. W. Israel & Co , or J. N. Israel and C. W. Israel. That said note was not payable until all litigation between John A. Craig as assignee and the creditors of said bank was settled. Defendant says that he does not know who is now the owner of said note herein referred to, but is informed that said note has been transferred by said Craig to other parties. Wherefore he asks that the said John Craig, as assignee as aforesaid, who is a resident of Clay County, Texas, be made a party to this proceeding, and that citation issue to him commanding him to appear and answer whether or not he as assignee is the owner of said note, and' if not, then to answer who is the owner of said note. Defendant asks that he be allowed a fee of $50 as attorney fee for preparing an answer in this proceeding.\u201d\nThe record does not show that Craig was ever served with citation or appeared in the case. On the 19th of November, 1890, judgment was rendered against the garnishee for the sum of $770, with interest from the 14th of February, 1886, at the rate of 10 per cent per annum, aggregating the sum of $1135.75, and in favor of appellant for all costs, including the $50 attorney fee claimed in his answer, and adjudging that this judgment be a bar in his favor against all liability upon his debt to C. W. Israel & Co. This judgment recites that both plaintiff and garnishee appeared by their attorneys, and that all matters of fact as well as of law were submitted to the court, and the court, after hearing the evidence and argument of counsel, and being fully advised in the premises, finds that the garnishee D. D. Swearingen was indebted to C. W. Israel & Co. as above set forth. No affidavit seems ever to have been filed controverting the answer of the garnishee, nor does it appear affirmatively from the record that any issues, either written or verbal, were made up under the direction of the court, as required by the statute. It does not appear from the record that the garnishee ever made any objection to the\u2019trial of the case in Wichita County on account of his residence in Hardeman. Ho statement of facts or special findings accompany the record.\nWe are of opinion that the purported copy in the transcript from the motion docket should not be treated as a part of the record. In the case of Stark v. Miller, 63 Texas, 164, it is said: \u201c The judge\u2019s notes are for his own convenience and that of the clerk making the entries, and form no part of the record, and in case of a discrepancy between these notes and an entry in the minutes, the latter would prevail.\u201d Whittaker v. Gee, 63 Texas, 435; Eastham v. Sallis, 60 Texas, 576. We think the only effect that should be given to this entry would be to enable the parties to have an order entered nunc pro tune showing the action of the court upon this motion. Ximenes v. Ximenes, 43 Texas, 458.\nThe record not showing that the motion was called to the attention of the court below, or that any objection was insisted upon by the garnishee to the alleged irregularities in obtaining the garnishment, it will not be necessary for us to consider several interesting questions presented by the brief of appellant.\nThe action of the court in proceeding with the trial of this case without requiring the issues to be formed as required by the statute certainly presents grave irregularities, but we are not prepared to hold that they are such as must be deemed fatal to the judgment. It seems that appellant entered into the trial without making any objection on account of the failure of appellee to file a controverting affidavit, and without taking any steps to have formal issues made. The contest seems to have been waged not to test the truth or falsity of any of the statements made in the answer of the garnishee, but only to show that by reason of the facts therein stated the note therein named as due to Craig, assignee, should be held liable for the debts of the assignor C. W. Israel & Co., and in such case it does not seem to us that a controverting affidavit would be necessary. Appellee did not controvert any of the statements made in the answer, and he therefore could not have sworn that the answer of the garnishee was not correct. See Moursund v. Priess, 84 Texas, 554.\nThe failure to form the issues before entering into the trial, however, presents a more difficult question. It has been held that our statute in such cases does not require formal pleadings (Insurance Company v. Willis & Bro., 70 Texas, 12; Davis & Bro. v. McCormick, 2 Willson\u2019s Civil Cases, 628); and it has also been held that these issues may by consent be joined verbally and need not be in writing (Kelly v. Gibbs, 84 Texas, 143); and after a careful consideration of the question we are of opinion, that under the recitals in this judgment we ought to presume that the parties did by consent form the necessary verbal issues to sustain it, and that appellant having gone through the trial without objecting to the manner of proceeding, should not now be heard to complain that the record fails to show that the necessary issues were made. It was as much \u2022his duty to see that the necessary issues were formed as it was that of his adversary.\nWe think it clear that the objection that the trial was had in a county other than that of the residence of appellant comes too late when presented for the first time in this court. Bonner & Eddy v. Hearne, 75 Texas, 251.\nWe are therefore of opinion that the judgment of the court below should be in all things affirmed.\nAffirmed.\nDelivered January 24, 1893.\nA motion for rehearing was refused.",
+        "type": "majority",
+        "author": "HEAD, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "J. A. Templeton, for appellant.",
+      "Flood & Cobb, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "D. D. Swearingen v. T. C. Wilson.\nNo. 75.\n1. Becord on Appeal\u2014Entry on Motion Docket below no Part of.\u2014The judge\u2019s notes are for his own convenience and that of the clerk, and an entry on the motion docket in the court below forms no part of the record on appeal, although a purported copy thereof appears in the transcript. Where the record does not show otherwise than by copy of such entry that a motion was called to the attention of the court below, an alleged order overruling such motion will not he reviewed on appeal.\n2. Garnishment\u2014Controverting Affidavit.\u2014An affidavit by plaintiff controverting the answer of the garnishee is not necessary, where the issue is not as to the truth or falsity of the facts set forth in the answer, but only as to the legal liability of the garnishee on the facts as therein stated.\n3. Garnishment Trial Without Issues Formed\u2014Presumption.\u2014 Where it does not appear from the record that any issues, either written or verbal, were made up in a garnishment trial, but the judgment recites that both plaintiff and garnishee appeared by their attorneys, and that all matters of fact as well as of law were submitted to the court, it will be presumed that the parties did, by consent, form the necessary verbal issues, and the garnishee can not complain for the first time on appeal that the record does not show that such issues were made.\n4. Garnishment\u2014Objection as to Venue Waived.\u2014Objection that the trial in a garnishment proceeding was bad in a county other than that of the garnishee\u2019s residence, comes too late on appeal.\nAppeal from Wichita. Tried below before Hon. P. M. Stine.\nJ. A. Templeton, for appellant.\n1. The court erred in refusing to discharge the garnishee, and in rendering judgment against him; there being no affidavit filed controverting his answer. Rev. Stats., arts. 192, 193, 211, 217; McRee v. Brown, 45 Texas, 503; Jemison v. Scarborough, 56 Texas, 358; Railway v. Terry, 50 Texas, 129; Ellison v. Tuttle, 26 Texas, 283; 1 W. & W. C. C., sec. 1194; Drake on Attach., sec. 659.\n2. The note described in the garnishee\u2019s answer was negotiable. Tied, on Com. Paper, secs. 24, 25; 1 Dan. on Neg. Inst., secs. 88, 89; Wade on Garnish., sec. 464.\n3. There was no pleading which would authorize the court to hear evidence impeaching or controverting the garnishee\u2019s answer; and in the absence of such pleadings, no evidence which may have been introduced will be considered in support of the judgment. Hall & Jones v. Jackson, 3 Texas, 305; Paul v. Perez, 7 Texas, 338.\nFlood & Cobb, for appellee.\n1. The note given to John T. Craig as assignee (under a void assignment) was nonnegotiable and subject to garnishment. 1 Dan. on Neg. Inst., 41; 4 Laws. Rights and Rem., 1455; Munzer v. Daniel, 19 Wall, 560; Salinas v. Wright, 11 Texas, 287; Drake on Attach., 575.\n2. It is too late to object, for the first time, in the appellate court, that issues were not raised by the pleadings in the garnishment proceeding, Frank v. Frank, 6 Mo, App., 588; 2 Wade on Attach, and Garnish., sec, 392."
+  },
+  "file_name": "0157-01",
+  "first_page_order": 183,
+  "last_page_order": 187
+}

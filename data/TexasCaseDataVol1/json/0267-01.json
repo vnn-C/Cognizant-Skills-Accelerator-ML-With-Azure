@@ -1,0 +1,66 @@
+{
+  "id": 216290,
+  "name": "Wells, Fargo & Co. v. T. J. Windham",
+  "name_abbreviation": "Wells, Fargo & Co. v. Windham",
+  "decision_date": "1892-11-17",
+  "docket_number": "No. 30",
+  "first_page": "267",
+  "last_page": "269",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Tex. Civ. App. 267"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 307,
+    "char_count": 5609,
+    "ocr_confidence": 0.578,
+    "pagerank": {
+      "raw": 6.301981745586104e-08,
+      "percentile": 0.38769866505730644
+    },
+    "sha256": "116af0f3d2806600c1c8ee5711326b1e0f8b50d2b9689cb4ca9a36e319598101",
+    "simhash": "1:9befd9c38bafaa55",
+    "word_count": 994
+  },
+  "last_updated": "2023-07-14T14:31:22.177647+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Wells, Fargo & Co. v. T. J. Windham."
+    ],
+    "opinions": [
+      {
+        "text": "WILLIAMS, Associate Justice.\nThis suit was brought by appellee against appellant, an express company, in a Justice Court, to recover damages for injury to fruit trees, claimed by appellee to have resulted from negligent delay of appellant in delivering.\nThe case was tried in the Justice Court and appealed to the District Court, where a judgment was rendered in appellee\u2019s favor, from which this appeal is taken.\nThe facts are as follows:\nAppellee lived in Newton County, and had the trees shipped by express to Orange. He saw a notice in a newspaper published at Orange, of date December 20, 1888, and in another of December 27, 1888, that the trees were in appellant\u2019s office there. On January 3,1889, he gave to one Nations the following order:\n\u201cB. B. Agent, Orange: \u25a0\n\u201c Dear Sir \u2014 Please deliver to the bearer any freight I may have in your possession, and oblige,\n\u201cYours truly,\n\u201cT. J. Windham.\u201d.\nThe bearer carried the note to Orange and handed it to one Brooks, who was the agent both of the railroad company and of appellant. Brooks read the order, and said there was nothing for Mr. Windham. Nothing further passed between them. Nations returned to Newton without the trees, and by the delay thus occasioned, the trees, when received by appellee, were damaged. It was shown that freight received by the railroad company and express matter received by appellant at Orange were kept in the same room. The trees were consigned to appellee in care of the railroad agent at Orange.\nThe only question raised in the briefs is, whether or not the order presented to Brooks, under the circumstances stated, was a sufficient demand for the trees in the hands of appellant to make it his duty to deliver them to Nations, and to charge appellant with liability for the damages resulting from his failure to do so.\nThere was nothing in the order itself to direct Brooks\u2019 attention to matter held by him as agent of appellant, but its address to the railroad agent and the terms employed were rather calculated to mislead him than otherwise. Appellee knew that his goods were in the express office, but neither by the order nor by communication through his agent did he bring to the attention of the agent the fact that he was inquiring for express matter.\nDelivered November 17, 1892.\nTo hold this sufficient would, it seems to us, defeat the purpose of the law in requiring a demand. Again, this order only authorized the railroad agent to deliver freight in his possession. How could he know, from the face of the paper, that Nations was authorized to receive matter in the possession of the express company. The fact that he was agent of both companies did not diminish his duties to each. Great care must be exercised by express companies to deliver goods to the right person, and heavy liabilities may result from a delivery to one not authorized to receive. A written authority from a \"consignee to a third person should not be so uncertain as to give just grounds for doubting the scope of the authorization.\nAppellee contends, that the trees being consigned in care of the railroad agent, it was Brooks\u2019 duty to transfer the possession to himself in his capacity of railroad agent, and then in the same capacity to deliver them to Nations. This assumes that such a demand was made upon him as to direct his attention to the trees and require him to act. This, we have seen, was not the case. It is to be borne in mind that the trees had been in the office for three weeks, and it would be unreasonable to expect an express agent to remember at all times and upon a moment\u2019s notice the names of all consignees for whom he has goods. Besides, as railroad agent, Brooks owed no duty to appellee, and was not bound to receive the trees.\nWe must conclude that the failure of the agent to deliver the trees resulted from the fault of appellee and his agent; and the judgment of the District Court is reversed, and judgment will here be rendered in appellant\u2019s favor.\nReversed and, rendered.",
+        "type": "majority",
+        "author": "WILLIAMS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "W. N. Shaw, for appellant.",
+      "Scott, Levi & Smith, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Wells, Fargo & Co. v. T. J. Windham.\nNo. 30.\n1. Insufficient Demand for Freight. \u2014 An order by the consignee of fruit trees which had been shipped by express, as follows, \u201c E. B. agent, Orange\u2014 Please deliver to the bearer any freight 1 may have in your possession.\u201d the railroad agent being also express agent, is not a sufficient demand for the trees held by him as express agent to make it his duty to deliver them, or to charge the express company with the damage resulting from a failure to do so.\n2. W ritten Order. \u2014 The fact that the agent was agent for both companies did not diminish his duties to each. From the order given he could not know that its bearer was authorized to receive express freight. A written authority from a consignee to a third person should not be so uncertain as to give just grounds for doubting the scope of the authorization; as great care must be taken by express agents to deliver goods to the proper person, and heavy liabilities' may result from a wrong delivery.\n3. Practice in Court of Civil Appeals. \u2014 The arrival of the trees was advertised on December 20. and it was seen by the consignee, who on January 3 following sent the order described in paragraph 1; to which the agent replied that there was nothing for Windham. The order not being such as to direct the agent\u2019s attention to the trees, the failure to deliver them resulted from the fault of the appellee, and the judgment in his favor for damages is here reversed, and rendered for the appellant.\nAppeal from Orange. Tried below before Hon. W. H. Ford.\nW. N. Shaw, for appellant.\nScott, Levi & Smith, for appellee."
+  },
+  "file_name": "0267-01",
+  "first_page_order": 291,
+  "last_page_order": 293
+}

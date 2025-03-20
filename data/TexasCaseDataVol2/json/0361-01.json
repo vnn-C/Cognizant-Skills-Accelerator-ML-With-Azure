@@ -1,0 +1,187 @@
+{
+  "id": 219246,
+  "name": "A. C. Buck v. H. C. Morrow",
+  "name_abbreviation": "Buck v. Morrow",
+  "decision_date": "1893-02-16",
+  "docket_number": "No. 88",
+  "first_page": "361",
+  "last_page": "363",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 361"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "45 Ill., 206",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        424999
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/45/0206-01"
+      ]
+    },
+    {
+      "cite": "70 Ill., 426",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        5309048
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/70/0426-01"
+      ]
+    },
+    {
+      "cite": "65 Ill., 464",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        2618628
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/65/0464-01"
+      ]
+    },
+    {
+      "cite": "13 How., 344",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Hill, 61",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 Mich., 358",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1918167
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich/11/0358-01"
+      ]
+    },
+    {
+      "cite": "19 Ind., 125",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1457542
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ind/19/0125-01"
+      ]
+    },
+    {
+      "cite": "25 Mich., 162",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1311052
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/25/0162-01"
+      ]
+    },
+    {
+      "cite": "48 Ill., 308",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        5229611
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill/48/0308-01"
+      ]
+    },
+    {
+      "cite": "4 Barb., 261",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5778356
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/4/0261-01"
+      ]
+    },
+    {
+      "cite": "11 Mich., 542",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1918157
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/11/0542-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 454,
+    "char_count": 7928,
+    "ocr_confidence": 0.61,
+    "pagerank": {
+      "raw": 1.0531521401225892e-07,
+      "percentile": 0.5544641791857363
+    },
+    "sha256": "263ba59ce4705346c8d31b2a1bd9753ab57f175feea63e520110efb4db51d16d",
+    "simhash": "1:ba463db2d861353e",
+    "word_count": 1396
+  },
+  "last_updated": "2024-02-27T19:43:33.086404+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "A. C. Buck v. H. C. Morrow."
+    ],
+    "opinions": [
+      {
+        "text": "STEPHENS, Associate Justice.\nOn the 1st day of May, 1886, H. C. Morrow leased to A. C. Buck a certain pasture in Wise County for a term of five years, commencing with that date, for the sum of $125 per year, with the provision, that after the second year, should Morrow have occasion to sell the land, he should compensate Buck for any or all losses occasioned by the sale. It was understood between the parties at the time that the land was being leased by Buck to graze cattle thereon.\nAt the expiration of two years the land was sold and appellant Buck dispossessed. He offered to prove on the trial by the witness J. L. Campbell, that at the time he was dispossessed he had 140 head of cattle in the pasture, under the charge and control of said Campbell, and that he and Campbell had made diligent inquiry and search for another pasture for the cattle, but failed to find one. That said cattle were turned out of the pasture on the commons, and ran at large on the range for a period of five months before another could be procured. That during the time the cattle were on the range, it required an extra hand to look after and keep them rounded up, at a cost of 81.50 per day, which was a reasonable charge. That all reasonable diligence was used to prevent said cattle from straying off; but during said time fifteen of them were lost, reasonably worth 815 per head, and after diligent search could not be found. Further evidence was offered as to the expense of pasturing the cattle in another pasture, thereafter procured.\nThis testimony was all excluded, on the ground that it was immaterial, the measure of damages being the difference, if any, between the contract price and the rental value of the pasture for the unexpired term.\nThe rule followed by the trial court in excluding this evidence is, undoubtedly the correct rule for measuring the general damages incident to the breach of a covenant for quiet enjoyment in a lease. In addition to the difference between the rent to be paid and the actual value of the unexpired term, the tenant may also recover as special damages such extra expense and damage, if any, as are the natural and proximate result of the breach. 1 Woods\u2019 Landl. and Ten., sec. 362; 1 Taylor\u2019s Landl. and Ten., sec. 317; 3 Suth. on Dam., 149-159.\nThe rule which confines the general damage to the difference between the rental value and the stipulated rent seems to rest upon the assumption that the tenant can go at once into the market and obtain like property. Addison v. Chandler, 11 Mich., 542. Where the reason of the rule does not exist, it would seem that the rule itself should not apply, to the exclusion of all other considerations in estimating the damages. Special damages, in addition, have been allowed in many instances. Giles v. O\u2019Toole, 4 Barb., 261; Gilley v. Hawkins, 48 Ill., 308; Shaw v. Hoffman, 25 Mich., 162; Rickett v. Lostetter, 19 Ind., 125.\nIt was held in De la Zerda v. Korn, 25 Texas Supp., 194, that injury to the tenant\u2019s goods or stock in trade, in addition to the value of the use and occupation of the premises, should be considered in estimating the damages.\nWhatever special damage naturally and proximately resulted to appellant from the sale of the land and termination of the lease\u2014whatever may reasonably be supposed to have entered into the contemplation of the parties at the time of the contract\u2014he should recover. The items of expense which he sought to prove for pasturage elsewhere, we think, should be included in the general damages, measured by the difference between the market value of the residue of the term and the contract price, and that that part of the evidence was perhaps properly excluded.\nAs to the extra expense and loss incident to a temporary holding of his cattle on the commons, pending a diligent effort to secure another pasture, if the proof should show that these items were the proximate result of the sale of the land and termination at.that time of the lease, and that thereby a loss was sustained which otherwise would not have occurred, and that it was not the result of the want of proper care and diligence on the part of appellant, we think he would be entitled to recover the amount of loss thus sustained as special damages.\nAs to what is the proximate cause of an injury, is ordinarily a question for the jury (61 Texas, 353); and we think the court erred in excluding from their consideration all evidence of special damage growing out of the fact that appellant was forced for a time to hold his cattle upon the commons. It may be that upon another trial, with full proof, he would not be entitled to recover anything in the way of special damages; but, talcing all the statements in the bill of exceptions to be true, we are of opinion that the evidence should have gone to the jury.\nThe law provides no such cast-iron rule for measuring damages as the bill of exceptions indicates was invoked to exclude this evidence. On the other hand, the promise of appellee to pay any or all losses occasioned by the sale \u201d does not authorize the latitude of recovery for which appellant seems to contend in his brief. Damages allowable on express agreements for indemnity can only be such as naturally and proximately proceed from the cause referred to in the indemnity. 2 Suth. on Dam., 604.\nFor the error in excluding all testimony except as to the difference between the contract price and the value of the unexpired term, the judgment will be reversed and the cause remanded.\nReversed and remanded\nDelivered February 16, 1893.\nJustice Head did not sit in this case.",
+        "type": "majority",
+        "author": "STEPHENS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "E. F. Brown, for appellant.",
+      "Head, & Dillard, for appellant."
+    ],
+    "corrections": "",
+    "head_matter": "A. C. Buck v. H. C. Morrow.\nNo. 88.\n1. Lease Contract\u2014Measure of Damages for Dispossessing Tenant.\u2014Where the landlord dispossesses the tenant before the expiration of the lease, the measure of damages is not confined to the difference between the contract price and the rental value of the premises for the unexpired term; but, in addition, the tenant may also recover as special damages such extra expense and loss as may have naturally and proximately resulted from his being deprived of the use of the premises.\n2. Same\u2014Special Damages.\u2014The lessee of a pasture who is deprived of its use by the lessor before expiration of the lease, may recover as'special damages the expenses and losses sustained in holding his cattle on the commons pending a diligent effort to secure another pasture, if there has been no want of care on his part.\n3. Same \u2014Damages Must Result Proximately.\u2014A stipulation in a lease contract, that if the landlord should sell the premises before the expiration, of the term he would pay the tenant for \u201c any and all losses occasioned by the-sale,\u201d will authorize the recovery of only such damages as naturally and proximately proceed from the cause referred to in such stipulation of indemnity.\nAppeal from Grayson. Tried below before Hon. P. B. Muse.\nE. F. Brown, for appellant.\nThe contract of lease is to be looked to-in determining the measure of damages as between the parties thereto, and all damages which may reasonably be supposed to have entered into the contemplation of the parties at the time of making the contract, as the probable result of a breach thereof, will form the measure of damages-in the particular case. Railway v. Hill, 68 Texas, 381; Jones v. George, 61 Texas, 345; 1 Suth. on Dam., 79, 80; Allison v. Chandler, 11 Mich., 358; Masterson v. Mayor, 7 Hill, 61; Railway v. Howard, 13 How., 344; Calvit v. McFaddin, 18 Texas, 327; 3 Suth. on Dam., 153, 154, 155; Dobbins v. Duquid, 65 Ill., 464; Smith v. Wunderlish, 70 Ill., 426; Green v. Williams, 45 Ill., 206.\nHead, & Dillard, for appellant.\nThe measure of plaintiff\u2019s damage was-the difference between the contract rental and the\" reasonable value of the unexpired part of the lease, and all special damages claimed in plaintiff\u2019s petition were too remote and speculative. 3 Suth. on Dam., 146-150; Kempner v. Heidenheimer, 65 Texas, 587."
+  },
+  "file_name": "0361-01",
+  "first_page_order": 387,
+  "last_page_order": 389
+}

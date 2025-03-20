@@ -1,0 +1,85 @@
+{
+  "id": 216294,
+  "name": "The International & Great Northern Railway Company v. Jourd Campbell",
+  "name_abbreviation": "International & Great Northern Railway Co. v. Campbell",
+  "decision_date": "1892-11-30",
+  "docket_number": "No. 49",
+  "first_page": "509",
+  "last_page": "513",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Tex. Civ. App. 509"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "112 Ill., 295",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        2861228
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/112/0295-01"
+      ]
+    },
+    {
+      "cite": "35 Am. Rep,, 705",
+      "category": "reporters:state_regional",
+      "reporter": "Am. Rep.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 570,
+    "char_count": 11606,
+    "ocr_confidence": 0.567,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.008566136481316091
+    },
+    "sha256": "bb2c3c6cedc052e7cd042e40cbb988bb19f01850188428286546805b9e0b78a9",
+    "simhash": "1:b87276e29bbcbec0",
+    "word_count": 2007
+  },
+  "last_updated": "2024-02-27T16:44:05.763049+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The International & Great Northern Railway Company v. Jourd Campbell."
+    ],
+    "opinions": [
+      {
+        "text": "KEY, Associate Justice.\nAppellee Campbell brought this suit against appellant, the railway company, for damages. The foundation for the action, as charged in appellee\u2019s petition, consisted in an unlawful and wrongful ejection of appellee from a train of cars while he was traveling as a passenger from St. Louis, Missouri, to San Antonio, Texas.\nHe pleaded a written contract, purporting on its face to be a contract between him and the San Antonio & Aransas Pass Railway Company for the shipment of two carloads of live stock from Brackenridge, Texas, to St. Louis, Missouri. The petition alleges that the agent of the last named company, who executed and delivered the contract referred to, was also appellant\u2019s agent, and, in effect, charges that the contract was executed for appellant.\nThese allegations were not denied under oath, and for this reason the District Court, following Railway v. Tisdale, 74 Texas, 8, held that this contract was binding on appellant.\nThe contract stipulated, among other things, \"that in consideration of appellee paying $163.20 for the transportation of the two cars of cattle, he was to have free transportation to and from St. Louis for himself. To secure this return transportation free, he was required to present his contract at the office of the connecting railroad at St. Louis within twenty days from its date, and there receive a drover\u2019s pass, which he did. The contract in question also contained the following stipulation:\n\u201cAnd it is further stipulated, agreed, and fully understood by the parties hereto, that in case the live stock mentioned herein is to be transported over the road or roads of any other railroad company, the said party of the first part shall be released from liability of every kind after said live stock shall have left its road, as the party of the first part is only bound for the transportion of said stock to San Antonio station, the end of its line on the route over which said stock is to be shipped; and the party of the second part hereby so expressly stipulates and agrees; the understanding of both parties hereto being that the party of the first part shall not be held or deemed liable for anything beyond the line of the San Antonio & Aransas Pass Railway, excepting to protect the through rate of freight named herein.\u201d\nOn the back of the contract was the following:\n\u201c We, the undersigned owners, or in charge of the live stock mentioned in the within contract, in consideration of the free pass granted us by the San Antonio & Aransas Pass Railway Company, hereby agree that the said San Antonio & Aransas Pass Railway Company shall not be liable to us for any injury or damages of any kind suffered by us while in charge of said stock or on our return passage.\n\u201c Jotjrd Campbell.\n\u201c No cars inside. Pass J. Campbell from Brackenridge to Nat. Stock Yards; parties in charge accompanying stock.\n\u201cL. D. Hopkins, Station Master.\u201d\nThe return pass was issued by the Missouri Pacific Railway Company, but the petition alleged that the agent who issued it was also acting foi appellant.\nUpon this pass and the contract referred to, appellee was allowed to travel free of charge from St. Louis to Texarkana. He was on the Texas & Pacific Railway when he reached the latter place, and the conductor told him that his pass was not good for 90 miles of the road to be traveled immediately after passing Texarkana, and that he would have to pay fare for this 90 miles. This appellee refused to do, and the conductor called in a policeman and compelled him to get off the train at Texarkana after midnight, in the rain, etc. This all occurred on the Texas & Pacific Railway, and not on the International & Great Northern Railroad, which, it was shown, terminated at Longview, a considerable distance from Texarkana.\nThe trial court instructed the jury, that if they found for the plaintiff, to allow him such actual damages as he was shown by the testimony to have sustained by his unlawful ejection from the train; that this would include such sums of money as he was necessarily compelled to expend in completing his journey to San Antonio, necessary hotel bills, and compensation for loss of time; and that if they found that appellee\u2019s expulsion from the train was not only wrongful, but was accomplished in a rude or insulting manner and under circumstances calculated to mortify and humiliate him, and if in fact he was thereby humiliated and mortified, then the jury might allow him fair and reasonable compensation for the injury done him by reason of the outrage and indignity so inflicted upon him. The charge, however, clearly limited the right of recovery to actual damages.\nThe jury returned a verdict for appellee for $750.\nIt is contended by appellant that the doctrine announced in Harris v. Howe, Receiver, etc., 74 Texas, 534, and Gulf, Colorado & Santa Fe Railway Company v. Baird, 75 Texas, 256, and since adhered to by repeated decisions of our Supreme Court, to the effect that a common carrier may limit its liability to such losses and injuries as occur on its own line, applies to this case; and that, as the injury was occasioned upon another railroad than appellant\u2019s, by the terms of the contract it is not liable.\nThe allegation in appellee\u2019s petition that the contract attached to and made part thereof was executed by or in behalf of appellant, not being denied under oath, renders it, in law, its contract.\nIt is, therefore, to be construed as if the name International & Great-Northern Railway Company was substituted for the San Antonio & Aransas Pass Bail way Company wherever the latter appears in the contract; but those provisions thereof which enure to appellant\u2019s benefit, and which could lawfully be made, are to be enforced, as well as those that are benficial to appellee.\nAppellant could not lawfully contract for immunity from loss of or injury to the property shipped, or injury to appellee, occasioned by the wrongful act or omission of appellant or its servants while on the line of its railroad; but it could, and if a party to the contract, it did, stipulate for its nonliability for any such wrongful act or omission of any other common carrier, except that it agreed to protect the through rate of freight, and to furnish appellee free transportation to and from St. Louis; and this it was bound to do for the entire distance.\nUnder the facts disclosed by the record (there being no verified plea denying averments of agency in appellee\u2019s petition), we think he was a passenger on the Texas Pacific Bail way on the occasion in question; that because of the refusal of the conductor to allow him to remain on the train at Texarkana without paying fare, there was a breach of appellant\u2019s contract to furnish him free transportation to and from St. Louis; and that as a result of this breach of contract he.is entitled to recover such sum of money, and no more, as will compensate him for money necessarily paid out for railroad fare and hotel bills, and for loss of time, which money would not have been paid out, and time lost, but for the breach of the contract.\nThe claim for damages as compensation for mental suffering (mortification and humiliation of mind), caused by the rude or insulting manner of the conductor who put appellee off the train, can not be maintained as against appellant. This injury does not flow from a mere breach of the contract, but arises out of and rests upon the rude and wanton manner in which the contract was broken. The mere failure to comply with the agreement was not a tort, but the wanton and insulting conduct of the conductor at the time was; and it was upon this tort that appellee based and maintained, in the court below, his demand for compensation for wounded feelings. Railway v. Roemer, ante, 191.\nAgainst this latter claim, appellant is protected by the terms of the contract invoked and relied upon by appellee.\nGiving to this contract the most favorable construction it can be susceptible of in behalf of appellee, it must be held to exempt appellant from liability for injury to either his person or feelings, when such injury did not occur upon either its own road or the San Antonio & Aransas Pass road.\nDelivered November 30, 1892.\nIt is proper to say that this case was tried in the court below before the decision in Harris v. Howe, supra, was rendered; and the record indicates that the defense urged in this court, under the principle enunciated in that case, was not relied on as strenuously as it is here.\nThe judgment of the District Court will be reversed and the cause remanded.\nReversed and remanded.",
+        "type": "majority",
+        "author": "KEY, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Barnard & Green, for appellant.",
+      "John A. & N. O. Green, J. D. Morrison, and R. B. Green, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "The International & Great Northern Railway Company v. Jourd Campbell.\nNo. 49.\n1. Plea Denying Agency Must be Under Oath. \u2014 The allegation in the petition that the contract (for drover's return passage) declared on was executed by or on behalf of the defendant, not having been denied by the defendant under oath, such contract will be considered its own. In the contract discussed the defendant was not named, and it was made by an agent of another.\n2. Limited Liability of Connecting Railway. \u2014 A railway company can stipulate for its nonliability for the wrongful act or omission of any other connecting road on the route of through shipment.\n3. Measure of Damages \u2014 Breach of Contract to Carry. \u2014 The breach of a drover\u2019s return passage occurring on a line on the route not bound by a limited liability contract, entitles the holder of such ticket to actual damages. compensating fdr money necessarily paid out for fare and hotel expenses, and loss of time as consequence of such breach.\n4. Tort upon Connecting Line. \u2014 The defendant company, in the contract declared upon, had restricted its liability for tort to such as might be done upon its own line. It was not liable for a tort upon a connecting line not bound by such contract.\nAppeal from Atascosa. Tried below before Hon. D. P. Harr.\nBarnard & Green, for appellant.\n1. To hold the defendant responsible upon the drover\u2019s pass, it must have issued the pass, or it must have been issued in its name by its agent.\n2. On a through passage, if damage to the person occurs, suit must be brought either against first carrier or against the one causing the damage. Harris v. Howe, 74 Texas, 534; Railway v. Sprayberry, 35 Am. Rep,, 705; Railway v. Connell, 112 Ill., 295; Railway v. Combs, 18 Am. and Eng. Ry. Cases, 298; Thomp. Carr, of Pass., 431, and notes; 2 Wood Ry. Law, sec. 359; Schoul. Bail, and Carr., sec. 615.\n3. The appellant was not liable for any actual damages arising out of the willful torts of the connecting routes. Dillingham v. Russell, 73 Texas, 52, 55; Tynburg & Co. v. Cohen, 67 Texas, 224; Harris v. Howe, 74 Texas, 534.\nJohn A. & N. O. Green, J. D. Morrison, and R. B. Green, for appellee.\n1. The plaintiff sues on the contract, alleging it as made by the defendant, through its agent, for itself and all connecting lines. By not denying said authority of agent under oath, it is admitted, and the defendant must of itself take notice of all lines over which it contracts to carry. Rev. Stats., art. 1265; Railway v. Tisdale, 74 Texas, 8.\n2. Plaintiff charges defendant\u2019s company, through its agent, with this tort. The question of agency not being denied under oath, it is taken as an admitted fact, and the defendant\u2019s company is liable.\n3. Plaintiff, according to his contract, was. entitled to passage on this train; he had paid for it; and a stipulation exempting carrier from liability for damages caused by his own negligence or that of his servants is void and against the policy of the law. Laws. Cont. of Carr., sec. 214."
+  },
+  "file_name": "0509-01",
+  "first_page_order": 533,
+  "last_page_order": 537
+}

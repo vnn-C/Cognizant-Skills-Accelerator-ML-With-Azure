@@ -1,0 +1,85 @@
+{
+  "id": 220970,
+  "name": "P. J. Loonie v. E. M. Tillman",
+  "name_abbreviation": "Loonie v. Tillman",
+  "decision_date": "1893-05-10",
+  "docket_number": "No. 166",
+  "first_page": "332",
+  "last_page": "334",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 332"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "118 Ind., 372",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1373186
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ind/118/0372-01"
+      ]
+    },
+    {
+      "cite": "20 S. W. Rep., 722",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 436,
+    "char_count": 6661,
+    "ocr_confidence": 0.562,
+    "pagerank": {
+      "raw": 9.844506106891792e-08,
+      "percentile": 0.5339264953284921
+    },
+    "sha256": "6e59ed523b38153e5f8120db63ecbb370b90a734e8bb03263a54be718d850248",
+    "simhash": "1:2851cb66215e3ca7",
+    "word_count": 1170
+  },
+  "last_updated": "2024-02-27T16:31:46.217873+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "P. J. Loonie v. E. M. Tillman."
+    ],
+    "opinions": [
+      {
+        "text": "STEPHENS, Associate Justice.\nThis suit was brought in the District Court of Bosque County upon the following written instrument:\n\u201cAustin, Texas, 28th of July, 1885.\n\u201cKnow all men by these presents, that I, P. J. Loonie, of Bosque County, State of Texas, do hereby bind myself to pay to J. C. Davis, of Pecos City, county of Reeves, 81000 nine months from this 28th day of July, on condition and for the following consideration: That the said J. C. Davis withdraws all opposition to and forever renounces all claim to section 6, block 5, Houston & Great Northern Railway school land, in Pecos County, and withdraws all claims of whatsoever character on said land, and causes suit now pending in Pecos District Court to be dismissed; and it is further agreed on by said P. J. Loonie, that he is to give a deed in full, as administrator, to J. C. Davis for the lot now enclosed and occupied by him as his residence.\n[Signed] \u201c P. J. Loonie.\n\u201cWitness: W. M. Brown.\u201d\nThere was a change of venue, upon the application of appellant, who insisted that the cause should be removed to Johnson County instead of to Somervell County, on the sole ground that the county seat of the former, unlike that of the latter, had daily railway communication with the county seat of Bosque; the court house of Somervell, however, being nearer by several miles to that of Bosque than the court house of Johnson.\n1. We are of opinion that the nearest court house within the meaning of article 1273, Revised Statutes, does not necessarily mean the court house most accessible by rail, and that the expression of the court in Shaw v. Cade, 54 Texas, 307, never was intended as authority for any such latitude of construction. The finding of the court, that the court house-of Somervell County was nearest to the court house of Bosque County, not being shown to be incorrect, must be sustained.\n2. Appellant offered to prove by paroi testimony, that when the written instrument sued on was executed and delivered, it was understood and agreed that he was only to be bound thereby in the capacity of administrator of the estate of R. W. Petrikin, and then only upon the approval of the contract by the Probate Court of Pecos County; and that J. C. Davis undertook to perform certain other obligations than those specified in the instrument as part of its consideration. We are of opinion-that there was no error in the exclusion of this evidence, there being no such allegation and proof of fraud or mistake as to render it admissible. Lanius v. Shuber, 77 Texas, 24; Rockmore v. Davenport, 14 Texas, 605; Todd v. Roberts, 20 S. W. Rep., 722; Weaver v. City of Gainesville, 1 Texas Civ. App., 286, and case there cited; Willis v. Byars, 2 Texas Civ. App., 134; Rubrecht v. Powers, 1 Texas Civ. App., 282; 2 Whart. on Ev., sec. 951; Mech. on Ag., sec. 430 and last of sec. 441, p. 281; Lapowski v. Smith, 1 Texas Civ. App., 391, and cases there cited; Clanin v. Esterley, 118 Ind., 372 (3 L. R. A., p. 863), and cases there cited.\n3. There was no error in admitting the certified copy of the judgment of the District Court of Pecos County to shqw that the suit had been dismissed, as provided in the instrument sued on; nor was it necessary to-show any further compliance with the conditions of the obligation than its acceptance by the grantee, followed by a continued abandonment in fact of all claim to the property as therein stipulated, manifested. We do not understand that the written instrument required the execution of any formal release or quitclaim in writing.\nThese conclusions dispose of all the assignments of error, and lead to-an affirmance of the judgment.\nAffirmed\nDelivered May 10, 1893.",
+        "type": "majority",
+        "author": "STEPHENS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Wm. M. Knight, S. H. Lumpkin, and Crane & Ramsey, for appellant.",
+      "Lockett & Kimball, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "P. J. Loonie v. E. M. Tillman.\nNo. 166.\n1. Change of Venue\u2014Nearest Court House.\u2014The nearest court house, within the meaning of article 1273, Revised Statutes, relating to change of venue, does not necessarily mean the court house most accessible by rail; and the expression of the court in Shaw v. Cade, 54 Texas. 307, was not intended as authority for such latitude of construction. \u00ab\n2. Parol Evidence to Vary Written Instrument.\u2014In an action on a written contract, paroi testimony to show that it was understood and agreed that one of the parties was only to be bound thereby as administrator upon the approval of the contract by the Probate Court, and that the other party undertook to perform certain other obligations than those specified in the instrument, is inadmissible in the absence of allegation and proof of fraud or mistake.\n3. Proof of Compliance with Contract\u2014Fact Case.\u2014See the opinion for proof of compliance with the terms of a contract held admissible and sufficient to authorize a recovery.\nAppeal from Somervell. Tried below before Hon. C. K. Bell.\nWm. M. Knight, S. H. Lumpkin, and Crane & Ramsey, for appellant.\n1. The nearest court house, in the meaning of the statute, is not necessarily the one nearest measured by geographical miles, but is the one most accessible and convenient by the ordinary means of travel. Shaw v. Cade, 54 Texas, 307; Railway v. Ryan, 44 Texas, 426.\n2. To explain fully the situation of the parties when entering into a written agreement as to the capacity in which they acted in making the agreement, is not to vary the terms of the written instrument. Haldeman v. Chambers, 19 Texas, 1; Goldman v. Blum, 58 Texas, 630; Thomas v. Hammond, 47 Texas, 51; Cox v. Bray, 28 Texas, 259.\n3. The court erred in rendering a judgment for the plaintiff on the evidence introduced, because the instrument sued on by the plaintiff showed the conditions precedent to be performed by the plaintiff were, to \u201c withdraw all opposition to and forever renounce all claims to section 6, block 5, Houston & Great Northern Railway school land in Pecos County, and withdraws all claims of whatsoever character to said land,\u201d as well as to dismiss a suit then pending. And the plaintiff only proved that the suit had been dismissed, but did not prove by the introduction of any deed or release, or in any other way, the performance of any condition precedent, except the dismissal of the suit. Meade v. Rutledge, 11 Texas, 44; Gober v. Hart, 36 Texas, 139; Pillow v. Eliot, 25 Texas Supp., 322; Magee v. Chadoin, 30 Texas, 644; Houston v. Musgrove, 35 Texas, 594.\nLockett & Kimball, for appellee.\nAs a general rule, motions for a change of venue are within the sound discretion of the court to which the application is made, and a court of appeals will not reverse the decision except upon abuse of such discretion. San Antonio v. Jones, 28 Texas, 19; Hall v. Jackson, 3 Texas, 305; 3 Encycl. of Law, 108, and cases cited under head of Change of Venue."
+  },
+  "file_name": "0332-01",
+  "first_page_order": 358,
+  "last_page_order": 360
+}

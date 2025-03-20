@@ -1,0 +1,91 @@
+{
+  "id": 227640,
+  "name": "Eli Goodale v. E. G. Douglas et al.",
+  "name_abbreviation": "Goodale v. Douglas",
+  "decision_date": "1893-12-16",
+  "docket_number": "No. 120",
+  "first_page": "695",
+  "last_page": "697",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Tex. Civ. App. 695"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "17 Gratt., 131",
+      "category": "reporters:state",
+      "reporter": "Gratt.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 W. Va., 81",
+      "category": "reporters:state",
+      "reporter": "W. Va.",
+      "case_ids": [
+        8641023
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/w-va/11/0081-01"
+      ]
+    },
+    {
+      "cite": "36 Am. Dec., 720",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 381,
+    "char_count": 7190,
+    "ocr_confidence": 0.548,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.008886618486251515
+    },
+    "sha256": "cc97805b2879b509ea75f55fb08b8c12371624d0472f72f7135fb132075bdd87",
+    "simhash": "1:3b1aac5412809a8c",
+    "word_count": 1287
+  },
+  "last_updated": "2024-02-27T16:31:09.266747+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Eli Goodale v. E. G. Douglas et al."
+    ],
+    "opinions": [
+      {
+        "text": "LIGHTFOOT, Chief Justice.\nThere is no statement of facts in the record, and no brief filed by defendants in error.\nThis suit was brought August 22, 1887, by plaintiff in error, against E. G. Douglas and the sureties on his official bond as sheriff of Grayson County, and also against defendants in error A. B. Bales and S. S. Fears, for damages; charging that said Bales was a deputy of said sheriff, and as such did, on December 30, 1885, in company with said Fears, wrongfully and maliciously eject plaintiff from his homestead in Grayson County, whereby he was damaged $10,000.\nOn the trial, judgment was rendered in favor of the sheriff and his sureties against plaintiff, but in plaintiff\u2019s favor against Bales and Fears for $725 damages; which judgment plaintiff in error has brought up for revision.\nConclusions of Law.\u2014 1. The plaintiff in the trial offered to prove by himself and wife, 11 that A. B. Bales stated to them, on the day the trespass was committed, and while at their house in the prosecution thereof, they demanding the writ under which he was acting, that there was a writ then in the hands of E. G. Douglas, sheriff of Grayson County, for the possession of the land they then occupied; that it was not necessary for him to have the writ, but was sufficient for Douglas to be in possession of it, and he was acting for Douglas, and dispossessed them by reason of said writ; plaintiff having previously read in evidence the appointment of said Bales as deputy sheriff of said county.\u201d Defendants objected to its introduction against Douglas and his sureties and A. B. Bales\u2019 sureties, on the ground that the testimony was hearsay; which was. sustained by the court, and the testimony admitted against A. B. Bales and those present and acting with him; from which ruling plaintiff took his bill of exceptions.\nThere is no statement of facts or finding of facts in the record, and the importance of this testimony is not apparent without it. If this testimony and that set out in the only remaining bill of exceptions was all the evidence offered, it is not sufficient to charge Douglas and his bondsmen. It may be sufficient to show that Bales and those acting with him were trespassers, and was admitted as against them.\n2. It is contended that the court erred in excluding the bond of E. G. Douglas, as sheriff of Grayson County. This question is presented by bill of exceptions, in which it is shown affirmatively that no proof was made that there was any writ or process of any kind in the hands of the; sheriff or his deputy for the seizure of plaintiff\u2019s property. The object of this testimony seems to have been to hold the sheriff and the sureties on his official bond responsible for the wrongful act of Bales in seizing the property of plaintiff in error. In the case of Heidenheimer v. Brent, 59 Texas, 534, where an attempt was made to hold the sheriff\u2019s bondsmen liable for money that went into his hands, the court says: \u201c The liabilities of sureties are strictissimi juris, and can not be extended by construction. To charge the sureties on a sheriff\u2019s bond, the act complained of must not only be one which he might rightfully do as sheriff, but which must be actually done by him as sheriff, under a claim of right to do the act as such officer. It must be a violation of the conditions of his bond. The mere fact that the sheriff had the money in question in his possession is not enough to bind his sureties. It must also appear that it came into the hands of the sheriff by virtue of some process or lawful authority, and that he then failed to pay it over. \u2019 \u2019\nDelivered December 16, 1893.\nIn the absence of a statement of facts showing all the testimony, it is difficult for us to determine what particular bearing this evidence might have had. It is clear that no recovery could be had against the sureties on the sheriff\u2019s bond, unless it could be had against the sheriff himself. We are forced to the conclusion that even if the exclusion of the bond was error, which is not conceded, it was harmless. Without a statement of facts, it is not apparent that plaintiff in error was injured by either of these above rulings. The record does not show that it was proved that E. G. Douglas was ever elected or qualified or acted as sheriff. It is not shown by the record that there was ever any writ in the hands of the alleged sheriff or the alleged deputy by which the latter acted, or that he ever had any authority or color of authority whatever from Douglas, or any one else, to dispossess the plaintiff, or that he was damaged or injured in any manner. In the absence of a statement of facts', before this court can revise the ruling of the court below upon the admission or exclusion of testimony, it must be made apparent from the record not only that the court erred in excluding such testimony, but that the testimony was material, and \u201c such error must with reasonable certainty have produced a substantial injury to the party in the cause.\u201d Stonebraker v. Friar, 70 Texas, 202; Railway v. Edwards, 75 Texas, 334; Devore v. Crowder, 66 Texas, 204; Lockett v. Schurenberg, 60 Texas, 610; McCarty v. Wood, 42 Texas, 38; Jones v. Cavasas, 29 Texas, 429; Thompson v. Callison, 27 Texas, 438; Fulgham v. Bendy, 23 Texas, 64.\nThe judgment is affirmed.\nAffirmed.",
+        "type": "majority",
+        "author": "LIGHTFOOT, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "E. F. Brown, for plaintiff in error.",
+      "No brief for defendant in error reached the Reporter."
+    ],
+    "corrections": "",
+    "head_matter": "Eli Goodale v. E. G. Douglas et al.\nNo. 120.\n1. Sheriff\u2019s Bond \u2014 Liability of Sureties. \u2014 To charge the sureties on a sheriff\u2019s bond, the act complained of must not only be one which he might rightfully do as sheriff, but which must be actually done by him as sheriff under a claim of right to do the act as such officer. It must be a violation of the conditions of his bond.\n2. Exclusion of Testimony \u2014 Review on Appeal. \u2014 In the absence of a statement of facts, before this court can revise the ruling of the court below upon the exclusion of testimony, it must be made apparent from the record not only that the court erred in excluding such testimony, but that the testimony was material, and such error must with reasonable certainty have produced a substantial injury to the party in the cause.\nError from Grayson. Tried below before Hon. A. C. Turner, Special Judge.\nE. F. Brown, for plaintiff in error.\n1. Defendant Bales being a regularly appointed deputy of defendant Douglas, sheriff, and acting in his official capacity and within the scope of his authority, said Douglas is bound by his declarations, and the same are admissible against him and his sureties.\n2. The sheriff and his sureties on his official bond are liable in damages for the official acts of his deputy. Rev. Stats., art. 4521; Heidenheimer Bros. v. Brent, 59 Texas, 534; Harrington v. Fuller, 36 Am. Dec., 720; Luck v. Zapp, 1 Texas Civ. App., 528.\n3. It is not necessary to the liability of the sheriff and his sureties that his deputy shall be in possession of a writ, nor is it necessary that he have a writ in order that he act in his official capacity. Heidenheimer Bros. v. Brent, 59 Texas, 534; Murf. on Sheriffs, secs. 20, 60; Crocker on Sheriffs, secs. 19, 849; Lucas v. Locke, 11 W. Va., 81-91; Sangster v. Commonwealth, 17 Gratt., 131.\nNo brief for defendant in error reached the Reporter."
+  },
+  "file_name": "0695-01",
+  "first_page_order": 721,
+  "last_page_order": 723
+}

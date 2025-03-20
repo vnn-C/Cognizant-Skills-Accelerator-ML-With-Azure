@@ -1,0 +1,66 @@
+{
+  "id": 219216,
+  "name": "Jack Hittson v. G. N. Gentry, Administrator",
+  "name_abbreviation": "Hittson v. Gentry",
+  "decision_date": "1893-03-30",
+  "docket_number": "No. 135",
+  "first_page": "670",
+  "last_page": "671",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 670"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 223,
+    "char_count": 3740,
+    "ocr_confidence": 0.569,
+    "pagerank": {
+      "raw": 9.73380222060099e-08,
+      "percentile": 0.5306546829564195
+    },
+    "sha256": "a89c605de969794a032d3da79daf2cb3775aaedddf8d442e778645f1d0e736ec",
+    "simhash": "1:ffc2c67d267cb850",
+    "word_count": 633
+  },
+  "last_updated": "2023-07-14T16:01:39.065288+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jack Hittson v. G. N. Gentry, Administrator."
+    ],
+    "opinions": [
+      {
+        "text": "TARLTON, Chief Justice.\nThe defendant in error is the administrator de bonis non of the estate of Thomas Barron, deceased. His predecessor in a representative capacity was Katie Barron. As administratrix of the estate of Thomas Barron, she brought this suit against W. W. Bush, J. J. Hittson, and Jack Hittson, to recover the amount alleged to be due on a promissory note charged to have been executed by W. W. Bush, J. J. Hittson, and Jack Hittson ,and payable \u2018 \u2018to the order of Katie Barron, administratrix estate of Thomas Barron.\u201d The judgment was rendered against these defendants in favor of the successor, G. W. Gentry, administrator and defendant in error. From this judgment Jack Hittson prosecutes this writ of error.\nThe judgment was had by default upon an amended petition.\nThe original petition described the cause of action, with other elements of description, as a promissory n\u00f3te for the sum of $4325, and with credits thereon as follows: $200 September 24, 1886; $434.95 November 1, 1886.\nThe amended petition on which judgment was taken described the cause of action as a promissory note for the sum of $4325, without credits.\nAmong other matters assigned as error (a discussion of which we waive, because unnecessary), the judgment is complained of as erroneous on account of the excess in the amount in the amended over that claimed in the original petition.\nIt is apparent that the plaintiff in error was not served with notice of the amended petition. It may well be apprehended that a defendant who would not resist a demand for $3690.05, due upon the cause of action as described here in the original petition, would strenuously contest a claim for $4325 as described in the amended petition. This difference, according to our calculation, was carried into the judgment rendered against the plaintiff in error.\nThe cause of action as set out in the amended petition was, we think, a new cause of action, and differed from that originally declared upon. The defendant Jack Hittson therefore was, in our opinion, entitled to notice of the amended petition. Without such notice he was deprived of the opportunity and the right to contest the demand, the validity of which was decreed against him. Such a judgment is erroneous. Morrison v. Walker, 22 Texas, 18; Stewart v. Anderson, 70 Texas, 598.\nThe judgment is reversed and the cause remanded.\nReversed and remanded.\nDelivered March 30, 1893.\nJustice Stephens did not sit in this case.",
+        "type": "majority",
+        "author": "TARLTON, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "I. W. Stephens, for plaintiff in error.",
+      "Cowan & Fisher, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Jack Hittson v. G. N. Gentry, Administrator.\nNo. 135.\nJudgment by Default \u2014Notice of Amendment \u2014New Cause of Action.\u2014Plaintiff\u2019s cause of action was. in liis original petition, described as a note for \u00a74325, with two credits thereon aggregating $634.95; and in an amended petition on which judgment by default was taken, as a note for $4325, without credits. Slid, that the amendment set up a new cause of action, and judgment by default thereon, without credits allowed, and without notice to defendant of such amended pleading, was error.\nError from Nolan. Tried below before Hon. Wm. Kennedy.\nI. W. Stephens, for plaintiff in error.\nThe court erred in rendering final judgment on amended pleadings setting up a new cause of action, without notice to defendant Jack Hittson of such departure.\nCowan & Fisher, for defendant in error.\nThe note described in the petition was the cause of action declared upon. It is set out in full in the original petition, as also in the amended petitions, except the last one, where it is fully described and its legal effect declared upon; and the change made in the several amended petitions as to the amount of credits that should be on the note, if any, did not change the cause of action. This remained the same, which is the note sued on."
+  },
+  "file_name": "0670-01",
+  "first_page_order": 696,
+  "last_page_order": 697
+}

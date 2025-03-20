@@ -1,0 +1,66 @@
+{
+  "id": 227334,
+  "name": "J. D. Patty v. Frank Miller",
+  "name_abbreviation": "Patty v. Miller",
+  "decision_date": "1893-11-29",
+  "docket_number": "No. 107",
+  "first_page": "308",
+  "last_page": "310",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Tex. Civ. App. 308"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 267,
+    "char_count": 4678,
+    "ocr_confidence": 0.558,
+    "pagerank": {
+      "raw": 4.102393008103083e-07,
+      "percentile": 0.90975458414757
+    },
+    "sha256": "4f475b1f119c07bd83b781b304cea4bbf7b8c44ae992159df84514d033c541ae",
+    "simhash": "1:96bfcf319be559e5",
+    "word_count": 844
+  },
+  "last_updated": "2023-07-14T18:07:14.925501+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "J. D. Patty v. Frank Miller."
+    ],
+    "opinions": [
+      {
+        "text": "FLY, Associate Justice.\nThis case originated in a Justice Court, where judgment was rendered in favor of plaintiff (appellee) for the sum of $64, from which judgment appellant gave notice of appeal to the District Court, and perfected the same. While an appeal bond was given on July 21, 1890, the transcript of the justice\u2019s record was not filed in the District Court until February 14, 1891, although from the certificate of the justice of the peace the transcript was prepared by him on August 6, 1890.\nOn March 10, 1891, the appeal was dismissed by the District Court for want of prosecution, and a writ of procedendo awarded to the Justice Court from which the appeal was taken. On March 12, 1891, the case was reinstated upon a motion of appellant, supported by affidavit that he had filed a proper appeal bond; that he requested the justice of the peace to file the transcript in the District Court, and that the justice refused to do so unless the costs of his court were first paid; that he had informed said justice that the appeal bond covered and protected all costs. That the justice of the peace had let two terms of the District Court pass by without filing the transcript, and then had filed it without notifying appellant, and judgment had been taken against him without his knowledge that the case had been filed in the District Court. The affidavit further shows that appellant had strong grounds of defense against the claim of appellee. The case was reinstated, and was afterwards, upon motion of appellee, dismissed by the District Court because the judgment appealed from was rendered on July 19, 1890, and the transcript and original papers were not filed in the District Court until February 14,1891. The appeal bond from the Justice to the District Court is not incorporated in the record, but we find in the conclusions of fact of the district judge that a bond in a proper sum was filed, and that he only dismissed the appeal because the transcript was not filed until the second term of the District Court had passed. The statute provides, that the appeal from a Justice Court is perfected by the filing of the required appeal bond, and requires the justice of the peace to make out a true and correct copy of all entries on his docket in the cause, and certify to and transmit the same, together with a bill of costs and original papers in the case, to the clerk of the County Court. It further provides, that \u201c Such transcript and papers shall, if practicable, be transmitted to the clerk of the County Court on or before the first day of the next term of such.court; but if there be not \u25a0time to make out and transmit the same to the first term, they may be so transmitted on or before the first day of the second term of the court.\u201d Sayles\u2019 Civ. Stats., arts. 1639, 1640, 1641.\nDelivered November 29, 1893.\nWe do not believe that the party desiring an appeal should be held responsible for the refusal of the justice of the peace to comply with the law. He had done what the law required of him when he filed a proper appeal bond, and we do not believe that his rights should be thus jeopardized by the default of an officer. It is true that he could have obtained a writ of mandamus to compel the justice of the peace to perform his duty; but this is ail expensive proceeding, and may be beyond his means, and would perhaps have deprived him of a valuable right on account of his poverty. Under the facts set forth in the affidavit for reinstatement, which were presumably found to be true by the lower court by its granting the motion, we are of the opinion that the appellant should not be deprived of his right to a trial de nova in the District Court by the neglect of the justice of the peace. 2 Willson\u2019s C. C., see. 108, p. 96, and p. 171, sec. 312.\nThe jurisdiction of the District Court attached by reason of the appeal bond being filed, and not by reason of the transcript being filed.\nThe judgment of the lower court is reversed and the cause remanded.\nReversed and remanded.",
+        "type": "majority",
+        "author": "FLY, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Edward Dwyer, for appellant.",
+      "No brief for appellee reached the Reporter."
+    ],
+    "corrections": "",
+    "head_matter": "J. D. Patty v. Frank Miller.\nNo. 107.\nAppeal from Justice Court \u2014 Filing Transcript. \u2014 Where a case is appealed from a Justice Court, the appeal is perfected, and the jurisdiction of the appellate court attaches when a proper appeal bond is filed and approved by the justice of the peace, and it should not be dismissed on account of the negligence of the justice of the peace in failing to file in the appellate court the transcript and papers before the first day of the second term of court after the appeal is \u2022 perfected. \u25a0\nAppeal from Bexar. Tried below before Hon. W. W. King.\nEdward Dwyer, for appellant.\nNo brief for appellee reached the Reporter."
+  },
+  "file_name": "0308-01",
+  "first_page_order": 334,
+  "last_page_order": 336
+}

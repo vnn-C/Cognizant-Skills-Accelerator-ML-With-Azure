@@ -1,0 +1,66 @@
+{
+  "id": 221185,
+  "name": "Laura Hahn et al. v. J. A. Broussard and L. J. Herbert",
+  "name_abbreviation": "Hahn v. Broussard",
+  "decision_date": "1893-06-15",
+  "docket_number": "No. 250",
+  "first_page": "481",
+  "last_page": "483",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 481"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 282,
+    "char_count": 4937,
+    "ocr_confidence": 0.539,
+    "pagerank": {
+      "raw": 1.4884788929778931e-07,
+      "percentile": 0.6625922978521142
+    },
+    "sha256": "14a47f385c034616587efb5317f5687bed590c4a8a2dcd58da43517f96a7e97a",
+    "simhash": "1:32b48e32284a6c4f",
+    "word_count": 868
+  },
+  "last_updated": "2023-07-14T18:08:23.206239+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Laura Hahn et al. v. J. A. Broussard and L. J. Herbert."
+    ],
+    "opinions": [
+      {
+        "text": "WILLIAMS, Associate Justice.\nSuit by appellants against appellees upon a promissory note, in which the only issue arose upon defendants\u2019 plea of payment. That plea averred, that the principal defendant, at various and sundry times, made payments on the said note to plaintiffs\u2019 attorney, who held same with authority to collect it; and that defendant finally paid the balance due on said note, both principal and interest, to said attorney. To this plea plaintiffs excepted, on the ground that it did not state the time when the payments were made, nor' the amounts of them, nor how they were made, whether in money or property. The exception was overruled, and at the trial the issue presented by the plea was submitted to the jury and they found for defendants.\nThe plea showed on its face that the alleged payment of the note was made in several amounts, or \u201c items,\u201d made at different times. In this it differed from the cases relied on by appellees to sustain the ruling below. Holliman v. Rogers, 6 Texas, 91; Able v. Lee, 6 Texas, 427.\nIn those cases there was a general allegation of payment; in the first case the time being given, and in the last the allegation being that the payment was made after the institution of the suit. The payment in each case was alleged as being made at one time and in one amount; at least the court treated the allegation as conveying that meaning. In Wells v. Fairbanks, 5 Texas, no exception was taken to the plea.\nWhere, as in this case, the payment is made in installments at different times and under different circumstances, article 1266, Revised Statutes applies, and the plea should be more specific as to the dates and amounts of the sums paid. The payment consisting of different items, the opposite party should be put upon notice by the plea of the different installments the payment of which is sought to be proved, in order that he may prepare to meet the defense.\nThere is no statement of facts in the record, but the charge of the court shows that the only issue upon which the case was tried was that presented by the plea of payment. We can not therefore say that the error committed by the court, in overruling the exception, was harmless.\nThe other assignments of error can not be considered in the absence of a statement of facts, as they relate to a refusal to grant a new trial. We do not think it proper to pass by in silence the manner in which this case has been presented in the brief of appellants. The brief consists only of a statement of the nature and result of the suit, assignments of error, propositions, and citations of authorities. There are no proper statements of the contents of the record, under the propositions relating to or affecting the points made.\nWe do not feel that we are required to consider a case thus presented; and when counsel are not more observant of the rules of the court, they must take the risk of having their cases disposed of without an examination of the record. The facts in the record affecting the ruling on the exceptions already passed on are stated in appellees\u2019 brief, and we have therefore determined the question raised. Otherwise we would have felt warranted in making a different disposition of the case.\nFor the error pointed out, the judgment is reversed and the cause remanded.\nReversed and remanded.\nDelivered June 15, 1893.",
+        "type": "majority",
+        "author": "WILLIAMS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Tom J. Russell, for appellants,",
+      "Perryman, Gillaspie & Bullitt, for appellee,"
+    ],
+    "corrections": "",
+    "head_matter": "Laura Hahn et al. v. J. A. Broussard and L. J. Herbert.\nNo. 250.\n1. Plea of Payment, How Made.\u2014The plea upon its face showed that the alleged payment of the note sued on was made in several amounts, or items, made at different times. Where the payment is made in installments, at different times and under different circumstances, article 1266, Revised Statutes, applies, and the plea should be specific as to dates and amounts paid. The opposite party should be put on notice by the plea of the different installments, the payment of which is sought to be proved, in order that he may prepare to meet the \u25a0defense.\n2. Supporting Statements to Propositions Must be Made in Brief.\u2014The brief consists only in a statement of the nature and result of the suit, assignments of error, propositions, and citations of authorities. There are no proper statements of the contents of the record under the propositions relating to or affecting the points made. We do not feel that we are required to consider a case thus presented; and when counsel are not more observant of the rules, they must take the risk of having their cases disposed of without any examination of the record.\nAppeal from Jefferson. Tried below before Hon. W. H. Ford.\nTom J. Russell, for appellants,\ncited: Gray v. McFarland, 29 Texas, 163; Wells v. Fairbanks, 5 Texas, 582; Holliman v. Rogers, 6 Texas, 91; Marley v. McAnelly, 17 Texas, 658.\nPerryman, Gillaspie & Bullitt, for appellee,\ncited: Holliman v. Rogers, 6 Texas, 91; Wells v. Fairbanks, 5 Texas, 582; Able v. Lee, 6 Texas, 432; Thompson v. Cartwright, 1 Texas, 87."
+  },
+  "file_name": "0481-01",
+  "first_page_order": 507,
+  "last_page_order": 509
+}

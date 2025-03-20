@@ -1,0 +1,145 @@
+{
+  "id": 219195,
+  "name": "E. S. Day v. R. H. Needham et al.",
+  "name_abbreviation": "Day v. Needham",
+  "decision_date": "1893-03-30",
+  "docket_number": "No. 127",
+  "first_page": "680",
+  "last_page": "683",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 680"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "15 S. W. Rep., 1049",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "14 S. W. Rep., 580",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "49 Wis., 291",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "case_ids": [
+        8705223
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wis/49/0291-01"
+      ]
+    },
+    {
+      "cite": "74 Ala., 140",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        5641813
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/74/0140-01"
+      ]
+    },
+    {
+      "cite": "3 Am. St. Rep., 711",
+      "category": "reporters:state",
+      "reporter": "Am. St. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "15 Am. Dec., 555",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 So. Rep., 31",
+      "category": "reporters:state_regional",
+      "reporter": "So.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "19 S. W. Rep., 734",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "14 S. W. Rep., 580",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "49 Wis., 291",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "case_ids": [
+        8705223
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis/49/0291-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 463,
+    "char_count": 7361,
+    "ocr_confidence": 0.584,
+    "pagerank": {
+      "raw": 6.217325832540197e-08,
+      "percentile": 0.38476702695794235
+    },
+    "sha256": "40cb98e585ddb1a46af74b0446cea17f3ca822f0de84e73869d556afff08c4a7",
+    "simhash": "1:a2f4a44ab660b2d7",
+    "word_count": 1311
+  },
+  "last_updated": "2024-02-27T19:43:33.086404+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "E. S. Day v. R. H. Needham et al."
+    ],
+    "opinions": [
+      {
+        "text": "STEPHENS, Associate Justice.\nThis appeal is from a verdict and judgment depriving appellant of a section of land situated in Denton County, patented to the heirs of William Wallace. The verdict is sustained by the evidence in establishing the conclusion, that the title to the land in controversy had been vested in appellees (about which there is no dispute here), and that they were entitled to recover, unless the adverse possession of appellant under a tax deed, which was excluded from the evidence, had the effect of defeating that title. If this deed was not admissible for any of the purposes for which it was offered, the judgment must be affirmed, otherwise it must be reversed. The following is a plat of the survey as described in the patent and in that part of the tax collector\u2019s deed which immediately follows the conveying clause, though in the first part of the deed, where the levy under the tax roll is recited, instead of calling for a north course from the southwest corner, the call, evidently by mistake, is to run west 552 varas instead of north:\nThe deed was excluded on the ground that such an element of uncertainty in the description of the land was introduced by the expression, after setting out the field notes, \u201c less 60 acres out of the southwest corner of same,\u201d as to render the deed void. Appellant offered to prove in connection with the deed, that the extreme southwest and northwest corners of this survey could be found distinctly marked upon the ground as it had been originally run and established, and that the distance between these marked and well defined points was in reality 587 varas, instead of 552 varas, as called for in the field notes.\nThe contention of appellant is, that the 60 acres should be taken in a rectangular form out of the southwest corner of the survey, and hence that the deed on its face was sufficiently certain as a predicate for his five years adverse possession. This construction of the deed seems to us the natural and reasonable one. Several cases hold that a deed which conveys a definite quantity of land to be taken out of a specified corner will be sustained when it can be taken in a square. Smith v. Nelson (Mo.), 19 S. W. Rep., 734; Doe v. Clayton (Ala.), 2 So. Rep., 31; Green v. Jordan (Ala.), 3 Am. State Rep., 711.\nIt seems to us, that the principle upon which these cases rest requires that the 60 acres, which can not on the face of the deed in question be taken in a square, should be taken in that other form of rectangle, to-wit, an oblong, with the west boundary as a base line. The contour of the survey indicates this as the obvious intention of the grantor in the deed. It would seem also, if this construction be incorrect, that as the uncertainty would relate only to the west limb of the survey, and not to its main trunk, the deed would be admissible in support of the adverse possession of the latter part of the survey. Such a principle of construction seems to have been applied by the Supreme Court of Wisconsin to the description of a tract of land lying upon the east and west sides of a creek, the uncertainty of the description relating solely to the portion on the west side of the creek. Scheiber v. Koehler, 49 Wis., 291.\nThe rule adopted in this State in passing upon the sufficiency of a tax deed to support the defense of five years limitation seems to be, that the description is sufficient if, unaided by extrinsic facts, it satisfies the mind that the land adversely occupied is embraced within the description contained in the deed. If so, the owner is notified that his possession has been invaded. Brokel v. McKechnie, 69 Texas, 32; McDonald v. Hamblin, 78 Texas, 628; Harber v. Dyches, 14 S. W. Rep., 580. It seems to us, from the description contained in this deed, without the aid of extrinsic evidence, that the land which it purports to convey can be found and identified with reasonable certainty; hence the second contention, that the oral testimony offered rendered the deed admissible, need not be considered. Overand v. Menczer, 83 Texas, 122. This conclusion leads to a reversal of the judgment.\nThe cause will be remanded for a new trial on the issues of limitation and valuable improvements', which were not submitted to the jury on the former trial; but the issues submitted and passed upon will not be reopened. McConnell v. Wall, 67 Texas, 352; 65 Texas, 397.\nReversed and remanded.\nDelivered March 30, 1893.\nA motion for rehearing was refused, and the judgment modified by omitting the restriction of the issues to be tried, as provided in the opinion.",
+        "type": "majority",
+        "author": "STEPHENS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Smith & Bell, and Davis & Harris, for appellant.",
+      "B. L. Aycock, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "E. S. Day v. R. H. Needham et al.\nNo. 127.\n1. Tax Deed\u2014Description of Land.\u2014A description of land in a tax deed is sufficient to support the defense of five years limitation thereunder if, unaided by extrinsic facts, it satisfies the mind that the land adversely occupied is embraced within the description contained in the deed.\n2. Same \u2014 Deed of Tract \u201c Less Sixty Acres out of Southwest Corner.\u201d\u2014Where a patented section of land lies with its main body in a rectangular form, and with a projecting arm at its southwest corner, also in rectangular form, a tax deed which describes the entire survey by the calls in the patent, \u201c less 60 acres out of the southwest corner of same,\u201d is sufficiently certain as a predicate for the five years adverse possession under the statute: since the excepted 60 acres, which can not on the face of the deed be taken in a square, may properly be taken out of the projecting arm in the form of an oblong rectangle, and any uncertainty as to the proper form therefor will not affect the main body of the survey.\nAppeal from Denton. Tried below before Hon. D. E. Barrett.\nSmith & Bell, and Davis & Harris, for appellant.\n1. The court erred in excluding from the evidence the defendant\u2019s tax deed conveying to him all the lands described and mentioned in plaintiffs\u2019 petition herein, except 60 acres out of the southwest corner of the same, when offered in evidence by defendant under his plea of the five years statute of limitation; because said deed upon its face showed a sufficient certainty of the description of the land thereby conveyed and mentioned therein to authorize its admission in evidence under the defendant\u2019s said plea. Flanagan v. Boggess, 46 Texas, 334; Cantagrel v. Von Lupin, 58 Texas, 576; Blackw. on Tax Titles, 4 ed., sec. 381; 2 Dev. on Deeds, see. 1407; Wash v. Ringer, 15 Am. Dec., 555; Green v. Jordan, 3 Am. St. Rep., 711; Wilkinson v. Roper, 74 Ala., 140; Scheiber v. Koehler, 49 Wis., 291.\n2. The court erred in excluding said tax deed when offered in evidence by defendant under his plea of improvements in good faith. House v. Stone, 64 Texas, 677; Dorn v. Dunham, 24 Texas, 380; French v. Grenet, 57 Texas, 273; Berry v. Donley, 26 Texas, 747.\nB. L. Aycock, for appellees.\n1. The court did not err in excluding appellant Day\u2019s tax deed as a basis for prescription. Wofford v. McKinna, 23 Texas, 36; Harber v. Dyches, 14 S. W. Rep., 580; Brokel v. McKechnie, 69 Texas, 32; Morgan v. Smith, 70 Texas, 641; Ammons v. Dwyer, 15 S. W. Rep., 1049.\n2. The tax deed was not admissible in support of the plea of improvements in good faith. Miller v. Brownson, 50 Texas, 583; Hatchett v. Conner, 30 Texas, 104; Robson v. Osborn, 13 Texas, 298; House v. Stone, 64 Texas, 686; Sartain v. Hamilton, 12 Texas, 222."
+  },
+  "file_name": "0680-01",
+  "first_page_order": 706,
+  "last_page_order": 709
+}

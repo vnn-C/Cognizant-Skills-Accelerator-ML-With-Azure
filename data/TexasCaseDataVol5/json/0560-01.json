@@ -1,0 +1,230 @@
+{
+  "id": 227374,
+  "name": "Bonner and Campbell, Receivers, v. Andrew Wirth",
+  "name_abbreviation": "Bonner v. Wirth",
+  "decision_date": "1893-12-06",
+  "docket_number": "No. 434",
+  "first_page": "560",
+  "last_page": "562",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Tex. Civ. App. 560"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "18 Minn., 260",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        736568
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/minn/18/0260-01"
+      ]
+    },
+    {
+      "cite": "63 Iowa, 302",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        4371625
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/iowa/63/0302-01"
+      ]
+    },
+    {
+      "cite": "73 Iowa, 328",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        2056026
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/iowa/73/0328-01"
+      ]
+    },
+    {
+      "cite": "42 Iowa, 314",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "opinion_index": -1
+    },
+    {
+      "cite": "23 Pa. St., 371",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        974076
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/23/0371-01"
+      ]
+    },
+    {
+      "cite": "19 N. W. Rep., 217",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 N. W. Rep., 173",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "30 N. W. Rep., 173",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 N. E. Rep., 317",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 N. E. Rep., 461",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 N. W. Rep., 495",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "45 Iowa, 652",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        2312670
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/iowa/45/0652-01"
+      ]
+    },
+    {
+      "cite": "112 Mass., 338",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "41 Iowa, 389",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        2306833
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/iowa/41/0389-01"
+      ]
+    },
+    {
+      "cite": "23 N. H., 102",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "61 Pa. St., 302",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        428542
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/61/0302-01"
+      ]
+    },
+    {
+      "cite": "14 Bush, 87",
+      "category": "reporters:state",
+      "reporter": "Bush",
+      "case_ids": [
+        2345336
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ky/77/0087-01"
+      ]
+    },
+    {
+      "cite": "50 Ill., 241",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        2605654
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/50/0241-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 474,
+    "char_count": 7465,
+    "ocr_confidence": 0.565,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.008870594386004745
+    },
+    "sha256": "d2ce0e40402b97a58f4997681bc21aa8e711b5c3abd466f3989ae471953bdc3c",
+    "simhash": "1:0619c1e2b4d1dbe4",
+    "word_count": 1309
+  },
+  "last_updated": "2024-02-27T16:31:09.266747+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bonner and Campbell, Receivers, v. Andrew Wirth."
+    ],
+    "opinions": [
+      {
+        "text": "FISHER, Chief Justice.\nOn August 15, 1890, the appellee instituted suit against the receivers of the International & Great Northern Railway, for damages claimed to have resulted to his land and crops on account of the diversion of the flow of the surface water falling on liis land and adjoining tracts, by reason of the construction and maintenance of the roadbed of the International & Great Northern Road. He also prayed for a mandatory injunction to compel the opening of a ditch; but this count was stricken out on demurrer, and is not before the court.\nThe defendant pleaded general demurrer and some special demurrers, the rulings on which are not excepted to, and the general issue; and he also pleaded two special defenses; the first setting up the .proper construction of the road more than ten years before the bringing of the suit, and its continuous maintenance in the same condition during all that time, and hence that the claim for damage was barred by limitation; and the second, that at the time the right of way was acquired by the railway company and the roadbed constructed, the land now claimed by appellee belonged to other parties, and that he bought it after the road was built, with full knowledge and for a reduced price. The particular facts as to each defense are detailed in the answer.\nBy supplemental petition the appellee demurred to these defenses, and the court sustained both demurrers; the appellant excepted. These rulings present the only issues in the case; for if the claim of appellee is not defeated by one or both of the defenses above given, the judgment is sustained by the testimony and should be affirmed.\nThe above statement is from the brief of appellants, and to it we will add, that the overflows complained of occurred after the appellee had acquired the land, and within two years before the filing of suit.\nNo error was made in sustaining the demurrers. We regard the questions presented in appellants\u2019 brief settled against them by the cases of Railway v. Anderson, 79 Texas, 428, and Clark v. Dyer, 81 Texas, 341. In these cases it is held, that in actions of this character limitation does not commence to run from the time of the construction of the. railway, but it runs from the time of the occurrence of each overflow.\nDelivered December 6, 1893.\nThe fact that appellee acquired the land subsequent to the construction of the railway, and at a reduced price, would not affect his remedy for damages that resulted to his land and crop by reason of the negligent and faulty manner in which roadbed was constructed and maintained. It is not alleged by appellants as an excuse for constructing the roadbed in such a way as to cause the adjacent land to overflow, that the railway company, by reason of an agreement between it and the former proprietors, had the right to so construct its road in a manner as to cause the surface water to collect on the land in question; but the defense relied upon simply is, that the appellee, subsequent to the construction of the roadbed, acquired the land at a reduced price.\nNeither the appellants nor the railway company were parties to the transaction by which the appellee acquired the land, and they entered into no contract with him concerning it. Whether he paid full value for the land or acquired it as a gift, or upon any other consideration that is not esteemed valuable in law, is a matter about which the appellants could have no concern. The owner has the right to the enjoyment of his lands, and the consideration by which he acquired his title would not relieve the railway company from a compliance with its duty in the construction of its roadbed as required by article 4171, Say les\u2019 Civil Statutes, which was in force at the time the road in question was constructed.\nOf course if the railway acquired its right of way under such a contract between it and the adjacent owners as would relieve it of its duty to properly construct the roadbed so that the surface water may escape, this would present a different question, but here nothing of the kind is alleged.\nJudgment affirmed.\nAffirmed.",
+        "type": "majority",
+        "author": "FISHER, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "Fisher & Townes, for appellants.",
+      "John Dowell, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Bonner and Campbell, Receivers, v. Andrew Wirth.\nNo. 434.\n1. Obstruction of Surface Water \u2014 Limitation.\u2014Railway v. Anderson, 79 Texas, 428, and Clark v. Dyer, 81 Texas, 341, adhered to. Limitation runs from each overflow causing damage, and not from the construction of the railway causing such overflow.\n2. Same \u2014 Subsequent Purchaser. \u2014 A purchaser of land subject to overflow from obstruction of surface water from the construction of a railway is entitled to damages from such overflow subsequent to his purchase. His right to damages is in no way affected by the small consideration he may have paid for the land.\n3. Duty of Railway to Maintain Track. \u2014 The owner of land through which a railroad is constructed has the right to exact of the railway company the performance of its statutory duty as to necessary drainage.\nAppeal from Travis. Tried below before Hon. James H. Robertson.\nFisher & Townes, for appellants.\n1. A railroad company has the legal right to construct its roadbed along its right of way in a substantial manner, and so as to enable it to carry freight and passengers with safety and reasonable expedition, and to maintain such roadbed in such condition. The roadbed thus built is, in its nature and in the contemplation of all parties at interest, permanent. Const., art. 10, sec. 2; Rosenthal v. Railway, 79 Texas, 328; Railway v. Grabill, 50 Ill., 241; Kemper v. Louisville, 14 Bush, 87; Seely v. Alden, 61 Pa. St., 302; Troy v. Railway, 23 N. H., 102; Finley v. Hoashey, 41 Iowa, 389; Towler v. N. H., etc., Co., 112 Mass., 338.\n2. Damages which result from a permanent structure by reason of the operation of natural and constantly recurring causes, such as ordinary rainfall, are in legal contemplation original damages arising upon the erection of the structure, and are recoverable in solido at that time; the measure being the difference in market value of the land with and without such structure. Powers v. Council Bluffs, 45 Iowa, 652; Stodghill v. Railway, 5 N. W. Rep., 495; Chicago, etc. v. Loeb, 8 N. E. Rep., 461; Railway v. McAuley, 11 N. E. Rep., 317; Bizer v. O. H. Co., 30 N. W. Rep., 173; Baldwin v. O. G. Co., 10 N. W. Rep., 173; Drake v. Railway, 19 N. W. Rep., 217; Gould on Waters, sec. 412, et seq., and notes; Wood on Lim., sec. 180, et seq., and notes.\n3. If the facts in appellant\u2019s answer are true (as they are taken to be on demurrer thereto), the statute of limitation began to run against claims for damage in 1881, and the claim was barred at the institution of this suit by statute of two and four years. Rev. Stats., arts. 3203, 3207; Railway v. Chaffin, 60 Texas, 553; Foster v. Railway, 23 Pa. St., 371; 1 Redf. on Rys., 349.\nJohn Dowell, for appellee.\nThe measure of damages for negligently deluging the land of another without permanently taking it in the construction or maintenance of a roadbed of a railway, is the value of the products destroyed and the injury done to the land, and an action for successive overflows may be maintained when they occur. Railway v. Johnson, 65 Texas, 389; Railway v. Seymour, 63 Texas, 345; Railway v. Scott, 2 Willson\u2019s C. C., sec. 143; Railway v. Helsley, 62 Texas, 595; Van Pelt v. City of Davenport, 42 Iowa, 314; Powers v. Council Bluffs, 45 Iowa, 652; Peden v. Railway, 73 Iowa, 328; Drake v. Railway, 63 Iowa, 302; Adams v. Railway, 18 Minn., 260."
+  },
+  "file_name": "0560-01",
+  "first_page_order": 586,
+  "last_page_order": 588
+}

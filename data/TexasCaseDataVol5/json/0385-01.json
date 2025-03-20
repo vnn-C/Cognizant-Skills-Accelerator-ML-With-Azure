@@ -1,0 +1,162 @@
+{
+  "id": 227445,
+  "name": "Casey & Swasey v. D. O. Chaytor et al.",
+  "name_abbreviation": "Casey & Swasey v. Chaytor",
+  "decision_date": "1893-11-18",
+  "docket_number": "No. 428",
+  "first_page": "385",
+  "last_page": "387",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Tex. Civ. App. 385"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "24 N. Y., 366",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "16 Wend., 609",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "47 Pa. St., 122",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "12 Conn., 485",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Wend., 236",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Mass., 20",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2000799
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/6/0017-01"
+      ]
+    },
+    {
+      "cite": "5 Mass., 104",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2002221
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/5/0077-01"
+      ]
+    },
+    {
+      "cite": "14 Pick., 356",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2019051
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/31/0356-01"
+      ]
+    },
+    {
+      "cite": "41 Vt., 490",
+      "category": "reporters:state",
+      "reporter": "Vt.",
+      "case_ids": [
+        8545460
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/vt/41/0490-01"
+      ]
+    },
+    {
+      "cite": "40 Wis., 612",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "case_ids": [
+        11285634
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wis/40/0612-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 412,
+    "char_count": 6515,
+    "ocr_confidence": 0.551,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.008873297246287331
+    },
+    "sha256": "bda7bf2f8739486433e9c577665f0ad7e9db7b5944bd2fda60551eb2c961ea02",
+    "simhash": "1:1875338b4a089a98",
+    "word_count": 1151
+  },
+  "last_updated": "2024-02-27T16:31:09.266747+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Casey & Swasey v. D. O. Chaytor et al."
+    ],
+    "opinions": [
+      {
+        "text": "RAINEY, Associate Justice.\nConclusions of Fact. \u2014 Casey & Swasey, appellants, owned a judgment against J. J. Yost. Execution was issued by virtue thereof, placed in the hands of B. F. Hargett, who levied same On property owned by and in the possession of D. O. Chaytor. An indemnity bond was executed by Casey & Swasey, with A. B. Smith and E. E. Chase as sureties, in favor of said B. F. Hargett, sheriff. The property was sold by virtue of said levy, and D. O. Chaytor became the purchaser for the sum of $930, and the property was turned over to him. Chaytor then brought suit for the conversion of the property against Casey & Swasey and B. F. Hargett, and Hargett vouched in the sureties on the bond of indemnity. The value of the property was $2000, and judgment was rendered for that amount in favor of Chaytor. The trial judge charged the jury the measure of damages to be the value of the goods seized at the time of seizing, with interest. Appellants asked a special charge, to the effect that the measure of damages in this case \u201cwould be the amount paid by plaintiff (Chaytor) for said stock of goods, with interest at 8 per cent per annum from the date when said stock of goods was seized and levied upon by said B. F. Hargett, sheriff.\u201d The refusal to give the special charge as asked is the sole assignment of error, and appellants acknowledge in their brief that they knew of the decision of the Supreme Court in Schoolher v. Hutchins, 66 Texas, 331, where the exact doctrine as charged by the court is laid down; and we conclude that said appeal was taken for delay. Appellees suggest delay, and ask an affirmance of the judgment with damages.\nConclusions of Law. \u2014 Where property is wrongfully seized and taken from the owner by the sheriff by virtue of an execution, the owner can recover for the value of same at the time of the seizure; and it is immaterial, as between the judgment creditor and the owner of the property, that the owner bought the property at the sheriff\u2019s sale. The action of Chaytor being based upon the conversion of his property, he is entitled to recover the value of same at the time it was taken, with interest. Schoolher v. Hutchins, 66 Texas, 331; Hart & Co. v. Blum, 76 Texas, 113.\nThe principle here announced, we take it, is fully settled as the law of this State, and the same was known to appellants when they appealed. It seems clear to a majority of this court that the appeal was taken for delay. We think the facts justify us in assessing 10 per cent damages for delay.\nThe judgment of the court below is affirmed, with 10 per cent damages.\nAffirmed with damages.\nDelivered November 18, 1893.",
+        "type": "majority",
+        "author": "RAINEY, Associate Justice."
+      },
+      {
+        "text": "LIGHTFOOT, Chief Justice,\ndissenting. \u2014 To so much of the opinion\nand judgment in this case as awards 10 per cent damages for delay against appellants, I most respectfully dissent.\nThe discretion given to the higher courts by law, to include in their judgments of affirmance a decree for 10 per cent damages on the amount of the original judgment, as the court may deem proper, was only intended for the protection of the courts against appeals purely for delay, and should be carefully exercised, so that injustice may not be done. The adjudicated cases upon the subject in this State have usually been appeals in debt cases, and I have been able to find no case where such damages were awarded in a case diligently prosecuted under an apparently honest claim of right.\nDelivered November 18, 1893.\nIn this case appellants appealed from what they evidently believed to be an unjust rule, which allowed a claimant of goods to buy them in at at public sale for $930, and then sue the sheriff and recover the full value of the goods, $2000; thus securing the goods themselves at less than half price, and recovering, by way of damages, their full value, with interest. The appeal was promptly taken and vigorously prosecuted, with brief and argument, in which appellants contend for a different measure of damages, as laid down in other States; and so far as the record shows, they have not attempted a moment\u2019s delay.\nIf they believed the rule to be unjust, it was their constitutional right to attack it; and I do not believe that in such a case the appellees have suffered by the delay to the extent of 10 per cent in addition to the full value of the goods and interest, which they have recovered; or that this court should give additional damages in such a case.",
+        "type": "dissent",
+        "author": "LIGHTFOOT, Chief Justice,"
+      }
+    ],
+    "attorneys": [
+      "Vaughan & Leary, for appellants.",
+      "Todd & Hudgins, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Casey & Swasey v. D. O. Chaytor et al.\nNo. 428.\n1. Conversion \u2014 Measure of Damages. \u2014 Where property is wrongfully seized and taken from the owner by the sheriff by virtue of an execution, the owner can recover for the value of same at the time of the seizure, with interest; and it is immaterial, as between the judgment creditor and the owner of the property, that the owner bought the property at the sheriff\u2019s sale.\n2. Appeal for Delay. \u2014 See facts held to justify assessing 10 per cent damages for delay. Lightfoot, Chief Justice, dissents as to awarding damages for delay.\nAppeal from Bowie. Tried below before Hon. John L. Sheppard.\nVaughan & Leary, for appellants.\nWherever the owner of property gets it back after any wrongful taking or detention, the expense of procuring its return is the measure of damages in the absence of special damages, and where the property itself has not been injured nor diminished in value. The owner of property sold under illegal process, purchasing the same at such sale, either personally or by his agent, can recover only the amount of his bid and interest thereon, in trespass for the unlawful taking. Sprague v. Brown, 40 Wis., 612; Hurlburt v. Green, 41 Vt., 490; 1 Suth. on Dam., 229; Pierce v. Benjamin, 14 Pick., 356; Wheelock v. Wheelwright, 5 Mass., 104; Prescott v. Wright, 6 Mass., 20; Baker v. Freeman, 9 Wend., 236; Baldwin v. Porter, 12 Conn., 485; McInroy v. Dyer, 47 Pa. St., 122; Clark v. Hallock, 16 Wend., 609; Ford v. Williams, 24 N. Y., 366.\nTodd & Hudgins, for appellees.\nThe requested instruction was properly refused, because, where the personal property of one person is wrongfully seized and sold under an execution against another, the measure of damages, in the absence of mitigating circumstances or of facts giving rise to exemplary damages, is the value of the property, with interest, notwithstanding the owner may have purchased at the execution sale for less than value. Schooler v. Hutchins, 66 Texas, 330; Cool. on Torts, 457, and authorities in note 1; 1 Suth. on Dam., 173, 241, et seq.; 3 Suth. on Dam., 483, et seq."
+  },
+  "file_name": "0385-01",
+  "first_page_order": 411,
+  "last_page_order": 413
+}

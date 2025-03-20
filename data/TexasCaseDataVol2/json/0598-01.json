@@ -1,0 +1,85 @@
+{
+  "id": 219128,
+  "name": "The Fort Worth & Denver City Railway Company v. C. W. Ward et al.",
+  "name_abbreviation": "Fort Worth & Denver City Railway Co. v. Ward",
+  "decision_date": "1893-03-02",
+  "docket_number": "No. 106",
+  "first_page": "598",
+  "last_page": "599",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 598"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Barb., 264",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Posey's U. C., 287",
+      "category": "reporters:state",
+      "reporter": "Posey",
+      "case_ids": [
+        1870796
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/posey/1/0287-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 228,
+    "char_count": 2958,
+    "ocr_confidence": 0.557,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.008706492154561906
+    },
+    "sha256": "35b15a9328a1cbc87449544250fdf183b7d916fed0d497794fb120fbae3c8400",
+    "simhash": "1:1314ef6719317bd0",
+    "word_count": 505
+  },
+  "last_updated": "2024-02-27T19:43:33.086404+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The Fort Worth & Denver City Railway Company v. C. W. Ward et al."
+    ],
+    "opinions": [
+      {
+        "text": "STEPHENS, Associate Justice.\nThis suit was brought for damages resulting to appellees from overcrowding their cattle in cars furnished by appellant for shipment from Harrold, Texas, to Chicago, Illinois, as well as for the loss of some that escaped in loading. One Chatham, as agent for appellees, accompanied the cattle shipped as aforesaid, and testified as to the injuries received by the cattle; and that he was acquainted with the market value of said cattle at Chicago when delivered; and that he had been engaged in the business of handling and shipping cattle for several years, and knew the condition of said cattle at the time they were shipped and at the time they arrived at Chicago. Whereupon appellees requested him to state what the damage per head to said cattle was on arrival at Chicago; to which appellant objected, on the ground that the question called for a conclusion of the witness; which objection being overruled, the following answer was made: \u201c In my opinion all said cattle were damaged \u00a75 per head.\u201d Appellant having reserved a bill of exceptions to the introduction of this testimony, assigns its admission as error.\nThis question was passed upon by us in the case of Railway v. Wright, 1 Texas Civil Appeals, 402. On the authority of that case and the cases therein cited, we must hold this assignment to be well taken.\nThe other assignments contained in appellant\u2019s brief, to-wit, the fourth, fifth, seventh, and eighth, are believed to be without merit.\nAs the illegal testimony was of a material character, and we can not say that it did not influence the verdict of the jury, the judgment will be reversed and the cause remanded for a new trial.\nReversed and remanded.\nDelivered March 2, 1893.",
+        "type": "majority",
+        "author": "STEPHENS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Stanley, Spoonts & Meek, for appellant.",
+      "Cobb & Boyd, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "The Fort Worth & Denver City Railway Company v. C. W. Ward et al.\nNo. 106.\nEvidence \u2014 Opinion of Witness \u2014 Damages. \u2014 In a suit for damages caused by overcrowding cattle in cars during shipment, a witness who accompanied the cattle testified as to the injuries they had received, and that he was acquainted with their market value when delivered, and knew their condition at the time they were shipped, and at the time they arrived at market, and had been engaged in handling and shipping cattle for several years. Held, that it was error to permit the witness to further testify that in his opinion said cattle were damaged $5 per head. Following Railway v. Wright, 1 Texas Civil Appeals, 402.\nAppeal from Wichita. Tried below before Hon. P. M. Stine.\nStanley, Spoonts & Meek, for appellant.\nThe court erred in permitting Chatham, witness for plaintiffs, to state, over objection of defendant, that in his opinion all said cattle were damaged So per head from overcrowding in defendant\u2019s cars, as it was a conclusion of the witness. Lea v. Wilkins, 1 Posey\u2019s U. C., 287; Railway v. Hennessey, 75 Texas, 155; Hunt v. Reilly, 50 Texas, 104; 1 Greenl. on Ev., sec. 440; Giles v. O\u2019Toole, 4 Barb., 264.\nCobb & Boyd, for appellees."
+  },
+  "file_name": "0598-01",
+  "first_page_order": 624,
+  "last_page_order": 625
+}

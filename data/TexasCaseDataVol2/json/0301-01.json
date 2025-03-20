@@ -1,0 +1,85 @@
+{
+  "id": 219266,
+  "name": "W. H. Whitcomb et al. v. The State of Texas",
+  "name_abbreviation": "Whitcomb v. State",
+  "decision_date": "1893-02-16",
+  "docket_number": "No. 142",
+  "first_page": "301",
+  "last_page": "304",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 301"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "8 N. E. Rep., 857",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "120 Ill., 21",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        5385881
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/120/0021-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 362,
+    "char_count": 7737,
+    "ocr_confidence": 0.546,
+    "pagerank": {
+      "raw": 1.5887635899707377e-07,
+      "percentile": 0.6816808624749937
+    },
+    "sha256": "3d39edd794015ebace9fea2d30f88f03f9970eac5dbc2a12a423c8c998c4fcd3",
+    "simhash": "1:bf27d8acac3c54cb",
+    "word_count": 1408
+  },
+  "last_updated": "2024-02-27T19:43:33.086404+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "W. H. Whitcomb et al. v. The State of Texas."
+    ],
+    "opinions": [
+      {
+        "text": "GARRETT, Chief Justice.\nThis action was brought in the name of the State of Texas on a liquor dealer\u2019s bond, for a breach of the condition of the bond that the dealer would keep a quiet house.\nThe petition set out the bond, which is dated March 12, 1891. The following are the only allegations of the breach of the bond: \u201c That notwithstanding the bond and obligation of the said Whitcomb and his sureties as aforesaid, heretofore, to-wit, on the \u2014 day of -, 1891, in violation of his said obligation to the State, the said W. M. Whitcomb did not keep a quiet and orderly house or place of business for the sale of malt liquors capable of producing intoxication, and did allow therein music, loud and boisterous talking, and the use of indecent and vulgar language, and did allow large crowds of negro men and women to assemble in and near his house and place of business, all of which was in violation of his said bond to the State as aforesaid; whereby the defendants have become liable,\u201d etc.\nThe petition also alleged that the bond was executed for the purpose of enabling the defendant Whitcomb to procure a retail license to sell malt liquors capable of producing intoxication, in the county of Anderson, State of Texas, and that he did procure said license on the 12th day of March, 1891.\nTrial was had to a jury, and verdict and judgment were returned and rendered for the State. Defendants filed motions in arrest of judgment and for a new trial, which were overruled by the court.\nFrom the statement of the facts in the record, we make the following conclusions:\n1. Defendant Whitcomb executed the bond set out in the petition, with the other defendants as sureties, and obtained a license as alleged.\n2. Defendant conducted his business of retail dealer of malt liquors in a house in the city of Palestine, Anderson County. In the front part of the house he sold groceries, and in the back part of it had a bar for the sale of beer. Just in the rear of defendant\u2019s store house, and across an alley about twelve feet wide, there was an arbor arranged with tables, at which persons sometimes sat and drank beer, which was sold in the house and drunk in the arbor. A door opened from the side of the house next to the arbor. Defendant Whitcomb had control of the arbor. It was shown that during May, 1891, music was played some three or four times in the arbor. A witness also testified, that there was during the same month loud and boisterous talk and vulgar and indecent language in the house. This, however, Whitcomb denied.\n1. There was no error in overruling the motion in arrest of judgment. While the petition was subject to special exception, it would have been good on general demurrer. Maier v. The State, ante, p. 296.\n2. The court charged the jury as follows: \u201c The words house or place of business would include not only the house or room in which the liquor was kept for sale, but any arbor or structure kept by defendant for the purpose of the business of selling liquors. It would not include any other house or structure, however, not kept by defendant and not used for the purpose of such business. It would not, if such other structure was so kept and used for purposes of the business, be necessary that the liquor should be actually sold therein. Therefore, if you find from the evidence that in defendant\u2019s place of business, as just explained, music, loud and boisterous talking, yelling, or indecent or vulgar language was allowed, used, or practiced, you will find for the plaintiff the sum of $500.\u201d\nIt is contended, that this charge is erroneous, because \u201c on the weight of evidence, in so far as it defined a place of business, and in effect instructed the jury, that defendant Whitcomb\u2019s house or place of business included the arbor near by, though no liquors of any kind were ever sold in said arbor; and instead of so instructing the jury, the court should have submitted an issue of fact whether said arbor was or not defendant\u2019s place of business.\u201d The charge left it to the jury to say whether or not the arbor was kept by the defendant for the purpose of the business of selling liquors, with the instruction, that it would not be necessary that the liquor should be actually sold therein. This was a correct enunciation of the law, and the charge is adapted to the facts proved on the trial. It is immaterial whether the beer was sold at the bar or in the arbor.\n3. Proof that the defendant sold beer in the back part of his store, when it was shown that he had obtained a license for the sale of malt liquors in quantities less than a quart, was sufficient to support the verdict and judgment, if it should be shown that he did not keep a quiet house. It will be presumed, in the absence of other evidence, that the beer was sold lawfully in accordance with the license, and the court will judicially know that beer is a malt liquor. Maier v. The State, ante, p. 296.\nIt was shown by the evidence, that defendant kept a store, in the front part of which he sold groceries, and in the back part sold beer, which was drunk in the arbor. The jury could very correctly find that Whit-comb kept a house or place for the sale of malt liquors in quantities less than a quart, and that the arbor was a part of his place of business. The verdict is fully supported by the evidence, and there being no error in the record, the judgment will be affirmed.\nAffirmed.\nDelivered February 16, 1893.\nJustice Williams did not sit in this case.",
+        "type": "majority",
+        "author": "GARRETT, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "Burnett & Gardner, for appellants.",
+      "A. G. Greenwood, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "W. H. Whitcomb et al. v. The State of Texas.\nNo. 142.\n1. Pleading \u2014 Petition on Liquor Dealer\u2019s Bond. \u2014 See petition set out in this case for a pleading held good against a motion in arrest of judgment in a suit to recover the penalty of a liquor dealer\u2019s bond, for failing to keep an \u25a0orderly house.\n2. Breach of Bond, Charge on.\u2014Defendant sold groceries in the front room of his house, and in the back part of it had a bar for the sale of beer, and In the rear of the store house an arbor furnished with chairs, where beer was drank and music played. The jury were told that the place of business would include any arbor or structure kept by defendant for the purpose of the business \u25a0of selling liquors, but it would not include any other house or structure not kept by defendant and used for such business; and that if music, loud and boisterous talking, yelling, or indecent or vulgar language was allowed, used, or practiced, to find for the plaintiff. This charge was a correct enunciation of the law, and not on the weight of evidence.\n3. Evidence Sufficient.\u2014Having obtained a license to sell liquors in quantities less than a quart, proof that it was sold in the back part of his house, and that he did not keep a quiet house, was sufficient. It is presumed that the beer was lawfully sold, and the court judicially knows that beer is a malt liquor.\nAppeal from Anderson. Tried below before Hon. F. A. Williams.\nBurnett & Gardner, for appellants.\n1. The petition failed to allege any breach of the bond sued on, in that it did not state the time so as to show that the facts complained of occurred after the execution of the bond; and it is not alleged that defendant Whitcomb sold liquors, etc., in Anderson County, or otherwise committed a breach of the bond sued on. Holman v. Chriswell, 13 Texas, 42, 43; Whitaker v. Record, 25 Texas Supp., 382; Denison v. League, 16 Texas, 405.\n2. The charge was erroneous and on the weight of the evidence in assuming that defendant Whitcomb kept liquors for sale in quantities less than a quart, when there was no evidence that he ever kept for sale or sold any liquors, spirituous, vinous, or malt. Webster\u2019s Die., \u201c Beer;\u201d Hansberg v. The People, 120 Ill., 21; 8 N. E. Rep., 857.\nA. G. Greenwood, for appellee."
+  },
+  "file_name": "0301-01",
+  "first_page_order": 327,
+  "last_page_order": 330
+}

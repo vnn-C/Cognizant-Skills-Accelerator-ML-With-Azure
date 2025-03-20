@@ -1,0 +1,71 @@
+{
+  "id": 223777,
+  "name": "W. H. Caswell et al. v. Hal. W. Greer et al.",
+  "name_abbreviation": "Caswell v. Greer",
+  "decision_date": "1893-10-05",
+  "docket_number": "No. 289",
+  "first_page": "659",
+  "last_page": "661",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Tex. Civ. App. 659"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 242,
+    "char_count": 4182,
+    "ocr_confidence": 0.548,
+    "pagerank": {
+      "raw": 4.076306636737454e-08,
+      "percentile": 0.008949481726081732
+    },
+    "sha256": "1699bd1a501dbf121c132cf9af37a066d86b5b5c5ec7ae73cc959caef4e36a17",
+    "simhash": "1:84b105c09925a735",
+    "word_count": 714
+  },
+  "last_updated": "2023-07-14T14:53:58.701798+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "W. H. Caswell et al. v. Hal. W. Greer et al."
+    ],
+    "opinions": [
+      {
+        "text": "WILLIAMS, Associate Justice.\nThis suit was brought by appellant against appellees, to set aside a deed for land, made by W. H. Caswell, during his minority, to appellee Greer.\nThe case was i tried by a jury, and verdict and judgment rendered against appellant.\nThe assignments of error presented in this appeal all attack rulings of the court in admitting and excluding evidence, and in giving and refusing instructions.\nWhat purports to be a statement of facts in the record is not signed or approved by the district judge.\nFollowing the long established and uniform practice by the Supreme Court, we feel bound to ignore the statement. Johnson v. Blount, 48 Texas, 40; Farley v. Deslande, 58 Texas, 588; Witten v. Poindexter, 25 Texas Supp., 378, and numerous decisions cited in those cases.\nThe assigned errors all belong to that class which can not be reviewed without a statement of facts, and we have no course open but to affirm judgment.\nAffirmed.",
+        "type": "majority",
+        "author": "WILLIAMS, Associate Justice."
+      },
+      {
+        "text": "on rehearing.\nWILLIAMS, Associate Justice.\nIn the decision of this case the statement of facts was ignored because there was no certificate of approval by the trial judge attached to it. Appellants have made a motion for a rehearing, showing that there is a certificate to the statement of facts in the District Court, which was inadvertently omitted by the clerk in making the transcript, and have asked for a certiorari to perfect the record.\nIt has long been the rule, that the parties to an appeal must see that the record is complete before the cause has been submitted; and the court, after it has decided the cause, will not allow it to be reopened in order to even bring up matter that should have been embraced in the transcript. Ross v. McGowan, 58 Texas, 608; Railway v. Scott, 78 Texas, 360; McMickle v. Bank, ante, p. 210.\nThe excuse offered by appellants for their failure to comply with this rule is insufficient. The substance of it is, that they were pressed for time after getting the transcript, to get it filed in this court within the time in which they were required to file it; and that though they examined it carefully, they did not discover the omission of the judge\u2019s certificate. A complete answer to this, without looking further, is, that the cause was not submitted for about eight months after the transcript was filed, during all of which time it was within the power of both parties to examine and perfect the record. If a sufficient excuse could be given for such an omission, after the decision of the cause, appellants have not done so, and the motion is overruled.\nMotion overruled.\nDelivered November 15, 1893.",
+        "type": "rehearing",
+        "author": "WILLIAMS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "O\u2019Brien & O\u2019Brien, for appellants.",
+      "Greer & Greer and D. P. Wheat, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "W. H. Caswell et al. v. Hal. W. Greer et al.\nNo. 289.\n1. Absence of Statement of Facts.\u2014The assignments of error attack the rulings of the court in admitting and excluding evidence, and in giving and refusing instructions. The statement of facts in the record is not signed or approved by the district judge. Following the long established and uniform practice of the Supreme Court, the statement is ignored and case affirmed. Following Johnson v. Blount, 48 Texas, 40; Farley v. Deslande, 58 Texas, 588; Witten v. Poindexter, 25 Texas Supplement, 378.\non rehearing.\n2. Record not Perfected after Decision. \u2014Appellants\u2019 motion shows that there was a certificate to the statement of facts, which the clerk inadvertently omitted from the transcript, and certiorari to perfect the record is asked. It has long been the rule, that parties must see that the record is complete before the case has been submitted, and the court, after a decision, will not allow it to be reopened in order to bring up matter that should have been embraced in the record. Following Railway v. Scott, 78 Texas, 360; McMickle v. Bank, 22 Southwestern Reporter. 428.\n3. Excuses for Failure.\u2014Appellants alleged that they were pressed for time, and though they carefully examined the transcript, they did not discover the omission. The excuse is insufficient. The case was not submitted for about eight months after the record was filed.\nAppeal from Jefferson.\nTried below before Hon. W. H. Ford.\nO\u2019Brien & O\u2019Brien, for appellants.\nGreer & Greer and D. P. Wheat, for appellees.\nDelivered October 5, 1893."
+  },
+  "file_name": "0659-01",
+  "first_page_order": 683,
+  "last_page_order": 685
+}

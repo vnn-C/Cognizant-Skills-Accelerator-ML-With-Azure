@@ -1,0 +1,66 @@
+{
+  "id": 221119,
+  "name": "Bonner and Eddy v. F. B. Ferrell",
+  "name_abbreviation": "Bonner & Eddy v. Ferrell",
+  "decision_date": "1893-05-17",
+  "docket_number": "No. 238",
+  "first_page": "444",
+  "last_page": "445",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 444"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 91,
+    "char_count": 924,
+    "ocr_confidence": 0.6,
+    "pagerank": {
+      "raw": 4.076306636737454e-08,
+      "percentile": 0.008893795367285729
+    },
+    "sha256": "d436aa59ae45aa802f46db98f1962a6686541acd2094bbc9dcf2cfc8b7fc1989",
+    "simhash": "1:d64fa71ac0ce9b1f",
+    "word_count": 164
+  },
+  "last_updated": "2023-07-14T18:08:23.206239+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bonner and Eddy v. F. B. Ferrell."
+    ],
+    "opinions": [
+      {
+        "text": "KEY, Associate Justice.\nThe record in this case does not show that appellants gave notice of appeal in open court as required by statute. Rev. Stats., art. 1387.\nFor this reason this court has no jurisdiction, and the appeal must be dismissed. Lyell v. Guadalupe County, 28 Texas, 58; McLane v. Russell, 29 Texas, 129; Burr v. Lewis, 6 Texas, 76.\nAppeal dismissed.\nDelivered May 17, 1893.",
+        "type": "majority",
+        "author": "KEY, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "W. F. Robertson, for appellants.",
+      "Edward E. Diggs, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Bonner and Eddy v. F. B. Ferrell.\nNo. 238.\nNotice of Appeal.\u2014Where the record does not show that notice of appeal was given in open court, the appeal will be dismissed for want of jurisdiction.\nAppeal from County Court of Williamson. Tried below before Hon. D. S. Chbshee.\nIn this case the record did not show that notice of appeal was given in the County Court. Exception to this was not taken by counsel for appellee. Action was taken by the court at its own instance.\nW. F. Robertson, for appellants.\nEdward E. Diggs, for appellee."
+  },
+  "file_name": "0444-01",
+  "first_page_order": 470,
+  "last_page_order": 471
+}

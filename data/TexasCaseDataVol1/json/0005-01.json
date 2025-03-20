@@ -1,0 +1,105 @@
+{
+  "id": 216230,
+  "name": "J. M. Luckey et al. v. C. B. Short",
+  "name_abbreviation": "Luckey v. Short",
+  "decision_date": "1892-10-11",
+  "docket_number": "No. 4",
+  "first_page": "5",
+  "last_page": "7",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Tex. Civ. App. 5"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "12 Pet., 524",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "case_ids": [
+        5619741
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/37/0524-01"
+      ]
+    },
+    {
+      "cite": "3 Mackey, 229",
+      "category": "reporters:state",
+      "reporter": "Mackey",
+      "case_ids": [
+        2620978
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/dc/14/0229-01"
+      ]
+    },
+    {
+      "cite": "40 Mich., 63",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1328402,
+        1328491
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich/40/0063-01",
+        "/mich/40/0063-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 355,
+    "char_count": 6648,
+    "ocr_confidence": 0.541,
+    "pagerank": {
+      "raw": 9.835330116316887e-08,
+      "percentile": 0.5336816934114692
+    },
+    "sha256": "d27e8f93747700d3554a592c62a5c7282edebdf123c87e32ffdefb0653684c2d",
+    "simhash": "1:0e0c74e439dadd24",
+    "word_count": 1155
+  },
+  "last_updated": "2024-02-27T16:44:05.763049+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "J. M. Luckey et al. v. C. B. Short."
+    ],
+    "opinions": [
+      {
+        "text": "WILLIAMS, Associate Justice.\nAppellee was elected county attorney of Shelby County at the election of 1890. On the Monday following the election the Commissioners Court met, canvassed the returns, estimated the results, and declared that appellee had been duty elected as county attorney. The county judge issued to him a proper certificate of his election. The court being still in session, appellee appeared before it with his bond and asked that it be approved. The court informed him that November 29 following had been fixed as the day when the court would assemble and consider bonds of all county officers, including his. He asked the members of the court if they had any objections to his sureties, and was informed that they had none. He then inquired if they objected to the form of the bond, to which they replied that \u201c they had not got to that yet.\u201d\nAppellee insisted that they act upon his bond, which they declined to do before November 29, unless the incumbent of the office consented. He declined to consent, and the court finalty refused to act upon the bond sooner than the time fixed.\nAppellee thereupon brought suit before the District Court, then in session, for a mandamus to compel the commissioners and county judge to convene and approve or disapprove his bond.\nAfter the notice to the county judge and commissioners, and a hearing, the court granted a peremptory mandamus, requiring them to assemble at a time fixed, as a court, and to approve or disapprove the bond. From this judgment they here prosecute their appeal.\nThe first proposition in appellant\u2019s brief asserts that the District Court had no jurisdiction to grant the writ.\nI. Because the amount in controversy was not sufficient.\n2. Because the act sought to be enforced involved the exercise of judicial discretion committed by law to the county judge and Commissioners Court.\nThe amount in controversy does not control the jurisdiction in this case. Besides, the County Court in Shelby County has no civil jurisdiction.\nThe proposition that the calling together of the Commissioners Court and the acting upon'the bonds of officers involves the exercise of judicial power by the county judge and Commissioners Court, not subject to control by the District Court, does not raise a question of jurisdiction, but one as to proper exercise of power.\nDelivered October 11, 1892.\nWe are not prepared to hold that the District Court would not have the power, in a proper case, to compel, by mandamus, the Commissioners Court to pass upon an official bond, which the law makes it their duty to approve or disapprove. And the question remains, were the facts presented in this case sufficient to warrant the exercise of this power ?\nWhile it was made by law the duty of the Commissioners Court to approve the bond of the county attorney, no time is fixed at or within which this shall be done. Eev. Stats., art. 248.\nWe have not been able to find any provision fixing the time when the county attorney must qualify, and none is referred to in the briefs. The approval of the bond is required to be the act of the Commissioners Court. To act as a court, the commissioners must assemble from different parts of the county, at the place fixed by law for the holding of such court. They have many other duties to perform, and it is absolutely necessary that they be clothed with some discretion with regard to fixing the time for meeting and discharging them. So long as they are not shown to be abusing this discretion, by failing or refusing to do some act enjoined upon them by law, or by denying or withholding some right to which the law entitles a party, they should not be interfered with by mandamus.\nIn this case, all that is shown against them is their refusal to act uponappellee\u2019s bond at the same session at which they canvassed the election returns, with the statement that they would act upon it at another day, which they had fixed for the consideration of bonds of county officers.\nIt does not appear that appellee was in any danger of losing his office by the delay; and while no reason is shown why the court might not have acted upon his bond when it was first presented, we can not say that any such apparent abuse of authority or exercise of unwarranted power on the part of the Commissioners Court is shown as to call for any explanation. The delay in getting possession of his office, to which appellee was forced to submit, must be treated as incident to the right of the court to set, within reasonable limits, the time when it will meet and perform its functions, when such time is not fixed by law.\nThis decides the only questions in the case which are necessary to a disposition of it. The judgment will be reversed, and judgment rendered here in favor of appellants.\nReversed and rendered.",
+        "type": "majority",
+        "author": "WILLIAMS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Drury Field, for appellant.",
+      "H. B. Short, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "J. M. Luckey et al. v. C. B. Short.\nNo. 4.\n1. Mandamus \u2014 Jurisdiction.\u2014The amount in controversy does not control the jurisdiction of the District Court, in the matter of the grant of the writ of mandamus, and in a proper case it would have jurisdiction to compel the County Commissioners Court to approve or disapprove an official bond.\n2. Mandamus to Compel Action on Official Bond. \u2014 Appellee was elected county attorney and received his certificate of election. At the same term of the Commissioners Court at which they had canvassed the returns, he presented his bond and demanded that it then be acted on, and was informed that the court had fixed the 29th of November, 1890, as the day for passing on all official bonds. Held, that no statute being shown fixing the time within which the county attorney should qualify, and it not appearing that the commissioners were abusing their discretion in thus fixing the time, they could not be compelled by mandamus to act on the bond at an earlier date.\nAppeal from Shelby. Tried below before Hon. Jas. I. Perkins.\nThe opinion sufficiently states the case.\nDrury Field, for appellant.\nThe District Court has no jurisdiction in any case unless the amount in controversy exceeds $500. Carroll v. Silk, 70 Texas, 23. The District Court could not by mandamus compel the Commissioners Court to assemble in special session to approve relator\u2019s bond after they had by their own order fixed the date for that purpose. Rev. Stats., art. 1526; People v. Circuit Judge, 40 Mich., 63; Hoe v. Butterworth, 3 Mackey, 229.\nH. B. Short, for appellee.\nThat the District Court had jurisdiction (there being no County Court with civil jurisdiction in Shelby County), cited Const., art. 5, sec. 8; Rev. Stats., art. 1123; Kendell v. United States, 12 Pet., 524.\nThat mandamus would lie. Sansom v. Mercer, 68 Texas, 488."
+  },
+  "file_name": "0005-01",
+  "first_page_order": 29,
+  "last_page_order": 31
+}

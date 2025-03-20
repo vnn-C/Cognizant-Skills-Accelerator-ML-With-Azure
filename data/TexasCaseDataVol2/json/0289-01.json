@@ -1,0 +1,66 @@
+{
+  "id": 219229,
+  "name": "Lamb & Wynne v. Beaumont Temperance Hall Company",
+  "name_abbreviation": "Lamb v. Beaumont Temperance Hall Co.",
+  "decision_date": "1893-02-16",
+  "docket_number": "No. 77",
+  "first_page": "289",
+  "last_page": "292",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 289"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 400,
+    "char_count": 8395,
+    "ocr_confidence": 0.545,
+    "pagerank": {
+      "raw": 1.0369578409670461e-07,
+      "percentile": 0.5497681525061886
+    },
+    "sha256": "e3593a64362b059cffc74ba61ef7caa209eb2e10e3102807e2a0f068a7416231",
+    "simhash": "1:acd6de6086d04462",
+    "word_count": 1401
+  },
+  "last_updated": "2023-07-14T16:01:39.065288+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lamb & Wynne v. Beaumont Temperance Hall Company."
+    ],
+    "opinions": [
+      {
+        "text": "WILLIAMS, Associate Justice.\nAppellee, claiming to be a corporation, sued appellants on the 13th day of August, 1891, in trespass to try title, to recover the possession of a house and lot in the town of Beaumont, and also to recover $280 rents for its use. Plaintiff based its demand for rents upon an alleged contract by which appellants, on the 12th day of May, 1883, rented the property at the rate of $10 per month, alleging that the lease had expired, and that appellants were wrongfully withholding the premises. A writ of sequestration was sued out and served, and defendants replevied.\nAppellants filed a number of exceptions to the petition, and answered by general denial, plea under oath denying the incorporation of plaintiff, and a plea of the statute of limitations.\nPlaintiff filed supplemental petition, alleging that defendants had acknowledged tenancy under it, and were estopped from denying its title; that defendants had, in writing signed by them, acknowledged the debt due under the contract for rents, on the 21st day of July, 1891; setting out more fully the terms of the rental contract, and showing that the defendants\u2019 right to the possession under it ceased on the 31st day of July, 1891, and that the use of the property thereafter was worth $25 per month; that defendants had wrongfully withheld the possession and had replevied the property. Judgment was prayed for rents at the rate of $10 per month until the 1st of August, 1891, and thereafter at the rate of $25 per month against defendants, and also against the sureties on the replevy bond for rents accruing after it was given until the trial.\nDefendants excepted also to this pleading, denied its allegations, and pleaded that if they had acknowledged tenancy to plaintiff, they had been induced to do so by the fraudulent and false representations of plaintiff that it was the owner of the property, when in fact it was not. An exception filed by plaintiff to this last plea was sustained. All of the defendants\u2019 exceptions to the plaintiff\u2019s pleadings were overruled.\nWhen the case was called for trial, defendants made application for continuance for the testimony of a witness residing in McLennan County, Texas, stating that they were surprised by new matters alleged in the supplemental petition (which was filed on the day of trial) requiring additional evidence to meet them; that the testimony of the witness was material to the defense; that they had a meritorious defense, which could be shown by her; and that they had taken no steps to procure her evidence, because it was not expected she would be needed. The applicacation was overruled, and a trial was had, resulting in judgment in favor of plaintiff for the property sued for, and for the sum of $324.26 against defendants, and against the sureties on the replevy bond for $91.26 of the first amount.\nFrom this judgment defendants appealed, without moving for a new trial in the court below.\nThe first and second assignments of error, that the petition showed no cause of action, and that the District Court had not jurisdiction of the case stated, are not well taken. An action of trespass to try title can be maintained to recover the possession and rents of real property, from a. tenant holding over after the expiration of his term. Thurber & Co. v. Conners, 57 Texas, 96. Had the original petition stood alone, some of the exceptions taken to it and presented in the third assignment, might have been good; especially that which points out its failure to show when the rental contract was by its terms to expire.\nThe allegations necessary to meet the exceptions were, however, made in the supplemental petition. They should have been supplied by amendment of the original petition. No exception was taken based on this irregularity, and any objection which might have been made to this disregard of the rules may be treated as waived. Taking the original and supplemental petitions together, they meet the exceptions. '\nThe point made in the fourth assignment, which asserts that a sequestration can not issue against a tenant holding over, is involved in the ruling on the first and second assignments. A sequestration may issue in any case where a party sues for the title or possession of real property. Eev. Stats., art. 4489.\nThe fifth assignment complains of the ruling sustaining exceptions to defendants\u2019 plea setting up false representations by plaintiff as to title. There was no error in the ruling. It was not alleged that defendants had been deprived of the enjoyment of the property by any adverse claimant, and the question of title was wholly immaterial.\nThe sixth assignment calls in question the regularity of the proceedings by which appellee claims to have been incorporated. By entering into the rental contract, and contracting an indebtedness with appellee as such, appellants estopped themselves to deny that appellee was a corporation in this suit for recovery of such possession and rents. Rev. Stats,, art. 599.\nIn their seventh assignment of error appellants claim that the court rendered judgment for a greater sum than was warranted by the pleadings and by evidence. As to the first point, the supplemental petition claimed all that was awarded by the judgment.\nThe second point might be disposed of by saying that it was not presented by motion for new trial in the court below. We have, however, examined the evidence and find that it amply supports the judgment. Indeed, there was no controversy in the trial about the indebtedness of defendants.\nThe eighth assignment complains of a ruling which is not shown by the record. The findings of fact and of law are not before us. The motion for continuance was plainly insufficient. It pointed out no part of the pleadings which surprised defendants. The only fact stated in the supplemental petition which could not have been anticipated from the pleadings as they before stood, was the alleged acknowledgment of the debt, set up in reply to the plea of the statute of limitations. That was not especially pointed out by the application, and the court could not see from the application what allegation defendants regarded as introducing new matter. Besides, the acknowledgment became immaterial. If we reject all rents which would be barred without it, the evidence still shows an indebtedness quite as large as was found by the judgment. The sum due appellee was admitted by appellants upon the express condition that it be deducted from the rents barred by limitation. As appellants had not pleaded any setoff nor offered evidence of any, they were in no attitude to exact its allowance as a matter of right, and can not have it deducted from the part of the debt unbarred.\nThe judgment is affirmed.\nAffirmed.\nDelivered February 16, 1893.",
+        "type": "majority",
+        "author": "WILLIAMS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Tom J. Russell, for appellants.",
+      "Greer & Greer, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Lamb & Wynne v. Beaumont Temperance Hall Company.\nNo. 77.\n1. Action Against a Tenant Holding Over\u2014An action of trespass to try title can be maintained to recover possession and rents of real property from a tenant holding over after the expiration of his term; and a sequestration may issue in any case where a party sues for title or possession of real property.\n2. Tenant Holding Over can not Dispute his Landlord\u2019s Title. There was no error in sustaining exceptions to defendants\u2019 plea setting up false representations by plaintiff as to title. It is not alleged that defendants had been deprived of the enjoyment of the property by any adverse claimant, and the question of title was wholly immaterial.\n3. Tenant Estopped to Question Regularity of Incorporation of Landlord.\u2014By entering into the rental contract and contracting an indebtedness with appellee\u201d as such, appellants estopped themselves to deny that appelleewas a corporation in this suit for recovery of possession and rents.\n4. Continuance on Ground of Surprise.\u2014Continuance was asked to procure the testimony of a witness living in another county, on the ground of surprise. The supplemental petition filed, which was the alleged ground of surprise, stated no new fact except alleged acknowledgment of the debt, which was set up in reply to the statute of limitations. If all barred rents are rejected, the-evidence shows an indebtedness quite as large as was found by the judgment. The motion was correctly overruled.\nAppeal from Jefferson. Tried below before Hon. W. H. Ford.\nTom J. Russell, for appellants.\nGreer & Greer, for appellee."
+  },
+  "file_name": "0289-01",
+  "first_page_order": 315,
+  "last_page_order": 318
+}

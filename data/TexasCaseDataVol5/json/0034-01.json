@@ -1,0 +1,66 @@
+{
+  "id": 227535,
+  "name": "The Wichita Valley Mill and Elevator Company v. W. H. Hobbs",
+  "name_abbreviation": "Wichita Valley Mill & Elevator Co. v. Hobbs",
+  "decision_date": "1893-11-08",
+  "docket_number": "No. 839",
+  "first_page": "34",
+  "last_page": "36",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Tex. Civ. App. 34"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 357,
+    "char_count": 6184,
+    "ocr_confidence": 0.583,
+    "pagerank": {
+      "raw": 4.076306636737454e-08,
+      "percentile": 0.009008294336599615
+    },
+    "sha256": "0fcff348e75d02ca16455e707c26ec5362916a413c77ccf022e3af4c9e8143a5",
+    "simhash": "1:fa89b59ba6d89cd8",
+    "word_count": 1058
+  },
+  "last_updated": "2023-07-14T18:07:14.925501+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The Wichita Valley Mill and Elevator Company v. W. H. Hobbs."
+    ],
+    "opinions": [
+      {
+        "text": "HEAD, Associate Justice.\nIn the court below, during the examination of the witness A. Snuggs for plaintiff, Robert E. Huff, counsel for defendant, made the following statement in full hearing of the jury: \u201c This whole case is bolstered up by the discharged employes of the defendant.\u201d This was promptly objected to at the time it was made. Afterwards appellant\u2019s counsel made use of the same statement in his argument to the jury. A. Snuggs testified: \u201c I have heard some complaint of short weights at defendant\u2019s mill; have heard of farmers having their wheat weighed at Hunt\u2019s scales down town.\u201d Some of the witnesses for plaintiff were in fact discharged employes of defendant.\nIn his closing argument for the plaintiff, his counsel used the following language: \u201c The defendant is a wealthy corporation, and plaintiff a poor but honest boy. He has worked hard for them under great obstacles. He has had to buy wheat for them while they were trying to squeeze the farmers down to the lowest notch on the price of wheat, and swindling and cheating them by use of false weights, until the very name of the company has become unsavory in the community. The plaintiff has bought wheat for them in the heat and dirt, and now after the defendant has been swindling the farmers by its short weights, it undertakes to swindle the plaintiff out of his hard earnings. Mark Evans, president of the mill company, is a man whose every thought is how to squeeze and grind the last cent out of the farmers of the county, and should be taught that such practices will not be tolerated by an honest jury.\u201d\nThis language was promptly excepted to by the defendant, and was allowed to go unrebuked by the court. There was a sharp conflict in the evidence upon the material issues involved, the truth of the testimony of appellant\u2019s witness Evans being especially challenged by appellee; and under these circumstances, we think it quite probable that the verdict was influenced by the highly inflammatory language of counsel above set forth. We regard this language as exceedingly improper, and entirely out of proportion to the provocation given by the remark of appellant\u2019s counsel, that \u201cplaintiff\u2019s case was bolstered up by its discharged employes.\u201d\nNeither did the remark of the witness Snuggs, that \u201cI have heard some complaint of short weights at defendant\u2019s mill; have heard of farmers having their wheat weighed at Hunt\u2019s scales down town,\u201d furnish any proper basis for this tirade. This witness says he knew nothing of these short weights himself, and his remark as to what he had heard should have been excluded entirely from the jury, and doubtless would have been had appellant requested it. Not having requested its exclusion, however, appellant could not complain at the failure of the court to do this of its own motion; but it was bad enough to permit this illegal evidence to remain with the jury, without having it supplemented tenfold by counsel in his closing argument. The court should have promptly rebuked the use of such language in its inception, without waiting for opposing counsel to object, and especially should this have been done when the objection was interposed.\nDelivered November 8, 1893.\nWe hesitate long before reversing a judgment solely for the use of improper language by counsel for the successful party in argument to the jury, in a case in which we are unable to say the evidence preponderates against the finding; but where, as in this case, to invective is added statements of fact not in evidence, exceedingly damaging to the credit of a witness whose testimony must be broken down to secure a verdict, and which we think probably had the desired effect, we believe a judgment so obtained should be set aside and a new trial ordered. Moss v. Sanger Bros., 75 Texas, 321; Beville v. Jones, 74 Texas, 148.\nThe other assignments would involve \u2022 a discussion of the evidence, which we have thought it best to pretermit in view of another trial.\nThe judgment of the court below will be reversed and the cause remanded.\nReversed and remanded.\nMotion for rehearing refused.",
+        "type": "majority",
+        "author": "HEAD, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Robert E. Huff, for appellant.",
+      "C. D. Keyes and E. O. Skeen, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "The Wichita Valley Mill and Elevator Company v. W. H. Hobbs.\nNo. 839.\n1. Practice \u2014 Improper Remarks of Counsel to Jury. \u2014 In an action by an employe against a mill company, plaintiff\u2019s counsel in his closing argument to the jury stated that defendant had tried to squeeze the farmers down to the lowest notch on the price of wheat, and had swindled and cheated them by false weights, and was now trying to swindle plaintiff out of his hard earnings, and that E., defendant\u2019s president, was a man whose every thought is how to squeeze the last cent out of the farmers, and should be taught that such practices would not be tolerated by an honest jury. This language was promptly excepted to, and was allowed to go unrebuked by the court. The evidence was conflicting, and E.\u2019s testimony had to be broken down to secure a verdict for plaintiff. There was no evidence to support the language, except that a witness stated he had heard complaint of short weights. Held, that a judgment for plaintiff should be reversed.\n2. Same. \u2014 Nor were such remarks justified by a statement of defendant\u2019s attorney, that \u201c this whole case is bolstered up by the discharged employes of the defendant;\u201d some of plaintiff\u2019s witnesses being in fact such discharged employes.\nAppeal from the County Court of Wichita. Tried below before Hon. W. P. Skeen.\nRobert E. Huff, for appellant.\nWhen language calculated to arouse the prejudice of the jury has been used in the closing argument, and injury has probably resulted to appellant, the judgment should be reversed. Willis v. McNeil, 57 Texas, 474; Railway v. Jarrell, 60 Texas, 270; 1 W. & W. C. C., sec. 1001; 2 Willson\u2019s C. C., sec. 350.\nC. D. Keyes and E. O. Skeen, for appellee.\nUnless the verdict be excessive, or against the weight of evidence, a judgment will not be reversed on account of language of counsel for the successful party; and where counsel has used improper language himself, he can not complain of improper language in reply to it. Willis v. Lowry, 66 Texas, 540; Heidenheimer v. Thomas, 63 Texas, 287; Railway v. Garcia, 62 Texas, 285."
+  },
+  "file_name": "0034-01",
+  "first_page_order": 60,
+  "last_page_order": 62
+}

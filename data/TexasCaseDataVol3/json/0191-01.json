@@ -1,0 +1,171 @@
+{
+  "id": 221040,
+  "name": "Cleveland & Cameron v. S. H. Tittle et al.",
+  "name_abbreviation": "Cleveland & Cameron v. Tittle",
+  "decision_date": "1893-04-12",
+  "docket_number": "No. 144",
+  "first_page": "191",
+  "last_page": "194",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 191"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "14 S. W. Rep., 564",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Cow., 192",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2037359
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/8/0192-01"
+      ]
+    },
+    {
+      "cite": "15 Wend., 575",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2018795
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/15/0575-01"
+      ]
+    },
+    {
+      "cite": "1 Wend., 16",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2003281,
+        2003322
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/1/0016-01",
+        "/wend/1/0016-02"
+      ]
+    },
+    {
+      "cite": "15 Johns., 152",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2140895
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/15/0152-01"
+      ]
+    },
+    {
+      "cite": "7 N. Y., 198",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 How., 79",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Cow., 194",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Wend., 17",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2003205
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/1/0017-01"
+      ]
+    },
+    {
+      "cite": "15 Wend., 575",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2018795
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/15/0575-01"
+      ]
+    },
+    {
+      "cite": "4 How., 79",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 486,
+    "char_count": 8309,
+    "ocr_confidence": 0.546,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.008769430186856454
+    },
+    "sha256": "301def7804098f51587ea1f71dd2fa9973fc5e4e413662ea1c9eeff164daef54",
+    "simhash": "1:89a5f641b016850f",
+    "word_count": 1477
+  },
+  "last_updated": "2024-02-27T16:31:46.217873+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Cleveland & Cameron v. S. H. Tittle et al."
+    ],
+    "opinions": [
+      {
+        "text": "COLLARD, Associate Justice.\nThis action is by motion of appellants, Cleveland & Cameron, against S. H. Tittle, sheriff of Greer County, and the sureties on his official bond, for $2700 and 10 per cent thereon, the value of certain horses and mules levied on by the sheriff by virtue of an execution issued from the District Court of McLennan County under judgment for $2945.40 in favor of plaintiffs against one F. E. Herring.\nIt is alleged, that the sheriff, after levy, negligently allowed the property levied on to escape from his possession, whereby plaintiffs have been damaged in the amount of the alleged value of the property. The judgment was of date the 11th of March, 1887; the execution was issued on the 7th day of October, 1889, directed to the sheriff or any constable of Greer County, and was levied on the horses and mules as stated. It was in form of a first execution, and did not show that any other execution had ever been issued, except that there was an item in the bill of costs for issuing an alias.\nDefendants answered by demurrer, general denial, and specially, that the property never had been levied on, but pointed out only in a large pasture, where it remained by consent of the attorneys of plaintiffs, and from which it was driven, without fault of the sheriff, into the Indian Territory, beyond the jurisdiction of the court.\nUpon objection of defendants on the trial, the court excluded the execution, because it appeared upon its face to have been issued more than one year after the date of the judgment, and did not show on its face that it was an alias, or that any execution had been issued to McLennan County The court suggested that plaintiffs could take a nonsuit, and then move to reinstate because of the court\u2019s action in excluding the execution. The plaintiffs thereupon took a nonsuit, and afterward moved to reinstate the cause, which motion was by the court overruled. Plaintiffs excepted and have appealed.\nWe think there was error in excluding the execution, as claimed by appellants, and consequently in refusing to reinstate the case after non-suit. The action is brought under the following statute, relating to the duty of an officer as to personal property levied on by him by virtue of an exection:\n\u201c The officer shall keep securely all personal property levied on by Mm, for which no delivery bond has been given; and if any injury or loss should result to any party interested by his negligence, he and his sureties shall be liable to pay the value of the property so lost, or the amount of injury sustained, and 10 per cent thereon, to be recovered by the party injured, on motion\u2014three days notice being given\u2014in the court from which the execution issued.\u201d Rev. Stats., art. 2298.\nAn execution issued under a dormant judgment is not void, but voidable only. The purchaser at a sale thereunder would take good title as against a collateral attack. Maverick v. Flores, 71 Texas, 118; Sydnor v. Roberts, 13 Texas, 598; Freem. on Ex., sec. 29; Erwin\u2019s Lessee v. Dundas, 4 How., 79.\nThe writ, if irregular only, or voidable, will protect the officer in making a levy. Tierney v. Frazier, 57 Texas, 437.\nAnd it is equally true, that he can not shelter himself behind such writ for failure to execute it, or for failure to perform his duty as required by law in respect to the preservation and safe keeping of property levied on by him under the writ. He can not appropriate the property or the proceeds to his own use; and it has been held, that he would be responsible if his deputy should do so. People v. Dunning, 1 Wend., 17; Walden v. Davison, 15 Wend., 575.\nIn an action for an escape under a ca. sa. he can not set up the irregularity of the writ. Bank v. Sheriff, 8 Cow., 194.\nMr. Freeman says: \u201c Whenever the writ is amendable, or is such that by the failure of the proper party to move for its vacation it may be lawfully executed, and may by sale thereunder transfer the title of the defendant, the sheriff is bound to execute it, and to take no notice of the irregularity, and is as liable to the plaintiff for any neglect or misconduct in its execution as though it were in all respects regular.\u201d Freem. on Ex., sec. 103.\nThe author then quotes from Ginoehio v. Orser, 1 Abbott\u2019s Practice, 434, to show the distinction between void and voidable process; that the sheriff is not bound to execute the former, but is bound to execute the latter, and would be liable for neglect.\nAnother text writer formulates the rule as follows: \u201cIn other words, the error or fault in the proceedings which could not be used against him [the sheriff] if he had executed the process, can not be used by him as an excuse for not executing it.\u2019\u2019 Murf. on Sheriffs, sec. 929.\nThis doctrine is reasonable and just. If the officer would be protected by the writ in making a levy, and it would be as effective in securing a. valid sale and payment of the judgment as a writ regular in all respects, he should not be allowed to deprive the plaintiff of such valuable right. It would be his duty to obey the writ and execute it, unless its execution should be arrested by the defendant or the party interested.\nThe fact, if it be true, in this case, that the judgment was dormant by failure to have execution issued within a year after its rendition, would not make the execution subsequently issued upon the unsatisfied judgment void. Rev. Stats., arts. 1634, 3210. The sheriff would be held to the same diligence in executing it as if it were a regular alias.\nThe same may be said of the fact that no execution had been issued first to the county where the judgment was rendered, as directed by the statute. Art. 2278. Such an omission would be an irregularity only, and it has been held, that an execution so issued must be executed by the officer who received it. Earle v. Thomas, 14 Texas, 591; see, also, Hancock v. Metz, 15 Texas, 205.\nThere was error in the rulings of the court below as herein pointed out.\nThe case should be reinstated and tried in the court below, for which purpose the judgment is reversed and the cause remanded.\nReversed and remanded.\nDelivered April 12, 1893.",
+        "type": "majority",
+        "author": "COLLARD, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "S. L. Samuels and Frank Grady, for appellants.",
+      "Scarborough & Rogers, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Cleveland & Cameron v. S. H. Tittle et al.\nNo. 144.\n1. Execution under Dormant Judgment.\u2014An execution issued under a dormant judgment is not void, but voidable only. A sheriff can not avail himself of such irregularity, in defense, when sued for permitting the escape of live stock levied upon under such execution.\n2. Same \u2014 Case in Judgment.\u2014An original execution issued from the District Court of McLennan County, under a judgment more than one year old, and directed to the sheriff* of Greer County. The sheriff made a levy, and motion was made against him and his sureties for the value, etc., of property levied upon but permitted to escape. Held, it was error to exclude the execution, and error to refuse to reinstate, the plaintiff having taken a nonsuit upon the exclusion of the execution.\nAppeal from McLennan. Tried below before Hon. L. W. Goodrich.\nS. L. Samuels and Frank Grady, for appellants.\n1. A writ, though voidable on its face, can be-objected to only by the defendant therein, and it is no concern of the officer, so long as the defendant sees fit to waive it. 1 W. & W. C. C., 979; Freem. on Ex., 29, 30, 103; 6 Wait\u2019s Act. and Def., 731, 732; Murf. on Sheriffs, par. 100; Erwin v. Dundas, 4 How., 79; Bacon v. Cropsy, 7 N. Y., 198; Cable v. Cooper, 15 Johns., 152; People v. Dunning, 1 Wend., 16; Walden v. Davison, 15 Wend., 575; Bank v. Hallet, 8 Cow., 192.\n2. When a voluntary nonsuit is taken because of the exclusion of legitimate evidence, the court should, upon motion, reinstate the cause. Lockett v. Railway, 14 S. W. Rep., 564.\nScarborough & Rogers, for appellees.\nDefendants\u2019 objections to the execution, were:\n1. No execution to county in which judgment was rendered. Rev. Stats., art. 2278.\n2. The execution did not comply with article 2281, by showing that previous execution was issued.\n3. Because the execution showed upon its face that the judgment was dormant, and hence no execution could issue thereon. Rev. Stats., art. 1634.\nThese three articles of the statute are plain, unequivocal, and mandatory. The court will observe that shall is used in each instance. The execution in hand did not meet the requirements of the statute."
+  },
+  "file_name": "0191-01",
+  "first_page_order": 217,
+  "last_page_order": 220
+}

@@ -1,0 +1,66 @@
+{
+  "id": 219139,
+  "name": "John Parker et al. v. W. A. Adams et al.",
+  "name_abbreviation": "Parker v. Adams",
+  "decision_date": "1893-02-15",
+  "docket_number": "No. 965",
+  "first_page": "357",
+  "last_page": "358",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 357"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 137,
+    "char_count": 1952,
+    "ocr_confidence": 0.576,
+    "pagerank": {
+      "raw": 4.076306636737454e-08,
+      "percentile": 0.008818374544495355
+    },
+    "sha256": "e6af7104b2d0a77f0f88460763402a19f68765937dd19b5dd03dcb95dd344566",
+    "simhash": "1:8633a028084e8dec",
+    "word_count": 342
+  },
+  "last_updated": "2023-07-14T16:01:39.065288+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John Parker et al. v. W. A. Adams et al."
+    ],
+    "opinions": [
+      {
+        "text": "ON MOTION FOR REHEARING.\nPer Curiam.\nThis appeal was heretofore dismissed because the record disclosed that no final judgment had been entered in the court below.\nA tract of land was sued for, and upon a verdict in favor of plaintiffs as to a portion of the defendants and against plaintiffs as to the rest of the defendants, judgment was rendered in accordance therewith. The motion for a new trial filed by plaintiffs was overruled as to a portion of the defendants, who recovered a judgment against plaintiffs, and sustained as to the rest of such defendants. Our conclusion is, that this had the effect of granting a new trial as to all the defendants, and hence that the cause stands on the docket as if there had been no trial. Wootters v. Kauffman, 67 Texas, 488.\nThe motion for rehearing will therefore be overruled.\nOverruled.\nDelivered February 15, 1893.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Thos. B. Greenwood and Kearby & McCoy, for plaintiffs in error.",
+      "T. F. Holloway, for defendants in error."
+    ],
+    "corrections": "",
+    "head_matter": "John Parker et al. v. W. A. Adams et al.\nNo. 965.\nJudgment not Final, When \u2014 Effect of Granting Plaintiff New Trial as to Part of Defendants.\u2014Where, in trespass to try title, plaintiff\u2019s motion for new trial is sustained as to some of the defendants and overruled as to others, this has the effect of granting a new trial as to all the defendants, and the case then stands on the docket as though there had been no trial.\nError from Dallas. Tried below before Hon. R. E. Burke.\nThis suit was brought by plaintiffs in error in trespass to try title. There was a verdict and judgment thereon in favor of plaintiffs against twelve of the defendants, and against plaintiffs in favor of the other defendants, twenty-one in number. Plaintiffs\u2019 motion for a new trial as to the twenty-one defendants was sustained as to all of them except three; and against the three in whose favor it was overruled plaintiffs sued out a writ of error herein, which was dismissed without written opinion.\nThos. B. Greenwood and Kearby & McCoy, for plaintiffs in error.\nT. F. Holloway, for defendants in error."
+  },
+  "file_name": "0357-01",
+  "first_page_order": 383,
+  "last_page_order": 384
+}

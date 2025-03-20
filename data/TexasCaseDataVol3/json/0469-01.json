@@ -1,0 +1,169 @@
+{
+  "id": 220954,
+  "name": "J. M. Palmer et al. v. Texas Tram and Lumber Company",
+  "name_abbreviation": "Palmer v. Texas Tram & Lumber Co.",
+  "decision_date": "1893-06-01",
+  "docket_number": "No. 228",
+  "first_page": "469",
+  "last_page": "475",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 469"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "2 A. K. Marsh., 69",
+      "category": "reporters:state",
+      "reporter": "A.K. Marsh.",
+      "case_ids": [
+        12129037
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ky/9/0069-01"
+      ]
+    },
+    {
+      "cite": "8 Wend., 494",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2147342
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/8/0494-01"
+      ]
+    },
+    {
+      "cite": "17 S. W. Rep., 52",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "79"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "16 Cal., 534",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "134 U. S., 241",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8299214
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/134/0241-01"
+      ]
+    },
+    {
+      "cite": "12 N. W. Rep., 898",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "19 Pac. Rep., 533",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "10 Cal., 368",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2222531
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/10/0368-01"
+      ]
+    },
+    {
+      "cite": "15 N. W. Rep., 138",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "28 Wis., 689",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "case_ids": [
+        8709267
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis/28/0689-01"
+      ]
+    },
+    {
+      "cite": "17 S. W. Rep., 52",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 734,
+    "char_count": 18223,
+    "ocr_confidence": 0.546,
+    "pagerank": {
+      "raw": 5.0011153170616546e-08,
+      "percentile": 0.31338197709596194
+    },
+    "sha256": "ce3e7ad720dd7ceb14220bb0d37e9756e4893e55c61f747625dc7981ce3965fc",
+    "simhash": "1:0b75261b319e8663",
+    "word_count": 3228
+  },
+  "last_updated": "2024-02-27T16:31:46.217873+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "J. M. Palmer et al. v. Texas Tram and Lumber Company."
+    ],
+    "opinions": [
+      {
+        "text": "WILLIAMS, Associate Justice.\nTrespass to try title by appellants, .as heirs of Martin Palmer, to recover of appellee 1614 acres of the William Williams league, in Jasper County. From a judgment of the District Court in favor of the defendant, this appeal was taken.\nIt was shown, that prior to 1844 Martin Palmer and Ms wife owned the land in controversy as their common property, and that in 1839 he \u2022executed a power of attorney to Charles S. Hunt, authorizing him \u201cto sell and dispose of and convey by deed or otherwise\u201d the land; \u201c and further, to sign, seal, and deliver to the purchaser or purchasers a deed or any other instrument of writing that my said attorney, Charles S. Hunt, may think proper, for me, and in my name, as though I was personally present; * * * and further, to do, perform, and execute for me and in my name all and singular the things that shall or may be necessary, etc., in the premises.\u201d\nOn the 4th day of July, 1844, Hunt, as attorney in fact, and in the name of Palmer, executed a deed of the land to John D. Wilkins, reciting a paid consideration of 81000, and containing a general warranty of title.\nAttached to this deed is a certificate of acknowledgment by Hunt, as .attorney in fact, made on the 6th day of July, 1844, which is in proper form, and states that he executed the deed \u201c for the use and purpose therein contained; provided, it is expressly understood and acknowledged by the said Charles S. Hunt that the foregoing deed is given in consideration of eight land certificates for one league and labor of land each, issued by the Board of Land Commissioners of Jasper County, to-wit\u201d (here follows a list' of the certificates); \u201c which certificates as aforesaid \u25a0Charles S. Hunt sold to John D. Wilkins, of the parish of St. Mary, Louisiana, which being passed by the Board of Land Commissioners for the \u25a0county of Jasper, and on examination by the Board of Examining Commissioners rejected, which circumstances render the validity of such claim doubtful, therefore this deed is given as an indemnity to said John D. Wilkins.\u201d\nPalmer continued to reside in Jasper County until March, 1850, when he died. His widow and children then moved to Walker County, where she continued to reside until her death, which occurred in the year 1890.\nThis suit was brought in 1891.\nThe records of Jasper County were burned in 1849. The deed from. Hunt to Wilkins was recorded in December, 1850. Whether or not it. had been recorded before the burning of the records there is no evidence.\nIt is shown, that from 1846 to 1849 inclusive Wilkins paid taxes on the land, and that during these years Palmer paid none. It was also proved that for the past eleven years the heirs of Palmer have paid no taxes. There is no evidence that they have ever paid any or asserted a claim to the land.\nIn 1886 the defendant bought the land from the heirs of John D. Wilkins, paying full value for it and placing its deed upon record, and has ever since paid all of the taxes. In 1889 it took actual possession, and has since been cutting timber from the premises, that so used being of the-value of $3000.\nThe circumstances and facts thus stated are all the record contains, and beyond them the evidence is silent as -to any further claim or assertion of ownership of the land, either by Palmer and his heirs or Wilkins and his-heirs.\nThe decision of the case turns upon the effect to be given to the recital in the acknowledgment, that the conveyance of the land was made for a consideration which enured to Hunt, the agent, and not to his principal. That the power of attorney did not authorize such a conveyance as that recited in the acknowledgment is plain. Reese v. Medlock, 27 Texas, 123; Frost v. Erath Cattle Co., 17 S. W. Rep., 52.\nThe authority given to Hunt was to sell, and having sold, to convey. He had no rightful power to.convey without selling. The general terms are to be intended as used in aid of the specific power defined, and not as containing in themselves an enlargement of the scope of the authority. It is suggested in argument, that the land certificates which had been previously sold by Hunt to Wilkins probably belonged to Palmer, and that the obligation to indemnify Wilkins for their loss rested upon him, and that the conveyance was made in discharge of it. The language of the certificate does not suggest such a fact; and if it were admitted, it would not bring the conveyance within the terms of the power, though it might render the inference of a ratification by Palmer more readily admissible.\nA power to sell does not include a power to convey in discharge of a pre-existing obligation or liability of the constituent.\nThe question therefore recurs, what effect is to be given to the statement in the acknowledgment that the conveyance was made in consideration of an obligation existing on the part of the attorney in fact to the grantee Wilkins.\nThe statute at that time did not require that the certificate of authentication should contain any statement concerning the consideration of the instrument; and even now,, such a statement is not necessary. Monroe v. Arledge, 23 Texas, 479. The acknowledgment itself was not an essential part of the deed. That instrument operated from the time of its delivery, whether acknowledged or not. It bears a date two days prior to the acknowledgment, and in the absence of evidence as to the time at which it was delivered, the weight of authority and of reason holds, and the presumption obtains, that delivery was made at the date of the instrument, rather than that of the acknowledgment. Dev. on Deeds, 178-181, 265. The deed, therefore, passed the title or was void, irrespective of the recitals of the acknowledgment. The acknowledgment, by its own force, can not have the effect of defeating or impairing the operation of \u2022the deed. If the deed was void or voidable, it was because of the facts, and not through any efficacy given by law to the certificate of authentication. But the recital in the certificate is, we think, evidence against the defendant that the recited fact existed. It comes from the custody of those claiming under the deed on which it is endorsed, and together with which it is one of their evidences of title. The acknowledgment containing it was made use of as a means of recording the deed and of thus asserting title. These circumstances show that the deed was accepted with the acknowledgment upon it, and the latter is not therefore to be treated as the ex parte statement of Hunt and of the officer. It is analogous to an assertion made by one person prejudicial to the interest of another, in his presence, and assented to or not denied. It is therefore evidence, but not conclusive evidence, that the fact existed as stated. It could certainly have been rebutted by positive testimony that it was not true, and that Wilkins had in fact paid the consideration recited in the deed, for the use of Palmer; and it is equally true it could be rebutted by circumstances. For this reason it was proper to admit the deed in evidence and to determine its effect in the light of all the facts of the case. Thus considered, we can not say that the court below was bound to accept the recital in the certificate as furnishing a controlling reason for holding the deed to have been inoperative.\nThe evidence shows, that after the deed to Wilkins, Palmer paid no taxes upon the land; that since his death none have been paid by his wife, the alleged owner of one-half, and his children, who claim to have inherited the other half; and there is no evidence of an assertion of any claim or the exercise of any act of ownership by them; that upon the receipt of the deed from Hunt, Wilkins commenced the payment of taxes, and put his deed on record at least as early as 1850; that in 1886 his heirs conveyed to defendant, thus asserting ownership, and that defendant at once recorded its deed, and has since paid taxes and taken possession and used the property.\nThus for more than forty years both parties interested in this conveyance have acted in a manner inconsistent with the fact that Hunt had conveyed without authority, and consistent with the hypothesis that his act was recognized as done in pursuance of the power conferred on him. Those claiming under the deed have asserted their title, and those whose interests would be prejudiced thereby have acquiesced.\nIt is true, that there is no direct evidence that either Palmer or his heirs knew of the conveyance by Hunt to Wilkins, but the evidence to charge them with notice of it is as strong as that which affects defendant with notice of the acknowledgment. It is not piobable that persons who supposed they had title to land would fail to discover, during all the years that have passed, the facts of the conveyance.\nSo we conclude, that the circumstances of the case, in view of the great lapse of time, were sufficient to justify the court in holding that the deed passed the title, notwithstanding the acknowledgment.\nIt has been urged by appellee, that admitting the fact as to the consideration to be as stated in the acknowledgment, still the deed passed the legal title to Wilkins and left in Palmer and his heirs only the equitable right to avoid the conveyance by action taken within reasonable time, and that their claim is rendered stale by lapse of time.\nThe result of the authorities seems to be, that under a naked power to sell, a conveyance by the attorney in fact, without consideration, or upon a consideration enuring to himself alone, is void as between the parties, and passes no title, either legal or equitable. Yet such a conveyance may be ratified and may support a title in a subsequent bona fide purchaser from the grantee in the deed of the attorney; and this illustrates that it is not true, in an absolute and unrestricted sense, that the deed is void. In the hands of the grantee of the attorney in fact, and of ail purchasers from him with notice of the fraud, it is void as against the constituent of the power, and may be so treated by him in an action of trespass or ejectment to recover the property, even in States where a recovery must be had in these actions upon the legal title. Meade v. Brothers, 28 Wis., 689; Campbell v. Campbell, 15 N. W. Rep., 138; Dupont v. Wertheman, 10 Cal., 368; Randall v. Duff, 19 Pac. Rep., 533; Jeffrey v. Hursh, 12 N. W. Rep., 898; Duputron v. Young, 134 U. S., 241; Mott v. Smith, 16 Cal., 534.\nIn the case of Connolly v. Hammond, 51 Texas, 635, there are some expressions which seem' to militate against this view. But that case was not one of a naked power to sell, but was treated as belonging to the class of cases in which a trustee with power of sale indirectly purchases the trust property. Such trustees are usually invested with the legal title, .and can therefore convey it. In sales by executors, administrators, and guardians the legal title passes by the action of the court. In all of these cases, if the trustee has perpetrated a fraud, and through another person attempted to acquire the property, the holder of the legal title is charged as trustee, but must be reached by timely action. But an attorney in fact with a bare power of sale is not clothed with any title to the property, nor with any power over it except such as the instrument confers. The extent of such powers must be taken notice of by all persons dealing with him. When he exceeds that power he confers no right.\nThe circumstances under which, after a long lapse of time, a ratification might be presumed or inferred, we need not, in view of the conclusion already stated, discuss.\nThe judgment is affirmed.\nAffirmed.\nDelivered June 1, 1893.",
+        "type": "majority",
+        "author": "WILLIAMS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "W. W. Blake, K. B. Seale, and W. B. Powell, for appellants.",
+      "Ford & McComb, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "FIRST DISTRICT,\nJUNE, 1893.\nJ. M. Palmer et al. v. Texas Tram and Lumber Company.\nNo. 228.\n1. Case in Judgment\u2014Sale by an Attorney in Fact\u2014Recitals in Certificate of Acknowledgment.\u2014In 1844, Hunt, the attorney in fact, who hacl a written power of attorney from one Palmer to convey land, sold and conveyed the land, reciting a paid consideration of $1000; but in the acknowledgment of the deed, which is in proper form, was this recital: \u201cProvided, it is expressly understood and acknowledged by the said Charles S. Hunt, that the foregoing deed is given in consideration of eight land certificates for one league and labor of land each [giving a list of them], which certificates, as aforesaid, Charles S. Hunt sold to John D. Wilkins [thegrantee in the deed], which being passed by the Board of Land Commissioners for the county of Jasper, and on examination by the Board of Examining Commissioners, rejected, which circumstances render the validity of such claims doubtful, therefore this deed is given as indemnity to said John D. Wilkins.\u201d This deed was recorded as early as 1850. Since 1846, Palmer nor his heirs have paid taxes on the land. He resided in Jasper County, where the land lies, until his death in 1850. In 1886, defendant bought the land from the heirs of Wilkins, paying full value for it, placed its deed on record, and paid taxes, and in 1889 took actual possession. Suit was filed by the heirs of Palmer to recover the land, in 1891. A judgment for defendant was affirmed.\n2. Power of Attorney\u2014Power Granted by.\u2014That the power of attorney did not authorize a conveyance for such a consideration as that recited in the acknowledgment, is plain. The authority to Hunt was to sell, and having sold, to convey. He had no power to convey without selling. The general terms are to be intended as used in aid of the specific power defined, and not as containing in themselves an enlargement of the scope of the authority. A power to sell does not include a power to convey in discharge of a pre-existing obligation or liability, even of the constituent.\n3. Acknowledgment in 1844.\u2014The statute at that time did not require that the certificate of authentication should contain any statement concerning the consideration of the instrument, and even now such a statement is not necessary; nor was the acknowledgment an essential part of the deed, but that instrument operated from the date of its delivery, which is presumed to have been made at the date of the instrument, rather than that of the acknowledgment.\n4. Recitals in Certificate, Effect of.\u2014The deed passed the title, irrespective of the recitals in the acknowledgment, by its own force. But the recitals are evidence against defendant that the recited fact existed. The deed comes from the custody of those claiming under it, and is one of the evidences of title; the acknowledgment was made use of as a means of recording the deed, and the recitals are not to be treated as the ex parte statements of Hunt and the officer, but are rather analogous to an assertion made by one person prejudicial to the interest of another, in his presence, and not denied. It is evidence, though not conclusive evidence, that the facts existed as stated.\n5. Sales by Attorney in Fact\u2014Void and Voidable.\u2014Under a naked \u25a0power to sell, a conveyance by the attorney in fact without consideration, or upon a consideration enuring to himself alone, is void, a*s between the parties, \u25a0and passes no title, either legal or equitable; yet such a conveyance maybe ratified, and may support a title in a subsequent bona fide purchaser from the grantee, and therefore is not, in an absolute and unrestricted sense, void. In the hands of the grantee of the attorney in fact, and of all persons purchasers from him with notice of the fraud, it is void as against the constituent of the power, and may be so treated by him.\nAppeal from Jasper. Tried below before Hon. W. H. Ford.\nW. W. Blake, K. B. Seale, and W. B. Powell, for appellants.\n1. A power of attorney to \u201csell, dispose of, and convey, by deed or otherwise, all my right, title, claim, and interest of and to the following described land,\u201d does not authorize the agent to barter or exchange the land for other property, or to settle his own debts. Reese v. Medlock, 27 Texas, 123; Mart, on Conv., sec. 237; Frost v. Cattle Co., 17 S. W. Rep., 52.\n2. All powers of attorney receive a strict interpretation, and the authority is never extended by intendment or construction beyond that which is given in terms, or is absolutely necessary for carrying the authority into effect, and that authority must be strictly pursued. Rossiter v. Rossiter, 8 Wend., 494; 17 S. W. Rep., 52, 79; Gouldy v. Metcalf, 75 Texas, 455; Bouv., title Confirmation; Am. and Eng. Encycl. of Law, 430-432; Mart. on Conv., sec. 235.\n3. The doctrine, that one whose land has been conveyed by the unauthorized act of an agent, and who might, by reasonable diligence, have known of the sale, claim, and possession under it, will be presumed, from his silence for a long period of years, to have ratified the sale, has application only where the owner asserts a mere equitable title, but has no application when in trespass to try title the owner relies on his legal title. Moss v. Berry, 53 Texas, 632.\n4. Declarations of an agent to an officer before whom the acknowledgment was made, and certified to by him, are evidence of the facts therein contained. Rev. Stats., art. 2254; Eborn v. Cannon\u2019s Admrs., 32 Texas, 245.\nFord & McComb, for appellees.\nWhere an agent is authorized by power of attorney to \u201c sell, dispose of, and convey, by said deed or otherwise [certain land therein specifically described], and to sign, seal, and deliver to the purchaser a deed or any other instrument that the said attorney may think proper,\u201d fully authorizes and empowers the agent to sell and convey all the title of the grantor in the power to the land described therein; and the deed of the agent made under such power passes the legal title out of the grantor; and the act of the agent would not be void, .but at most could only be voidable; and unless some steps were taken by the grantor or his representatives, within a reasonable time after knowledge of said sale, to avoid the same, their failure to do so for a period of more than forty years would amount to a ratification of the sale, and by long acquiescence therein they would be estopped from denying the validity of such sale. Lumber Co. v. Carroll, 76 Texas, 140; Forman v. Crutcher, 2 A. K. Marsh., 69."
+  },
+  "file_name": "0469-01",
+  "first_page_order": 495,
+  "last_page_order": 501
+}

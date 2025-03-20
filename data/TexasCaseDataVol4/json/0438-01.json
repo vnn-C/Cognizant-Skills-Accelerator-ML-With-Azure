@@ -1,0 +1,325 @@
+{
+  "id": 223726,
+  "name": "Amelia P. Withrow et al. v. Adams & Wickes",
+  "name_abbreviation": "Withrow v. Adams & Wickes",
+  "decision_date": "1893-09-27",
+  "docket_number": "No. 179",
+  "first_page": "438",
+  "last_page": "450",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Tex. Civ. App. 438"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "8 S. W. Rep., 524",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "34 N. J. L., 168",
+      "category": "reporters:state",
+      "reporter": "N.J.L.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Swan, 364",
+      "category": "reporters:state",
+      "reporter": "Swan",
+      "case_ids": [
+        8541084
+      ],
+      "pin_cites": [
+        {
+          "page": "372"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/tenn/32/0364-01"
+      ]
+    },
+    {
+      "cite": "2 Head, 710",
+      "category": "reporters:state",
+      "reporter": "Head",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Mo., 25",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Johns. Ch., 369",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "15 Pick., 307",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "72 Pa. St., 494",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 S. & M., 301",
+      "category": "reporters:state",
+      "reporter": "S. & M.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "39 Cal., 290",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Harp., 413",
+      "category": "reporters:state",
+      "reporter": "Harp.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "26 Wend., 494",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Coldw., 438",
+      "category": "reporters:state",
+      "reporter": "Cold.",
+      "pin_cites": [
+        {
+          "page": "440-444"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "36 Hun, 329",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "pin_cites": [
+        {
+          "page": "330"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "71 Mo., 513",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "40 Kan., 512",
+      "category": "reporters:state",
+      "reporter": "Kan.",
+      "pin_cites": [
+        {
+          "page": "513"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "18 Cal., 74",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "pin_cites": [
+        {
+          "page": "75"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "14 S. W. Rep., 954",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "46 Conn., 252",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "pin_cites": [
+        {
+          "page": "257"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "49 Mo., 126",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "pin_cites": [
+        {
+          "page": "127"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Harp., 412",
+      "category": "reporters:state",
+      "reporter": "Harp.",
+      "case_ids": [
+        8861333
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/scl/16/0412-01"
+      ]
+    },
+    {
+      "cite": "18 Md., 241",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "pin_cites": [
+        {
+          "page": "242"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "64 Md., 196",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 Gratt., 286",
+      "category": "reporters:state",
+      "reporter": "Gratt.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "15 Gratt., 211",
+      "category": "reporters:state",
+      "reporter": "Gratt.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "26 La. Ann., 206",
+      "category": "reporters:state",
+      "reporter": "La. Ann.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 La. Ann., 562",
+      "category": "reporters:state",
+      "reporter": "La. Ann.",
+      "case_ids": [
+        4817631
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/la-ann/3/0562-01"
+      ]
+    },
+    {
+      "cite": "2 La. Ann., 261",
+      "category": "reporters:state",
+      "reporter": "La. Ann.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 La. Ann., 381",
+      "category": "reporters:state",
+      "reporter": "La. Ann.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 La. Ann., 222",
+      "category": "reporters:state",
+      "reporter": "La. Ann.",
+      "case_ids": [
+        331873,
+        331745
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/la-ann/7/0222-02",
+        "/la-ann/7/0222-01"
+      ]
+    },
+    {
+      "cite": "75 Cal., 145",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "45 Me., 512",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 1308,
+    "char_count": 36026,
+    "ocr_confidence": 0.567,
+    "pagerank": {
+      "raw": 1.3400054454819927e-07,
+      "percentile": 0.6309427692502536
+    },
+    "sha256": "751156a134d17cebf3257355dd7a8491e667c45ec5208d92a26e22e6674ef39b",
+    "simhash": "1:0207a52e96c3f1e5",
+    "word_count": 6245
+  },
+  "last_updated": "2024-02-27T18:01:03.208661+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Amelia P. Withrow et al. v. Adams & Wickes."
+    ],
+    "opinions": [
+      {
+        "text": "COLLARD, Associate Justice.\nAppellants state the nature and result of the suit as follows:\n\u201c On May 21, 1890, appellants, Amelia P. Withrow, joined by her husband, George B. Withrow, James Masterson, B. A. Shepherd, Sidon Harris, and Carrie Chew, a lunatic, by her guardian, Henry F. Fisher, Jr., filed this suit against H. B. Adams and E. D. L. Wickes, asking for a partition of 640 acres of land in Tom Green County, being survey 173, patented to Henry F. Fisher, Sr. They alleged that Amelia P. Withrow, Sidon Harris, and Carrie Chew each owned an undivided one-eighth, and Masterson and Shepherd jointly an undivided one-eighth, and admitted that Adams & Wickes owned the remaining undivided one-half.\n\u201cAdams & Wickes answered, and denied that any of the appellants owned an interest in the land, and set up title in' themselves to the whole of the survey.\n\u201c On April 19, 1890, trial was had before the court without a jury, and judgment rendered for appellees for the whole survey of land and for costs. Plaintiffs appealed.\n\u2018 \u2018 The land in controversy was the community property of Henry F. Fisher, Sr., and his wife, Mary C. Fisher. He died intestate in 1867, leaving surviving him his wife and four children, to-wit, Amelia P. With-row and Carrie Chew, two of the appellants, and Mary S. McKeen, wife of Byron McKeen, and Henry F. Fisher, Jr. The son, Henry F. Fisher, in 1882, conveyed to appellants Masterson and Shepherd his interest in his father\u2019s estate, and Mary S. McKeen, April 8, 1889, conveyed to appellant Sidon Harris her interest in her father\u2019s estate.\n\u201cAppellants admit that appellees own the community half of Mary C. Fisher of the land in controversy, but they deny that they have acquired title to the community half of said Henry F. Fisher, deceased. This half, appellants contend, is now owned by them, as alleged in their petition.\u201d\nAppellants contend that the court erred as follows: \u201cIn admitting in evidence, over plaintiff\u2019s objections, the copies of the purported application and inventory and appraisement of lands of the community estate of H. F. Fisher, deceased, because said inventory and appraisement do not appear to have been made in compliance with the directions of the law, \u2022as fully set forth in bill of exceptions number 1.\u201d\nDefendants, having shown title by deeds to Mary C. Fisher\u2019s community half of the land, read in evidence a general warranty deed executed \u25a0by Mary C. Fisher, through Gustav Schleicher, her attorney in fact, to Adams & Wickes, defendants, for an undivided half of the same, her remaining interest, of date June 5, 1871, duly recorded on date.\nThe proceedings of the County Court objected to by appellants are:\n1. The petition of Mary C. Fisher to the County Court of Harris County, Texas, in which she alleges the residence of herself and former husband, Henry F. Fisher, in that county; his death on the 23rd day of October, 1867, intestate, leaving four children surviving him, naming them; that there was community property of herself and deceased, consisting principally in lands; that the business of the estate required attention, and that she desired to settle it as surviving wife. She prays that \u201c inventory may be recorded and an appraisement made according to the statute in such cases.\u201d The petition was sworn to by her on February 27, 1868, and filed March 18, 1868, in the County Court.\n2. A document filed same day, with the following caption: \u201c Inventory of the community estate of Henry F. Fisher and Mary C. Fisher, acquired during their marriage.\u201d Then follows in the document a list of some 134 surveys of land, many thousand acres, giving, in ruled columns, the abstract number, name of the original grantee, the number of acres in each survey, in what counties situated, and the valuation; the total value being $4770. It is signed and sworn to before the county judge by three persons, G. Loeffler, I. G. Yeith, and Otto Artz. It contains only a list of lands\u2014no personal property\u2014and is not signed or sworn to by Mrs. Fisher. The minutes of the court of same date, March 18, 1868, book F, page 296, have the following entry: \u201c Mary C. Fisher, surviving wife, having filed an inventory of community property of herself and her deceased husband, and G. Loeffler, I. G. Yeith, and Otto Artz being appointed appraisers, and having returned an appraisement, duly sworn to .according to law, the said inventory is approved and ordered of record. It is further ordered, that the clerk issue this certificate in testimony to the effect that said Mary C. Fisher be recognized under the Act of August 26, 1856. as having authority to manage, control, and dispose of the \u25a0community property, subject to the provisions of said act, without bond .and without any further action in the Probate Court. Closed.\u201d\nThe Act of August 26, 1856, dispensed with administration upon the community estate of the husband and wife in case of the death of the latter, and made it his duty to file in the County Court \u201c a full, fair, and complete inventory and appraisement of all the community property of himself and his deceased wife, to be taken and recorded as in cases of administration, and to have the same force and effect in all suits between parties claiming under it; after which, without any administration or further action whatever in the Probate Court, he shall have the right to manage, control, and dispose of said community property, both real and personal, in such manner as to him may seem best for the interest of said estate, and of suing and being sued with regard to the same in the same manner as during the life of the wife.\u201d Pasch. Dig., arts. 4647, 4648. The same act also provided, that \u201c the surviving wife may retain the exclusive management and control'Of the community property, * * * in the same manner and subject to the same rights, rules, and regulations as-provided in the foregoing provisions of this act, until she marry again.\u201d Id., 4642.\nNo bond was required of the survivor under this act; but was required under the Act of August 1, 1870, in amount equal to the value of the-whole community. Pasch. Dig., arts. 4648, 5494.\nIt is contended, that as the statute requires the inventory and appraisement of all the property belonging to the community to be taken and recorded as in eases of administration, the directions of the law as to such inventories must be fully complied with, viz., that three appraisers should be appointed by an order entered on the minutes of the court, and that the survivor, with the assistance of the appraisers, should cause to be-made a full inventory and appraisement of all the estate; that the inventory and appraisement be subscribed and sworn to by the appraisers, and that the survivor should make and attach to the inventory a full and. complete list of claims owing to the estate, signed and sworn to by him as a complete inventory and list of all the property belonging to the community, as required by the statute in cases of administration; and appellants say, that because all this was not done by Mrs. Fisher, the proceedings-were invalid and gave her no control of the property as survivor, under the statute.\nOpinion.\u2014The statute prescribing the duties of executors and administrators after the grant of letters, required inventories, appraisements, and list of claims as stated by appellants, but we do not think the mere absence of such list, if required, or the failure to comply with prescribed forms, would render the proceeding invalid. The courts have been liberal in this respect in favor of the survivor. We are not advised by the record that there were claims due the estate, nor can we say that a full inventory of all the property was not presented by Mrs. Fisher and appraised; but if there had been an omission, the parties interested could have had a more complete inventory by complaint to the court. Cordier v. Cage, 44 Texas, 534, et seq. The proceeding in this case was under the direction of the court,, which, by the statute, was clothed with all necessary powers in the premises, and the usual force should be allowed to its order showing that the inventory of the community estate had been filed by the survivor, that appraisers had been appointed, and the property duly appraised. It has been decided, that an approval of the inventory by the court is not necessary, but such approval and formal statement in' the order of the facts showing that the law had been complied with are not without force in establishing the facts stated as a judicial finding.\nIf the inventory failed to list any of the property, it might have been corrected upon complaint to the court, but such failure would not deprive the survivor of the powers conferred by the statute. Dawson v. Holt, 44 Texas, 178; Jordan v. Imthurn, 51 Texas, 287; Green v. Grissom, 53 Texas, 435; Long v. Walker, 47 Texas, 173; Pratt v. Godwin, 61 Texas, 335; Lumpkin v. Murrell, 46 Texas, 52.\nWe conclude that the law was substantially complied with by Mrs. Fisher, and that she was fully empowered to act as survivor of the community as upon full compliance with the statute.\nIn this connection, we add that the act referred to conferred upon the surviving wife the same powers, rights, and obligations that were conferred upon the surviving husband, so long as she remained unmarried.\nArticle 4652, Paschal\u2019s Digest, does not, in terms, declare that she may \u2022dispose of the property, as in the articles defining the husband\u2019s power (articles 4647 and 4648), but it gives her the exclusive management and \u2022control, in the same manner and subject to the same rights, rules, and regulations as provided in foregoing sections of the act. No distinction has ever been made as to the powers of the survivors; they have always been recognized as being equal in cases where the statute has been followed and where it has not. This construction has always been given to the statute, without question or argument. That this is correct is apparent from the language of the statute suspending the right of the wife to act after she marries again; it says: \u201cBut upon second marriage she shall cease to have such control and management of said estate, or the right to \u25a0dispose of the same, under the provisions of this act, and said estate shall be subject to administration as in other cases.\u201d Pasch. Dig., art. 4652; Acts of 1870; 2 Pasch. Dig., art. 5497; Tucker v. Brackett, 28 Texas, 337; Leatherwood v. Arnold, 66 Texas, 417; Davis v. McCarty, 64 Texas, 584; Cordier v. Cage, 44 Texas, 534; Green v. Grissom, 53 Texas, 434; 58 Texas, 80; 43 Texas, 121.\nAppellants\u2019 second assignment of error is, that \u201cthe court erred in admitting in evidence, over plaintiffs\u2019 objection, the copy of purported proceedings in the District Court of Harris County, being a copy of pleadings and judgment in the suit of William G. Hale v. Mary C. Fisher; because such pleadings and judgment are irrelevant, and not legitimate evidence, the pleading especially being evidence of a declaratory, ex parte, hearsay character, and secondary in a remote degree.\u201d\nThe pleadings of Hale in the suit referred to, filed March 25, 1869r \u201c set forth a copy of a purported contract by H. F. Fisher and others, made in 1858, employing Hale to represent their interests in certain lands and land certificates involved in litigation, they agreeing to pay Hale-820 per section. The pleadings allege, that by virtue of \u2022 the contract Fisher became indebted to Hale to the amount of $2540 in 1862, and he sues for that amount and interest, alleging that Mary C. Fisher had qualified and taken possession of the community estate\u201d of herself and deceased husband. Judgment was rendered in the foregoing suit on May 3, 1872, in favor of Hale against the defendant for $473.90 and all costs; Mrs. Fisher having answered that H. F. Fisher had in his lifetime paid Hale all he was liable for under the contract sued on.\nMrs. Mary C. Fisher conveyed her undivided one-half of survey 173,. described in the petition, to Gustav Schleicher, on the 11th day of April, 1868, for $320, from whom defendants show title by deeds to such half. The other half was conveyed by her through her agent, G. Schleicher, to defendants Adams & Wickes, June 5, 1871, for $2000. The Hale suit was pending when the last sale was made.\nThe evidence was admissible to show that creditors had no complaint to make against her control and management of the estate, and that there was a valid debt against the estate. If. however, the evidence was superfluous, it would not constitute reversible error.\nAppellants insist that \u201c the court erred in admitting in evidence, over plaintiffs\u2019 objections, the copies of purported orders and decrees of the District Court of Harris County, purporting to be a general adjustment, of accounts, debts, receipts, expenditures, and liabilities between Mary C. Fisher, surviving wife of II. F. Fisher, and their four children, and decreeing partition of lands; which orders and decrees do not mention, the land in controversy, but do contain recitals, that Mary C. Fisher had established to the satisfaction of said court that she had paid certain amounts that were community debts, by exhibiting certain vouchers, receipts, etc., and that she was liable for other small and unpaid community debts.\u201d \u201c These orders, decrees, and recitals,\u201d say appellants, 1 \u2018are certainly matters of irrelevant; illegitimate, secondary evidence of a remote and unreliable character, not pertinent to the issue in this case, not authorized under the pleadings, and not binding per se upon the plaintiffs, so as to affect their title to the land in controversy.\u201d\nSuch an order of the District Court for settlement of the accounts of the survivor, Mrs. Fisher, and partition of the community estate of herself and her deceased husband, dated December 23, 1874, was read in evidence by defendants, as was also a final decree of the partition ordered. Nothing but the decrees were read in evidence; ndne of the pleadings, exhibits, or vouchers.\nThe decree of settlement and order of partition is quite voluminous,. requiring division of about 120 surveys of land in the State, or near 60,000 acres, and adjusting all accounts of the survivor with the estate and the heirs. We insert some part of the recitals in the decree to show its character and relation to the case before us. After preliminaries as to parties and waiving a jury, the decree states:\n\u201c There was heard the pleadings and evidence, from which it appears, that the said Mary C. Fisher, since the death of her husband, has sold of the community lands, consisting of the several tracts specified in her answer, 4787 acres, for the aggregate sum of $4733.80, with which sum she stands chargeable; and it further appears, that she has paid out for taxes on said community, as shown by her answer and by vouchers and proof, $2494.69, and has paid debts contracted during the marriage, as per schedule filed with voucher and proof to the satisfaction of the court, $1663.69, and amounts paid on other debts of the community, and expenditures on account thereof, as per voucher and proof, $2617.40, less an item of expense $1000, and tuition of $500, $1500\u2014$1117.40; which last two items, being expended for benefit of defendants Amelia and Henry, are properly chargeable to them in equal moieties in partition as-so much received; and it further appearing, that the said Mary C. owes-C. J. Koehler a balance on judgment against her for a debt of the community of $165, and a fee to Gray & Botts for services rendered on account of the community, $400, makes the whole disbursement on account of the community the sum of $5840.78, and deducting therefrom the amount for which she has sold community land, $4733.80, leaves the community estate indebted to her in the sum of $1160.98, one-half of which balance is due the said Mary C. from the defendants Amelia, Mary, Henry, and the plaintiff Carrie, each one-fourth part, say $138.37. It is therefore adjudged,\u201d etc. Then follows judgment against the heirs named for the amount so due to Mrs. Fisher.\nOther rights are adjusted between the parties by the decree and partition of the estate ordered, consisting solely of lands, except two certificates in the hands of Keuchler for location. Commissioners and the sheriff, Ashe, are appointed to make the partition as ordered, one-half to Mrs. Fisher and the other half to the four heirs, taking into the account-the amounts due Mrs. Fisher, as ascertained by the decree. The survey in suit is not mentioned in the judgment, or alluded to, unless it is included in the 4787 acres found to have been sold by her, referred to as reported in her answer. The partition made pursuant to the order of the court was confirmed by final decree, which was read by the defendants.\nDefendants claimed that Mrs. Fisher was duly authorized to act in the sale of the land in suit by virtue of her compliance with the statute of 1856; this was denied by plaintiffs; and then, to show that her act was-valid, defendants relied upon the fact that there were debts against the estate, which gave her power to act without compliance with the statute, and that her act was valid against the heirs in any event.\nThe decree of the District Court was legitimate proof of the existence of debts, binding upon the heirs; an \u00abi in case she had not power to sell the land in suit by virtue of filing an inventory as required by the statute, the existence of debts against the community would be sufficient authority for her act of sale. Besides, the decree of partition was binding upon the heirs, showing sales of community property by Mrs. Fisher, charging her with the proceeds of the same, the payment of debts by her which were charges against the estate, adjustment of the existing rights of all the parties, and a partition of the residue of the estate; all important testimony to show that the heirs were bound by the judgments and had received their shares of the estate, in which case they could not now complain against a purchaser from the survivor before such partition. Defendants were entitled to this effect of the testimony, and it was sufficient both to justify the sale and to show that the heirs had no cause of complaint in this suit. The decree of confirmation shows that they received the lands they were entitled to. If Mrs. Fisher had power under the statute, by filing inventory, to sell, and did sell the land in dispute under such power, the decrees would be unnecessary; but plaintiffs denied that she had complied with the statute, and denied that she had sold under such power. It was not error to admit the evidence.\nOn May 27, 1871, Mary C. Fisher executed to G-. Schleicher a written power of attorney to sell the land in controversy. The language of the power material to the issue is: \u201cI, Mary C. Fisher, surviving wife of Henry F. Fisher, deceased, have nominated, constituted, and appointed, and by these presents do nominate, constitute, and appoint, Gustav Schleicher my true and lawful agent and attorney, for me, and in my name and place, to sell, alien, and convey all the right, title, interest, and estate which I have in and to 640 acres of land,\u201d describing the land; \u201c and I hereby authorize my said attorney to execute to the purchaser or purchasers of said land good,.valid titles in fee simple, to receive and receipt for the purchase money, and generally to do and perform all and every act and thing necessary to be done in and about the premises as I myself could were I personally present,\u201d etc. The agent, under this power, conveyed, by general warranty deed, an undivided one-half of the land to defendants, for a consideration of $2000, June 5, 1871. Mrs. Fisher had already, on April 11, 1868, in consideration of $320, conveyed her undivided one-half of the survey to Gustav Schleicher, who, on May 4, 1868, conveyed an undivided quarter of the tract, and again, on February 7, 1871, conveyed another undivided quarter to defendant Wickes, who in turn, on February 15, 1871, conveyed an undivided quarter to defendant Adams.\nAppellants\u2019 fourth assignment of error reads as follows: \u201c The court erred in admitting in evidence, over plaintiffs\u2019 objections, the purported power of attorney from Mary C. Fisher to G-. Schleicher, of date May 27, 1871, to bargain, sell, and convey \u2018all her right, title, interest, and estate \u2019 in the land in controversy; because from evidence previously adduced, it appears that she had sold and conveyed all the interest she had ever possessed in such land on April 11, 1868; and because she is not shown to have had power to bargain, sell, and convey the one-half of said land at that date (May 27, 1871), which then belonged to the four children of herself and her deceased husband; and because said purported power of attorney did not, either expressly or impliedly, undertake to confer or delegate power and authority to G-. Schleicher to bargain, sell, and convey the said one-half of said land belonging to said children, but simply and only authorized him to bargain,sell, and convey \u2018 all the right, title, interest, and estate which I (Mary C. Fisher) have in and to 640 acres, known as survey 173, in district 11,\u2019 in her individual name and capacity; and because, if she did then possess power and authority to bargain, sell, and convey the one-half of said land that belonged to said children, it was most certainly a power she could not absolutely delegate to another.\u201d\nWe are of opinion, that as survivor the wife may make a sale by an agent duly appointed; that the existence of debts shown in this case authorized Mrs. Fisher to sell the land in suit; and that the sale by her agent conveyed all the unsold residue of the same, even though the power of attorney may not describe her as surviving wife duly qualified under the statute.\nThe writer is of opinion, that the language of the power of attorney is sufficient to delegate to the agent all the authority she had as survivor, duly qualified by compliance with the statute. She is described as the surviving wife of Henry F. Fisher, and this, it seems to the writer, is sufficient to designate her as such survivor, with all the capacity she actually had. She, as such survivor, did have the legal right to convey the land, having qualified by filing inventory, and could make title that could not be attacked collaterally, if done in good faith; the power of attorney made, describing her as survivor, carried all the power she had as survivor, and gave the agent the right to sell all the estate vested in her by law, as owner, and as survivor duly qualified.\nWe are agreed, that if the power of attorney did not designate her as the duly qualified survivor, still, as her deed in her own name would under the law convey a good title, there being proof of debts, her deed by an agent would have the same effect.\nWe have no doubt as to the legality of sale by an agent of the survivor, whether the survivor be qualified by compliance with the statute or by existence of debts.\nDelivered September 27, 1893.\nWe also agree, that the power of attorney authorized the agent to sell all the unsold interest in the land of the estate, that is, of the heirs of Mrs.. Fisher, and that such sale, together with the previous sale and conveyances to defendants, vested in them the title to all the land.\nAppellants contend, that after the Act of 1870, repealing the Act of 1856, and requiring the survivor to give bond, Mrs. Fisher, having failed to give bond, lost control of the estate as survivor; and that her deed by her agent in 1871 to the unsold half of the land passed no title. 2 Pasch. Dig., arts. 5494-5496, 5770.\nIf it be true that she lost the legal control of the estate as survivor-duly qualified, by compliance with the statute, still, there being debts, and charges against the community property for which it was liable, she could sell, as she did; and the decree of partition finding such debts and-adjusting the respective rights of the parties in relation to the estate-would be conclusive, in the absence of fraud, against the plaintiffs in this case. So it must be held that defendants have made a good defense upon, this ground.\nThe opinion of the writer is, that the Act of 1870, requiring bond, did' not revoke powers of the survivor who had qualified under the Act of 1856 while it was in force; that such survivor could continue to act with full powers without new proceedings and bond; and in such case, whether \u25a0 debts are shown or not, the sale by Mrs. Fisher in 1871, by her agent, was legal and valid. The sale was legalized by her compliance with the law when she took and retained possession of the estate.\nIt is not necessary to so hold in this case, as there were debts against the community which authorized the sale and vested in defendants title to all the land.\nWe find no error in the judgment of the lower court, and it is affirmed.\nAffirmed.\nChief Justice Fisher did not sit in this case.\nMotion for rehearing refused.",
+        "type": "majority",
+        "author": "COLLARD, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Sidon Harris, for appellants.",
+      "Simpson & James, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Amelia P. Withrow et al. v. Adams & Wickes.\nNo. 179.\n1. Administration of Community Property \u2014 Irregularities. \u2014 If the inventory filed by the widow failed to list any of the community property, the defect may be corrected upon complaint to the court, but such failure would not deprive the survivor of the power conferred by the statute (Paschal\u2019s Digest, articles 4642, 4647, 4648). Nor would such omission affect a sale made by the widow who had filed such imperfect inventory.\n2. Same.\u2014The statute confers upon the surviving wife the same powers that were conferred upon the surviving husband, so long as she remained unmarried. She had the right to sell the community property, equally as a surviving husband.\n3. Evidence of Indebtedness of Community Estate. \u2014 Records of suits upon money claims incurred by the husband, and of a partition suit between the widow and the children, reciting the sales of property by the wife, and the payment of debts of the estate, are competent evidence to prove the existence of community debts. The existence of such debts confers power upon the survivor to sell for payment of such debts without complying with the statute.\n4. Survivor may Sell by an Attorney.\u2014 As survivor, the wife ma,y make a sale of land by an agent, duly appointed. Debts existing against the es-tote. the deed by her attorney in fact passed title, although she was not described in the deed as surviving wife duly qualified under the statute.\n5. Power of Attorney\u2014Construction.\u2014Debts existing against the community estate, the widow conveyed an undivided half of a tract of land. Subsequently, she made a power of attorney.constituting an agent, \u201cin my name to sell, alien, and convey all the right, title, interest, and estate which I have in and to\u201d the tract; \u201c and I hereby authorize my said attorney to execute to the purchaser * * * good, valid titles in fee simple,\u201d to receive purchase money, and to perform every act about the matter which she could do if personally acting. Held, that a sale by such agent of the remaining half conveyed title as against heirs of the husband.\n6. Construction of Statutes. \u2014 The probate Act of 1870, requiring the \u25a0survivor to execute bond to the amount of the community estate, and to that extent altering the Act of 1856 on the administration of community estates, would not affect the validity of a sale made subsequent to the change in the law, where \u2022such sale was made for payment of community debts.\nAppeal from Tom Green.\nTried below before Hon. J. W. Timmins.\nSidon Harris, for appellants.\n1. The law of 1856 required the survivor to file \u201c a full, fair, and complete inventory and appraisement of \u2022all the property belonging to the community estate, to be taken and recorded as in cases of administration.\u201d Pasch. Dig., art. 4648.\n2. A surviving husband duly and regularly qualified under the community Act of August 26, 1856, was thereby empowered to dispose of all the community property of himself and deceased spouse. Pasch. Dig., \u2022arts. 4647, 4648.\nBut said act did not confer such absolute authority upon a surviving wife. She was only empowered to \u201c retain the exclusive management and control\u201d of such community property.\nShe was not authorized to dispose of the whole community property. This is the plain reading of the law. Pasch. Dig., art. 4652.\nWe admit that it has been assumed that this act conferred upon the surviving wife powers co-ordinate with those conferred upon the surviving, \u00a1husband, but the precise question seems to never have been presented in this court. The law, as it now stands, does, but the change was made by the codifiers in 1879. Rev. Stats., art. 2181.\nIn articles 4647 and 4648 of Paschal\u2019s Digest, the same set phrase is twice used conferring upon the husband the management, control, and disposition of the community property, but when it comes to mention the wife in article 4652, the words \u201c dispose\u201d and \u201cdisposition\u201d are omitted. From this it clearly appears those words, of such material force arid effect, could not have been omitted through inadvertence. We know of no authority or rule of construction that would supply, by implication, matters of so vital consequence.\n3. The community Act of August 26, 1856, having been expressly repealed by the probate Act of August 15, 1870, the powers that had been acquired by a surviving wife by qualifying under the provisions of the former law, ceased to be of any force and effect with the repeal thereof.\nThe Act of 1870 provided for qualification of the surviving spouse as the legal community representative, but was more onerous in its. requirements. It changed the jurisdiction for such proceedings from the County Court to the District Court, and required the survivor to give a bond equal to the value of the whole estate. True, it provided for a transfer of all pending proceedings relating to the settlement of the estates of deceased persons from the County Court to the District Court; but it required that such proceedings should be revised by motion and notice in the District Court, and concluded under the provisions of said Act of 1870.\nNo steps having been taken by Mary C. Fisher to revise and conform her qualification to the requirements of this act, she lost all her rights, and powers as the legal representative of the community estate that sho had acquired (if it be held she had ever acquired any) under the said repealed law of 1856. Pasch. Dig., arts. 5494, 5770, 5771; Coffin v. Rich, 45 Me., 512.\n4. When a claimant asserts title to the whole of a tract of land under-purchase from the surviving wife, the land having been community property, and her husband having died intestate, leaving children, the burden of proof is upon such claimant to establish by competent and satisfactory evidence that at the date of purchase from the wife there existed, unsatisfied debts against the community estate, incurred during the lifetime of the husband, and that the wife sold said land for the purpose of paying said debts, and that the sale was a reasonable one for such purpose,, and fairly made. Rev. Stats., art. 2164; Pasch. Dig., art. 4646; Johnson v. Harrison, 48 Texas, 268; Moody v. Butler, 63 Texas, 211; Caruth v. Grigsby, 57 Texas, 265; Hair v. Wood, 58 Texas, 79; Cock v. Carson, 45 Texas, 431; Johnston v. Bank, 75 Cal., 145; Brousard v. Bernard, 7 La. Ann., 222; Smith v. Syndics of Dorsey, 5 La. Ann., 381; Morris v. Covington, 2 La. Ann., 261; Petrie v. Wofford, 3 La. Ann., 562.\n5. In cases where a trustee is vested with a mere power to make an appointment, the intention to execute such power may be implied from circumstances that render the transaction unsusceptible of -a different intention; but where a trustee has a general personal power and discretion to sell and convey land, and not a mere special power of appointment, the delegation of such general power to a substitute will not be maintained by implication; it must be evidenced by expressive terms. 1 Dev. Deeds, 358; Ev. Agency, side p. 111; Succession of Pipes, 26 La. Ann., 206; Stinchcomb v. Marsh, 15 Gratt., 211; Stainback v. Read, 11 Gratt., 286; Patterson v. Wilson, 64 Md., 196; Morey v. Michael, 18 Md., 241, 242; Black v. Erwin, 1 Harp., 412; Pease v. Iron Co., 49 Mo., 126, 127; Hollister v. Shaw, 46 Conn., 252, 257; Bank v. Best, 14 S. W. Rep., 954.\n6. A surviving wife is a trustee for the children of her deceased husband to the extent of their interest in their community estate. If she qualifies-as community administratrix, she becomes a legal trustee; if she fails to qualify, but takes possession and control of such community estate, she becomes a trustee in equity. In either case, the law reposes in her a personal trust and discretion until she again marries, in which event she is immediately divested of all powers, legal or equitable, over such estate, as a whole. To contend that she can delegate her powers as such trustee, and the exercise thereof, to another, is to oppose the plain policy of the law and every sensibility of reason. Pasch. Dig., arts. 4648, 4652; Davis v. McCartney, 64 Texas, 588; Ord v. De La Guerra, 18 Cal., 74, 75; Shattuck v. Chandler, 40 Kan., 512, 513; Frazer v. Kershaw, 2 K. & J. (Eng. Vic. Ch.), 501; Tierman v. Molliter, 71 Mo., 513; Nelson v. Tenny, 36 Hun, 329, 330; Bancroft v. Snodgrass, 1 Coldw., 438, 440-444; Lyon v. Jerome, 26 Wend., 494; Black v. Erwin, 1 Harp., 413; Saunders v. Webber, 39 Cal., 290; Bank v. Baugh, 9 S. & M., 301; Locke\u2019s Appeal, 72 Pa. St., 494; Brewster v. Hobart, 15 Pick., 307; Berger v. Duff, 4 Johns. Ch., 369; Paul v. Edwards, 1 Mo., 25; Belote v. White, 2 Head, 710; 2 Swan, 364, 372; Danforth v. City of Paterson, 34 N. J. L., 168; Smith v. Sublett, 28 Texas, 163; McCormick v. Bush, 38 Texas, 315; Bitter v. Calhoun, 8 S. W. Rep., 524; Pars. on Part., 478-480; Story on Part., 328; 4 Kent, side p. 327; 1 Sugd. on Pow., side p. 214; Hill on Trustees, side p. 472.\nSimpson & James, for appellees.\n1. Where the record of the qualification by a survivor shows the survivor\u2019s intention to administer the community estate, mere irregularities in the proceedings will not vitiate them; nor is it necessary, as insisted upon by appellant, that the inventory should be signed or sworn to by the survivor. Green v. Grissom, 53 Texas, 432; Busby v. Davis, 57 Texas, 324; Dawson v. Holt, 44 Texas, 174; Cordier v. Cage, 44 Texas, 532; Long v. Walker, 47 Texas, 173; Pratt v. Goodwin, 61 Texas, 331.\n2. The existence of community debts at the time of a sale by the survivor authorizes the sale, in the absence of fraud and collusion. Davis v. McCartney, 64 Texas, 587; Leatherwood v. Arnold, 66 Texas, 417; Carter v. Connor, 60 Texas, 52; Fagan v. McWhirter, 71 Texas, 567.\n3. The surviving husband or wife, as the case may be, is, as a surviving partner, fully empowered to use the community property in the settlement of its indebtedness and in the performance of community obligations. It is not so much the manner of doing this, as the result attained, that is considered. The survivor may sell, exchange, or convey property directly to settle a debt; may mortgage same, or give a deed of trust on same; in fine, the survivor, under our decisions, may dispose of community property in any manner discretion tells him or her it is most beneficial to the estate, provided only that no fraud be committed chargeable to the party dealing with the survivor. Jones v. Jones, 15 Texas. 148; Sanger Bros. v. Moody, 60 Texas, 96; Leatherwood v. Arnold, 66 Texas, 417; Carter v. Connor, 60 Texas, 52; Jordan v. Imthurn, 51 Texas, 276; Davis v. McCartney, 64 Texas, 588; 1 Pasch. Dig., arts. 4647, 4652; Dev. on Deeds, sec. 352; Bates on Part., sec. 334.\n4. In cases where the management of community property devolves on the wife when deserted by her husband, she has as full powers as he had, and acts as a feme sole, and not merely as a trustee. Fullerton v. Doyle, 18 Texas, 112; Wright v. Hays, 10 Texas, 134; Ann Berta Lodge v. Leverton, 42 Texas, 20."
+  },
+  "file_name": "0438-01",
+  "first_page_order": 462,
+  "last_page_order": 474
+}

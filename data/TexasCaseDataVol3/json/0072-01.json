@@ -1,0 +1,181 @@
+{
+  "id": 221042,
+  "name": "The Gulf, Colorado & Santa Fe Railway Company v. A. D. Rather",
+  "name_abbreviation": "Gulf, Colorado & Santa Fe Railway Co. v. Rather",
+  "decision_date": "1893-03-24",
+  "docket_number": "No. 107",
+  "first_page": "72",
+  "last_page": "78",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 72"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "17 Atl. Rep., 791",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "40 Iowa, 45",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        8663351
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/iowa/40/0045-01"
+      ]
+    },
+    {
+      "cite": "17 Mass., 544",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "67 Me., 173",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "47 Iowa, 82",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        2331659
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/iowa/47/0082-01"
+      ]
+    },
+    {
+      "cite": "46 N. H., 213",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        4467652
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nh/46/0213-01"
+      ]
+    },
+    {
+      "cite": "63 N. Y., 101",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        527147
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/63/0101-01"
+      ]
+    },
+    {
+      "cite": "28 Barb., 276",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "71 Pa. St., 434",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "16 Atl. Rep., 67",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "7 S. E. Rep., 217",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "40 N. W. Rep., 691",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "125 Ind., 229",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1385080
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ind/125/0229-01"
+      ]
+    },
+    {
+      "cite": "125 Ind., 233",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 795,
+    "char_count": 18371,
+    "ocr_confidence": 0.555,
+    "pagerank": {
+      "raw": 1.9087420753902096e-07,
+      "percentile": 0.7314297088363066
+    },
+    "sha256": "5188b14dc3561ee7fcef3e09b00a245c76a2d84fe275ad9e9e2e1a7f4d0c6db9",
+    "simhash": "1:8a204bae34849e74",
+    "word_count": 3254
+  },
+  "last_updated": "2024-02-27T16:31:46.217873+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The Gulf, Colorado & Santa Fe Railway Company v. A. D. Rather."
+    ],
+    "opinions": [
+      {
+        "text": "FISHER, Chief Justice.\nThe appellant\u2019s fifth and sixth assignments, of error complain of the action of the court in overruling its demurrer addressed to so much of the plaintiff\u2019s petition as asks for damages resulting from the alleged robbery by highwaymen, and in failing to instruct the jury to disregard such allegations. There is no merit in either of these propositions. It does not appear from the record that the demurrer was acted on in the court below, or even called to the attention of the trial court. Such being the case, the presumption is that it was abandoned. The court was not required, at least without a request to that-effect, to instruct the jury to disregard an allegation that was not an issue in the case. There is not a word of evidence in the record concerning any robbery or attempted robbery. The matter was not mentioned in the charge or called to the attention of the jury in any manner, so far as appears from the record. All that appears with reference thereto is the allegation in plaintiff\u2019s petition. It appears that this matter was abandoned and was not relied upon as an issue in the case. At least such is the inference drawn from the record. As the question is presented, we-fail to see how the appellant was injured.\nThe principal questions in the case are, was the appellee guilty of a want of proper care in failing to examine his ticket and discover the mistake made in the route before he reached Cleburne; and after the mistake was discovered, was the appellant justified in treating the appellee as a trespasser upon its train ?\nThe facts show that the ticket really contracted for was over the route travelled by appellee when he was removed from the train, but by a mistake a ticket over a different route was delivered him. He, for want of time in order to board the train at Temple, which was about leaving, did not examine his ticket when he paid for it. Nor did he examine it at all before reaching Cleburne, where the change of cars is made for the route called for by the ticket. It is not necessary for us to undertake to lay down in this case a rule of law that should control the conduct of a passenger when he actually discovers that a mistake is made in selling him a ticket, and permits a seasonable opportunity to pass without attempting to correct it, for that is not the question before us. The question is, was the passenger guilty of negligence in failing to discover the mistake before his right to ride was questioned by the conductor ? The fact of the passenger\u2019s negligence in a case of this character in the manner complained of is not determined by any rule of law that gives character to the act, but its existence or nonexistence is ascertained as a fact by the \u25a0jury from all the facts and circumstances surrounding the passenger at the time, that tend to explain his conduct and that of the servants of the-carrier whose duty brings them in contact with the passenger. We do not believe that the finding of the jury on this question is without evidence to support it. Railway v. Gilbert, 64 Texas, 539; Railway v. Hassell, 62 Texas, 257; Railway v. Mackie, 71 Texas, 497; Railway v. Bray, 125 Ind., 233.\nWe now come to the question, whether the appellant was justified in treating the appellee as a trespasser upon its train and requiring him to leave it, and refusing him the right to continue his journey by that train. This can be answered in the negative, for two reasons:\nFirst. If the appellee was upon the train by mistake arising from the fault of the servants of appellant, or if there was a mistake in the ticket calling for a different route than that contracted for, the appellee was not a trespasser, and it was the duty of the carrier to treat and deal with him as a passenger and afford him a reasonable opportunity to correct the mistake if he so desired, and not prevent him from doing so, as was done in this case, when the appellant refused him a reasonable time to purchase other tickets, as he was endeavoring to do when he was left at the station by the conduct of the conductor.\nIt is said in Railway v. Gilbert, 64 Texas, 540: \u2018\u2018 It is a principle too well settled to require further elucidation, that a person who by mistake gets on a passenger train other than the one upon which he intended to take passage is nevertheless a passenger upon the train he is on, and the relation of passenger and carrier exists between him and the company.\u201d\nSecond. The appellee had the right to stand upon his contract as it was really made with the ticket agent of appellant. While the ticket is usually the evidence of the contract between the carrier and passenger, yet what is contained therein or omitted therefrom is not in all cases to be considered as conclusive of the rights of the passenger. 2 Beach Law of Rys., secs. 869, 870. If the carrier by mistake fails to deliver what the passenger purchased, or fails to furnish the passenger with a ticket evidencing his rights secured by the contract really entered into, it. must correct this mistake when the emergency requires, and grant to the passenger the privilege and right actually purchased. The carrier will not under such circumstances be permitted to complain of the condition of the passenger which it by its wrongful acts has forced upon him. 64 Texas, 541. When the right of the passenger in this ease was first questioned to travel upon the ticket, he explained to the conductor the facts and circumstances under which it was purchased, and suggested to the conductor that a communication with the agent who sold him the ticket would verify his statement. The conductor at the time was the agent of the carrier and its representative in dealing with persons standing in the relation of passengers. He could no more deny the passenger the benefits of the' contract of carriage as really made than could the carrier itself. It can not be heard to say that it was ignorant of the terms of the contract. It knew of the terms of the contract through another agent\u2014the one with whom the passenger dealt in purchasing his right to transportation. Railway v. Mackie, 71 Texas, 494; Railway v. Bray, 125 Ind., 229; 40 N. W. Rep., 691; 7 S. E. Rep., 217; 16 Atl. Rep., 67; Railway v. Hassell, 62 Texas, 257.\nUnder the facts, we think the appellee was entitled to complete his journey on the train, and that the carrier wrongfully required him to leave it. We think the court fairly and fully charged the law applicable to the case, and it contains no reversible error. There was no error in refusing the charges requested.\nJudgment affirmed.\nAffirmed.\nDelivered March 24, 1893.\nMotion for rehearing overruled.",
+        "type": "majority",
+        "author": "FISHER, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "J. W. Terry and H. S. Downey, for appellant.",
+      "Monteith & Furman, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "The Gulf, Colorado & Santa Fe Railway Company v. A. D. Rather.\nNo. 107.\n1. Practice.\u2014It is no ground for reversal that an exception well taken hut not called to the attention of the court was not sustained, nor that a charge was not given upon an issue not made in the testimony.\n2. Care by Passenger Receiving a Wrong Ticket.\u2014Plaintiff desiring to go to Kansas City, Missouri, applied to the ticket agent of the defendant railway at Temple, Texas, and indicated the route he wished to take. By mistake the ticket agent gave a ticket partly over another route. In the hurry of embarking the plaintiff did not notice the mistake, nor did he notice it until he had passed the point his ticket route deflected from that on which he was travelling. The conductor treated plaintiff as a trespasser, and caused him to leave the train, etc. Held, that the question of negligence or not on the part of the passenger in not sooner discovering the mistake in his ticket was a fact for the jury, from the circumstances tending to explain the conduct of the passenger, and that of the employes of the railway company whose duty brought them in contact with the passenger.\n3. Right of Ticket Holder\u2014 Mistake in Ticket.\u2014A passenger upon a railway train without a ticket can not be treated as a trespasser by the conductor if the passenger was upon the train by mistake of the servants of the railway, or if there was a mistake in the ticket given him calling for a route \u00bfliferent from that contracted for with the ticket agent. Besides, the passenger contracting for passage to a given point, and paying for carriage, has the right to stand upon his contract as it was really made with the ticket agent. If the carrier by mistake fails to deliver what the passenger purchased, or fails to furnish the passenger with a ticket evidencing his rights secured by the contract really entered into, it must correct such mistake and grant the passenger the privilege and right actually purchased.\nAppeal from Bell. Tried below before Hon. W. A. Blackburn.\nThis is an appeal from a verdict and judgment for $500 against the appellant for damages for wrongfully ejecting the plaintiff from its cars, on which he was a passenger.\nAfter having been thrust from the cars, and before reaching another in order to continue his journey, he was set upon and robbed (as alleged). For the loss and indignity suffered in the robbery relief was asked.\nExceptions were filed to so much of the petition as set up the robbery, etc. They were not called to the attention of the court nor acted upon. There was no testimony introduced touching the alleged robbery, nor was the matter referred to in the charge of the court.\nNo other question was discussed on appeal upon the pleadings. The court adopted the conclusions of fact following:\n\u201c Following the verdict of the jury, we find as conclusions of fact:\n\u201c1. That the verdict is sustained by the evidence.\n\u201c2. We find that the evidence warrants the conclusion that the appellee intended to purchase tickets over the Gulf, Colorado & Santa Fe Railway and the Atchison, Topeka & Santa Fe Railway, to be used on the through train from Temple, Texas, to Kansas City; and that it is a reasonable inference to be drawn from the evidence that such was the understanding of the ticket agents at Temple, and that selling the tickets by way of Cleburne and Paris and the Frisco route was a mistake committed by the agents of appellant in selling the tickets.\n\u201c 3. That appellee first discovered such mistake when his attention was called to it by the conductor of appellant\u2019s train a few minutes before he reached the station where he left the train by order of the conductor. That nothing occurred between the time he hastily received the tickets from the agent at Temple to the time his attention was called thereto by the conductor north of Gainesville to excite his inquiry into the contents of said tickets. That under the circumstances the appellee was not guilty of contributory negligence in not sooner discovering the mistake made in selling him the tickets.\n\u201c 4. That a passenger going from Temple, Texas, to Kansas City by Paris and the Frisco route should change cars at Cleburne, Texas, and not continue on the route travelled by appellee north of Cleburne.\n\u201c 5. The appellee was not asked for fare between Cleburne and Gaines-ville, Texas, a point north of Cleburne, by the conductor on appellant\u2019s train between said points, but he travelled that part of his route by virtue of the tickets so purchased at Temple, and the conductor who took charge of the train north of Gainesville refused to recognize the right of appellee to ride upon the tickets, and demanded the payment of fare from Gainesville, Texas, to Thackerville, the station where appellee was required to leave the train, which amount appellee refused to pay.\n\u201c 6. When appellee was called upon for his fare by the conductor who required him to leave the train, he tendered the tickets purchased at Temple, which the conductor refused to receive and permit him to ride thereon; whereupon appellee made known to the conductor the fact that he had contracted to buy tickets over the route he was travelling, and offered to communicate with the agent at Temple in order to correct the mistake made in selling him the tickets.\n\u201c 7. Under the circumstances, we find that the conductor did not believe the statement made by appellee concerning the purchase of the tickets, and that his conduct then and subsequent was tantamount to a refusal to permit such mistake to be corrected.\n\u201c8. That appellee, for the reason of his refusing to pay his fare demanded by the conductor, was required by the conductor to leave the appellant\u2019s train at a small station north of Gainesville. That he endeavored to purchase, and so had the means and intended to purchase, from the agent at the station where he was put down tickets for himself and companion, in order to continue his journey on said train, when he was prevented by the conduct of the conductor in requesting the agent not to sell appellee a ticket unless he paid his fare from Gainesville, Texas, and was prevented in continuing his journey on said train by the refusal of the conductor to hold the train a reasonable time to permit appellee to so purchase said tickets; and the conductor started said train before said tickets were purchased, and left the appellee and his companion at the station.\n\u201c9. That the appellee and his companion were not trespassers upon appellant\u2019s train when they were required by the conductor to leave it.\n\u201c 10. That the conductor in his conduct towards appellee was rude when he demanded the extra fare.\n\u201c 11. That by reason of the conduct of the conductor towards appellee, and requiring him to leave the train, and in refusing to permit appellee to purchase the tickets and continue his journey on the train, the appellant violated its duty to appellee, and was in these respects guilty of actionable negligence.\n\u201c 12. That the facts showing the physical and mental pain resulting to appellee by reason of the wrongful conduct of appellant, coupled with the amount expended by appellee occasioned by the negligence of appellant, sustain the verdict in amount, and that it is not excessive.\n\u201cIn deference to the verdict of the jury, we find the facts as above stated, although as to some of the questions we may have found differently if we had the right to control the jury in the finding of their verdict on the facts.\u201d\nJ. W. Terry and H. S. Downey, for appellant.\n1. The charge of the court must conform to the case made by the pleadings and the evidence; and when there is no evidence upon an issue, or it has been withdrawn or abandoned by the party, the court should not submit it to the jury in his charge; and it is proper for the court, and he should, by his charge withdraw that issue from the jury. Dodd v. Arnold, 28 Texas, 98; Loving v. Dixon, 56 Texas, 75; Cannon v. Cannon, 66 Texas, 682; Belcher v. Fox, 60 Texas, 527; Railway v. Gilmore, 62 Texas, 391; Rosenthal v. Middlebrook, 63 Texas, 333; Railway v. Faber, 63 Texas, 344; Roddy v. Kingsbury, 5 Texas, 151; San Antonio v. Lane, 32 Texas, 405; Andrews v. Smithwick, 20 Texas, 111; Patton v. Rucker, 29 Texas, 402; Railway v. Tierney, 72 Texas, 312; Railway v. Underwood, 64 Texas, 463.\n2. It is the duty of a passenger holding a ticket of a railroad to inform himself on what train he can travel, over what roads he should go, and at what station he should alight or change cars. Beauchamp v. Railway, 56 Texas, 239; Wood\u2019s Ry. Law, 1413.\n3. A passenger who refuses to pay his fare when demanded, or to produce a proper ticket or other evidence of his right to passage, may be lawfully ejected, provided no more violence is used than is necessary. Breen v. Railway, 50 Texas, 43.\n4. The fact that conductor Carlin allowed appellee to ride from Cleburne to Gainesville, without demanding payment of fare or the production of a ticket or other evidence of his right to travel, would not estop conductor Cole from refusing to recognize his ticket and from ejecting him on refusal to pay fare, etc., for the reason that the ticket showed on its face and was express notice to him \u2018\u2018 that no agent or employe of any line named in this ticket has any power to alter, waive, or modify any condition in the ticket;\u201d and the ticket also showed plainly on its face that it was good only from Temple to Paris, Paris to Nichols, Nichols to Kansas City, and he was notified that he should change cars at Cleburne. Dietrich v. Railway, 71 Pa. St., 434; Beebe v. Ayres, 28 Barb., 276; Hill v. Railway, 63 N. Y., 101; Johnson v. Railway, 46 N. H., 213; Stone v. Railway, 47 Iowa, 82; Kelly v. Railway, 67 Me., 173; Wakefield v. Railway, 17 Mass., 544; Sherman v. Railway, 40 Iowa, 45; Thorpe v. Railway, 17 Atl. Rep., 791.\n5. When the evidence of certain facts is positive and not controverted, they should be taken as established, and the jury so instructed. Wintz v. Morrison, 17 Texas, 372; Railway v. Stewart, 57 Texas, 166; Caruth v. Grigsby, 57 Texas, 259; Teal v. Terrell, 58 Texas, 257; Grinnan v. Dean, 62 Texas, 218; Supreme Council v. Anderson, 61 Texas, 296; Eason v. Eason, 61 Texas, 225.\nMonteith & Furman, for appellee.\n1. The verdict of the jury is according to law, and is supported by the evidence. It is not excessive. The evidence shows that plaintiff suffered damages, as found by the jury, the result of negligence of defendant, and that plaintiff was guilty of no contributory negligence. Railway v. Mackie, 71, Texas, 491; Railway v. McDonald, 75 Texas, 41; Railway v. Bond, 62 Texas, 442; Railway v. Hassell, 62 Texas, 256; Railway v. Wilkes, 68 Texas, 617; Tel. Co. v. Stuart, 66 Texas, 580; Railway v. O\u2019Donnell, 58 Texas, 27; Railway v. Hewitt, 67 Texas, 473; Railway v. Lee, 71 Texas, 538.\n2. The court refusing to charge upon any issues raised in the pleadings, thus withdraws said issues from the consideration of the jury, and no finding could be made thereon; and if defendant in this cause wished a charge more explicit, and in terms informing the jury that no evidence had been introduced on the allegations of robbery in plaintiff\u2019s petition, and that it could make no finding thereon, it was defendant\u2019s duty to have requested special instructions on that point, and failing to do so, can not complain in this court. Blackwell v. Hunnicutt, 69 Texas, 273; Railway v. Helm, 64 Texas, 147; Ins. Co. v. Ende, 65 Texas, 118; Gallagher v. Bowie, 66 Texas, 265; Steel v. Paschal, 41 Texas, 640; Endick v. Endick, 61 Texas, 559; Dallas v. Railway, 61 Texas, 196; Railway v. Casey, 52 Texas, 112; Railway v. O\u2019Donnell, 58 Texas, 27; Davis v. Roosvelt, 53 Texas, 305."
+  },
+  "file_name": "0072-01",
+  "first_page_order": 98,
+  "last_page_order": 104
+}

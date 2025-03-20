@@ -1,0 +1,66 @@
+{
+  "id": 221110,
+  "name": "James Rice v. W. B. Aiken",
+  "name_abbreviation": "Rice v. Aiken",
+  "decision_date": "1893-04-06",
+  "docket_number": "No. 140",
+  "first_page": "143",
+  "last_page": "145",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 143"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 300,
+    "char_count": 4522,
+    "ocr_confidence": 0.564,
+    "pagerank": {
+      "raw": 9.61237739423476e-08,
+      "percentile": 0.5167674557195753
+    },
+    "sha256": "73ebe745e099b91700975de2379abb945cc8ba59d044fccff09a09dce5d08ab6",
+    "simhash": "1:ad5e28b112bed9cd",
+    "word_count": 779
+  },
+  "last_updated": "2023-07-14T18:08:23.206239+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James Rice v. W. B. Aiken."
+    ],
+    "opinions": [
+      {
+        "text": "TARLTON, Chief Justice.\nAppellant, James Rice, prosecutes this appeal from a judgment rendered April 9, 1890, by the District Court of Lamar County, in favor of the appellee, W. B. Aiken. By this judgment appellee, in an action of trespass to try title, recovered the south one-half of the north one-half of lot 1, block 21, in the city of Paris, Lamar County.\nThis property formerly belonged to James Rice and his former wife, Mary Rice; and from them as a common source both parties to this action deraign their title.\nMary Rice, the former wife of appellant, having been legally divorced from him, married one Archie Harris. She and her second husband brought suit number 4090 in the District Court of Lamar County. In that suit she sought and obtained against James Rice, a defendant therein, on September 29, 1887, a decree whereby one-half of the south one-half of the north one-half of the lot described was adjudged to be the property of the plaintiff Mary Harris, and the remaining one-half to be the property of the defendant James Rice. Commissioners were appointed to divide the property. They, however, reported that it was not susceptible of equal partition. Thereupon the court appointed a commissioner to sell it at private sale for cash, and to report his action.\nThe commissioner thus appointed, in compliance with the order, sold the property to W. B. Aiken, the appellee herein, for the sum of $650, and reported his action to the court, which, on May 15, 1888, in all respects confirmed the sale and ordered the execution of a deed. The appellee having paid the purchase price, the proceeds were deposited in court, one-half for the plaintiff Mary Harris, and the remainder for the defendant James Rice. The commissioner accordingly executed and delivered to W. B. Aiken a conveyance, which constitutes his title.\nJames Rice, though duly cited in the cause number 4090, filed no answer therein. He, however, urged a motion for a new trial, which was overruled, and in which he insisted that the property was the homestead of himself and family, and was not subject to partition. In the present case he seeks, exclusively on this ground, to avoid a recovery by the appellee.\nWe entirely agree with the trial court, that the judgment in the cause number 4090 must be regarded as a bar to this defense, if it had any merit in the first instance, which we abstain from considering. The question of partition, and all questions incident thereto affecting the right of partition, such as the question of homestead, were fairly within the scope of the issue presented by the pleadings in that case, and having been between the parties to the present action, or their privies in estate, must be held to have been adjudicated in the former suit. Foster v. Wells, 4 Texas, 103; Weathered v. Mays, 4 Texas, 388; Philipowski v. Spencer, 63 Texas, 607; Pishaway v. Runnels, 71 Texas, 354.\nThe judgment is affirmed.\nAffirmed.\nDelivered April 6, 1893.",
+        "type": "majority",
+        "author": "TARLTON, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "F. W. Miner, for appellant.",
+      "Burdett & Connor, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "James Rice v. W. B. Aiken.\nNo. 140.\nRes Adjudicata\u2014Homestead Right Concluded by Judgment in Partition.\u2014In a suit for partition, the question as to whether the land involved is the homestead of the defendant and his family, and therefore not subject to partition, is fairly within the issue, and a judgment for plaintiff therein is a bar to defendant\u2019s subsequent assertion of homestead rights in the property, as against one who purchased it at a sale made under such judgment for the purpose of effecting the partition.\nAppeal from Lamar. Tried below before Hon. E. D. McClelland.\nF. W. Miner, for appellant.\nUnless the issue is made by the pleadings, the court does not pass upon the question of whether the property is or is not a homestead, and its judgment is neither directly on the point, nor does it necessarily involve the decision of the question. Referring to the record in this case, in which is incorporated all the pleadings in the former suit, we find no plea of homestead set up by appellant before the judgment was rendered therein. Willis v. Matthews, 46 Texas, 478; Seligman v. Collins, 61 Texas, 314.\nBurdett & Connor, for appellee.\nWhere the rights of a party to the subject matter of the suit have been adjudicated in a former suit between the same parties or their privies, in a court of competent jurisdiction, the judgment of such court in the former suit is conclusive of the matter directly in question. Bryan v. Bridge, 10 Texas, 150; Foster v. Wells, 4 Texas, 104; Weathered v. Mays, 4 Texas, 388; Herm. on Estop., secs. 107-109, 467."
+  },
+  "file_name": "0143-01",
+  "first_page_order": 169,
+  "last_page_order": 171
+}

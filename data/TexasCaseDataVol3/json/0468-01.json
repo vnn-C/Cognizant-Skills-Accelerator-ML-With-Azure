@@ -1,0 +1,62 @@
+{
+  "id": 221173,
+  "name": "Solomon Barnes v. W. A. H. Miller",
+  "name_abbreviation": "Barnes v. Miller",
+  "decision_date": "1893-05-31",
+  "docket_number": "No. 249",
+  "first_page": "468",
+  "last_page": "468",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 468"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 109,
+    "char_count": 1298,
+    "ocr_confidence": 0.569,
+    "sha256": "1f592e562b25ba77b998d2306c9d421915ca5170be7f53fd61e8bfcf1e9901b0",
+    "simhash": "1:a97069331b9b59f6",
+    "word_count": 227
+  },
+  "last_updated": "2023-07-14T18:08:23.206239+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Solomon Barnes v. W. A. H. Miller."
+    ],
+    "opinions": [
+      {
+        "text": "FISHER, Chief Justice.\nThe brief of plaintiff in error contains no assignment of error, nor are any propositions therein stated that call our attention to any question that plaintiff in error desires considered by this court. The entire brief consists only of a statement of the case and the xesult of the trial.\nThe transcript of the record contains no assignment of errors, but we And a detached paper filed with the papers in this cause which purports to \u00a1be a copy of the assignment of errors filed in the court below.\nIf this paper can be regarded as an assignment of error, it is not copied or mentioned in the brief, as required by the rules that govern the practice in this court, and the result follows that the plaintiff in error has failed to call our attention to any error committed by the trial court. Chappell v. Railway, 75 Texas, 82.\nJudgment affirmed.\nAffirmed.\nDelivered May 31, 1893.",
+        "type": "majority",
+        "author": "FISHER, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "W. S. Maxwell, for plaintiff in error.",
+      "No brief for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Solomon Barnes v. W. A. H. Miller.\nNo. 249.\nAssignment of Errors \u2014 Brief. \u2014 A brief containing no assignment of errors, nor propositions thereunder, but only a statement of the case and the result of the trial, presents no matter for consideration by this court.\nEbbob from Llano. Tried below before Hon. A. W. Motjesund.\nW. S. Maxwell, for plaintiff in error.\nNo brief for defendant in error."
+  },
+  "file_name": "0468-01",
+  "first_page_order": 494,
+  "last_page_order": 494
+}

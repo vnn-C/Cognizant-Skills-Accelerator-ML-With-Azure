@@ -1,0 +1,79 @@
+{
+  "id": 221197,
+  "name": "Western Union Telegraph Company v. F. M. Taylor",
+  "name_abbreviation": "Western Union Telegraph Co. v. Taylor",
+  "decision_date": "1893-05-03",
+  "docket_number": "No. 146",
+  "first_page": "310",
+  "last_page": "314",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 310"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "45 N. Y., 744",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2049807
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/45/0744-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 548,
+    "char_count": 12345,
+    "ocr_confidence": 0.547,
+    "pagerank": {
+      "raw": 1.7985555787387833e-07,
+      "percentile": 0.7160917489784153
+    },
+    "sha256": "bd248e07c9666840c741a74aa9bd5fe3ed6e88b126f04be509792eb177039e8a",
+    "simhash": "1:ed9bae3d9b4bcd6f",
+    "word_count": 2141
+  },
+  "last_updated": "2024-02-27T16:31:46.217873+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Western Union Telegraph Company v. F. M. Taylor."
+    ],
+    "opinions": [
+      {
+        "text": "TARLTON, Chief Justice.\nThe appellee, F. M. Taylor, on and after the 6th day of July, 1888, resided about three miles from Sweetwater, in Nolan County. His son Cicero was at the former date very-sick at the house of one T. A. Davis, who resided in Kendall County, about three miles from Kendalia, a small town twenty-three miles from Boerne. On the evening of July 6, 1888, Davis wrote on an ordinary piece of writing paper the following message:\n\u201c July 7, 1888.\n\u201cTo F. M. Taylor, Sweetwater, Texas:\n\u201c Your son Cicero is very low. Come at once.\n[Signed] \u201c T. A. Davis.\u201d\nDavis placed this message, with the necessary money to pay for its transmission, in the hands of Mrs. M. A. Moss, postmistress at Kendalia, with the request that she deliver it to the mail carrier that he might cause its transmission on reaching Boerne the next day. The message was accordingly handed to M. A. Spiers, the mail carrier, who, about 12 m., July 7, delivered it for transmission to the agent of the Erie Telegraph and Telephone Company at Boerne, with the proper price. It was sent over the line of the Erie Company to San Antonio, and there by its messenger carried to the office of the defendant company, some two blocks away, and delivered to the agent of the defendant; by him it was sent over the line of the Western Union Telegraph Company to Sweetwater, reaching the office of the company at that point at 11:26 p. m., Saturday, July 7, 1888. There was no special arrangement between the companies with reference to the transmission of telegrams between these points. They were, however, connecting lines, and in this case, as in others, when messages were sent over the lines of one to be forwarded over the lines of the other, the two companies divided the charges.\nThe message in question was received by the night operator, and when the day operator came to the office at 9 o\u2019clock Sunday, July 8, he found it enclosed in an envelope, both the message and the envelope being addressed \u201c F. M. Kyler,\u201d instead of F. M. Taylor. Being informed that no such person as F. M. Kyler was known, but that the message was probably intended for F. M. Taylor, the operator enclosed it in an envelope addressed to F. M. Taylor, and instructed the messenger to seek Taylor in the town, and deliver the message. On the report of the boy that he could not find Taylor, the operator sent an office message to the agent of the Erie Company at Boerne, to the effect that Taylor lived three miles from Sweetwater, and asking instructions. To this the reply came about 10 a. m. that the sender lived twenty-five miles in the country, and directing that the message be placed in the.postoffice. Whereupon the agent at Sweetwater enclosed the message in a stamped envelope, and handing it to the messenger, directed him to again search for Taylor, and if he should fail to find him, to mail the message. The boy again looked for Taylor, but was unable to find him. He failed, however, to mail the message until 9 o\u2019clock Monday morning, July 9. In the meantime Taylor had come to Sweetwater about 2 o\u2019clock p. m., solicitous to hear from his son, who, he had understood, was sick. He expected news by mail, and waited until the hour of its arrival, about 6 p. m. After that hour he procured his mail, and, hearing nothing from his son, he returned home, where, about sundown on Monday, the 9th day of July, a neighbor brought him the telegram. He left for Kendall county by the first train leaving Sweetwater, at 9 o\u2019clock Tuesday morning, but did not reach his point of destination until Thursday morning, July 12, his son in the meantime having died on Tuesday morning, about 10 o\u2019clock, and having been buried about sundown of that day. On account of mental anguish from being deprived of the consolation of presence at his son\u2019s funeral, the plaintiff recovered a verdict and judgment in the sum of $900.\nTaylor resided beyond the delivery limits of the company at Sweet-water, which, under the rules of the company, were there confined to a radius of one-half mile of the company\u2019s office. The rules of the company further provided, that if, after notice that the addressee lived beyond the delivery limits, the sending office should be unable to collect special delivery charges, a copy of the message should be mailed to the addressee.\nThe petition alleges liability on two grounds: 1. That the Erie Company, for itself and as agent of the defendant, contracted for the transmission of the message. 2. That if the relation of principal and agent did not exist between the two companies, the defendant was nevertheless liable as a connecting company for the due and faithful transmission of the message.\nThe defendant\u2019s general demurrer was properly overruled. Under the plaintiff\u2019s allegations, the defendant, as a company connecting with the Erie Company, must be held to have undertaken the prompt transmission of the message. The law with reference to the liabilities of connecting carriers has been by analogy applied in all its fullness to connecting telegraph companies. Smith v. Tel. Co., 84 Texas, 359. The liability of the defendant, however, was limited to the terms of the contract entered into with the Erie Company. It was not required, at an extra expense to itself, or by special messenger, to deliver the telegram in the country three miles from Sweetwater.\nWith reference to the duty of delivery, the court charged the jury as follows: \u201c You are instructed, that if you find from the evidence in the case that T. A. Davis, acting for the benefit of plaintiff F. M. Taylor, delivered to the Erie Telephone and Telegraph Company at Boeme the message described in the petition, to be transmitted to Sweetwater, Nolan County, Texas, and paid the charges therefor, and that the Erie Telephone and Telegraph Company transmitted it to San Antonio and delivered it to the defendant, the Western Union Telegraph Company, to be sent by it from that point to its destination, Sweetwater, and that the said defendant company accepted such message for transmission, and by arrangement between said telegraph companies the defendant company was to receive a part of the charges thereon, paid as aforesaid at Boerne, then it was the duty of the defendant company to transmit and deliver the same with reasonable speed and diligence; and if you find the facts so to be as to the sending and payment of said message, and the receipt thereof by defendant company, and you further find that the defendant company was guilty of negligence in delivering said message to plaintiff, and you further find, that had there not been such negligence the plaintiff would have been able to have reached Kendalia in 'time to be present at the burial of. his son, you will find a verdict in favor of the plaintiff.\u201d\nIt will be noted that this instruction does not limit the required delivery to the town of Sweetwater; The plaintiff\u2019s petition complains of the failure of the defendant to deliver the message to him, and among other matters charges, that he \u201clived about three miles from said town of Sweetwater, and the place of his residence was well known to defendant\u2019s operator and agent and message boy at Sweetwater.\u201d The defendant complains of the instruction, \u201c in that it fails to state where the delivery should be made.\u201d It further requested an instruction, the refusal of which it assigns as error, and which, in effect at least, announced the proposition that the duty did not devolve upon the defendant to deliver the message at the residence of the addressee. Appellant, we think, was entitled to a charge embodying such a statement of the law under the facts of this case.\nIf, therefore, the action of the court in the defective instruction granted, and in withholding the proposition suggested by the requested charge, was of probable injury to the defendant, the judgment should be reversed. To this inquiry we consequently address ourselves.\nThe plaintiff testified as follows: \u201cI could have been present at his burial if the message had been posted in the postoffice at Sweetwater, Texas, at any time before dark on Sunday, July 8,1888, as I would have received the same on Sunday night, and could have left Sweetwater on Monday morning\u2019s train, July 9, 1888, at or about. 9 o\u2019clock a. m., and by so doing could have reached Boerne on the evening of July 10, 1888, and then hired a livery team and reached T. A. Davis\u2019 house near Kendalia in time to have seen my son buried.\u201d\nFrom other portions of the record it is extremely questionable whether the jury would have concurred with the plaintiff in this conclusion. It is undisputed from the testimony elsewhere, that had the plaintiff left Sweetwater at 9 o\u2019clock on Monday morning, July 9, he could not have reached Boerne before 5:40 on the evening of Tuesday, July 10; his son was buried about sundown, three miles from the home of Mr. Davis, and not less than twenty miles from the town of Boerne. It is at least questionable whether the jury would have believed that the plaintiff could, within the time which elapsed between his arrival at Boerne and the interment of his son, have hired a team and travelled twenty-three miles in time to be present at the interment. We hence conclude, that the jury, under the charge of the court, might have inferred that it was the duty of the defendant to have sent the message to the residence of the plaintiff before the east bound train left Sweetwater, at or about 9 o\u2019clock on Sunday morning. The charge of the court therefore probably misled the jury with reference to the duty of the defendant in the delivery of the message.\nThe witnesses Davis, Moss, and Spiers were permitted, over the objection of the defendant, to testify to the contents of the message delivered at Boerne to the Erie Company, and this without producing the original or accounting for it, and without notice to the defendant to produce it. We are divided in opinion as to whether this testimony was, under these circumstances, admissible. We differ as to whether the rule laid down in the case of Reliance Lumber Company v. Western Union Telegraph Company, 58 Texas, 395, is applicable to the defendant here. It is not necessary to state the reasons for dissent. We waive a decision of the question, as by slight precaution on the part of the plaintiff by giving the proper notice on another trial, it can be easily eliminated.\nThe remaining assignments of error are not well founded.\nThe judgment must be reversed and the cause remanded. It is so ordered.\nReversed and remanded.\nDelivered May 3, 1893.",
+        "type": "majority",
+        "author": "TARLTON, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "Cowan & Fisher and Field & Homan, for appellant.",
+      "No brief for appellee has reached the hands of the Reporter."
+    ],
+    "corrections": "",
+    "head_matter": "SECOND DISTRICT,\nMAT, 1893.\nWestern Union Telegraph Company v. F. M. Taylor.\nNo. 146.\n1. Telegraph Companies \u2014 Liability of Connecting Lines. \u2014The law with respect to the liability of connecting carriers by analogy has been applied in all its fullness to connecting telegraph companies; and where one company, in consideration of the sharing of the charges, receives from another company a message to be forwarded and delivered, it becomes directly liable to the party for whose benefit the message is sent, in case of a failure to duly forward and deliver such message.\n2. Same\u2014Delivery of Message Outside of Free Delivery Limits. Where the rules of a telegraph company confine its delivery limits to a radius of one-half mile of its office, it is not legally bound, no special delivery charges having been paid or arranged, to deliver a message to the addressee at his residence in the country, three miles from the company\u2019s office.\nAppeal from Nolan. Tried below before Hon. William Kennedy.\nCowan & Fisher and Field & Homan, for appellant.\n1. There was no contract made with defendant by which it undertook to transmit and deliver the message; and the court erred in refusing this special charge asked by defendant, that the Erie Telegraph and Telephone Company, not having limited its liability to its own line from Boerne to San Antonio, is alone responsible to plaintiff, if any cause of action he has. Tel. Co. v. Rains, 63 Texas, 27; Baldwin v. Tel. Co., 45 N. Y., 744.\n2. The defendant was under no obligation to deliver the message three miles in the country; nor was it its duty to mail same until instructed by the sending office to do so. Tel. Co. v. Rains, 63 Texas, 27; Tel. Co. v. Adams, 75 Texas, 531.\nNo brief for appellee has reached the hands of the Reporter."
+  },
+  "file_name": "0310-01",
+  "first_page_order": 336,
+  "last_page_order": 340
+}

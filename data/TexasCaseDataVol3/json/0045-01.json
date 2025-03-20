@@ -1,0 +1,66 @@
+{
+  "id": 220948,
+  "name": "R. M. Hickey v. W. W. Stringer et al.",
+  "name_abbreviation": "Hickey v. Stringer",
+  "decision_date": "1893-03-15",
+  "docket_number": "No. 97",
+  "first_page": "45",
+  "last_page": "46",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 45"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 247,
+    "char_count": 4213,
+    "ocr_confidence": 0.563,
+    "pagerank": {
+      "raw": 6.087085966315723e-08,
+      "percentile": 0.3770669641357469
+    },
+    "sha256": "362ebee02ac6bdfb693ec58648fec764cb5afbb1520053b7c396e2aaa8553f6b",
+    "simhash": "1:1e72b53b374a7b90",
+    "word_count": 743
+  },
+  "last_updated": "2023-07-14T18:08:23.206239+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "R. M. Hickey v. W. W. Stringer et al."
+    ],
+    "opinions": [
+      {
+        "text": "FISHER, Chief Justice.\nThis is an action of trespass to try title by appellant against W. W. Stringer, Hansel Womack, and H. F. Horn-buckle; to recover the Joseph Miller survey of 320 acres, situated in Bosque County.\nAppellees Stringer and M. F. Hornbuckle filed answers. The defendant Womack failing to answer, judgment final by default was rendered against him in appellant\u2019s favor. As to the other defendants, the case below was tried before a jury, and verdict and judgment rendered in favor of appellees.\nIt appears from the evidence that the appellant has the superior title, and to defeat it the appellees rely upon an estoppel in pais as precluding a recovery by the plaintiff.\nA brief history of the facts upon which the appellees\u2019 title rests is here stated. The land in controversy was purchased by Blythe & White, at a tax sale, from the sheriff and tax collector of Bosque County. Blythe & White sold the land to Lockett & Robertson, and they sold to the appellees. Before the sale to appellees, Lockett & Robertson received a letter from one D. C. Robinson, of San Antonio, Texas, in which he stated, that as his client (the appellant) had lost his title papers, and as it would cost a great deal of money to establish his lost deeds and redeem the land from the tax sale, he would abandon his claim to the land. The contents of this letter was made known to the appellees by Lockett & Robertson before the appellees purchased, and it further appears, that they purchased the land, relying upon the statement made in the letter as an abandonment of the claim and title of the appellant.\nFrom these facts the appellees insist the estoppel results. The view we take of the case relieves us of the necessity of determining whether these facts do or do not constitute an estoppel.\nThe case turns upon the authority of D. C. Robinson to make any such statement as that contained in the letter to Lockett & Robertson so as to bind the appellant. The evidence as to the authority of D. C. Robinson is, that he was employed by the appellant as an attorney at law to institute suit and recover the land in controversy. That his authority was full and complete to do any and all things necessary to recover the land. That for his services, he and one Murphy, whom he associated with him in the matter, were to receive a half-interest in the land that he might recover. These, in the main, are the facts relied upon as showing authority in Robinson to abandon the claim and title of appellant to the land. The agency of Robinson in the matter was special. He was only authorized to do and perform such acts as were necessary looking to a recovery of the land. This authority did not confer upon him the power to abandon and release the very right and interest that he had agreed with appellant to secure and protect. His authority extended to a recovery of the land, not an abandonment of his principal\u2019s claim. His agency in this matter being special, casts upon the appellees the burden of proving that he had the authority to do what they pretend he did do. To show this they have failed.\nThe evidence is not sufficient to show that Robinson had the authority to abandon the title and claim of appellant in the land sued for.\nThe judgment is reversed and the cause remanded as to appellees Stringer and Hornbuckle. The judgment final by default rendered by the court below against defendant Womack is not disturbed.\nReversed and remanded.\nDelivered March 15, 1893.",
+        "type": "majority",
+        "author": "FISHER, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "S. H. Lumpkin, for appellant.",
+      "No brief for appellee reached the Reporter."
+    ],
+    "corrections": "",
+    "head_matter": "R. M. Hickey v. W. W. Stringer et al.\nNo. 97.\nAuthority of Agent\u2014Construction \u2014 Estoppel.\u2014 Counsel were employed by a land owner to institute suit, and to recover the land. The land was held adversely under a tax deed. Counsel had full authority to do any and all things necessary to recover the land. This authority did not confer the power to abandon and release the claim of the owner. A letter from such counsel stating that the client abandoned his claim to the land would not estop the owner in asserting his title, even against one who had purchased upon the unauthorized disclaimer made by his counsel.\nAppeal from Bosque. Tried below before Hon. J. M. Hall.\nS. H. Lumpkin, for appellant.\nNo brief for appellee reached the Reporter."
+  },
+  "file_name": "0045-01",
+  "first_page_order": 71,
+  "last_page_order": 72
+}

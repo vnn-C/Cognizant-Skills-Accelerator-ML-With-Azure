@@ -1,0 +1,79 @@
+{
+  "id": 219102,
+  "name": "First National Bank of Decatur v. Isaac Cloud et al.",
+  "name_abbreviation": "First National Bank v. Cloud",
+  "decision_date": "1893-03-16",
+  "docket_number": "No. 116",
+  "first_page": "627",
+  "last_page": "629",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 627"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "13 Sup. Ct. Rep., 340",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        3565948
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/147/0375-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 357,
+    "char_count": 5930,
+    "ocr_confidence": 0.532,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.008705140724420612
+    },
+    "sha256": "68827377b04b47fde965fc85281c3e9e15a3be427a8bcbd1b359ad7df90075fd",
+    "simhash": "1:c92679700deac44d",
+    "word_count": 1020
+  },
+  "last_updated": "2024-02-27T19:43:33.086404+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "First National Bank of Decatur v. Isaac Cloud et al."
+    ],
+    "opinions": [
+      {
+        "text": "STEPHENS, Associate Justice.\nThis suit was originally brought by appellant, to recover from Eppie Robertson and G-. B. F. Maxwell certain real estate situated in Cooke County. Charles M. Stevens intervened in the suit, claiming the property in controversy. Isaac Cloud was the common source of title. The controversy turns upon the priority of the judgment and execution liens under which appellant and appellees respectively deraign title from the common source. The record contains conclusions of fact, which we adopt, with the qualification stated below.\nAs the judgment lien under which appellees claim is prior in time to that of appellant, its validity presents the first question for determination. This judgment was obtained by Charles M. Stevens in the Federal Court at Dallas, Texas, against Isaac Cloud and others, and the abstract, which was duly filed, recorded, and indexed in the record of abstracts of judgments of Cooke County, reads as follows:\n\u201cIn the Circuit Court of the United States for the Northern District of Texas, at Dallas.\u2014I, A. J. Houston, clerk of the Circuit Court of the United States for the Northern District of Texas, at Dallas, do hereby certify, that in said court, on the 22d day of May, 1885, the plaintiff recovered judgment against the defendants, A. J. Addington, Isaac Cloud, and Z. T. Addington, for the sum of $11,589.30, all of which said judgment is yet due, with interest at the rate of 12 per cent per annum from its date, in cause number 767, and styled Charles M. Stevens v. A. J. Addington et al., all of which appears from the records of said court.\u201d\nThen follows the authentication of the clerk in due form. The sole objection taken to the sufficiency of this abstract, upon which the trial court held it to be invalid, was, that it did not show the amount of costs recovered, it being made to appear by the proof that the costs taxed in that case amounted to $61.\nIn passing upon an abstract very similar to this one, made by the same clerk, which recited, after giving the amount of the judgment and the rate of interest, without stating the amount of the costs, that \u201call of which said judgment and costs is yet due and unpaid,\u201d the Federal Supreme Court, Chief Justice Fuller delivering the opinion, in a recent case disposed of the objection raised, that it did not show the amount due thereon, by a single sentence, as follows: \u201c The only ground on which this abstract and index could be held insufficient was, that the names of the plaintiffs were not given in full in either abstract or index.\u201d The \u25a0 opinion reviews the decisions of our Supreme Court construing the judgment lien statute, and concludes that the names of all the members of a plaintiff firm need not be shown either by the abstract or index. Cooke v. Avery, U. S. Sup. Ct., decided January 23, 1893, 13 Sup. Ct. Rep., 340.\nWithout determining whether our courts should follow that decision in this respect, we are of opinion that it is correct in holding, that the statute is substantially, if not literally, complied with, so far as stating the amount due upon the judgment is concerned, when the abstract shows the amount for which the judgment was rendered, exclusive of costs, and the rate of interest which it bears, and states that the total amount remains due and unpaid. It seems to us, that it would at least create a lien for that amount, if not for the amount of the costs. If this conclusion be correct, it will lead to an affirmance of the judgment.\nIn the court\u2019s second findings of facts, in passing upon the abstract and index of the judgment subsequently rendered and recorded against Cloud and others, under which appellant claimed, the only objection sustained was, that it was indexed under the letter B as follows: Bank, First National of Decatur. In addition to this finding, it appears from the statement of facts, that the record of this abstract did not contain the authentication of the clerk, if, indeed, the abstract itself had been certified. Without passing upon the merits of these objections, we have reached the conclusion, that if by reason of a stricter construction than we have adopted, the record of the Stevens abstract be held bad, that of the Decatur bank must for the same reason be held invalid also. If then the judgment liens be both excluded from consideration, and the rights of the parties be determined by the execution sales under which they claim respectively, the judgment must be affirmed, because the levy and sale under the Stevens judgment antedated the bank\u2019s levy and sale.\nThese conclusions render the other issues raised in the case wholly immaterial, and they will therefore not be considered.\nThe judgment will be in all things affirmed.\nAffirmed.\nDelivered March 16, 1893.",
+        "type": "majority",
+        "author": "STEPHENS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Sarlls & Cobb, Donald & Hill, and C. B. Stuart, for appellant.",
+      "Davis & Harris, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "First National Bank of Decatur v. Isaac Cloud et al.\nNo. 116.\n1. Abstract of Judgment\u2014Amount of Costs Omitted.\u2014Where an abstract of a judgment states, with the other matters required by the statute, the amount for which the judgment was rendered, but exclusive of the costs, and without mention of the costs, this is a substantial if not literal compliance with the statutory requirement, that the abstract shall show 11 the amount for which the judgment was rendered.\u201d and the due record of such abstract will create a lien for the amount of such judgment, if not for the amount of the costs also.\n2. Judgment Liens\u2014Priority in Execution Sales.\u2014Where both parties claim the land in suit under execution sales upon different judgments against the same person, if both judgment liens be held invalid because of defects in the record of abstracts of the judgments, then the rights of the parties must be determined by the execution sales, and the purchaser under the first levy and sale has priority.\nAppeal from Wise. Tried below before Hon. T. J. Brown, S ecial Judge.\nSarlls & Cobb, Donald & Hill, and C. B. Stuart, for appellant.\nDavis & Harris, for appellees."
+  },
+  "file_name": "0627-01",
+  "first_page_order": 653,
+  "last_page_order": 655
+}

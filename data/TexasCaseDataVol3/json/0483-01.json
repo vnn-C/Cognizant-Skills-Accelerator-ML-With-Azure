@@ -1,0 +1,145 @@
+{
+  "id": 221102,
+  "name": "The Gulf, Colorado & Santa Fe Railway Company v. Francis Smith",
+  "name_abbreviation": "Gulf, Colorado & Santa Fe Railway Co. v. Smith",
+  "decision_date": "1893-06-15",
+  "docket_number": "No. 254",
+  "first_page": "483",
+  "last_page": "485",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 483"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "13 Me., 87",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        8738253
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/me/13/0087-01"
+      ]
+    },
+    {
+      "cite": "8 Mass., 415",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "19 Wend., 507",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2023405
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/19/0507-01"
+      ]
+    },
+    {
+      "cite": "55 N. H., 540",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        11288377
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nh/55/0540-01"
+      ]
+    },
+    {
+      "cite": "39 Me., 28",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        8846107
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/me/39/0028-01"
+      ]
+    },
+    {
+      "cite": "13 Me., 87",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        8738253
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/me/13/0087-01"
+      ]
+    },
+    {
+      "cite": "39 Me., 28",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        8846107
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/me/39/0028-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 336,
+    "char_count": 5511,
+    "ocr_confidence": 0.552,
+    "pagerank": {
+      "raw": 1.7710994026850012e-07,
+      "percentile": 0.7115082771234925
+    },
+    "sha256": "eda526326a66f1a42d9ad8733e3bbead5380e0045bde5b50dc26de578bcab5fc",
+    "simhash": "1:2b7893ca8f794a58",
+    "word_count": 948
+  },
+  "last_updated": "2024-02-27T16:31:46.217873+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The Gulf, Colorado & Santa Fe Railway Company v. Francis Smith."
+    ],
+    "opinions": [
+      {
+        "text": "PLEASANTS, Associate Justice.\nAppellee sued appellant, on April\" 27, 1891, in County Court of Harris County, for the recovery of compensatory damages for destruction of grass and fence upon lands of plaintiff, caused by fires produced by sparks which escaped through the negligence of defendant, as alleged in petition, from its locomotives. The fires occurred on December 1, 8, 12, and 16, 1890. Damages to fencing were laid at 875, and to grass at 8925. Defendant answered by general exceptions and general denial. Verdict and-judgment for appellee for 814-4 for grass burned and 833.50 for fence posts.\nThe evidence establishes the following facts: The plaintiff was a resident of the State of Indiana, and owned about 1500 acres of land in Fort Bend County, over which defendant\u2019s railway ran. Said lands were used partly for farming purposes, partly for hay, and partly for pasturage. On the 2nd day of December, 1890, the plaintiff leased said lands to one Stone, the lease to expire on the 1st of December, 1891; that on said 2nd day of December, 1890, the lessee, the said Stone, entered upon said lands and held exclusive possession thereof until the expiration of his lease; and the fires which destroyed the grass and the fencing all' occurred while the lands were in the exclusive occupancy of said Stone. Stone had his \u2022cattle upon the lands, and the plaintiff nor any one else had the right to put cattle upon the lands during the continuance of the lease. The fires destroyed the grass upon some of the lands, and they were thereby rendered worthless for pasturage until covered by another crop of grass.\nUpon the introduction of evidence by the plaintiff, to show the value of lands immediately before the burnings and their value immediately thereafter, defendant objected, on the ground that it had been shown by uncontroverted evidence that the fires occurred while the lands were in exclusive possession of plaintiff\u2019s lessee; that the lessee, and not the plaintiff, was entitled to recover for any damage done the grass. The objection was overruled and the evidence admitted; to which ruling and action of the court defendant duly excepted, and assigns as error the refusal of -the court to sustain its objection to the evidence.\nThis assignment presents for our decision the question, whether the lessor of lands can maintain an action for injury or damage to premises while in the exclusive possession of the lessee, when such damage to the premises does not affect or lessen the value of the freehold. That such suits can not be maintained is, we think, well established. The person who is rightfully in the actual and exclusive possession of land is alone authorized to sue for trespass committed upon his possession. Reynolds v. Williams, 1 Texas, 311; Lyford v. Toothaker, 39 Me., 28; Bartlett v. Perkins, 13 Me., 87.\nGrass growing upon leased premises is as much the property of the lessee as crops produced upon the lands by his industry, and the lessor has no property in the grass pending the lease. We think the evidence \u25a0objected to should have been excluded; and upon the pleadings and the \u2022facts, the plaintiff could only have recovered for the value of the fencing \u25a0destroyed by the fires. If the fires resulted from the negligence of the \u25a0defendant, the defendant would be liable to plaintiff for any damage done to the fences by its negligence. The tenant or lessee is under obligation to make repairs; but such obligation does not require the tenant to replace improvements which have been destroyed by the act of a stranger, without fault of the tenant; and for such injuries to the realty the owner may recover damages from the wrongdoer. Tied, on Beal Prop., sec. 189.\nFor the error indicated in this opinion, the judgment of the lower court is reversed and the cause remanded.\nReversed and remanded.\nDelivered June 15, 1893.",
+        "type": "majority",
+        "author": "PLEASANTS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "J. W. Terry and H. S. Downey, for appellant.",
+      "No brief for appellee reached the Reporter."
+    ],
+    "corrections": "",
+    "head_matter": "The Gulf, Colorado & Santa Fe Railway Company v. Francis Smith.\nNo. 254.\n1. Lessor\u2014Damages to Leased Land.\u2014The lessor can not sue for the destruction of grass on the leased land, caused by the escape of sparks from passing locomotives. The person who is rightfully in the actual and exclusive possession of the land is alone authorized to sue for trespasses upon his possession.\n2. Value of Destroyed Fencing may be Recovered by the Lessor. If the fires resulted from the negligence of the railway company, it would be liable to the owner of the land for any damage done to the fences by its negligence, although the lessee is under obligation to make repairs. Such obligation does not require the tenant to replace improvements which have been destroyed by the act of a stranger without fault of the tenant.\nAppeal from Harris. Tried below before Hon. W. C. Anders, County Judge.\nJ. W. Terry and H. S. Downey, for appellant.\nThe lessor has no right of action against a third person for damage to or trespass upon premises in the possession of his lessee, when the damage to or trespass upon the leased premises does not damage or lessen the value of lessor\u2019s reversionary interest. Reynolds v. Williams, 1 Texas, 311; Railway v. Heard, 3 Willson\u2019s C. C., 397; Tel. Co. v. Forke, 2 Willson\u2019s C. C., 368; Collins, v. Turner, 1 W. & W. C. C., 517; Taul v. Shanklin, 1 W. & W. C. C., 1138; Lyford v. Toothaker, 39 Me., 28; Wentworth v. Railway, 55 N. H., 540; Holmes v. Sealy, 19 Wend., 507; Taylor v. Townsend, 8 Mass., 415; Bartlett v. Perkins, 13 Me., 87; Tayl. on Landl. and Ten., secs. 781., 782.\nNo brief for appellee reached the Reporter."
+  },
+  "file_name": "0483-01",
+  "first_page_order": 509,
+  "last_page_order": 511
+}

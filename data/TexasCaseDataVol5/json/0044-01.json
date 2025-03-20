@@ -1,0 +1,103 @@
+{
+  "id": 227356,
+  "name": "L. C. Grant et al. v. M. L. Ennis et al.",
+  "name_abbreviation": "Grant v. Ennis",
+  "decision_date": "1893-11-15",
+  "docket_number": "No. 281",
+  "first_page": "44",
+  "last_page": "44",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Tex. Civ. App. 44"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "19 Mart., 253",
+      "category": "reporters:state",
+      "reporter": "Mart.,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Ga., 253",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Cranch, 159",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch,",
+      "case_ids": [
+        572690
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/11/0159-01"
+      ]
+    },
+    {
+      "cite": "3 Wheat., 172",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1443464
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/16/0172-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 186,
+    "char_count": 2098,
+    "ocr_confidence": 0.576,
+    "pagerank": {
+      "raw": 6.380125665320789e-08,
+      "percentile": 0.39080676132083375
+    },
+    "sha256": "53d13af29bc032ea383fb2ffec2ff868a3d294f484f63132b676ff33a2cfa7ab",
+    "simhash": "1:a0d39ba61de29b1d",
+    "word_count": 368
+  },
+  "last_updated": "2024-02-27T16:31:09.266747+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "L. C. Grant et al. v. M. L. Ennis et al."
+    ],
+    "opinions": [
+      {
+        "text": "STEPHENS, Associate Justice.\nThe material allegations of plaintiff\u2019s petition were sustained by the evidence, the suit being on two promissory notes, and to foreclose the vendor\u2019s lien. The notes were payable to plaintiff or order, and were endorsed by her in blank. When produced by her and offered in evidence, they made a prima facie case of ownership, the same as if they had been payable to bearer. The further endorsement on one of them by the Chicago bank to the Texas bank for collection, tended rather to corroborate than to disprove the ownership as alleged. Johnson v. Mitchell, 50 Texas, 212; 2 Dan. on Neg. Inst., sec. 1198; Dugan v. United States, 3 Wheat., 172.\nThe indefinite description of the land in the face of the note was cured by oral testimony.\nThese conclusions dispose of the assignment of error and lead to an affirmance of the judgment.\nAffirmed.",
+        "type": "majority",
+        "author": "STEPHENS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Ashby S. James, for appellants.",
+      "No brief for appellees reached the Reporter."
+    ],
+    "corrections": "",
+    "head_matter": "L. C. Grant et al. v. M. L. Ennis et al.\nNo. 281.\nDelivered November 15 1893.\nPromissory Note \u2014Blank Endorsement \u2014 Proof of Ownership.\u2014 Notes payable to plaintiff or order and endorsed by her in blank, when produced by her and offered in evidence, make a prima facie case of ownership, the same as if they were payable to bearer; and a further endorsement \u201cfor collection,\u201d made by a bank, does not disprove her ownership.\nAppeal from Wichita. Tried below before Hon. Geo. E. Miller.\nAshby S. James, for appellants.\nWhere there is an endorsement by the payees of a negotiable note, if they afterwards sue in their own names upon same, it devolves upon them to show by competent evidence that they are still the owners of the note, and have not parted with the title to it. The first note here sued on is payable to Marie L. Ennis, and is endorsed \u201c Marie L. Ennis;\u201d and is further endorsed, \u201c Pay to the order of Panhandle National Bank for collection, account of First National Bank, Chicago. December 26, 1890. H. R. Symonds, Cashier.\u201d Walsh v. Lindo, 7 Cranch, 159; Southern Bank v. Savings Bank, 2 Ga., 253; Spriggs v. Cuney, 19 Mart., 253; 2 Dan. on Neg. Inst., sec. 1196.\nNo brief for appellees reached the Reporter."
+  },
+  "file_name": "0044-01",
+  "first_page_order": 70,
+  "last_page_order": 70
+}

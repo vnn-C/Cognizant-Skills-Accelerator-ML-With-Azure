@@ -1,0 +1,66 @@
+{
+  "id": 227421,
+  "name": "The Fort Worth & Denver City Railway Company v. W. W. Bell, Jr.",
+  "name_abbreviation": "Fort Worth & Denver City Railway Co. v. Bell",
+  "decision_date": "1893-11-08",
+  "docket_number": "No. 254",
+  "first_page": "28",
+  "last_page": "30",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Tex. Civ. App. 28"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 332,
+    "char_count": 5830,
+    "ocr_confidence": 0.541,
+    "pagerank": {
+      "raw": 5.4033266686372354e-08,
+      "percentile": 0.3405769988906689
+    },
+    "sha256": "9673f6998a0261e5ecd29a681171f7df5182b0a42955bea88afc8482e7a901d6",
+    "simhash": "1:a2a58c83e8841772",
+    "word_count": 1024
+  },
+  "last_updated": "2023-07-14T18:07:14.925501+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The Fort Worth & Denver City Railway Company v. W. W. Bell, Jr."
+    ],
+    "opinions": [
+      {
+        "text": "HEAD, Associate Justice.\nThe track of the Missouri, Kansas & Texas Railway Company connects with that of appellant at Henrietta, in Clay County. On July 14, 1891, appellee, while in the employ of the former company, was engaged in repairing one of its ears while standing on one of its side tracks at said place, when appellant\u2019s servants in charge of one of its engines negligently backed against said car, causing it to run over appellee\u2019s hand. The negligence of appellant consisted in running against a standing car of the other company, without first learning if there was danger in so doing, and also in running against such car with unnecessary violence. It does not appear satisfactorily from the evidence whether appellant had or had not the right to be upon the other company\u2019s track when the injury was inflicted, upon the business in which it was then engaged, but we think a preponderance of the evidence shows it was wrongfully there.\nOne of the rules of the company for which appellee was working was as follows: \u201cA red signal means danger, and is the signal to stop. It is used at telegraph offices to stop trains for orders; by car inspectors while engaged in repair or inspection of cars, and for other purposes defined in rules of 1 Train Signals; \u2019 \u201d and at the time appellee was injured, he was at work under the car, and did not have this signal out. The evidence sustains the finding of the jury, that appellee was not otherwise guilty of negligence contributing to his injuries. In the court below verdict and judgment were given appellee against appellant for the injuries so received, in the sum of $1250, from which this appeal is prosecuted.\nOpinion. \u2014 Appellant\u2019s first assignment complains of the refusal of the court to charge the jury, that appellee\u2019s failure to have out the red signal while he was working under the car, as required by the rules of the company by which he was then employed, would preclude him from recovering in this case. We believe there was no error in this. It has frequently been held in this State, as well as others, that failure on the part of the servant to observe a known rule prescribed by the master for the conduct of the business, which results in injury to the servant, will balan action by the latter against the former to recover therefor. Pilkinton v. Railway, 70 Texas, 226; Railway v. Wallace, 76 Texas, 636; Beach on Con. Neg.., sec. 373. This, however, is in actions by the servant against the master who prescribed the rule, and is believed to have-no application to a suit by the servant against a stranger.\nIn this case, appellee was not the servant of appellant, and has no contractual relation to it, and we are unable to see upon what principle it can claim exemption under a contract between him and the Missouri, Kansas & Texas Company. 2 Thomp. on Neg., 1040-1045. No attempt was made to show a contract between appellant and the other company which would have the effect to give the former the benefit of the regulations made by the latter for the government of its servants. We are therefore of opinion that appellant had no right to have the jury instructed that a violation of this rule by appellee would be negligence as to it, even if it be conceded that the court would be required to give such a charge in a case by the servant against the master. Appellant does not complain of the manner in which the court submitted the questions of negligence on its part, and contributory negligence on the part of appellee, except in the failure of himself and coemployes to display the signal as above indicated.\nIn its fourth and fifth assignments, appellant complains at the refusal of the court to charge the jury, that appellee assumed the risks resulting from the negligence of his fellow servants. It follows from what we have already said, that we do not think either of these assignments well taken. The master, it is true, is not liable to his servant for an injury caused by the negligence of a fellow servant, but we are unable to see what application that principle has to this case. Appellant was not sued as the master of appellee. Even in the case of a master, if his own negligence contributes with the negligence of one of his servants in causing an injury to another, he is liable (Beach on Contributory Negligence, section 304); and for much greater reason would it be no defense to a stranger, that a coemploye of the injured person had aided him in causing the injury. Markham v. Nav. Co., 73 Texas, 247; Railway v. McWhirter, 77 Texas, 356.\nDelivered November 8, 1893.\nWe do not find the verdict for $1250 excessive under the evidence as shown by the record. The judgment will be affirmed.\nAffirmed.",
+        "type": "majority",
+        "author": "HEAD, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Stanley, Spoonts & Meek and J. H. Davenport, for appellant.",
+      "Swan & Swain, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "The Fort Worth & Denver City Railway Company v. W. W. Bell, Jr.\nNo. 254.\n1. Railway Company \u2014 Damages \u2014 Contributory Negligence of Employe. \u2014 The failure of an employe to use a clanger signal on a car which he was repairing, as required by the rules of his company, can not be set up as contributory negligence in an action by such employe against another railway company for injury negligently caused by the backing of an engine of the defendant company against the ear which was being repaired, as there was no contractual relation of master and servant between such employe and the defendant, and as to it, and any rules it may have prescribed for the government of its servants, he was a stranger.\n2. Same \u2014 Negligence of Coemploye. \u2014 In such case it was no defense that the negligence of a coemploye had aided in causing the injury.\n3. Excessive Verdict. \u2014 A verdict of $1250 against a railway company as damages for running over the hand of a car repairer is not excessive.\nAppeal from Clay. Tried below before Hon. Geo. E. Miller.\nStanley, Spoonts & Meek and J. H. Davenport, for appellant.\nSwan & Swain, for appellee."
+  },
+  "file_name": "0028-01",
+  "first_page_order": 54,
+  "last_page_order": 56
+}

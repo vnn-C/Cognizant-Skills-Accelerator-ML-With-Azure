@@ -1,0 +1,99 @@
+{
+  "id": 220946,
+  "name": "L. L. Manson v. Eddy and Cross, Receivers",
+  "name_abbreviation": "Manson v. Eddy & Cross",
+  "decision_date": "1893-04-12",
+  "docket_number": "No. 142",
+  "first_page": "148",
+  "last_page": "150",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 148"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "80 Ga., 427",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        66225
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ga/80/0427-01"
+      ]
+    },
+    {
+      "cite": "35 Fed. Rep., 43",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3752720,
+        3753805
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f/35/0043-01",
+        "/f/35/0043-02"
+      ]
+    },
+    {
+      "cite": "15 S. W. Rep., 808",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 276,
+    "char_count": 3647,
+    "ocr_confidence": 0.55,
+    "pagerank": {
+      "raw": 8.138363859351185e-08,
+      "percentile": 0.46886304954458735
+    },
+    "sha256": "ab45237f33adcace8892298137dedfacc7f3e598e48d7717baab015c2aef1b2b",
+    "simhash": "1:e004bf206e8a60f8",
+    "word_count": 641
+  },
+  "last_updated": "2024-02-27T16:31:46.217873+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "L. L. Manson v. Eddy and Cross, Receivers."
+    ],
+    "opinions": [
+      {
+        "text": "STEPHENS, Associate Justice.\nThis is an agreed case under article 1414 of the Revised Statutes, brought here for the single purpose of obtaining a revision of the court\u2019s charge. The statement of facts is brief, and does not present any conflict in the evidence.\nIn short, the case is this: Appellant was a locomotive engineer in the employ of appellees, engaged in running a freight train between Denison, Texas, and Muskogee, in the Indian Territory. His engine was derailed about 11 o\u2019clock at night, in the Indian Territory, by coming in contact with a cow fastened in a railroad bridge, with her legs down between the ties. Less than three hours before that time, the track over the bridge was clear of obstructions. Our conclusion from the undisputed facts is, (1) that the evidence failed to show that the appellees were guilty of negligence in the discharge of their duty to appellant as one of their employes; and (2) that the injury which appellant received was the result of an accident which he must be held to have contemplated as within the assumed risks of becoming an engineer for appellees. In other words, we are of opinion that the jury could not properly have found a verdict for appellant, and that therefore, if there was error in the charge, as assigned, it would not require a reversal of the judgment. Ward v. Bonner and Eddy, 80 Texas, 168.\nThe judgment will be in all things affirmed.\nAffirmed.\nDelivered April 12, 1893.\nJustice Head did not sit in this case.",
+        "type": "majority",
+        "author": "STEPHENS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "H. D. McDonald, for appellant.",
+      "Head & Dillard, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "L. L. Manson v. Eddy and Cross, Receivers.\nNo. 142.\nMaster and Servant\u2014Risks of Employment\u2014Negligence.\u2014Plaintiff, a locomotive engineer in the employ of defendants, received injuries from the derailment of his engine at night, caused by its coming in contact with a cow fastened in a bridge on the railway track, with her legs down between the ties. Less than three hours before that time the track over the bridge was clear of obstruction. Held, that the evidence did not show defendants to have been guilty of negligence; and also, that the accident was within the assumed risks of plaintiff\u2019s employment.\nAppeal from Fannin. Tried below before Hon. E. D. McClelland.\nH. D. McDonald, for appellant.\n1. The court erred in charging, that there was no evidence showing that defendants were guilty of negligence in failing to use due care and diligence in inspecting the track and bridge, and that they could not find for plaintiff on the ground of such negligence. Rev. Stats., art. 1317; Patt. on Ry. Acc. Law, secs. 286, 288.\n2. It not being a part of plaintiff\u2019s duty as engineer to look after the condition of the track and bridges, the accident which caused the derailment of his engine was not within the assumed risks of his employment. Railway v. White, 15 S. W. Rep., 808; Railway v. Lehmberg, 75 Texas, 61; 2 Thomp. on Neg., 986.\nHead & Dillard, for appellees.\n1. A scintilla of evidence, or a mere surmise that there may have been negligence on the part of the defendant, will not justify the judge in leaving the ease to the jury; there must be evidence, upon which they may reasonably and properly conclude that there was negligence. Railway v. Faber, 77 Texas, 153; Railway v. Crowder, 76 Texas, 499.\n2. The liability for injury by coming in contact with animals trespassing on the track is one of the dangers incident to the operation of a railway, and is assumed by the servants engaged in operating the train. Ward v. Bonner and Eddy, 80 Texas, 168; Pierce on Rys., 409; 1 Thomp. on Neg., 517; Shearm. & Redf. on Neg., 469; Cowan v. Railway, 35 Fed. Rep., 43; Sweeney v. Railway, 8 Am. and Eng. Ry. Cases, 151; Prather v. Railway, 80 Ga., 427."
+  },
+  "file_name": "0148-01",
+  "first_page_order": 174,
+  "last_page_order": 176
+}

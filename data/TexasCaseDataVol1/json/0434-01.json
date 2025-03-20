@@ -1,0 +1,316 @@
+{
+  "id": 216273,
+  "name": "J. Loustaunau & Co. v. Mary E. Lambert et al.",
+  "name_abbreviation": "J. Loustaunau & Co. v. Lambert",
+  "decision_date": "1892-11-02",
+  "docket_number": "No. 176",
+  "first_page": "434",
+  "last_page": "443",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Tex. Civ. App. 434"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "14 Wis., 272",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "case_ids": [
+        8709044
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wis/14/0272-01"
+      ]
+    },
+    {
+      "cite": "41 Ohio St., 212",
+      "category": "reporters:state",
+      "reporter": "Ohio St.",
+      "case_ids": [
+        919523
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ohio-st/41/0212-01"
+      ]
+    },
+    {
+      "cite": "6 Bosw., 612",
+      "category": "reporters:state",
+      "reporter": "Bosw.",
+      "case_ids": [
+        1322000
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-super-ct/19/0612-01"
+      ]
+    },
+    {
+      "cite": "3 Bosw., 308",
+      "category": "reporters:state",
+      "reporter": "Bosw.",
+      "case_ids": [
+        1343954
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-super-ct/16/0308-01"
+      ]
+    },
+    {
+      "cite": "46 Barb., 9",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5149954
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/46/0009-01"
+      ]
+    },
+    {
+      "cite": "8 Bosw., 135",
+      "category": "reporters:state",
+      "reporter": "Bosw.",
+      "case_ids": [
+        1320510
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-super-ct/21/0135-01"
+      ]
+    },
+    {
+      "cite": "37 Mo., 492",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        984300
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mo/37/0492-01"
+      ]
+    },
+    {
+      "cite": "16 Md., 313",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        1865338
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/md/16/0313-01"
+      ]
+    },
+    {
+      "cite": "10 So. Rep., 131",
+      "category": "reporters:state_regional",
+      "reporter": "So.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "27 Pac. Rep., 612",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "17 La. Ann., 174",
+      "category": "reporters:state",
+      "reporter": "La. Ann.",
+      "case_ids": [
+        8504585,
+        8504602
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/la-ann/17/0174-01",
+        "/la-ann/17/0174-02"
+      ]
+    },
+    {
+      "cite": "2 Doug., 461",
+      "category": "reporters:state",
+      "reporter": "Doug.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "56 Ill., 461",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        817754
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/56/0461-01"
+      ]
+    },
+    {
+      "cite": "11 Barb., 592",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4908881
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/11/0592-01"
+      ]
+    },
+    {
+      "cite": "2 Dana, 294",
+      "category": "reporters:state",
+      "reporter": "Dana",
+      "case_ids": [
+        5547393
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ky/32/0294-01"
+      ]
+    },
+    {
+      "cite": "4 Bibb, 538",
+      "category": "reporters:state",
+      "reporter": "Bibb",
+      "case_ids": [
+        6426715
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ky/7/0538-01"
+      ]
+    },
+    {
+      "cite": "27 Ala., 630",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        8496470
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/27/0630-01"
+      ]
+    },
+    {
+      "cite": "15 Ohio St., 168",
+      "category": "reporters:state",
+      "reporter": "Ohio St.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "14 La. Ann., 217",
+      "category": "reporters:state",
+      "reporter": "La. Ann.",
+      "case_ids": [
+        8505400
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/la-ann/14/0217-01"
+      ]
+    },
+    {
+      "cite": "15 Ohio St., 194",
+      "category": "reporters:state",
+      "reporter": "Ohio St.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "16 Ala., 73",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        8495405
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/16/0073-01"
+      ]
+    },
+    {
+      "cite": "13 La. Ann., 193",
+      "category": "reporters:state",
+      "reporter": "La. Ann.",
+      "case_ids": [
+        5200460
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/la-ann/13/0193-01"
+      ]
+    },
+    {
+      "cite": "16 S. W. Rep., 784",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "16 S. W. Rep., 541",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 938,
+    "char_count": 25879,
+    "ocr_confidence": 0.617,
+    "pagerank": {
+      "raw": 8.095330057399394e-08,
+      "percentile": 0.46743497400813716
+    },
+    "sha256": "f8a3333f55010488cb3a1391ec0509a08874fde3ff12aee197eccf05110758f9",
+    "simhash": "1:9eab9926d1d18def",
+    "word_count": 4544
+  },
+  "last_updated": "2024-02-27T16:44:05.763049+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "J. Loustaunau & Co. v. Mary E. Lambert et al."
+    ],
+    "opinions": [
+      {
+        "text": "COLLARD, Associate Justice.\nThis is a suit brought in the District Court of the Thirty-seventh Judicial District of Texas, for and in the County of Bexar, State of Texas, by Mary E. Lambert and others, creditors of Richard S. Lambert, against the appellants, J. Loustaunau and Paul Bergeron, to enjoin the said appellants from executing a certain judgment recovered by the said J. Loustaunau & Co. against Richard S. Lambert for the sum of $2625, and to restrain them from receiving and collecting from the clerk of the court the said sum, which had been realized out of the property and stock of goods of the said Richard S. Lambert, levied upon by the said Loustaunau & Co., under a distress warrant, for rents due and to become due to them from Richard S. Lambert and the appellees herein, as attaching creditors of the said Richard S. Lambert. Upon the filing of the said petition by the appellees herein a temporary injunction was issued, and upon final trial verdict and judgment were rendered in favor of the said appellees and against the appellants, enjoining the appellants from receiving or collecting any of said moneys until appellees\u2019 judgments as creditors of said Richard S. Lambert, amounting to more than the sum of $2625, are first paid, leaving nothing to apply to appellants\u2019 claim and judgment against said Richard S. Lambert for rents due or to become due under said lease; from which judgment the appellants, after the overruling of their motion for a new trial, have appealed.\nThe first assignment of error is as follows: \u201c The court erred in overruling defendants\u2019 general demurrer to plaintiffs\u2019 petition, because neither said petition nor the first supplemental p\u00e9tition show any legal or equitable cause of action, in this, that plaintiffs\u2019 said petition shows, that the appellants, J. Loustaunau & Co., were the landlords of Richard S. Lambert, and that the stock of goods owned by the said Lambert and contained in the store house rented from the appellants had been levied upon by execution and distress warrant, and that the proceeds of such goods were in the hands of the clerk of the District Court; and that the said Lambert had rented the store house from appellants under contract executed May 18, A. D. 1889, and to run for three years, beginning October 1, A. D. 1889, and that no part of said rent had been paid except $75, and that the balance due hereon, to-wit, $2625, was a lien upon said stock of goods, and appellants had a right superior to the creditors of Richard S. Lambert to have the same paid out of the proceeds of said stock of goods.\u201d\nThe petition is good as against a general demurrer. It does allege that Loustaunau & Co. had leased the property, and had obtained judgment foreclosing lien upon the goods in the store, and order for the clerk to deliver to them a sufficient amount of the proceeds of the sale to satisfy the judgment; but the petition also shows, that the lease was unexpired\u2014 most of the time still to run; that the rent was to be paid $75 monthly in advance; that the plaintiffs were not parties to the judgment, assigning a satisfactory reason for not intervening in the rent suit; setting up their debts, their prior levy; that the sale of the goods was upon order of the court in the attachment suits as well as the rent suit; that defendants had assumed control of the store, and had prevented it being rented, raising the price and doing other acts indicating an abandonment of their rights under the lease.\nThe petition further shows, that Morgan Wilson became the owner of the leasehold estate of the absconding tenant, and so became liable for the unpaid rent, and has been ready and willing, and has tendered to Loustaunau the rent as it became due thereunder for the full term of the lease; \u201c that Wilson or the said Loustaunau & Co.\u201d leased the premises to one Ben Moke on the 12th day of February, 1890, for the unexpired term for $80 per month, $75 of which was to be paid to Loustaunau & Co.; and if the lease was made by Wilson, it was so made by and with the consent of Loustaunan & Co., they requiring a further sum of $5 per month for rent of their shelving and fixtures in the house, which was a condition precedent to the leasing.\nIt is further alleged, that Loustaunau & Co. did receive the rent from Moke for the premises, $80 per month, up to the first day of March, 1890 (suit filed March 8, 1890); that the defendants have by their acts and conduct waived and released any lien they ever had upon the goods.\nThe supplemental petition, filed October 19,1891, shows that Ben Moke has, from the date of the filing of the original petition, paid defendants $80 per month rent for the premises; that all the rents due under the lease prior to that time have been fully paid; that defendants had accepted Moke as leasee of the premises for the full unexpired term of the Lambert lease, and had thereby released all lien thereunder.\nWe have selected the foregoing allegations from the petition as sufficient grounds for this suit and the relief asked.\nIf Loustaunau & Co. did not waive and relinquish their lien by their interference with the renting of the property to responsible persons, as alleged, by the receipt of rents and by their assumed control of the same before their judgment was rendered, the petitions show that they have done so since. If their rents have been paid up to the time the supplemental petition was filed, and they have accepted Moke as lessee for the remainder of the term, their judgment will be deemed satisfied, and they would have no interest in the funds deposited with the clerk. Their judgment could be satisfied by payment or by part payment and then-acceptance of another lessee for the remainder of the term.\nWe find the material facts in evidence on the trial as follows:\nOn the 18th of May, 1889, Lambert rented the premises in question for three years from Loustaunau & Co., to commence October 1, 1889, at $75 per month, in advance. After paying the first month\u2019s rent, on the 10th of October, 1889, he abandoned the business and absconded. His wife, to whom he was indebted in the amount of $2508, and other creditors, plaintiffs herein, sued him and attached the goods in his store, the suits being brought from the 11th to the 14th of October, 1889, inclusive. On the 1st of November, 1889, Loustaunau & Co. sued out (the October rent having been paid) a distress warrant before a justice of the peace for the rent to become due for the full term of the lease, unpaid from the 1st of November, 1889, to the 1st of October, 1892 \u2014 two years and eleven months \u2014 and levied on the same goods then in the hands of the sheriff by the levy of the attachments, the distress warrant being made returnable to the next term of the District Court of Bexar County.\nOn the 5th of December, 1889, the landlords filed the proceedings in distress and their petition in the District Court, setting up their rental rights, and on the 12th of December, 1889, they recovered judgment against B. S. Lambert for $2625 rent, with foreclosure of landlord\u2019s lien, and order to clerk to pay the amount out of funds in his hands to them, and the remainder to B. S. Lambert.\nThe creditors, plaintiffs in this suit, applied to the district judge, October 23, 1889, in vacation, for an order to sell the attached goods as perishable property, which order was granted, and the goods ordered sold on the 4th day of November, 1889; and Loustaunau & Co. obtained a similar order for sale to take place on the same day, directing the proceeds to be deposited with the clerk of the court.\nUnder these orders the sale was made to Coulter & Doerr for $3450, who failed to pay the amount of their bid. Thereupon other orders were made to sell the goods (upon application of the parties) on the 9th of December, 1889, which sale was made, and the net proceeds, $2820, deposited with the clerk.\nAfterwards, as stated, Loustaunau & Co. obtained judgment, foreclosure, and order to the clerk to pay them the amount of their judgment and costs, and the residue to Lambert. This judgment and order were made without the knowledge of the attaching creditors.\nOn the 2nd of November, 1889, Wilson Bros., creditors of Lambert, levied attachment, duly sued out, on the leasehold estate of B. S. Lambert, which, by order of the court in vacation, was sold to Morgan H. Wilson for $105 by the sheriff.\nOn the 11th day of February, 1890, Wilson conveyed, or assigned, the leasehold to Ben Moke, the latter to pay $80 per month rent, in advance, for the unexpired term, the extra $5 over the original $75 being for the fixtures and shelving purchased by Loustaunau & Co., under sheriff\u2019s sale, as the property of Lambert, as alleged in the petition, since which time, to the trial, he has paid the rent to Loustaunau & Co. as it fell due, having also paid to them $40 for half of the month of February, 1890. The sheriff\u2019s deed to Morgan Wilson of the leasehold estate is dated the 11th of February, and Wilson\u2019s deed to Moke is dated February 12, 1890. Wilson\u2019s transfer does not state to whom the rent of $80 per month is to be paid.\nOn the same day of Wilson\u2019s transfer to Moke \u2014 the 12th of February, 1890 \u2014 J. Loustaunau & Co., by writing, consented to the transfer by Wilson to Moke, and also transferred and conveyed to him all their right, title, and interest to the lease, and warranted the title.\nOn the same day Wilson notified Moke in writing that, for a valuable consideration paid him by Loustaunau & Co., he had assigned rents accrued and to accrue on the lease, and instructed him to pay the same to Loustaunau & Co. On same day Loustaunau & Co. executed receipt to Moke for the $40 rent, as per lease, to 1st of March, 1890. These papers were all delivered to Moke on the same day at the same time. He applied to defendants\u2019 attorney, Bergstrom, to rent the place, understanding that Barnard, Wilson\u2019s attorney, held the lease, and that Loustaunau & Co. were willing it should be rented on the transfer of the lease. Moke says he went to Bergstrom, and he fixed up the rent to suit himself.\nThe evidence justifies the conclusion, and we find, that Loustaunau & Co. assumed to control and manage the renting of the property after their levy; and that after the purchase of the lease by Barnard, attorney for Wilson Bros., for Morgan Wilson, there was' an understanding between them, Loustaunau & Co. and Barnard, that they should be protected, and that their rents should be paid according to the terms of the original lease, and that they were so protected. Barnard, for Wilson, recognized the liability of his client to a full compliance with the terms of the lease, as assignee thereof; and he assumed all the liabilities of Lambert, the original lessee, and Loustaunau & Co. have accepted such liability.\nIt is also fairly inferable from the facts in evidence, that Loustaunau & Co. have been paid, or are at least fully protected, to the time of trial for all rents, and have accepted Moke\u2019s obligation as lessee or assignee of the lease for the rents to accrue, and that if they lose this suit they have accepted obligations of Wilson and Moke for their rent which fully indemnify them. And we so find the facts.\nAll the plaintiffs in this suit recovered judgment against R. S. Lambert, foreclosing their attachment liens on the goods levied on: Mrs. Mary E. Lambert for $2591.60 and costs of suit, on the 10th of March, 1890; Yolger & Gendtner in the sum of $158 and costs of suit, before a justice of the peace; Millie T. Matter, $158.50 and costs, on the 13th of January, 1890; and A. G. C. Matter for $1882.50 and costs of suit, on the 10th of March, 1890. All th\u00e9 judgments were for just and valid debts and are still unpaid. The proceeds of the-sale of the goods are still in the hands of the clerk.\nAppellants\u2019 second assignment of error complains of the ruling in admitting the testimony of Morgan H. Wilson, J. Musin, T. H. Coulter, and W. F. Doerr, to the effect that each of them had applied to J. Loustaunau & Co. to rent the house, and that they, Loustaunau & Co., claimed a right therein and attempted to rent the same. Appellants insist that the testimony was immaterial, irrelevant, and prejudicial to them, and1 did not tend to prove that the lease to Richard S. Lambert had been can-celled or abrograted, or show any agreement upon any consideration to release the landlord\u2019s lien upon the goods.\nOne of the issues made by plaintiffs\u2019 pleadings was, that Loustaunau & Co. had by their conduct and acts inconsistent with the lease to Lambert cancelled the same; and another was, that they had in the end accepted Moke, the assignee of the original leasehold, as their lessee, by which they had cancelled the original lease and discharged the goods from their lien.\nThe testimony was admissible upon these issues. All the transactions and acts of Loustaunau & Co. in connection with the rented premises leading to the final result of payment of the accruing rents to them, and accepting Moke as their responsible lessee, were admissible. Any circumstance that would tend to show their relations to the property, or to those to whom the lease had been assigned, was pertinent and relevant.\nWhen Wilson became the owner of the lease, he assumed all the obligations of the original lessee, as he was bound by law so to do; and upon the transfer of the lease to Moke, he in turn became so bound; and any fact tending to show that the landlords recognized such substitution was legitimate. Their acceptance of either of them as lessee, or as the party to whom they should look for payment of rent, such party being bound so to do in law or by contract, amounted to a waiver of lien upon the goods of the original tenant. The judgment in their favor would not interfere with their right to do so. Their lien could in this manner be discharged, even though it had been secured by judgment. Harvey v. McGrew, 44 Texas, 412; Howard v. Britton, 71 Texas, 287; Le Gierse v. Green, 61 Texas, 128; Giddings v. Felker, 70 Texas, 176.\nThere was no error in submitting the case to the jury; the issues and the testimony required it, and the evidence supported the verdict. The assignment of error on this point is not well taken.\nThere was evidence tending to establish the proposition that Loustau- . nau & Co. had waived their lien upon the goods in the rented building upon consideration of other persons becoming bound to pay the rent; and there was testimony tending to show; and we find the fact, that the rent due under the original contract had been paid to Loustaunau & Co. for their benefit, or that they were secured in the same up to the time of trial; and therefore the assignment of error objecting to the charge upon the subject can not be sustained.\nFor obvious reasons, before explained, there was no error in refusing to give the fourth special instruction requested by the defendant. It was not applicable to the facts, and did not present the case as made by the testimony. The facts did tend to show that Loustaunau & Co. had abandoned their original lien and accepted other obligations, and had received rent in pursuance of the same.\nThe fifth assignment of error can not be sustained; it objects to the following charge of the court, given by request of plaintiffs:\n\u201c Plaintiffs ask the court to charge the jury, that if they find from the evidence that subsequent to the lease by Loustaunau & Co. the said lease was assigned and transferred to one Ben Moke, by and with the consent of said Loustaunau, or by them, and that said lease is for the whole of the unexpired term of the Lambert lease or any part thereof, provided that you find said Ben Moke was accepted by Loustaunau in lieu of Richard S. Lambert\u2019s lease, then you will find for the plaintiffs.\u201d\nThe expression, \u201c or any part thereof,\u201d should, possibly, not have been used in the charge, because the undisputed evidence shows that the entire unexpired term was assigned to Moke; which, as we have before seen, rendered him liable for the performance of all the undertakings of the original lessee, for rent past due and unpaid as well as that to become due, the acceptance of such obligations by the landlords in legal effect being an acquittance of Lambert and a release of the rental lien upon the goods on the rented premises. The expression noticed, under the facts, could probably mean no more than that part of the term unexpired.\nDefendants\u2019 requested qualification of the charge, that the mere consent of Loustaunau & Co. to the assignment of the term would not establish their waiver of lien on the goods levied on, was not necessary, and it was objectionable because it was upon the weight of evidence.\nIt is not necessary under the facts to determine whether such consent would be of itself a waiver, because there are other facts and circumstances in evidence justifying the conclusion that Loustaunau & Co. not only consented to the assignment, but accepted the assignee as their lessee, and received payment from him at least from that time down to the time of trial, in payment of their rent. This the court submitted to the jury.\nLoustaunau and his partner, Bergeron, were not on the stand.\nBarnard, attorney for Wilson, testified that he was bound as Lambert was bound. The obligation of Moke, who was similarly bound as assignee, got into the hands of Loustaunau & Co., and they have collected the rent from Moke from the time of the assignment to him to the time of trial, Barnard says, as his agent; but the jury could construe the facts to mean that Loustaunau & Co. were collecting the rent on their own account, especially with Barnard\u2019s testimony before them, that if Loustaunau & Co. did not recover in this suit, etc., but if they did recover, he (Barnard), for his client, Wilson, was to have the benefit of the judgment after deducting costs. He says they were his agents in collecting the rents, and they may have been, in the sense that they were to apply the collections of rent to the payment of his obligation, to see that the rents were paid. He testified that he was bound in law as assignee to pay the rents \u2014 bound as Lambert was; and it may be supposed that his understanding with Loustaunau was consistent with such liability.\nDelivered November 2, 1892.\nHis evidence is commendable for candor, and he does not state that the rents when collected were his or his clients.\nIt seems reasonable that Loustaunau & Co. were collecting the rents to pay their claim, for which he acknowledged himself bound. We are satisfied that Loustaunau & Co. are fully protected by Wilson and Moke, whose contracts they have adopted. They should not be allowed to collect their rents twice \u2014 once out of the goods and once from the assignee of the lease, who is bound to pay them the rent. They should not be allowed to aid the assignee to avoid his obligation to pay the rent, and profit thereby at the expense of creditors of the original lessee.\nHaving accepted the obligations of Wilson and Moke as lessees and received rents from them, they have waived their judgment lien.\nThe trial below resulted as it should have done, according to the legal and equitable rights of the parties; and there being no reversible error pointed out in the proceedings, the judgment should be affirmed, and it is so ordered.\nAffirmed.",
+        "type": "majority",
+        "author": "COLLARD, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Upson & Bergsfrom, for appellants.",
+      "Leo Tarleton and C. A. Keller, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "J. Loustaunau & Co. v. Mary E. Lambert et al.\nNo. 176.\n1. Injunction Against Judgment Enforcing Landlord\u2019s Lien \u2014 Pleading. \u2014 See allegations held sufficient on general demurrer, in a petition seeking to enjoin a decree foreclosing a landlord\u2019s lien, on alleged satisfaction of the judgment or waiver of the lien on part of plaintiffs in the judgment of foreclosure.\n2. Waiver of Landlord\u2019s Lien after Decree of Foreclosure. \u2014 The acceptance by a landlord of another tenant as lessee, or as the party to whom the landlord should look for payment, such party being bound so to do in law or by contract, amounts to a waiver of the landlord\u2019s lien for future rents, although after decree enforcing such lien. Circumstantial evidence tending to show such waiver is competent.\n3. Immaterial Error in Charge. \u2014 Where a charge contains an erroneous clause, hut which could not have influenced the verdict under the testimony, such error is immaterial. See example.\n4. Charge Properly Ref used. \u2014 On issue of waiver of the lien, a charge was properly refused, that the mere consent of the landlord to the assignment of the term would not establish a waiver of the landlord\u2019s lien, as objectionable because upon weight of evidence. Besides, there was other testimony to such waiver.\n5. Satisfaction of Claim for Rent. \u2014 A landlord having leased premises for a term of years, and after the failure in business of the lessee, accepting rents that became due thereafter from another, and the obligation of another tenant for the rents to become due for the balance of the term, can not pursue his original lessee upon the lease contract and enforce payment of rents to become due out of the assets of such original lessee upon the premises by distress proceedings.\nAppeal from Bexar. Tried below before Hon. G. H. Noonan.\nUpson & Bergsfrom, for appellants.\n1. Landlord has lien for full term of lease for rents accrued and to accrue. Sayles\u2019 Civ. Stats., arts. 3107, 3122a; Marsalis v. Pitman, 68 Texas, 624; Livingstone v. Wright, 68 Texas, 706; Ghio v. Schutt, 78 Texas, 375. Ex parte judgment, when tenant leaves county, proper. Sayles\u2019 Civ. Stats., art. 3119. Judgment, in favor of landlord against tenant, in absence of fraud or collusion, conclusive against third persons who sue for conversion, and can not be attacked except for fraud. Conwell v. Hartsell, 16 S. W. Rep., 541; Lehman v. Stone, 16 S. W. Rep., 784; Livingstone v. Wright, 68 Texas, 706. Upon sale of tenant\u2019s property by order of court, lien of landlord immediately attaches to the proceeds of sale. Betterton v. Eppstein, 78 Texas, 443. Leasehold estate liable to levy and sale; purchaser liable for all rents to accrue thereunder, but landlord may still enforce lien therefor on original lessee\u2019s property. Le Gierse v. Green, 61 Texas, 128; Tayl. Landl. and Ten., secs. 14, 176. Landlord\u2019s lien not waived, except by express agreement and for valuable consideration. Le Gierse v. Green, 61 Texas, 128; Block v. Latham, 63 Texas, 414. Landlord\u2019s lien attaches to all tenant\u2019s property on premises subject to execution. The acceptance of collateral promise by one who purchases the stock of goods does not of itself release the lien. Amendment of article 3122a, Revised Statutes (Acts of 1889), limiting landlord\u2019s lien to one year, does not affect contracts of lease made before amendment became a law, as that would impair the obligation of a contract. Acts 1889, p. 11; McLane v. Paschal, 62 Texas, 102; South, on Stat. Const., sec. 107; Bac. Abr., tit. Stats., C.\n2. A landlord has the right to either prosecute his lien upon the property of his tenant or waive the same and look to the assignee or purchaser of the lease for all rents to accrue thereunder; and the court should fully charge the jury as to the law applicable to the issues before the jury.\n3. The purchaser of a lease at execution sale is entitled to the possession of the premises covered by the lease; and an assignment thereof by such purchaser, with the written consent of the lessor, as required by the terms of the lease, did not constitute the acceptance of a new tenant in lieu of the original lessee, nor operate as a cancellation-of the lease nor a waiver of the landlord\u2019s lien on the property of the original lessee.\nLeo Tarleton and C. A. Keller, for appellees.\n1. If the landlord had the right to distrain for the whole term, he could only collect his rent as it became due. Reynolds v. McSwain, 13 La. Ann., 193; Wood Landl. and Ten., 839.\n2. Abandonment or waiver of rights under a lease or a surrender by operation of law may be proven by circumstances; and if the landlord enters and takes possession of the premises, he has a right to recover the rent due up to the time of his re-entry, but his right to recover subsequently accruing rent is at an end. 6 Laws. Rights and Rem., secs. 2865, 2866; Schinsler v. Ames, 16 Ala., 73.\n3. The lessor can have but one satisfaction for his rent. Gear\u2019s Landl. and Ten., sec. 125; Sutliff v. Atwood, 15 Ohio St., 194.\n4. An assignee of a lease assumes all the liabilities of the lessee, whether he goes in under a voluntary assignment by the assignor or under an assignment by operation of law. 4 Field\u2019s Lawyer\u2019s Briefs, sec. 491; D\u2019Acquin v. Armant, 14 La. Ann., 217; Sutliff v. Atwood, 15 Ohio St., 168; Drounce v. Jones, 27 Ala., 630; 2 Ct. App. C. C., 713.\n5. An assignee is liable to the original lessor for rent accruing, due after the assignment. 4 Wait Act. and Def., 249, 250; Cox v. Fenwick, 4 Bibb, 538; McCormick v. Young, 2 Dana, 294; Graves v. Porter, 11 Barb., 592; Babcock v. Scoville, 56 Ill., 461; Walker v. Reeves, 2 Doug., 461.\n6. A judicial sale of a lease imposes the obligation to pay the price bid to the tenant, and of paying the rent to lessor besides. Brinton v. Datas, 17 La. Ann., 174; D\u2019Acquin v. Armant, 14 La. Ann., 217; Bonnetti v. Treat, 27 Pac. Rep., 612; Weil v. McWhorter, 10 So. Rep., 131.\n7. If an assignee of a leasehold estate takes possession, he is liable for rent during occupancy. Horwitz v. Davis, 16 Md., 313; Boyce v. Blakewell, 37 Mo., 492; Morton v. Pinckney, 8 Bosw., 135; Jermain v. Patterson, 46 Barb., 9; Young v. Peyser, 3 Bosw., 308; Astor v. Lent, 6 Bosw., 612.\n8. If after the assignment of a lease the original lessee is compelled to pay rent, he is entitled to reimbursement from the assignee. McHenry v. Carson, 41 Ohio St., 212; Martineau v. Steele, 14 Wis., 272; Humble v. Langston, 7 Mee. & W., 530; Wolveridge v. Stewart, 5 Barn. & C., 589; Maule v. Garrett, Law Rep., 7 Ex., 101."
+  },
+  "file_name": "0434-01",
+  "first_page_order": 458,
+  "last_page_order": 467
+}

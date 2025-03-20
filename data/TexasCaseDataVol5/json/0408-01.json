@@ -1,0 +1,80 @@
+{
+  "id": 227354,
+  "name": "J. W. Williams v. J. G. Beasley",
+  "name_abbreviation": "Williams v. Beasley",
+  "decision_date": "1893-11-29",
+  "docket_number": "No. 103",
+  "first_page": "408",
+  "last_page": "410",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Tex. Civ. App. 408"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "54 N. W. Rep., 313",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "case_ids": [
+        5290861
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nd/3/0087-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 255,
+    "char_count": 4352,
+    "ocr_confidence": 0.587,
+    "pagerank": {
+      "raw": 4.666970501906556e-08,
+      "percentile": 0.29213344098439714
+    },
+    "sha256": "c8bca7e18a5808abfb21213def2996cf245b16dddb3df2799ad4eea56f032ba4",
+    "simhash": "1:8b767a821559e029",
+    "word_count": 747
+  },
+  "last_updated": "2024-02-27T16:31:09.266747+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "J. W. Williams v. J. G. Beasley."
+    ],
+    "opinions": [
+      {
+        "text": "RAINEY, Associate Justice.\nAppellant, plaintiff below, brought this suit against appellee, defendant below, in Justice Court, alleging, that one Delk was indebted to him on a note which was due and unpaid; that Delk had executed a mortgage on certain personal property to secure the payment of such note; that defendant, Beasley, knew of said lien, and had taken possession of said property and converted it to his own use; that Delk was insolvent and a nonresident; and he asked for a judgment against Beasley for the value of said property.\nDefendant, Beasley, answered by general and special exceptions, and urged the following special exceptions: (1) Plaintiff\u2019s account fails to show defendant is in possession of said property, or any portion thereof. (2) Because Delk was not made a party to the suit.\nIn the Justice Court judgment was rendered for plaintiff, and the cause appealed to the County Court, where, upon the trial, the general and special demurrers were sustained, and judgment rendered for Beasley, from which Williams appeals to this court. The assignments of error relate to the ruling of the trial court on demurrers.\nDelivered November 29, 1893.\nMotion for rehearing overruled February 14, 1894.\nWe are of the opinion that said ruling was erroneous. It is well settled, that when a nonresident debtor has property in this State, a resident creditor can proceed directly against the property to collect his debt. It is also settled, that where a third party converts to his own use property on which there is a lien, the creditor can proceed against him for the value of the property, not to exceed a sufficient amount to pay such debt. Boydston v. Morris, 71 Texas, 698.\nThe plaintiff alleged that Delk was insolvent; that he was a nonresident; and also that defendant Beasley had converted the mortgaged property. We think these allegations show a good cause of action. The exceptions should have been overruled. Veck v. Holt, 71 Texas, 715.\nThe judgment is reversed and the cause remanded for trial.\nReversed and remanded.",
+        "type": "majority",
+        "author": "RAINEY, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Henry & Green, for appellant.",
+      "No brief for appellee reached the Reporter.",
+      "Davis & McKay, for appellee\u2019s motion for rehearing,"
+    ],
+    "corrections": "",
+    "head_matter": "J. W. Williams v. J. G. Beasley.\nNo. 103.\n1. Conversion of Mortgaged Property \u2014 Nonresident.\u2014When a nonresident debtor has property in this State, a resident creditor can proceed directly against the property to collect his debt; and where a third party converts to his own Use property on which there is a lien, the creditor can proceed against him for the value of the property, not to exceed a sufficient amount to pay such debt.\n2. Same \u2014 Pleading.\u2014The plaintiff alleged the insolvency and nonresidence of the debtor, and conversion by the defendant of the mortgaged property. These allegations show a good cause of action, and the exceptions should have been overruled.\nAppeal from the County Court of Johnson. Tried below before Hon. F. E. Adams.\nHenry & Green, for appellant.\n1. The act of the defendant in converting said property to his own use is a trespass; and appellant being thereby unable to foreclose his lien on said property, may bring his action for the trespass, sue for the conversion of the property, or waive the last and sue for money had and received, as against the defendant, who was a wrongdoer. The plaintiff was entitled to the possession of said property, out of which to satisfy his lien. Veck v. Holt, 71 Texas, 715; 1 Add. on Torts, 544.\n2. The court erred in sustaining special exceptions to plaintiff\u2019s amended account, wherein it is contended that said account is bad, because the same fails to show defendant in possession of any portion of the mortgaged cotton, and because the mortgagor is not a party to this suit; because the plaintiff in this case is not seeking to foreclose said mortgage, but really attempting to recover the same from a tort feasor, or who, himself being a trespasser, has no right to demand that Delk be made a party to this suit. Delk does not become a necessary party to any suit until the plaintiff seeks to foreclose his lien against Delk, which he is not doing in this case. Boydston v. Morris, 71 Texas, 698; Veck v. Holt, 71 Texas, 715; 1 Add. on Torts, 544-548.\nNo brief for appellee reached the Reporter.\nDavis & McKay, for appellee\u2019s motion for rehearing,\ncited: Parker v. Bank, 54 N. W. Rep., 313; Bergen v. Marble Co., 72 Texas, 56; Sparks v. Pace, 60 Texas, 299; Jones on Chat. Mort., sec. 491; Martin v. Cobb, 77 Texas, 546."
+  },
+  "file_name": "0408-01",
+  "first_page_order": 434,
+  "last_page_order": 436
+}

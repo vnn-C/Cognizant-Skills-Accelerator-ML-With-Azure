@@ -1,0 +1,97 @@
+{
+  "id": 227581,
+  "name": "H. B. Sanborn v. John Murphy et al.",
+  "name_abbreviation": "Sanborn v. Murphy",
+  "decision_date": "1893-10-18",
+  "docket_number": "No. 231",
+  "first_page": "509",
+  "last_page": "513",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Tex. Civ. App. 509"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "10 C. B., 145",
+      "category": "reporters:specialty",
+      "reporter": "C.B.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "84 N. C., 396",
+      "category": "reporters:state",
+      "reporter": "N.C.",
+      "case_ids": [
+        8694743
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nc/84/0396-01"
+      ]
+    },
+    {
+      "cite": "34 Mich., 325",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1345266
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/34/0325-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 579,
+    "char_count": 10967,
+    "ocr_confidence": 0.556,
+    "pagerank": {
+      "raw": 3.0734454312456097e-07,
+      "percentile": 0.8575092601923896
+    },
+    "sha256": "011451ee570e666a4554515c6f0763c25c04405fa14b3aeb8449225440333219",
+    "simhash": "1:c130361609349ca3",
+    "word_count": 1910
+  },
+  "last_updated": "2024-02-27T16:31:09.266747+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "H. B. Sanborn v. John Murphy et al."
+    ],
+    "opinions": [
+      {
+        "text": "STEPHENS, Associate Justice.\nAppellant sued to recover block 88 in Plemons\u2019 Addition in the town of Amarillo, Potter County, Texas. Appellees, except John Murphy, who disclaimed, set up as the foundation of their title.a written contract, reading:\n'\u25a0\u2018\u2022State of Texas, County of Potter. \u2014 This agreement, made this 10th day of January, 1889, between H. B. Sanborn and H. H. Brooks, witnesseth: For the consideration that H. H. Brooks or his agent shall publish a newspaper on section number 169, and known as the Glidden & Sanborn Addition to the town of Amarillo, for the term of one year from date, the actual publication to begin February, 1889, the said H. B. San-born agrees and covenants to give a good and sufficient warranty deed to said H. H. Brooks, or order, for the following described property, viz., block number 88, in said addition, and all the excess in said section which may be south of said block 88 to the south line of said section; provided, that if said H. H. Brooks shall publish said newspaper for six months only, then the eastern half of said block and excess, as stated, shall be deeded to him or his order; provided, that if he shall publish said newspaper for nine months, then lots numbers 4 and 7 in said block shall be deeded to H. H. Brooks, or order; and at the expiration of one year from date lots numbers 5 and 6, making the entire fractional block and said excess, if any there be, to the south line of said section number 88, shall be deeded to H. H. Brooks, or order. The said newspaper shall not be less than a six-column weekly folio. It is also provided, that the excess, if any there be, shall only embrace in the deed enough land to make out the full block of 300 feet square; and it is provided also, that if there remains an excess in said section number 88, that a street eighty feet wide shall be laid off to the south of block 88, or so much of said excess as can be used for said purpose.\n\u201cH. B. Sanborn,\n\u201c H. H. Brooks.\u201d\nThey alleged and proved a substantial compliance with the terms of this contract on the part of Brooks, who, by deed dated the 12th of November, 1889, conveyed the property therein described to them. They also alleged and proved, that by mutual mistake as to the boundary line between sections 169 and 170, the property was described as a part of the G-lidden & Sanborn Addition on section 169, instead of PIemon\u2019s Addition on section 170, the numbers of the lots and blocks being the same in each addition. The replication interposed by appellant, and stricken out on exception, was, as stated in his brief, substantially, that there was a complete verbal contract between him and Brooks, and that only a part thereof was reduced to writing, and that the writing was not intended as the entire contract, but only as a memorandum under the statute of frauds necessary to bind him to convey the land, etc.; that on the-day of March, 1889, the entire verbal contract was by mutual consent, and for a valuable consideration, rescinded and annulled, and another entire verbal contract entered into between them, and that under this last contract Brooks had entered into, and for a period of seven months had occupied, one of his houses, worth a monthly rental of $15, and that Brooks had not complied with the terms of said first or last contract.\nWhile the contract of rescission was not distinctly alleged to be verbal, it was inferentially so alleged, and it is so treated throughout appellant\u2019s brief, and especially in the fourth assignment of error, complaining of the action'of the court in sustaining exceptions to his plea setting up \u201c the after-made paroi contract,\u201d and will therefore be so treated by us.\nConclusions of Law. \u2014 1. The deed of Brooks and wife, under which appellees claim, though made before the contract on the part of Brooks had been fully performed, conveyed to appellees all his rights in the premises, and created such privity and interest as enabled them to avoid the replication of the subsequent paroi contract by excepting thereto on the ground that it was inhibited by the statute of frauds. The written contract executed by Sanborn and Brooks was an executory one, in the nature of a bond for title for the sale of lands, and clearly within the statute of frauds. The alleged verbal agreement subsequently made for its rescission was likewise within that statute, and required the same evidence to establish it as was required to establish the sale. Dial v. Crain, 10 Texas, 444; Huffman v. Mulkey, 78 Texas, 561; Sprague v. Haines, 68 Texas, 216; Masterson v. Little, 75 Texas, 697 (see this case on the question of privity); 8 Am. and Eng. Encycl. of Law, 697; Reed on Stat. of Frauds, sec. 468; McEwan v. Oatman, 34 Mich., 325; Davis v. Roscoe, 84 N. C., 396.\nIn Sprague v. Haines, overruling Anderson v. Powers, 59 Texas, 213, the words of the statute, \u201c any contract for the sale of real estate,\u201d are construed to \u201c include every agreement by which one promises to alienate an existing interest in land upon a consideration either good or valuable.\u2019 \u2019\nAfter the execution, and part performance by Brooks, of the original contract, he had \u2018 \u2018 an existing interest \u2019 \u2019 in the land of which the law did not permit him to divest himself by paroi. True, in Bullion v. Campbell, 27 Texas, 653, it was held, that an assignee by verbal transfer could maintain an action for damages against the maker of a bond for title to real estate; but this decision was placed on the ground that \u201c the contract upon which the suit was brought was in writing; \u201d that the assignment of the bond, which was in paroi, could not properly be said to be the contract sought to be enforced, and that as to it the maker could not set up the statute of frauds. Contra, 8 Am. and Eng. Encycl. of Law, 696; Tappin v. Lomas, 10 C. B., 145.\nThe contention, that while a verbal contract for rescission of a sale of land will not be enforced, it is a good ground in equity for refusing specific performance of the contract so rescinded, can not avail appellant in this case. Such a principle has often been applied in States where law and equity are separately administered, it being held, in equity, that the specific execution of a contract is not a matter of right in the party, but of sound discretion in the court, and that the court may therefore, in a proper case, simply refuse to enforce the specific performance of a contract, and leave the party to his remedy at law. 2 Story Eq., secs. 742, 769; 2 Reed on Stat. of Frauds, sec. 471.\nThis was a suit of trespass to try title, brought by appellant to recover the land in dispute from appellees, who simply resisted the recovery on the ground that the original contract to convey had been fully performed by Brooks, without seeking or obtaining any decree for specific performance. They did not ask affirmative relief from a court of equity, but sought only to maintain their possession as defendants in an action at law. It would seem, therefore, that this case does not come within the rule in-valved. In addition, the oral contract for rescission, in order to prevent specific performance, must be executed, and not merely executory. Walker v. Wheatley, 2 Hump., 119; 2 Reed on Stat. of Frauds, sec. 472. As we read appellant\u2019s replication to the defense interposed, the original contract was substituted by a verbal one, which also imposed on appellant the obligation to convey the land to Brooks upon his complying with its terms, and which was not entirely performed by either party; nor was there such part performance and other alleged equities as to take it out of the operation of the statute under the rule of decision in this State. Ward v. Stuart, 62 Texas, 333, and cases there cited.\nThese conclusions overrule the first, second, and fourth assignments of error.\n2. The contract above set out purports on its face to state the entire agreement, and does not come within any of the exceptions to the rule which excludes evidence of contemporaneous paroi stipulations left out of the writing, which vary or contradict its terms. The propositions submitted under the third assignment can not, therefore, be sustained. Willis & Bro. v. Byars, 2 Texas Civ. App,, 134, and cases there cited; Railway v. Garrett, 52 Texas, 133.\n3. There was no material error to the prejudice of appellant in the admission and exclusion of testimony of which complaint is made by the fifth, sixth, seventh,\" and eighth assignments; hence these assignments must be overruled.\n4. This brings us to the ninth and last assignment, upon which appellant seems to confidently rely for a reversal of the judgment. In substance, it is, that the court erred in rendering judgment for lots 1 to 7 in block 88, Plemon\u2019s Addition, upon the verdict of the jury for lots 1 to 7 in block 88, Glidden & Sanborn\u2019s Addition, the lots according to the two surveys being different. We do not understand this assignment to be sustained by the record. Appellant sued for the seven lots in block named as situated in the Plemon\u2019s Addition, and by the answer and cross-action of appellees they sought to recover the same lots, in same block, in same addition. The verdict found for appellees the lots claimed by them, without attempting a description of the same, in response to the court\u2019s charge, which submitted the issues as relating to property situated in the Plemon\u2019s Addition. In this state of the record, it must be held that the pleadings and verdict support the judgment. If the evidence did not sustain the verdict, error should have been assigned on that specific ground, pointing out the insufficiency, both in the motion for a new trial and in the brief; but this has not been done in either. We therefore hold that the verdict is sustained by the evidence in affirming every material allegation contained in appellees\u2019 answers, and conclude that the judgment should be in all things affirmed.\nDelivered October 18, 1893.\nAffirmed.\nMotion for rehearing refused.\nThe decision was approved on writ of error, February 26, 1894.",
+        "type": "majority",
+        "author": "STEPHENS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Holland & Holland, for appellant.",
+      "Browning & Madden, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "H. B. Sanborn v. John Murphy et al.\nNo. 231.\n1. Statute of Frauds \u2014 Parol Rescission of Contract to Convey.\u2014 One who has partly performed a written contract for the purchase of land has an existing interest in the land, and a paroi rescission of the contract, revesting such interest in the other party, is within the statute of frauds.\n2. Contract \u2014 Parol Evidence to Vary Writing. \u2014 A written contract purporting on its faceto state the entire agreement can not be varied by evidence of contemporaneous paroi stipulations.\n3. Practice on Appeal \u2014 New Trial Below. \u2014 Where it is claimed that the evidence does not sustain the verdict, error should be assigned on that specific ground, and such insufficiency should be pointed out in a motion for new trial below as well as in the brief on appeal.\nAppeal from Potter. Tried below before Hon. H. H. Wallace.\nHolland & Holland, for appellant.\nBrowning & Madden, for appellees."
+  },
+  "file_name": "0509-01",
+  "first_page_order": 535,
+  "last_page_order": 539
+}

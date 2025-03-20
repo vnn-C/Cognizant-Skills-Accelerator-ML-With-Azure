@@ -1,0 +1,66 @@
+{
+  "id": 227338,
+  "name": "W. A. Wheeler v. T. A. Gray",
+  "name_abbreviation": "Wheeler v. Gray",
+  "decision_date": "1893-11-01",
+  "docket_number": "No. 248",
+  "first_page": "12",
+  "last_page": "13",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Tex. Civ. App. 12"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 205,
+    "char_count": 3181,
+    "ocr_confidence": 0.515,
+    "pagerank": {
+      "raw": 5.925142974760291e-08,
+      "percentile": 0.3700764021377308
+    },
+    "sha256": "e184e33ebf3eb223e1c09aa8cdb030a4e5628b14a5daa03127c15de9f8b1ab28",
+    "simhash": "1:e1507085e58328ec",
+    "word_count": 511
+  },
+  "last_updated": "2023-07-14T18:07:14.925501+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "W. A. Wheeler v. T. A. Gray."
+    ],
+    "opinions": [
+      {
+        "text": "TARLTON, Chief Justice.\nThis is a proceeding in injunction, in which W. A. Wheeler, appellant, sought to restrain T. R. Gray and the officers of the County Court of Wilbarger County from the collection of a judgment for 838.06. This judgment Gray had recovered from Wheeler in a Justice Court, and again, on appeal, in the County Court.\nThis appeal is from the judgment of the District Court, dissolving the injunction and dismissing the suit.\nAppellant, in his brief, refers to three assignments of error. As he sets out, however, but one of these (the first), we ignore the remaining two. Chappel v. Railway, 75 Texas, 82.\nThe assignment set out is to the effect, that \u201cthe court erred in dissolving the injunction on the motion of defendant, because the answer of defendant was insufficient to repel and overcome the allegations in the petition.\u201d We overrule this assignment.\nDelivered November 1, 1893.\nThe plaintiff\u2019s ground for injunction rests primarily upon an indebtedness of 8904, alleged to be due him by the defendant. The answer specifically denied the existence of such an indebtedness, and intelligently averred facts excluding the possibility thereof. Indeed, the petition of the plaintiff was, we think, subject to the general demurrer with which the defendant assailed it.\nThe alleged indebtedness grew out of a partnership for the buying and selling of meat, existing from December, 1890, to February 17, 1891, between the plaintiff and defendant. The inference from the averments of the petition is quite strong that all the partnership transactions, including those giving rise to the indebtedness claimed, were fully settled between the parties about February 17, 1891; that Gray, in settlement of these transactions, executed his note to Wheeler for $51.15, and that this note was itself litigated as an offset by Wheeler in the suit which resulted in the judgment sought to be enjoined. The petition for injunction does not seem to meet the requirements of article 2876, Revised Statutes, that it shall contain \u201c a plain and intelligible statement of the grounds for such relief.\u201d\nThe judgment is affirmed.\nAffirmed.",
+        "type": "majority",
+        "author": "TARLTON, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "G. W. Walters, for appellant.",
+      "No brief for appellee reached the Reporter. ,"
+    ],
+    "corrections": "",
+    "head_matter": "W. A. Wheeler v. T. A. Gray.\nNo. 248.\nInjunction to Restrain Collection of Judgment. \u2014 Where plaintiff\u2019s action to restrain the collection of a judgment against him rests primarily on an alleged indebtedness claimed to be due him by the judgment creditor, and plaintiff\u2019s petition does not contain a plain and intelligible statement of his grounds for relief, but the inference from its averments is quite strong that such indebtedness has been settled, and the defendant\u2019s answer specifically denies its existence, and intelligently avers facts excluding the possibility thereof, it is not error to dissolve the injunction and dismiss the action.\nError from Wilbarger. Tried below before Hon. G. A, Brown.\nG. W. Walters, for appellant.\nThe court erred in dissolving the injunction on the motion of defendant, because the answer of defendant was insufficient to repel and overcome the allegations in the petition for injunction. Rogers v. Kennard, 54 Texas, 30; Ex Parte Towles, 48 Texas, 413.\nNo brief for appellee reached the Reporter. ,"
+  },
+  "file_name": "0012-01",
+  "first_page_order": 38,
+  "last_page_order": 39
+}

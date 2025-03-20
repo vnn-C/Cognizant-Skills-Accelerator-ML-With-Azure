@@ -1,0 +1,66 @@
+{
+  "id": 221038,
+  "name": "J. M. Milam v. G. W. Filgo, Jr.",
+  "name_abbreviation": "Milam v. Filgo",
+  "decision_date": "1893-05-17",
+  "docket_number": "No. 777",
+  "first_page": "343",
+  "last_page": "344",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 343"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 177,
+    "char_count": 2574,
+    "ocr_confidence": 0.553,
+    "pagerank": {
+      "raw": 4.076306636737454e-08,
+      "percentile": 0.008887542863841968
+    },
+    "sha256": "ebd0dd4ee555032b58a345a522d43ac21e611a1e1b8853db703e4f9a3e4a1127",
+    "simhash": "1:9665c7ba544dbc65",
+    "word_count": 457
+  },
+  "last_updated": "2023-07-14T18:08:23.206239+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "J. M. Milam v. G. W. Filgo, Jr."
+    ],
+    "opinions": [
+      {
+        "text": "HEAD, Associate Justice.\nOn the trial in the court below appellant, offered evidence to show that the goods levied on were conveyed by G. W. Filgo, Sr., defendant in the execution, to his son, G. W. Filgo, Jr., appellee herein, with the intent to hinder, delay, and defraud his creditors. The court excluded this evidence for this purpose, on objection of appellee, because appellant had only pleaded a general denial in the Justice' Court, and at a former trial in the County Court. This was error. On appeal to the County Court the trial is de nova, subject to the limitation, that the plaintiff can set up no new cause of action, nor the defendant any setoff or counter-claim not pleaded in the court below. The evidence offered by appellant was not the assertion of a new cause of action or defense within the meaning of the statute. The defense in both courts was, that the goods were subject to execution as the property of Filgo, Sr. ,- and the fact that in the Justice Court appellant may have relied upon showing that there had in fact been no transfer to Filgo, Jr., would not preclude him from showing in the County Court that if such transfer had been made it was fraudulent and void as to him. In either case the property would be subject to his execution. Blanton v. Langston, 60 Texas, 149; Cullers v. Wilson, 2 Willson\u2019s C. C., 818; Hodges v. Peacock, Ib., 825; Durham v. Flannagan, Ib., 23.\nWe do not understand from appellee\u2019s pleading that he claims the $95 alleged as actual damages in addition to the $116, the alleged value of the property taken, and the amount in controversy was therefore within the jurisdiction of the justice.\nWe are of opinion that the judgment of the court below should be reversed and the cause remanded, and it is so ordered.\nReversed and remanded.\nDelivered May 17, 1893.",
+        "type": "majority",
+        "author": "HEAD, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Crane & Ramsey, for appellant.",
+      "No brief for appellee reached the Reporter."
+    ],
+    "corrections": "",
+    "head_matter": "J. M. Milam v. G. W. Filgo, Jr.\nNo. 777.\nPleading in County Court on Appeal from Justice Court.\u2014Where, on the trial in the County Court of a case appealed from the Justice Court, appellant offered evidence to show that the goods levied on were conveyed hy the defendant in the execution to his son, appellee herein, with intent to hinder, delay, and defraud his creditors, it was error to exclude the evidence on the ground that appellant had only pleaded a general denial in the Justice Court, as such evidence was not the assertion of a new cause of action or defense within the meaning of the statute.\nAppeal from County Court of Johnson. Tried below before Hon. F. E. Adams.\nCrane & Ramsey, for appellant.\nNo brief for appellee reached the Reporter."
+  },
+  "file_name": "0343-01",
+  "first_page_order": 369,
+  "last_page_order": 370
+}

@@ -1,0 +1,79 @@
+{
+  "id": 219091,
+  "name": "G. H. Alderman v. Jones & Robinson",
+  "name_abbreviation": "Alderman v. Jones",
+  "decision_date": "1893-02-07",
+  "docket_number": "No. 737",
+  "first_page": "336",
+  "last_page": "337",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 336"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "17 S. W. Rep., 1074",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "17 S. W. Rep., 1074",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 138,
+    "char_count": 2106,
+    "ocr_confidence": 0.575,
+    "pagerank": {
+      "raw": 4.076306636737454e-08,
+      "percentile": 0.008815443683506091
+    },
+    "sha256": "e1330ebaa7a2a5f16a4cf3e839188031c84bf423b6f89fd7b53d20b0eb5da4f6",
+    "simhash": "1:869464e9ac791d6c",
+    "word_count": 355
+  },
+  "last_updated": "2024-02-27T19:43:33.086404+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "G. H. Alderman v. Jones & Robinson."
+    ],
+    "opinions": [
+      {
+        "text": "HEAD, Associate Justice.\nThis suit originated in the Justice Court for precinct number 1, Wilbarger County, in which judgment was rendered in favor of appellees against appellant on\u2018the 30th day of September, 1891. Appellant undertook to appeal to the County Court from this judgment, and in his appeal bond described the judgment as having been rendered on the 28th day of September instead of the 30th, the correct date. In the County Court appellees moved to dismiss this appeal on account of this misdescription of the judgment, which motion was sustained by the court below and the appeal dismissed, from which this appeal is prosecuted.\nThe appeal bond correctly described the judgment rendered in the Justice Court by the number of the case, names of the parties, the court in which it was rendered, and the amount of the judgment, the only misdescription being in the date above set forth.\nThe decisions of our Supreme Court in the case of Railway v. Stanley, 76 Texas, 418, and of our Court of Appeals in Edwards v. Allen, 17 S. W. Rep., 1074, are conclusive that the action of the court below was erroneous, for which the judgment is reversed and the cause remanded.\nReversed and remanded.\nDelivered February 7, 1893.",
+        "type": "majority",
+        "author": "HEAD, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Elliot & Satterley, for appellant.",
+      "Ho brief for appellees reached the Reporter."
+    ],
+    "corrections": "",
+    "head_matter": "G. H. Alderman v. Jones & Robinson.\nNo. 737.\nAppeal Bond from Justice Court \u2014 Description of Judgment.\u2014 Where on appeal from the Justice to the County Court the bond given correctly describes the judgment appealed from by the number of the case, names of the parties, the court in which it was rendered, and the amount thereof, a misdescription in stating the date when the judgment was rendered as September 28, instead of September 30, is immaterial.\nAppeal from County Court of Wilbarger. Tried below before Hon. J. W. Blankenship.\nElliot & Satterley, for appellant.\nAn error in stating the date of the judgment will not invalidate a bond on appeal from a Justice Court, if the other statements contained therein fully identify the judgment appealed from. Edwards v. Allen, 17 S. W. Rep., 1074; Railway v. Stanley, 76 Texas, 418.\nHo brief for appellees reached the Reporter."
+  },
+  "file_name": "0336-01",
+  "first_page_order": 362,
+  "last_page_order": 363
+}

@@ -1,0 +1,62 @@
+{
+  "id": 221131,
+  "name": "The Gulf, Colorado & Santa Fe Railway Company v. S. Jacobs, Bernheim & Co.",
+  "name_abbreviation": "Gulf, Colorado & Santa Fe Railway Co. v. S. Jacobs, Bernheim & Co.",
+  "decision_date": "1893-06-15",
+  "docket_number": "No. 255",
+  "first_page": "485",
+  "last_page": "487",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 485"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 306,
+    "char_count": 5820,
+    "ocr_confidence": 0.554,
+    "sha256": "a5215974e4d3a5bb0df86ab4ad7a293d7e1d931eab88e3ee9c0252c6a066ee52",
+    "simhash": "1:a335f6910e0f1849",
+    "word_count": 1010
+  },
+  "last_updated": "2023-07-14T18:08:23.206239+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The Gulf, Colorado & Santa Fe Railway Company v. S. Jacobs, Bernheim & Co."
+    ],
+    "opinions": [
+      {
+        "text": "PLEASANTS, Associate Justice.\nThis suit was instituted by appellees against appellant to recover the value of a case of clothing, shipped by appellees to J. M. Womack over defendant\u2019s road on the 23rd day of August, 1890; appellant executing on the day last named its bill of lading. The package was consigned to Womack, care of railway agent at Belden, Texas, and should have reached its destination in from three to five days. The petition alleged, that by reason of the negligence of appellant, the goods did not reach McGregor, the most distant point of transit on its line, until about the 28th day of September; that the goods were again delayed in their transit over the Cotton Belt Bailway, and the purchaser, Womack, advised plaintiffs that on account of the delay he could not receive the goods, and he was by plaintiffs released from his purchase. That about the 10th of October the defendant acknowledged that the goods were lost, and requested plaintiffs to present their bill for payment to the defendant company, and plaintiffs accordingly, did on said day present their bill to the defendant for the sum of \u00a7419, and defendant then promised to pay the same between the 10th and 15th of November, 1890.\nDefendant answered by general denial.\nTrial by the judge without a jury, and judgment for plaintiffs for the price of the goods, to-wit, \u00a7419, and interest on that sum added, making the judgment, principal and interest, \u00a7448.90. Motion for new trial being overruled, defendant filed petition in error, and plaintiffs accepted service.\nThe plaintiffs proved by N. Reddich, who is one of the plaintiffs, that the goods were shipped as alleged to Womack, and that they were delayed in transit, and did not reach Belden till the 18th of October, 1890, and that prior to this, date Womack had been released from his purchase on .account of the great delay in the transmission of the goods; and that the defendant company, through W. W. Rhodes, whom witness found in the \u25a0office of the auditor of the defendant, promised to pay for the goods within the time alleged in petition.\nRhodes testified, that he was the auditor\u2019s clerk; that he never promised that the company would pay plaintiffs the value of the goods; but that he requested the plaintiffs to make out their claim, showing the value <of the goods, that he might forward the same to the Cotton Belt Company, and show them the importance of finding the goods and forwarding them to their destination. That he had no authority to bind the \u25a0company to pay for the goods, and that he did not, on the 10th of October, 1890, nor at any other time, promise for the company to pay plaintiffs for the goods. That the goods went astray on the Cotton Belt Railway from some cause, but that they were afterwards recovered, and on the 18th of October, 1890, tendered to the consignee, who refused to accept the same, and plaintiffs were duly notified of the refusal of Womack to receive the goods.\nPlaintiff Reddich testified, that he did not know that the witness Rhodes was not the defendant\u2019s auditor; that Rhodes was the only person he saw in the office, and that he promised that 'the company would pay for the goods.\nIt was admitted by both plaintiffs and defendant that the goods were finally recovered, and were tendered on the 18th of October, 1890, to the consignee, and that he refused to receive them, and that plaintiffs were notified of the fact, and that the consignee had never received the goods, and that they were still in the custody of,the St. Louis, Arkansas <& Texas Railway Company.\nThe appellant has made several assignments of error, but we deem it unnecessary to notice any other than the second, which is: \u201c The court erred in its conclusions of law, as follows: \u2018 The agreement of the company to pay plaintiff for the goods on the 10th day of October, 1890, at a price agreed on between the parties, being the same sued for, was binding on both parties. Thereafter the goods belonged to the defendant company, and the plaintiffs became entitled to demand payment.\u2019 \u201d\nThis conclusion of law is based upon a conclusion of fact which is without evidence to support it. There is the testimony of one of the plaintiffs that the witness Rhodes did promise that the defendant company would pay for the goods; but where is the evidence that Rhodes, if he made such promise, which he positively denies, was authorized by the defendant to make the promise for it ? The record furnishes no such evidence. We can not say that the auditor of the defendant company, by virtue of his office, would be authorized to bind the company by an agreement such as that upon which the plaintiffs rest their suit, and, a fortiori, we can not conclude that such an agreement made by the auditor\u2019s clerk would bind the defendant company. For this, error the judgment of the lower court is reversed and the cause remanded for another trial.\nReversed and remanded.\nDelivered June 15, 1893.",
+        "type": "majority",
+        "author": "PLEASANTS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "W. J. Terry, for plaintiff in error.",
+      "Robert G. Street, for defendants in error."
+    ],
+    "corrections": "",
+    "head_matter": "The Gulf, Colorado & Santa Fe Railway Company v. S. Jacobs, Bernheim & Co.\nNo. 255.\nAuthority of Auditor\u2019s Clerk to Bind Company to a Promise to Pay for Undelivered Goods.\u2014Goods not being delivered to the consignee within a reasonable time after shipment, the consignor called at the auditor\u2019s office and found the cleric in charge, being the only person in the office, and who promised that the company would pay for the goods. Consignor did not know that the clerk was not the auditor. This evidence was denied by the clerk in charge. Held, the record furnishes no evidence that the clerk of the auditor had any authority from the defendant company to bind it by any such promise, and the judgment is reversed.\nError from Galveston. Tried below before Hon. Wm. B. Lockhart, County Judge.\nW. J. Terry, for plaintiff in error.\nRobert G. Street, for defendants in error."
+  },
+  "file_name": "0485-01",
+  "first_page_order": 511,
+  "last_page_order": 513
+}

@@ -1,0 +1,80 @@
+{
+  "id": 221161,
+  "name": "A. B. Purinton et al. v. Gunter & Munson",
+  "name_abbreviation": "Purinton v. Gunter & Munson",
+  "decision_date": "1893-06-21",
+  "docket_number": "No. 481",
+  "first_page": "525",
+  "last_page": "528",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 525"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "48 Cal., 359",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "57 Am. Dec., 191",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 497,
+    "char_count": 10296,
+    "ocr_confidence": 0.539,
+    "pagerank": {
+      "raw": 7.578924433977877e-08,
+      "percentile": 0.4493375868631723
+    },
+    "sha256": "099d60a22ea48039d76f198bc0ccad84de3f9636061624575f93114618ebaf07",
+    "simhash": "1:d1e5e3b63793c331",
+    "word_count": 1817
+  },
+  "last_updated": "2024-02-27T16:31:46.217873+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "A. B. Purinton et al. v. Gunter & Munson."
+    ],
+    "opinions": [
+      {
+        "text": "STEPHENS, Associate Justice.\nThis suit involves the title to two tracts of land situated in Wichita County. Appellants claim as the heirs of M. M. Purinton, deceased, who was the wife of W. W. Purinton. Appellees claim under an execution sale made in the year 1887, under a judgment rendered in 1877 against W. W. Purinton, the lands having been levied on in 1885 as the property of W. W, Purinton, who was continuously insolvent from about the date of said judgment. Appellants brought this suit October 7, 1889, in the form of trespass to try title, praying the removal of cloud from their title. Appellees, by answer filed November 9, 1889, interposed the plea of not guilty, statutes of limitation, and by a cross-action alleged that the claim of appellants east a cloud upon their title, praying that it be removed. The controlling question in the case arises upon the effect, under the facts developed, of the deeds made in the years 1883, 1884, and 1885, conveying the property to M. M. Purinton, whose husband was at the time not only insolvent, but indebted to the plaintiff in the judgment under which the lands were afterwards levied on and sold. All the conveyances except one recited that the consideration was paid by M. M. Purinton out of her separate property, and that one recited that the consideration was paid and secured to be paid by M. M. Purinton out of her separate property, as follows, 82345 paid cash, and the balance of 8300 in thirty days. All the deeds in terms conveyed the land to M. M. Purinton as her separate property; and they were all made, with the consent of the husband, by other parties.\nThe court found, that the evidence failed to satisfactorily show either that M. M. Purinton\u2019s separate funds were used to any extent in purchasing the lands in controversy, or, if so, the extent to which they were so used; but that she had some separate property before the lands in controversy were purchased, which underwent frequent and numerous mutations before the purchases in question were made, and that the same had not been with any degree of distinctness traced into the lands in controversy. This conclusion we find to be sustained by the record. The court therefore held, that the property was community property when levied on, and, as such, that it was subject to levy and sale; holding that the burden of showing that the property was the separate property of Mrs. Purinton rested upon those claiming under her.\nSince the decision in this case, the Supreme Court, in the case of McCutchen v. Purinton, 84 Texas, 603, in construing a deed identical with those in question, has decided, that where the deed is taken in the name of the wife by the consent of her husband, reciting that the consideration is paid by her out of her separate property, and conveying the land to her as her separate property, it vests the title in the wife as her separate estate, and imposes the burden of showing to the contrary upon those attacking the conveyance. The court, however, found in this case, that if mistaken in the conclusion that the burden rested upon appellants, the evidence was sufficient to overcome the prima facie case made by the recitals in the deed, and to establish that the land was community property of W. W. and M. M. Purinton. After a careful consideration of the statement of facts and the several conclusions of law and fact found in the record, we feel constrained to hold, that the trial court, not ascribing to the deeds the force of conveyances in terms creating a separate estate in the wife, rather than a community estate of husband and wife, must have attached undue weight to the failure of appellants to distinctly trace any separate property of Mrs. Purinton into the land in question. Until set aside for fraud, these deeds made the land the separate estate of the wife at least so far as the legal title was concerned. The creditor may, of course, follow the community as well as other property of an insolvent and fraudulent debtor, and subject it to the payment of his debt; and the doctrine of constructive trusts may be applied to a deed which in terms conveys the legal title to the wife as her separate property, as well as to other deeds.\nWe think there was error also in entering judgment upon the disclaimer of M. M. Purinton. He certainly could not divest the separate estate of his wife, as shown by deeds made with his consent to her as her separate property, by any subsequent deed or disclaimer of his. If the deeds were made to defraud creditors, they were subject to attack by levy or other proper method on the part of the creditors; but the husband could no more divest title by any voluntary act of his than if he had made these deeds himself as a gift to his wife. The view taken by the court below of the validity and invalidity of the levies and sales we approve.\nWe have concluded, that as the case was tried upon a theory which has since the trial been decided by the Supreme Court to be erroneous, in justice to all parties the judgment should be reversed and the cause remanded.\nReversed and remanded.\nDelivered June 21, 1893.",
+        "type": "majority",
+        "author": "STEPHENS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Bomar & Bomar, for appellants.",
+      "M. D. Priest, for appellees.",
+      "Brown & Bliss, also for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "A. B. Purinton et al. v. Gunter & Munson.\nNo. 481.\n1. Conveyance to Wife\u2014Presumptions from Recitals of Separate Property.\u2014Where a deed is taken in the name of the wife, by the consent of her husband, reciting that the consideration is paid by her out of her separate property, it vests the title in the wife as her separate estate, and imposes the burden of showing to the contrary upon those attacking the conveyance. Following McCutchen v. Purinton, 84 Texas, 603.\n2. Same\u2014Creditor\u2019s Right to Prove Community Property.\u2014While \u25a0such a deed, until set aside for fraud, vests the legal title in the wife as her separate estate, yet a creditor may follow the community as well as other property of an insolvent or fraudulent debtor and subject it to the payment of his debt, and the doctrine of constructive trusts may be applied to a deed which in terms conveys the legal title to the wife as her separate property as well as to other deeds.\n3. Practice on Appeal \u2014 Findings of Fact Influenced by Error of Law.\u2014Where the trial court erroneously held that under the deeds in evidence the burden of showing that the land was the separate property of the wife rested upon those claiming under her, but found that, if mistaken in that conclusion, the evidence was nevertheless sufficient to overcome the prima facie case made by the recitals in the deed, and to establish that the land was community property, and it appeared that such findings of fact must have been influenced by the error of law as to the force of the deed to the wife, the case was reversed and remanded that justice might be done to all parties.\n4. Disclaimer by Husband does not Divest Wife\u2019s Title.\u2014A disclaimer by the husband in a suit pending can not operate to divest the separate estate of the wife as shown by deeds made with his consent to her as her separate property.\nAppeal from Tarrant. Tried below before Hon. N. A. Stedman.\nBomar & Bomar, for appellants.\n1. Where land is conveyed to a married woman during coverture, by deed containing recitals that the consideration is paid out of her separate property, and conveyed to her as her separate property, the land is prima facie her separate property, and the burden is on the party asserting the contrary. Morrison v. Clark, 55 Texas, 437; Purinton v. Davis, 66 Texas, 455.\n2. Where a creditor of a husband seeks to subject real estate in name of his wife, limited to her separate use by the deed, he must prove that the deed was taken in name of wife to defraud his creditors. Morrison v. Clark, 55 Texas, 437; Warren v. Brown, 57 Am. Dec., 191.\n3. In a suit to remove cloud, or in trespass to try title, a disclaimer filed by one defendant will not support a judgment against any one except the party disclaiming. Howards v. Davis, 6 Texas, 174; Morrison v. Clark, 55 Texas, 437; Swain v. Duane, 48 Cal., 359.\nM. D. Priest, for appellees.\n1. Property acquired by purchase during marriage is presumed to be community property of the spouses, regardless of the recitals contained in the deeds. Higgins v. Johnson, 20 Texas, 394; Butler v. Beck, 70 Texas, 735; Morris v. Hastings, 70 Texas, 29; Schmeltz v. Garey, 49 Texas, 60; 2 Dev. on Deeds, sec. 868.\n2. Where separate property becomes commingled with community property, it is incumbent upon those asserting separate property rights to trace it clearly and indisputably; and it is not incumbent on the creditor to trace the community. Epperson v. Jones, 65 Texas, 425.\n3. Where defendant in trespass to try title disclaimed, the plaintiff is entitled to recover whatever interest he may have had in the land, without showing any title in himself. Gullett v. O\u2019Connor, 54 Texas, 408; Wootters v. Hall, 67 Texas, 513; Dodge v. Richardson, 70 Texas, 209.\nBrown & Bliss, also for appellees.\n1. The recitals in the deeds to M. M. Purinton were not evidence against appellants that the purchase money was her separate property. Parties can not by their own declarations overturn the presumptions of the law and make evidence for themselves. These recitals gave notice of her claim, and if proved to be true would secure her rights against purchasers. Watkins v. Edwards, 23 Texas, 443; Hawley v. Bullock, 29 Texas, 216; Green v. Ferguson, 62 Texas, 525.\n2. Profits from business carried on by either husband or wife with separate or community funds belong to the community estate. Where in conducting a business the capital is separate fund, but it, with profits, are reinvested from time to time, the burden is upon the claimant to the separate estate to show what part is such; and failing to do so, the whole is liable to community debts. All property purchased during the marriage on credit or with money borrowed on faith of the separate estate becomes a part of the community estate. Epperson v. Jones, 65 Texas, 425; Smith v. Bailey, 66 Texas, 553; Heidenheimer v. McKeen, 63 Texas, 229.\n3. The land being community, the one-half of it belonged to W. W. Purinton, and his disclaimer admitted the title of appellees as to that half. Judgment was correctly rendered upon this disclaimer for one-half of the Marion tract. Wootters v. Hall, 67 Texas, 513; Dodge v. Richardson, 70 Texas, 209."
+  },
+  "file_name": "0525-01",
+  "first_page_order": 551,
+  "last_page_order": 554
+}

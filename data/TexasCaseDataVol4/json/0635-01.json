@@ -1,0 +1,66 @@
+{
+  "id": 223631,
+  "name": "Houston City Street Railway Company v. A. M. Autrey",
+  "name_abbreviation": "Houston City Street Railway Co. v. Autrey",
+  "decision_date": "1893-11-02",
+  "docket_number": "No. 321",
+  "first_page": "635",
+  "last_page": "636",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Tex. Civ. App. 635"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 254,
+    "char_count": 3909,
+    "ocr_confidence": 0.599,
+    "pagerank": {
+      "raw": 4.8172472706271035e-08,
+      "percentile": 0.30341788266420167
+    },
+    "sha256": "acae08ab834fa27d8768552b3027478a829ee8ae355121684ac8f979858a9acf",
+    "simhash": "1:90aa97991bdccf58",
+    "word_count": 659
+  },
+  "last_updated": "2023-07-14T14:53:58.701798+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Houston City Street Railway Company v. A. M. Autrey."
+    ],
+    "opinions": [
+      {
+        "text": "PLEASANTS, Associate Justice.\nThe appellant assigns several errors, but we refrain from noticing any of them, save the three following:\n\u201c 8. The verdict of the jury is contrary to and is not supported by the evidence, and is against the great preponderance of the evidence, in this, that there was no evidence showing that the nail which penetrated the foot of plaintiff\u2019s horse was placed on the track or street by the defendant, or that the said nail was in any plank on defendant\u2019s track, or in any plank belonging to defendant, or in any way connected with defendant\u2019s road or track.\n\u201c9. The verdict of the jury is unauthorized by the evidence, and wholly without evidence to support it, because, even admitting that the horse of plaintiff had a nail penetrate his foot on defendant\u2019s track, there is no evidence to warrant the jury in finding that such nail was placed there by the defendant, or that such nail was ever used by or owned by the defendant in or about its track in any manner whatever.\nDelivered November 2, 1893.\n\u201c 10. The verdict of the jury is contrary to law and against the law.\u201d\nThe foregoing three assignments raise the same question, and are adopted as a proposition.\nThese assignments question the sufficiency of the evidence to sustain the verdict of the jury. The evidence, if considered from the aspect most favorable to the appellee, established this, and nothing more, that the plaintiff\u2019s horse came to its death, without negligence on part of plaintiff, from a wound received while being driven over defendant\u2019s railway, and which was inflicted by puncture from a nail, which had been used by defendant in constructing or repairing its railway track.\nIf the evidence warrants the above conclusions of fact, about which we-express no opinion, does it follow that the defendant company was guilty of negligence P This question we are constrained to answer in the negative. If the defendant\u2019s track was in such condition as rendered it dangerous to animals passing through the streets, the evidence does not show, that defendant knew of such condition; nor does the evidence show facts which would charge defendant with notice.\nFor the error of refusing to set aside the verdict, the judgment of the court below is reversed and the cause remanded.\nReversed and remanded.",
+        "type": "majority",
+        "author": "PLEASANTS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Jones & Garnett, for appellant.",
+      "W. P. Hamblen, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Houston City Street Railway Company v. A. M. Autrey.\nNo. 321.\n1. Evidence o\u00ed Negligence held Insufficient.\u2014Plaintiff\u2019s horse came to its death without negligence of defendant, from a wound received while being driven over defendant's railway, and which was inflicted by a nail which had been used by defendant in constructing or repairing its track. Under these facts a judgment for damages for the injury is reversed.\n2. Knowledge of Dangerous Condition of Track Requisite.\u2014To constitute negligence on the part of a street car company because its track was left in such a condition as to render it dangerous to animals passing through the streets, it must be shown that the company knew of such dangerous condition of the track, or that facts were shown such as would charge the company with notice.\nAppeal from the County Court of Harris.\nTried below before Hon. W. C. Anders, County Judge.\nJones & Garnett, for appellant.\nThe eighth, ninth, and tenth assignments of error [see opinion] are supported by the following authorities: Railway v. Wallen, 65 Texas, 568; Bedus v. Barnett, 59 Texas, 576; Zapp v. Michaelis, 58 Texas, 270; Willis v. Lewis, 28 Texas, 191; Hardy v. Hanson, 82 Texas, 101; Railway v. Schmidt, 61 Texas, 282.\nW. P. Hamblen, for appellee.\nThe statement of facts discloses ample evidence of the defendant\u2019s (appellant\u2019s) culpability, and that it was the direct cause of the injury to appellee\u2019s horse, whereby the same was total loss. The jury is presumed to have weighed all the testimony, and their verdict is reasonable, and should not be disturbed. Powell v. Haley, 28 Texas, 52."
+  },
+  "file_name": "0635-01",
+  "first_page_order": 659,
+  "last_page_order": 660
+}

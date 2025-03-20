@@ -1,0 +1,270 @@
+{
+  "id": 221198,
+  "name": "J. Arch Gamel v. Temple D. Smith et al.",
+  "name_abbreviation": "Gamel v. Smith",
+  "decision_date": "1893-03-08",
+  "docket_number": "No. 769",
+  "first_page": "22",
+  "last_page": "24",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 22"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "18 S. W. Rep., 156",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "92 Pa. St., 196",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        490805
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/92/0196-01"
+      ]
+    },
+    {
+      "cite": "5 N. H., 434",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "62 Barb., 431",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Hun, 245",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Metc., 207",
+      "category": "reporters:state",
+      "reporter": "Metc.,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "14 Ohio St., 928",
+      "category": "reporters:state",
+      "reporter": "Ohio St.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 R. I., 383",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        4812192
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ri/7/0383-01"
+      ]
+    },
+    {
+      "cite": "32 Conn., 482",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        535546
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/conn/32/0482-01"
+      ]
+    },
+    {
+      "cite": "47 Barb., 304",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        1946939
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/47/0304-01"
+      ]
+    },
+    {
+      "cite": "37 N. H., 531",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "51 N. H., 424",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        11251245
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nh/51/0424-01"
+      ]
+    },
+    {
+      "cite": "18 N. H., 307",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        4420115
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nh/18/0307-01"
+      ]
+    },
+    {
+      "cite": "70 Ala., 534",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        3269228
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ala/70/0534-01"
+      ]
+    },
+    {
+      "cite": "4 N. J. Eq., 503",
+      "category": "reporters:state",
+      "reporter": "N.J. Eq.",
+      "case_ids": [
+        513053
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nj-eq/4/0503-01"
+      ]
+    },
+    {
+      "cite": "93 N. C., 69",
+      "category": "reporters:state",
+      "reporter": "N.C.",
+      "case_ids": [
+        11272659
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nc/93/0069-01"
+      ]
+    },
+    {
+      "cite": "7 R. I., 383",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        4812192
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/7/0383-01"
+      ]
+    },
+    {
+      "cite": "32 Conn., 482",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        535546
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/conn/32/0482-01"
+      ]
+    },
+    {
+      "cite": "37 N. H., 531",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "51 N. H., 424",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        11251245
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nh/51/0424-01"
+      ]
+    },
+    {
+      "cite": "18 N. H., 307",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        4420115
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nh/18/0307-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 521,
+    "char_count": 8138,
+    "ocr_confidence": 0.557,
+    "pagerank": {
+      "raw": 9.205328917267067e-08,
+      "percentile": 0.5097967101556886
+    },
+    "sha256": "61609285672090f963fd03cff9ce41f5be1c5df67c1e01f7f81e19e53bfc939e",
+    "simhash": "1:3388c9ed26b72039",
+    "word_count": 1414
+  },
+  "last_updated": "2024-02-27T16:31:46.217873+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "J. Arch Gamel v. Temple D. Smith et al."
+    ],
+    "opinions": [
+      {
+        "text": "KEY, Associate Justice.\nThis suit was brought by appellant for the purpose of procuring a judicial construction of a trust conveyance, executed March 19, 1892, by C. Crosby to appellant as trustee, and to have all the rights of Crosby\u2019s creditors adjudicated and determined, and appellant advised and directed by the court as to how he should execute the trust.\nThe District Court sustained a general demurrer to the petition, and dismissed the case, as recited in the judgment, because the petition \u201c discloses no cause of action of which this court has jurisdiction.\u201d\nIt is not clear whether the intention was to hold that the court had no jurisdiction, at the instance of a trustee, to construe an instrument creating a trust and direct the manner of its execution; or that, conceding its jurisdiction, appellant\u2019s petition did not disclose an instrument of such doubtful import, or such a complication of circumstances, as entitled him to the court\u2019s aid in the administration of his trust.\nIf the court was of the opinion that the averments of the petition were such as entitled appellant to equitable relief, but that the District Court had no jurisdiction to grant such relief, such opinion was erroneous. Neither the amount in controversy nor any other feature of the case brings it within the original jurisdiction of any other court; and under the Constitution, as amended in 1891, if a cause of action exists and jurisdiction thereof is not conferred upon any other court, it is embraced within the jurisdiction of the District Court. Const., art. 5, see. 8.\nIf, on the other hand, the court concluded that the averments of the petition were not sufficient to entitle appellant to any relief, then such conclusion was incorrect.\nThe instrument sought to be construed is too lengthy to be incorporated or accurately described in this opinion. It conveys all of Crosby\u2019s property not exempt from forced sale, alleged to be worth about 875,000, to be sold and applied to the payment of all his indebtedness, estimated in the petition at about 860,000. It declares that title to the property is \u201cfully vested\u201d in the trustee. It divides his debts into five classes, and directs the trustee to sell the property and pay them according to their classification, and directs that any property remaining be returned, to the grantor. It does not show on its face that Crosby was insolvent, or that he executed the conveyance in contemplation of insolvency, intending it to operate as an assignment under the statute. The petition alleges, that some of Crosby\u2019s creditors are demanding that appellant shall construe and execute the instrument as a deed of trust, preferring certain creditors; and that others are demanding that it be construed and executed as an assignment under the statute, disregarding all attempted preferences; and that appellant is not advised as to the legal effect of said conveyance and the manner in which he should execute the trust thereby created. It shows that the creditors are numerous, and that Crosby\u2019s liability to some claiming to be his creditors is uncertain and ought to be judicially determined. There are other allegations in the petition disclosing matters calculated to perplex and embarass the trustee.\nAs regards proceedings of this character, a text writer says: \u201cAs trustees hold the legal title for the benefit of third persons, and as the law forbids them from making any. profit to themselves from their management of or dealing- with the trust fund, so the law protects them from loss if they act according to the law in good faith. And in all cases of doubt as to what the law is, and what their conduct ought to be under it, they are entitled to instruction and direction from the court. * * * Whenever a case occurs which justifies the proceedings, trustees, by a bill setting forth the facts and joining the proper parties, may ask the court for instructions as to their duties under the circumstances in which they or the funds are placed. Such instructions and orders, obtained without collusion or fraud, and followed in good faith, will protect trustees from loss, whatever may be the event. It would be a harsh rule to hold the trustee for an error of the court.\u201d Perry on Trusts, sec. 476a; see, also, sec. 928, same volume; Wheeler v. Berry, 18 N. H., 307; Petition of Baptist Church, 51 N. H., 424; Goodhue v. Clark, 37 N. H., 531; Crosby v. Mann, 32 Conn., 482; Little v. Thorne, 93 N. C., 69; Tillinghast v. Coggeshall, 7 R. I., 383; Attorney-General v. Moore\u2019s Exrs., 4 N. J. Eq., 503; Gardiner v. Downs, 22 Beav., 397; Grimball v. Cruse, 70 Ala., 534.\nConsidering all the averments in appellant\u2019s petition, we think it states a cause of action entitling him to appeal to the advisory jurisdiction of a court of equity for aid and direction in the execution of his trust.\nAs requested by appellant, the judgment of the court below is reversed and cause remanded.\nReversed and remanded.\nDelivered March 8, 1893.",
+        "type": "majority",
+        "author": "KEY, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Marshal Felton, for appellant."
+    ],
+    "corrections": "",
+    "head_matter": "J. Arch Gamel v. Temple D. Smith et al.\nNo. 769.\n1. Jurisdiction of District Court.\u2014If a cause of action exists, and jurisdiction thereof is not conferred upon any other court, it is embraced within the jurisdiction of the District Court. Const., art. 5, sec. 8.\n2. Construction of Trust Deed \u2014 At Instance of Trustee.\u2014In all cases of doubt as to what the law controlling the.effect of a trust deed is, and as to the conduct of the trustee under such deed, the trustee is entitled to instruction and direction from the court. In such case the trustee, by bill setting forth the facts and joining the proper parties, may ask the court for instructions touching his rights and duties under the trust.\n3. Trust \u2014Case in Judgment. \u2014 Crosby conveyed $75,000 to Gamel in \u00a1trust for benefit of creditors holding claims in .amount of $60,000. Controversy .having arisen among the creditors and with the trustee as to the effect of the trust deed, the trustee had the right to invoke the aid of the court in its construction. The District Court had jurisdiction.\nAppeal from Mason. Tried below before Hon. Thos. M. Paschal.\nMarshal Felton, for appellant.\nThe court erred in holding the general demurrer well taken and in dismissing this cause, in this, that the trustee, the plaintiff in this suit, has a just right to have the court construe and pass upon the deed of trust and instrument set out as exhibit A to plaintiff\u2019s petition, to the end, the protection of the said trustee and the protection of the trust estate. And further, the court had jurisdiction in this behalf to settle and adjust the rights between creditors in their several claims, and to direct the manner of payment, and also had jurisdiction in this behalf to restrain a sale of the trust property by one creditor.\nOn jurisdiction of court and right of trustee to bring this suit: Const., art. 5, sec. 8 (amendment 1891); Perry on Trusts, 3 ed., secs. 476a, 928; Burr. on Ass., 5 ed., 681, 682; 1 Pome. Eq., secs. 130, 131; Preston v. Carter, 80 Texas, 391; Wheeler v. Berry, 18 N. H., 307; Petition of Baptist Church, 51 N. H., 424; Goodhue v. Clark, 37 N. H., 531; Re Primrose, 23 Beav., 590; Attorney-General v. Moore, 4 C. E. Green, 503; Vanness v. Jacobs, 2 Green, 153; Woodruff v. Cook, 47 Barb., 304; Crosby v. Mann, 32 Conn., 482; Tillinghast v. Coggeshall, 7 R. I., 383; Wiswell v. Church, 14 Ohio St., 928; Talbot v. Radnor, 3 My. & K., 252; Goodson v. Ellison, 3 Russ., 583; Knight v. Martin, 1 R. & M., 70; Angier v. Standard, 3 My. & K., 566; Curteis v. Candler, 6 Madd., 123; Campbell v. Horne, 1 Y. & Col. Ch., 664; Gardiner v. Downes, 22 Beav., 397; Merlin v. Belgrave, 25 Beav., 137; Taylor v. Glanville, 3 Madd., 176; Boring v. Steineman, 1 Metc., 207; Tucker v. Horneman, 4 De G. M. & G., 395; Rowland v. Morgan, 13 Jur., 23; Anon v. Gelpcke, 5 Hun, 245; Stone v. Miller, 62 Barb., 431; Matter of Christ\u2019s Church in Londonderry, 5 N. H., 434; Wylie\u2019s Appeal, 92 Pa. St., 196.\nThe deed should be held an assignment, under the statute of Texas governing insolvent debtors. Faunt v. Elsbury, 68 Texas, 1; Hudson v. M. & E. Co., 79 Texas, 401; Boyd v. Haynie, 18 S. W. Rep., 156."
+  },
+  "file_name": "0022-01",
+  "first_page_order": 48,
+  "last_page_order": 50
+}

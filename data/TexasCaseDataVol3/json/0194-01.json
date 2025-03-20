@@ -1,0 +1,66 @@
+{
+  "id": 221095,
+  "name": "O. B. Wright v. J. M. Dobie",
+  "name_abbreviation": "Wright v. Dobie",
+  "decision_date": "1893-04-19",
+  "docket_number": "No. 154",
+  "first_page": "194",
+  "last_page": "196",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 194"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 294,
+    "char_count": 5695,
+    "ocr_confidence": 0.535,
+    "pagerank": {
+      "raw": 4.357577154540725e-08,
+      "percentile": 0.27391056389774077
+    },
+    "sha256": "1b06a87aa9b7d57daea905e449139c53ea2790caa21d22ae262651caec8a1ab6",
+    "simhash": "1:818ae9e9786c38ca",
+    "word_count": 1019
+  },
+  "last_updated": "2023-07-14T18:08:23.206239+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "O. B. Wright v. J. M. Dobie."
+    ],
+    "opinions": [
+      {
+        "text": "FISHER, Chief Justice.\nAppellee sued appellant to recover damages in the sum of $2000 for breach of a written contract, whereby appellant agreed to deliver to appellee a number of cattle at so much per head.\nAppellee paid to appellant upon the contract the sum of $500, which was stated in the contract as a \u2018\u2018 forfeit on said cattle.\u201d The appellee, as a part of his damages, sued to recover the $500 so paid, alleging that appellant violated his contract in refusing to deliver the cattle as he had agreed, and that the $500 was paid simply as a part of the purchase price of the cattle.\nAppellant denied this, and claims that he complied with his contract, and that appellee refused to receive the cattle; and in effect, that the $500 was paid as liquidated damages, and was to be retained by appellant in the event appellee violated the contract.\nThere was evidence offered by each party tending to establish these issues as presented in their pleadings.\nThe jury returned a verdict in appellee\u2019s favor for the $500 so paid appellant.\nThe court below instructed the jury, that the $500 so paid must be held to be \u201c intended by the parties as a penalty or security advanced by the plaintiff as part payment for the cattle under the contract, and which, therefore, the defendant has no just right to retain as agreed or stipulated damages, he not having delivered to the plaintiff any cattle to cover the same;\u201d and instructed the jury to find a verdict for appellee for that: sum. This charge is assigned as error.\nThis charge was evidently predicated upon the idea that the use of the word \u201c forfeit\u201d in the contract has a fixed legal meaning, and that it is synonymous with the word penalty, and that the employment of such word is destructive of the idea that the amount paid should be regarded as liquidated damages.\nThere are authorities that support this view of the question. A different rule is announced in the case of Eakin v. Scott, 70 Texas, 443. There the court say: \u201cIn the construction of these contracts, as in all others, the intention of the parties must govern. * * * If we are to construe the language of the note and agreement before us as the parties themselves construed it, and to give effect to their intention, we must hold that the $8000 was intended as liquidated damages, and that it was understood between them that if the defendant abandoned the contract, he should pay the plaintiffs the first note at all events, and without reference to the actual damages sustained. We are aware that there are many eases which hold that the word \u2018 forfeiture/ as used in such contracts, is equivalent to the word \u2018 penalty.\u2019 It is doubtless true that in law the two words may be used to mean the same thing, for a forfeiture is usually a penalty, though a penalty is not necessarily a forfeiture. The primary use of the word forfeit is to lose, and this is also its legal meaning. To forfeit a sum of money means to lose the right to it in favor of another party.\u201d\nIn this case the court held that the word \u201c forfeiture\u201d was not used in the sense and meaning which is usually given to the word penalty.\nIt has been also held, that the words \u201cliquidated damages,\u201d when employed in a contract, may be construed in the light of the intention of the parties to mean a penalty. Durst v. Swift, 11 Texas, 281; Tetter v. Hudson, 5? Texas, 612, and cases there cited.\nThe true construction of such words rests upon the intention of the parties to the contract. This intent should be discovered, if possible, from the language of the contract itself; but when the sense in which the parties intended to use the word is in doubt, the facts and circumstances attending the execution of the contract and the surroundings of the parties at the time with reference to the subject matter of the contract may be looked to in ascertaining that intention and the meaning that should be given to the word.\nWe are not prepared to hold that the contract before us upon its face is conclusively expressive of the intention of the parties. The intention of the parties in the use of the words as a \u201c part of the forfeit on said cattle,\u201d should have been left to the jury. The remaining assignments of error are without merit.\nJudgment reversed and cause remanded.\njReversed cmd remanded.\nDelivered April 19, 1893.",
+        "type": "majority",
+        "author": "FISHER, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "J. M. Eckford and M. F. Lowe, for appellant.",
+      "No brief for appellee reached the Reporter."
+    ],
+    "corrections": "",
+    "head_matter": "O. B. Wright v. J. M. Dobie.\nNo. 154.\n1. Forfeit not Equivalent to Penalty.\u2014The word forfeit does not have a fixed legal meaning, nor is it synonymous with the word penalty.\n2. Intent\u2014Circumstances may Aid.\u2014The true construction of words not having a fixed legal meaning rests upon the intention of the parties to the contract. When the sense in which the parties intended to use such word (e. g., forfeit) is in doubt, the circumstances attending the execution of the contract with reference to the subject maybe looked to in ascertaining such intention; and the question of intent is. for the jury, and should not be decided by the court.\nAppeal from Live Oak. Tried below before Hon. D. P. Marr.\nJ. M. Eckford and M. F. Lowe, for appellant.\nThe question, under the evidence, as to whether the $500 paid defendant by plaintiff was intended as a mere penalty, or intended to be agreed or stipulated damages, to be retained\u2019by defendant in the event of noncompliance on the part of plaintiff, was one of fact to be determined by the jury, and not one of law to be decided by the court. The evidence on the question as to whether the $500 was a mere penalty or security, or agreed and stipulated damages, was conflicting, and a proper matter to be determined by the jury; or at least a question of law and fact to be submitted to the jury.\nNo brief for appellee reached the Reporter."
+  },
+  "file_name": "0194-01",
+  "first_page_order": 220,
+  "last_page_order": 222
+}

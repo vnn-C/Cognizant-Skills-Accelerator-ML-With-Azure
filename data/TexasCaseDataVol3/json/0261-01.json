@@ -1,0 +1,211 @@
+{
+  "id": 221076,
+  "name": "The Galveston Land and Improvement Company v. Joseph Pracker",
+  "name_abbreviation": "Galveston Land & Improvement Co. v. Pracker",
+  "decision_date": "1893-05-11",
+  "docket_number": "No. 170",
+  "first_page": "261",
+  "last_page": "263",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 261"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "10 Metc., 363",
+      "category": "reporters:state",
+      "reporter": "Metc.,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "19 Cow., 421",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Allen, 408",
+      "category": "reporters:state",
+      "reporter": "Allen",
+      "case_ids": [
+        2095286
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/83/0408-01"
+      ]
+    },
+    {
+      "cite": "4 N. Y., 349",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2005595
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/4/0349-01"
+      ]
+    },
+    {
+      "cite": "1 Cow., 78",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2156520
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/1/0078-01"
+      ]
+    },
+    {
+      "cite": "69 N. Y., 470",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        530739
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/69/0470-01"
+      ]
+    },
+    {
+      "cite": "7 B. Mon., 39",
+      "category": "reporters:state",
+      "reporter": "B. Mon.",
+      "case_ids": [
+        2354617
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ky/46/0039-01"
+      ]
+    },
+    {
+      "cite": "26 Ala., 189",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        8493701
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/26/0189-01"
+      ]
+    },
+    {
+      "cite": "82 Ind., 426",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1312479
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/82/0426-01"
+      ]
+    },
+    {
+      "cite": "54 Cal., 418",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        1918292
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal/54/0418-01"
+      ]
+    },
+    {
+      "cite": "55 Mo., 476",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        936892
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mo/55/0476-01"
+      ]
+    },
+    {
+      "cite": "63 N. C., 346",
+      "category": "reporters:state",
+      "reporter": "N.C.",
+      "case_ids": [
+        11277375
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nc/63/0346-01"
+      ]
+    },
+    {
+      "cite": "4 Iowa, 283",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        2271591
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/iowa/4/0283-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 292,
+    "char_count": 4011,
+    "ocr_confidence": 0.547,
+    "pagerank": {
+      "raw": 9.505882454708161e-08,
+      "percentile": 0.5189292889276557
+    },
+    "sha256": "51624fd13f8cbcd6f9f71538dc427520b0e57e2eca77de178ce96fbc3a399712",
+    "simhash": "1:12be9c2ec028578b",
+    "word_count": 719
+  },
+  "last_updated": "2024-02-27T16:31:46.217873+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The Galveston Land and Improvement Company v. Joseph Pracker."
+    ],
+    "opinions": [
+      {
+        "text": "WILLIAMS, Associate Justice.\nA horse belonging to appellee escaped from his lot at night and entered an enclosure belonging to appellant, known as the \u201c Denver Resurvey,\u201d within the corporate limits of the city of Galveston, by breaking through a barbed wire fence which surrounded such enclosure. The horse was found there next morning, badly injured by hurts received from the wires in passing through it.\nThis suit is brought to recover for damage to the value of the horse and for expense and trouble in treating him.\nIt was shown at the trial that the fence consists of three wires, upon posts thirty feet apart, with no guard rails or boards between the posts. The fence encroached three or four feet upon the street, in order to protect shade trees which appellant has set along the sidewalk, and ran parallel with the remainder of the street.\nThere was an ordinance of the city, in force at the time, making it unlawful for horses to run at large within the corporate limits.\nVerdict and judgment were rendered in favor of appellee for $100.\nThe court erred in submitting to the jury the question, whether or not appellant was guilty of negligence in having its fence in the street. If appellant had no right to have its fence there, appellee had no right to have his horse at large, and the horse would not have been injured by the fence had it been confined. Railway v. Cocke, 64 Texas, 151. Another reason is, that there is no evidence that the fact that the fence encroached upon the street helped in any way to cause the injury. In all probability the horse would have been hurt just as it was had the fence not been in the street.\nA new trial should have been granted, because the verdict is unsupported by the evidence.\nBeversed and remanded.\nDelivered May 11, 1893.",
+        "type": "majority",
+        "author": "WILLIAMS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Thomas M. Joseph, for appellant.",
+      "No brief for appellee reached the hands of the Reporter."
+    ],
+    "corrections": "",
+    "head_matter": "The Galveston Land and Improvement Company v. Joseph Pracker.\nNo. 170.\nCase in Judgment. \u2014A horse of appellee having escaped from his lot at night, entered appellant\u2019s enclosure by breaking through its barbed wire fence, which encroached three or four feet upon the street. A city ordinance made it unlawful for horses to run at large within the corporate limits. Held, that the court erred in submitting to the jury the question whether appellant was guilty of negligence in having its fence on the street. If appellant had no right to have its fence there, appellee had no right to have his horse at large, and if confined it would not have been injured, and there is no evidence that the fence being on the street helped to cause the injury.\nAppeal from Galveston. Tried below before Hon. W. B. Lockhart, County Judge.\nThomas M. Joseph, for appellant.\n1. The charge was erroneous, as it failed to submit to the jury the fact that the horse at the time of the injury was running at large within the city limits, in violation of the ordinance of the city of Galveston and the law in such case, and in omitting the law in relation to an animal trespassing on property enclosed, and in omitting the defense of contributory negligence and the law thereon. Whittaker\u2019s Smith on Neg., 100, note p. 44; Shearm & Redf. on Neg., secs. 13a, 39, 136, 316; Railway v. Cocke, 64 Texas, 151; Davis v. Davis, 70 Texas, 123; McManus v. Finan, 4 Iowa, 283; Morrison v. Cornelius, 63 N. C., 346.\n2. In this State a barbed wire fence is a legal fence. 70 Texas, 123.\n3. The horse running at large within the city limits in violation of the city ordinance renders appellee guilty of contributory negligence, and bars any recovery against appellant. Shearm. & Redf. on Neg., secs. 8, 39, 186; Karle v. Railway, 55 Mo., 476; Siemers v. Elson, 54 Cal., 418; Benford v. Johnson, 82 Ind., 426; Owners, etc. v. McLaw, 26 Ala., 189; Broadwell v. Sargest, 7 B. Mon., 39; Ins. Co. v. Austin, 69 N. Y., 470; Bush v. Brainard, 1 Cow., 78; Munger v. Railway, 4 N. Y., 349; Gregg v. Wyman, 4 Church., 322; Way v. Foster, 1 Allen, 408; Woodman v. Clark, 19 Cow., 421; Bosworth v. Swansey, 10 Metc., 363.\nNo brief for appellee reached the hands of the Reporter."
+  },
+  "file_name": "0261-01",
+  "first_page_order": 287,
+  "last_page_order": 289
+}

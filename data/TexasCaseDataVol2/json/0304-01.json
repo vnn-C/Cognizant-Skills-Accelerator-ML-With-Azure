@@ -1,0 +1,162 @@
+{
+  "id": 219063,
+  "name": "John H. Burnett v. Virginia M. Cockshatt et al.",
+  "name_abbreviation": "Burnett v. Cockshatt",
+  "decision_date": "1893-02-23",
+  "docket_number": "No. 90",
+  "first_page": "304",
+  "last_page": "306",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 304"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "45 Fed. Rep., 706",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3721813
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f/45/0706-01"
+      ]
+    },
+    {
+      "cite": "50 Cal., 511",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2318170
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal/50/0511-01"
+      ]
+    },
+    {
+      "cite": "26 Hun, 10",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "32 Ind., 376",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        850793
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/32/0376-01"
+      ]
+    },
+    {
+      "cite": "7 Pet., 413",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "case_ids": [
+        1436147
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/32/0413-01"
+      ]
+    },
+    {
+      "cite": "92 Pa. St., 186",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        490998
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/92/0186-01"
+      ]
+    },
+    {
+      "cite": "57 Iowa, 58",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        2335353
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/iowa/57/0058-01"
+      ]
+    },
+    {
+      "cite": "2 Barb. Ch., 165",
+      "category": "reporters:state",
+      "reporter": "Barb. Ch.",
+      "case_ids": [
+        1995704
+      ],
+      "pin_cites": [
+        {
+          "page": "194"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb-ch/2/0165-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 380,
+    "char_count": 6181,
+    "ocr_confidence": 0.562,
+    "pagerank": {
+      "raw": 8.411867578422581e-08,
+      "percentile": 0.48312546407145746
+    },
+    "sha256": "937c95ac29a4fb39796f69921dd29ca9f5f8e97ab01059511b4dde18739a039e",
+    "simhash": "1:3b2f45e8142270ee",
+    "word_count": 1062
+  },
+  "last_updated": "2024-02-27T19:43:33.086404+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John H. Burnett v. Virginia M. Cockshatt et al."
+    ],
+    "opinions": [
+      {
+        "text": "WILLIAMS, Associate Justice.\nTrepass to try title by appellees against appellant, to recover the east half of 640 acres of land in Galveston County, patented to John S. Jones.\nDefendant pleaded not guilty. Judgment was rendered for appellees, from which the appeal is taken. Prior to the 4th day of October, 1888, the title to the land sued for was in H. L. Mathews. On that day a corporation called the J. L. Mott Iron Works recovered judgments against Mathews, abstracts of which were filed and recorded in the office of the county clerk the same day. In indexing the record of the abstracts, the name of Mathews properly appeared alphabetically indexed under the letter M, and the name of the plaintiff was given properly there, but the name of the corporation, when the clerk undertook to place it alphabetically upon the index, in the column of plaintiffs, was stated thus, \u201cMott, J. L., Iron Works.\u201d\nMathews had previously conveyed the land to his wife by deed, which had not been recorded, and of which the judgment creditor had no notice when the abstract of the judgments were recorded. Appellant claims under that deed. After the abstracts were recorded, the land was sold under the judgments and bought in for appellees. Their title, therefore, depends on the question whether or not the indexing of the abstracts was a sufficient compliance with the statutory provision requiring the name of each plaintiff and each defendant to be indexed alphabetically.\nWe think it was sufficient. While the indexing is made a necessary step in the creation of a lien, and while a substantial compliance with the statutory directions can not be dispensed with by the courts, there is no reason why the purpose of those requirements should be ignored. The object is to afford a ready means of information as to the names of persons in favor of and against whom judgment liens upon lands exist. When the index furnishes that, substantially as the law provides, the purpose is subserved; and the statute should not be construed so technically as to impose unnecessary difficulties upon the judgment creditor seeking to secure liens upon the property of his debtor.\nThe article \u201c the\u201d is so habitually used in naming corporations, that it may be held, that for purposes like this it is not to be treated as forming any part of the name.\nIt in no way helps to distinguish one body from another, for it is used in connection with nearly all corporations in the legislation of the day.\nThe name. \u201cMott\u201d is that which does identify this corporation, and seems more completely to do so than any other word in the name. The letters \u201cJ. L.\u201d are evidently'the initials of some individual from whom the corporate body takes its name.\nIt is not probable that a prudent person, searching in the index for the name of this corporation, would omit to look for-the name \u201c Mott\u201d under its proper letter.\nThe name of the judgment debtor, the most essential part of the indexing, is correctly stated, and in connection with it the name of the plaintiff is stated in full, as named in the charter. It seems evident therefore, that the index would give all the required information, substantially in. the manner designed by the statute.\nThe recording of the abstracts therefore fixed a lien upon the property superior to the right acquired by Mathews\u2019 wife under her prior unrecorded deed.\nWhen the judgments were transferred to Flanagan the lien passed with-them, and the sale vested in the purchaser the right acquired by the corporation, notwithstanding Flanagan and the purchaser may have had notice, at the time of such transfer and of the sales under executions, of the deed to Mrs. Mathews, and may have advanced no new considerations.\nThe court did not err in admitting in evidence the sheriff\u2019s deed, and holding that it conveyed a title superior to that of appellant. The fact-that the transfers of the judgments were made to Flanagan m order that he might plead them in setoff against Mathews does not affect the question.\nAffirmed.\nDelivered February 23, 1893.",
+        "type": "majority",
+        "author": "WILLIAMS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "S. S. Hanscom, for appellant.",
+      "Joseph H. Wilson and Lovejoy & Sampson, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "John H. Burnett v. Virginia M. Cockshatt et al.\nNo. 90.\n1. Indexing Abstract of Judgment.\u2014The abstract was correctly indexed, except that when the clerk undertook to place it alphabetically upon the index in the column of plaintiffs, the name was stated thus, \u201cMott, J. L., Iron Works,\u2019\u2019 when the plaintiff which recovered the judgment was a corporation called the \u201c J. L. Mott Iron Works.\u201d This indexing was sufficient. While indexing is made a necessary step in the creation of the lien, and while a substantial compliance with statutory direction can not be dispensed with, there is no reason why the object of the index, which is to afford a ready means of information as to the names of persons in favor of or against whom judgment liens exist, should be ignored. This indexing furnishes that information.\n2. Judgment Purchaser\u2014Notice.\u2014The judgment having been correctly recorded so as to create a lien, the purchaser at a sale under the judgment acquired the rights of the plaintiff in the judgment, and his title was superior to that of one who claimed title under an unrecorded deed which antedated the record of the judgment, although at the date of the sale such purchaser had notice of the unrecorded title, and advanced no new consideration.\nAppeal from Galveston. Tried below before Hon. W. H. Stewart.\nS. S. Hanscom, for appellant.\nThe abstract of judgment under which appellees derive title was not properly indexed, and no judgment lien ex^ isted. Rev. Stats., art. 3158; Nye v. Moody, 70 Texas, 434; Nye v. Gribble, 70 Texas, 458; Pierce v. Wimberly, 78 Texas, 187; Buchan v. Sumner, 2 Barb. Ch., 165, 194; Thomas v. Disney, 57 Iowa, 58; Hutchinson\u2019s Appeal, 92 Pa. St., 186; Faver v. Robinson, 46 Texas, 204; Breedlove v. Nicolet, 7 Pet., 413; Glass v. Turnpike Co., 32 Ind., 376.\nJoseph H. Wilson and Lovejoy & Sampson, for appellees.\nThe abstract of the judgment in the case of the J. L. Mott Iron Works v. H. L. Mathews was properly recorded and indexed. Clute v. Emmerich, 26 Hun, 10; Rev. Stats., art. 3155; Hibberd v. Smith, 50 Cal., 511; Willis v. Smith, 66 Texas, 31; Land Co. v. Bardon, 45 Fed. Rep., 706."
+  },
+  "file_name": "0304-01",
+  "first_page_order": 330,
+  "last_page_order": 332
+}

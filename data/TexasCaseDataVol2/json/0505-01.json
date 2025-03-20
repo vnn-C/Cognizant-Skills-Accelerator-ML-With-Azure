@@ -1,0 +1,520 @@
+{
+  "id": 219158,
+  "name": "Corra B. Foster v. The New York and Texas Land Company",
+  "name_abbreviation": "Foster v. New York & Texas Land Co.",
+  "decision_date": "1893-03-09",
+  "docket_number": "No. 94",
+  "first_page": "505",
+  "last_page": "517",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 505"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "7 Black., 452",
+      "category": "reporters:scotus_early",
+      "reporter": "Black",
+      "opinion_index": -1
+    },
+    {
+      "cite": "94 Am. Dec., 557",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "31 Mich., 44",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Paige Ch., 526",
+      "category": "reporters:state",
+      "reporter": "Paige Ch.",
+      "case_ids": [
+        482425
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/paige-ch/10/0526-01"
+      ]
+    },
+    {
+      "cite": "22 Fed. Rep., 596",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        6720122
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f/22/0596-01"
+      ]
+    },
+    {
+      "cite": "34 Hun, 74",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "67 Iowa, 678",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        4380504,
+        4379049
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/iowa/67/0678-02",
+        "/iowa/67/0678-01"
+      ]
+    },
+    {
+      "cite": "101 U. S., 43",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5632841
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/101/0043-01"
+      ]
+    },
+    {
+      "cite": "117 Ill., 118",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        2893485
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/117/0118-01"
+      ]
+    },
+    {
+      "cite": "4 C. B., 404",
+      "category": "reporters:specialty",
+      "reporter": "C.B.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Johns. Rep., 470",
+      "category": "reporters:state",
+      "reporter": "Johns. Rep.,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "14 Allen, 254",
+      "category": "reporters:state",
+      "reporter": "Allen",
+      "opinion_index": -1
+    },
+    {
+      "cite": "21 Wis., 474",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "case_ids": [
+        11286256
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wis/21/0474-01"
+      ]
+    },
+    {
+      "cite": "67 Mich., 50",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "23 N. J. Eq., 512",
+      "category": "reporters:state",
+      "reporter": "N.J. Eq.",
+      "case_ids": [
+        529675
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nj-eq/23/0512-01"
+      ]
+    },
+    {
+      "cite": "4 Wheat., 235",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        4712
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/17/0235-01"
+      ]
+    },
+    {
+      "cite": "14 Pet., 77",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "case_ids": [
+        3334645
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/39/0077-01"
+      ]
+    },
+    {
+      "cite": "3 McCord, 458",
+      "category": "reporters:state",
+      "reporter": "McCord",
+      "case_ids": [
+        8861073
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/scl/14/0458-01"
+      ]
+    },
+    {
+      "cite": "5 R. I., 567",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        8521332
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ri/5/0567-01"
+      ]
+    },
+    {
+      "cite": "10 Allen, 322",
+      "category": "reporters:state",
+      "reporter": "Allen",
+      "case_ids": [
+        2116933
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/92/0322-01"
+      ]
+    },
+    {
+      "cite": "7 Mo., 389",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        8855288
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mo/7/0389-01"
+      ]
+    },
+    {
+      "cite": "5 Colo., 616",
+      "category": "reporters:state",
+      "reporter": "Colo.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "46 Pa. St., 334",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        420624
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/46/0334-01"
+      ]
+    },
+    {
+      "cite": "48 Miss., 247",
+      "category": "reporters:state",
+      "reporter": "Miss.",
+      "case_ids": [
+        289216
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/miss/48/0247-01"
+      ]
+    },
+    {
+      "cite": "62 Mich., 50",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1462579
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich/62/0050-01"
+      ]
+    },
+    {
+      "cite": "14 Minn., 72",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        8875175
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/minn/14/0072-01"
+      ]
+    },
+    {
+      "cite": "115 Mass., 413",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        718146
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/115/0413-01"
+      ]
+    },
+    {
+      "cite": "44 Cal., 3",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2316091
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal/44/0003-01"
+      ]
+    },
+    {
+      "cite": "65 Ill., 152",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        2616803
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/65/0152-01"
+      ]
+    },
+    {
+      "cite": "72 Pa. St., 186",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        434671
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/72/0186-01"
+      ]
+    },
+    {
+      "cite": "3 Cal., 59",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2199390
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal/3/0059-01"
+      ]
+    },
+    {
+      "cite": "94 N. Y., 231",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "28 N. H., 489",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        4410118
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nh/28/0489-01"
+      ]
+    },
+    {
+      "cite": "46 Cal., 191",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "40 N. Y., 358",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Ired. Eq., 190",
+      "category": "reporters:state",
+      "reporter": "Ired. Eq.",
+      "case_ids": [
+        8681672
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nc/42/0190-01"
+      ]
+    },
+    {
+      "cite": "45 N. W. Rep., 532",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Pet., 648",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "106 U. S., 12",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "17 N. W. Rep., 349",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "64 N. Y., 363",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "14 How., 456",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "24 N. Y., 57",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2029534
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/24/0057-01"
+      ]
+    },
+    {
+      "cite": "21 How., 287",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "case_ids": [
+        683879
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/62/0287-01"
+      ]
+    },
+    {
+      "cite": "14 How., 446",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "case_ids": [
+        3478371
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/55/0446-01"
+      ]
+    },
+    {
+      "cite": "95 U. S., 293",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "117 Ill., 118",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        2893485
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill/117/0118-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1204,
+    "char_count": 28737,
+    "ocr_confidence": 0.569,
+    "pagerank": {
+      "raw": 3.7310401052562753e-07,
+      "percentile": 0.8942924857781284
+    },
+    "sha256": "0cba86c29e92b467c43f088f2d88a1321292165122804d035e188e6f19572a6c",
+    "simhash": "1:bd5607bfcd418609",
+    "word_count": 5081
+  },
+  "last_updated": "2024-02-27T19:43:33.086404+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Corra B. Foster v. The New York and Texas Land Company."
+    ],
+    "opinions": [
+      {
+        "text": "WILLIAMS, Associate Justice.\nMrs. Foster, plaintiff in error, sued the New York and Texas Land Company, limited, to enforce specific performance of an alleged written contract to convey three sections of land in Galveston County, and joined C. E. Angel\u00ed as defendant, averring that he had made a contract to purchase the lands from his codefendant subsequent to the agreement sued on, and with notice of its having been entered into. Prayer was made for specific performance and cancellation of Angel\u00ed\u2019s contract; and in the event that for any reason this relief could not be had, plaintiff recover as damages the value of the three sections of land. The cause was tried before a jury, and a verdict and judgment rendered for defendants; and a motion for a new trial being overruled, plaintiff made one assignment of error, and has brought the case here by writ of error.\nNo questions are raised upon the pleadings, and it is unnecessary to state them.\nThe documentary evidence offered by plaintiff to establish the contract the enforcement of which is sought consisted of the following letters and telegrams. P. Whitty was the local agent of the land company at Houston, for certain purposes. Ira H. Evans was its president and A. B. Langerman its chief clerk.\n[No. 1.]\n\u201cHouston, Texas, December 20, 1889.\n1 \u2018 Ira II. Evans, Esq., President, Austin, Texas:\n1 \u2018 Dear Sir\u2014Mrs. Corra Bacon Foster, real estate agent of this city,, makes an offer of $2.90 per acre for the unsold portion of the Alvin land, one-fifth cash, the balance in four years, four annual payments, with 8 per cent interest. I told her I would mention the offer, but I did not think you would entertain one less than some advance on $3 per acre for the whole. I think there is some one in Galveston that has gotten her to give an offer. I think I can at least net $10 per acre cut up, even if it should take two or three years to do it.\n\u201c Yours truly,\n\u201c P. Whitty.\u201d\n[No. 2.]\n\u201cAustin, Texas, December 23, 1889.\n\u201cP. Whitty, Esq., Houston, Texas:\n\u201cDear Sir\u2014Your favor of the 20th instant to hand. Major Evans left the city for a trip North, and is not expected to return before the first of the year, and we had better postpone the matter of Mrs. Corra Bacon Foster until his return. We certainly will not sell for less than S3 per acre, if we sell at all around Alvin for the present.\n\u201c Yours truly,\n[Signed] \u201c A. B. Langerman, Chief Clerk.\u201d\n[No. 2a.]\n\u201cAustin, Texas, December 23, 1889.\n\u201cP. Whitty, Esq., Houston, Texas:\n\u201c Dear Sir\u2014I am just advised by Major Evans that he is willing to take S3 per acre for Galveston County lands, on terms proposed by Mrs. Corra Bacon Foster\u2014that is, one-fifth cash, balance in four equal annual payments, with 8 per cent interest per annum.\n\u201cYours truly,\n[Signed] \u201c A. B. Langerman, Chief Clerk.\u201d\n[Copy of Telegram.]\n\u201c Houston, Texas, December 27, 1889.\n\u201c To A. B. Langerman, Chief Clerk New York and Texas Land Company,\nAustin:\n\u201c Mrs. Foster will take the land, agreeable to your terms. Letter by mail.\n\u201c P. Whitty.\u201d\nThese are papers which, in connection with paroi evidence offered, are claimed by plaintiff in error to form a complete contract for the sale of twenty-five sections of land, including the three sections in controversy, situated in Galveston County, in the neighborhood of the town of Alvin.\nOther correspondence, consisting of other letters and telegrams immediately following the above, were also offered by plaintiff, as follows:\n\u201cHouston, Texas, December 27, 1889.\n\u201cA. B. Langerman, Esq., Chief Clerk, Austin, Texas:\n\u201c Dear Sir\u2014I wired you this a. m. that Mrs. Corra Bacon Foster is willing to take the Alvin land on the terms indicated in your letter of the 23d instant, which I handed her to read. She wishes a sketch of it prepared, to be attached to the contract, and intimates that she will have her first payment ready in about a week from now; that is, she wants to take a few days to satisfy herself about the title. I told her that Mr. Masterson, of Galveston, had satisfied Mr. Angel\u00ed on the subject of title, and that she could no doubt get all required information from him on that subject.\n\u201cYours,\n\u201c P. Whitty.\u201d\nTo which Evans replied as follows:\n\u201cAustin, Texas, December 28, 1889.\n\u201c Mr. P. Whitty, 19 Main Street, Houston, Texas:\n\u201c Dear Sir\u2014Your favor of 27th instant, advising me that Mrs. Corra Bacon Foster is willing to take our Alvin land at $3 per acre, on terms stated in your letter of the 23d, came to hand. Before closing this contract, we would like to have Mr. Giraud\"s survey made, and I write to him to-day. I hope we can have him go down there after New Year. This will also give Mrs. Foster time to have our title investigated. As she wishes to cut up the land into small tracts, we can not afford to make the contract before we know just how our lands lie.\n\u201cYours truly,\n[Signed] \u201cIra H. Evans, President.\u201d\nJanuary 2, 1890, Whitty wrote Evans as follows:\n\u201cHouston, January 2, 1890.\n1 Ira H. Phans, Esq., President, Austin, Texas:\n\u201c Dear Sir\u2014Will you kindly wire Mr. Giraud to come down as soon as possible. It is quite an object to Mrs. F. to get the land on the market as soon as possible. Should there be much delay on our part, the Alvin boom may die out, causing her to change her mind.\n\u201c Yours truly,\n\u201c P. Whitty.\u201d\nTo which Evans replied:\n\u201c Austin, Texas, January 3, 1890.\nuMr. P. Whitty, Houston, Texas:\n\u201c Dear Sir\u2014Your favor of the 2d instant, urging the necessity of Mr. Giraud doing the work in Galveston County as soon as possible, came to hand. I write him to-day, and expect he will be able to go down to do this work early next week.\n\u20181 Yours truly,\n[Signed]\n\u201cIra H. Evans,President.\nFebruary 3, 1890, Whitty wrote as follows:\n\u201c Houston, February 3, 1890.\n\u201cIra H. Evans, Esq., President:\n\u201c Dear Sir\u2014Replying to yours of the 1st instant, I called to see Mrs. Foster yesterday, to tell her that I am having other inquiries about the Alvin land, and that the party to whom I had already sold, Mr. Angel\u00ed, wanted three sections more. I also told her that I had been to Galveston with some of the papers, and that all the field notes and maps would be ready in a few days. I wanted to see if she was still in the notion of buying. She says she is fully determined to make the purchase. She has a full abstract of the title, and her lawyer pronounced it all right.\n\u201c Yours truly,\n\u201cP. Whitty.\u201d\nTo which Evans replied:\n\u201cAustin, Texas, February 3, 1890.\n\u201cMr. P. Whitty, Houston, Texas:\n\u201c Dear Sir\u2014Your favor of the 3d instant, advising me that Mrs. Foster is still anxious to purchase some of our land in Galveston County, came to hand. I wish you would push her to close this trade, if you can possibly do so, and also advise me what lands she wants to buy. It is my understanding that she desires to purchase the land off the west end of our block, at or near Alvin.\n\u201cAs you are aware, Mr. C. E. Angel\u00ed has purchased surveys 16, 17, 19, and 20. He will also soon close the trade for survey 18, and probably purchase in addition surveys 14, 15, and 21.\n\u201c Please advise me as soon as you can what Mrs. Foster will do.\n\u201c Yours truly,\n[Signed] \u201c Ira H. Evans, President.\n\u201c P. S.\u2014If Mrs. Foster will not immediately close her trade, is it not possible to get an advance over \u00a73 per acre on these lands ?\n[Signed] \u201cI. H. E.\u201d\nFebruary 4, 1890, Whitty wrote as follows:\n\u201c Houston, Texas, February 4, 1890.\n\u201cIra H. Evans, Esq., President:\n\u201c Dear Sir\u2014Yours of the 3d instant at hand and contents noted. Just as soon as you have contract and sketch ready for Mrs. Foster, I will push her to close.\n\u201c If there is a chance of much further delay in fixing the maps and field notes, it might be well to ask her to deposit her first payment subject to your order on delivery of the papers; but as it has gone so far now, it may be as well to wait and draw upon her through the bank as soon as the papers are there. I notice that she has advertised in last Sunday\u2019s \u2018Post\u2019 12,000 acres of land at Alvin, at S6 per acre. Mr. Giraud will give you an idea of the character of the Alvin land. God only knows how it may be made habitable. Nevertheless, I think if we don\u2019t close it out at once to Mrs. Foster and Angel\u00ed, we can sell it before the end of this year at an advance.\n\u201cYours truly,\n\u201cP. Whitty.\u201d\nTo which Evans replied:\n\u201cAustin, Texas, February 5, 1890.\n\"Mr. P. Whitty, Houston, Texas:\n\u201c Dear Sir\u2014Replying to your favor of yesterday, I have to say, that we expect to be able to send you corrected field notes by the close of this week for all surveys in Galveston County requiring correction.\n\u2018 \u2018 Upon return of these field notes, properly signed, we shall be prepared to furnish Mrs. Foster a sketch, by which she can purchase any oi these surveys she may desire to obtain.\n\u201cI should not care to have her make a deposit, or to draw a draft upon her through the bank on account of this business, inasmuch as we expect to be prepared so soon to act definitely upon the matter.\n\u201cIn view of this strawberry boom, it begins to look as if we need not be in any very great haste to push the sale of this land. What do you think of the chance of getting better prices for it ?\n\u201cYour remark with respect to this land, \u2018 God only knows how it may be made habitable,\u2019 occasions me no little surprise, in view of the fact that when you were proposing to subdivide, you recommended me to buy some of it for a country residence. Will you kindly explain ?\n\u201c Yours truly,\n[Signed] \u201c Ira H. Evans, President.\nSubsequently the following correspondence took place:\n\u201cAustin, Texas, February 22, 1890.\n\u201cP. Whitty, Houston, Texas:\n\u201c Ready to make contract. Describe property and terms wanted. [Signed] \u201c Ira H. Evans.\u201d\n\u201c Houston, February 22, 1890.\n\"Ira H. Evans, Austin, Texas:\n\u201c Mrs. Foster\u2019s offer, which you have, is for all the Galveston County land outside the Angel\u00ed purchase.\n\u2018 \u2018 Yours,\nP Whitty.\u201d\n\u201cAustin, Texas, February 26, 1890.\n\u201cP. Whitty, Houston, Texas:\n\u201c Mrs. Foster must decide immediately about Galveston lands. Angel\u00ed wants more. See her, and wire me.\n[Signed] \u2018 \u2018 Ira H. Evans.\u2019 \u2019\n\u201cAustin, Texas, February 26, 1890.\n\u201cP. Whitty, Houston, Texas:\n\u201c Can not do anything different with Mrs. Foster either as to terms or amount of land. Must know immediately if she will close trade on contract sent you. Your letter received.\n[Signed] \u201c Ira H. Evans.\u201d\n\u201cAustin, Texas, February 26, 1890.\n\u201cP. Whitty, Houston, Texas:\n\u201c Wish you to come up with Mrs. Foster without any failure.\n[Signed] \u20181 Ira H. Evans.\u2019 \u2019\nThe plaintiff read in evidence the depositions of Evans and Whitty, setting out the above correspondence, and stating the history of the negotiations and of the sale of the three sections in controversy to Angel\u00ed, and the subsequent conveyance of the remaining twenty-two sections to plaintiff.\nPlaintiff was then about to proceed further with the introduction of oral testimony, when the trial judge inquired if plaintiff had any more documentary evidence tending to show the existence of the contract; and on being informed in the negative, instructed the jury to find for defendant, plaintiff offering to show by paroi evidence other facts stated in her bill of exceptions.\nThe substance of the paroi evidence thus introduced and offered by plaintiff, as far as its statement affects our decision, can be more conveniently given in connection with the several points discussed.\nIt is claimed by plaintiff, that by the letters which passed between Whitty and Langerman of date December 20, December 23, and the telegram of December 27, 1889, with the legitimate paroi evidence introduced and offered, a complete and binding contract is shown for the sale of all of the twenty-five sections of land.\nThe defendants, on the other hand, contend that the transaction lacks many of the essential qualities of a valid contract for the sale of land, and amount to nothing more than a negotiation.\nWe think the case may be disposed of by an answer to the question, Was there a distinct offer in writing on one side to sell absolutely, and on the other an unconditional acceptance, sufficient to meet the requirements of the law ?\nIt may, for the present, be conceded that Langerman\u2019s second letter to Whitty of December 23, 1889, contains an offer to sell the land in controversy sufficient, if properly accepted, to make a binding contract. The first question which then arises is, Must such acceptance have been in writing ?\nThere is no pretense that Mrs. Foster did accept in writing. Whether an oral acceptance of such an offer is sufficient, is a question about which there is elsewhere a conflict of authority.\nThe weight of authority is said by elementary writers to be in favor of the affirmative, but it is admitted that there is strong reason and high authority to sustain the opposite view.\nWe consider that we are concluded by the decision of the Supreme Court of this State in Patton v. Sucker, 29 Texas, 402-408, where it is said: \u201c In order to their enforcement by the courts, contracts for the sale of lands must be evidenced by writing. Where the writing relied on contains within itself all the particulars of a concluded contract, it is sufficient, if it be signed by the party against whom it is sought to be enforced; but if, instead of being evidence of a concluded agreement, whatever may be its form, it is really a mere proposal, such a writing is turned into an agreement, and can be enforced in equity by the other party only by his acceptance of it in writing.\u201d\nThis is not in conflict with nor modified by the decisions in the cases of Crutchfield v. Donathon, 49 Texas, 695, and Watson v. Baker, 71 Texas, 747.\nThe first case was a suit on a note which was a contract complete in itself; and in the last, the offer and acceptance were both in writing. So that the question herein involved was neither, presented nor discussed. These, and the case of Morris v. Gaines, 82 Texas, 255, are based upon facts which show either a writing signed by the party to be charged, evidencing an undertaking complete in itself and not dependent on a subsequent acceptance to conclude the contract, or else an offer made and accepted in writing.\nThere was no complete contract in this case without acceptance of the offer. The decision in Patten v. Bucker holds, that in such cases the acceptance must be in writing in order to complete the contract. That case involved a discussion and decision of the question, for there was a verbal acceptance of the offer to sell conclusively shown. The court virtually held that insufficient, and then decided that the writing relied on was sufficient. We do not think that the passage which we have quoted can be treated by us as a mere dictum.\nBut there is a further objection to the alleged acceptance in this case. There was no offer to show that Whitty had any authority to bind the company, and there was positive evidence that he had none. An acceptanee, to bind the company, must therefore have been communicated to those officers who had such authority. The telegram relied on from Whitty to Langerman stated that plaintiff would take the land, agreeably to proposed terms, but referred to a letter, evidently for fuller expression. That letter repeated the statement, that plaintiff was willing to take the land, but added that she wished a sketch of it prepared, to be attached to the contract, and that she would have her first payment ready in about a week; \u201cthat is, she wants to take a few days to satisfy herself about the title.\u201d The letter and telegram must be taken together, and must evidence an unconditional acceptance of the offer. Instead of that, they seem to suggest a modification of the terms of the trade, in asking time in which to make a payment which was to be made in cash, and in which to satisfy herself of the soundness of the title. See Corcoran v. White, 117 Ill., 118.\nAn acceptance, to complete a contract, must be the unconditional and absolute agreement to the very terms of the offer. This letter suggested modifications which necessitated further negotiations and further agreements. This is rendered evident by the reply of the company to this letter, in which the following language occurs: \u201cBefore closing this contract, we would like to have Mr. G-iraud\u2019s survey made, and I write to him to-day. I hope we can have him go down there after New Tear. This will also give Mrs. Foster time to have our title investigated. As she wishes to cut up the land into small tracts, we can not afford to make the contract before we know just how our lands lie.\u201d\nIt appears from the correspondence, that the completion of the contract was deferred on both sides. Mrs. Foster, according to Whitty\u2019s letter, asks for time to satisfy herself about the title, and the company wants to have a survey made before making the contract. It seems to us that the parties up to this point were negotiating, and that their minds did not meet in a binding contract, on the part of the seller to sell, and the buyer to buy, in present\u00ed and unconditionally. The expressions used indicate that they intended to close the trade by a full contract when the necessary preliminaries were settled.\nThe expression of willingness on the part of Mrs. Foster to take the land may be interpreted, in connection with all the letter contains, to mean that she was willing to so take it when she should have satisfied herself of the title and prepared herself to make the first payment. The company was authorized to put that interpretation on it, and evidently did so.\nThe obstacle here presented to plaintiff\u2019s right to recover is not merely that she did not perform the contract, but that she did not accede to the proposition in a binding way. The plaintiff, after having introduced these letters in evidence, offered to show, that in her conversation with Whitty she stated that she accepted the offer unconditionally, and did not authorize Whitty or any one to change it, and that knowledge of her acceptance in this manner was brought home to defendant company immediately thereafter. But there was no claim that any other communication was made to the company than the written ones in evidence. But it was stated that there was no other documentary evidence. If there was any evidence in the possession of plaintiff showing such communication, it should, in view of all that had been offered, have been specifically pointed out to the court.\nPlaintiff further offered to show on this point, 11 that the defendant company, with the knowledge brought home to its officers at Austin, permitted the plaintiff Mrs. Foster to go ahead and sell portions of the land as belonging to her under this contract, and that she actually made such contracts for sale. That in pursuance of this contract of sale the defendant company ordered a survey of the land to be made, in order to ascertain the exact number of acres embraced in the contract, and for which plaintiff was to pay S3 per acre. * * * That until the completion of the survey and the tender to Mrs. Foster on the 27th day of February, 1890, of the instrument described in appendix B, the defendant company permitted Mrs. Foster to believe that she had contracted for and was to have all the unsold land referred to in the said correspondence, the same embracing the twenty-five sections of land set forth in the exhibit attached to plaintiff\u2019s petition.\u201d\nOn this point the defendant\u2019s agent, Whitty, testified: \u201c I handed the letter to Mrs. Foster at the time [referring to the letter No. 2a above]. She stated that she would take the lands on those terms. Nothing was said as to when the first payment was to be made. She came around several times to make inquiries about the land, and as to when the surveys would be completed and when ready. I never told her that any of the twenty-five sections had been sold, because I did not know that any of them had been sold.\u201d\nIt is contended by plaintiff in error, that these facts were sufficient to show, not only that she had accepted, but that the company knew and recognized the fact, and that this cured any ambiguity which there might have been in the letter as to acceptance. No act of the company is here stated by which permission to sell was given to plaintiff. What it did and what plaintiff did, as represented in the bill of exceptions, is consistent with the contention of either party, and adds nothing to the effect of the alleged acceptance in the telegram and letter.\nOur conclusion from the evidence introduced is, that the minds of the parties never in fact met in an agreement to buy and sell, but that the transactions were negotiations, through which they were putting themselves in a condition to conclude a contract. The evidence offered was not sufficient to change this construction, and the court did not err in instructing a verdict for defendants.\nIt is therefore unnecessary to decide the numerous other questions raised.\nAffirmed.\nDelivered March 9, 1893.\nA writ of error was refused in this case by the Supreme Court, May 15, 1893.",
+        "type": "majority",
+        "author": "WILLIAMS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Goldthwaite, Ewing & H. F. Ring, for plaintiff in error.",
+      "Willie & Ballinger, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Corra B. Foster v. The New York and Texas Land Company.\nNo. 94.\n1. Acceptance of Written Offer to Sell Land Must be in Writing.\u2014Plaintiff proposed to buy certain land. Defendant answered that he would sell on terms proposed. Plaintiff to that replied that she would take the land, but wanted a sketch of it prepared to be attached to the contract, and time to investigate title; and defendant replied that before closing the contract he wanted a survey made. There is no pretense that plaintiff accepted in writing, and the acceptance of such an offer to sell land must be in writing.\n2. Same\u2014Case Followed.\u2014Where the writing relied on contains within itself all the particulars of a concluded contract, it is sufficient if it be signed by the party against whom it is sought to be enforced; but if instead of being evidence of a concluded agreement, whatever its form, it is really a mere proposal, such writing is turned into an agreement, and can be enforced in equity by the other party only by his acceptance of it in writing. Following Patton v. Rucker, 29 Texas, 402.\n3. Acceptance Must be Unconditional.\u2014An acceptance, to complete a contract, must be the unconditional and absolute agreement to the very terms of the offer. The letter sent to the defendant, on behalf of the plaintiff, suggested modifications, which necessitated further negotiations and further agreements. It appears from the correspondence, that the completion of the contract was deferred on both sides; and plaintiff not having acceded to the proposition in a binding way, and the minds of the contracting parties having never in fact met in an agreement to buy and sell, plaintiff can not recover.\n4. Parol Evidence to Show Acceptance. \u2014Plaintiff offered to show, that defendant permitted the plaintiff to sell parts of the land under this contract, that they had a survey made to ascertain the exact number of acres in the twenty-five sections contracted for, and allowed plaintiff to believe that she was to have all of the land. These facts add nothing to the effect of the acceptance claimed to be shown by the telegrams and letters.\nError from Galveston. Tried below before Hon. Wm. H. Stewart.\nGoldthwaite, Ewing & H. F. Ring, for plaintiff in error.\nThe three letters introduced in evidence, of date respectively, December 20, 23, and 23, 1889, and the telegram of date December 27, 1889, coupled with the paroi testimony admitted and offered, were sufficient to entitle plaintiff to a submission of her case to the jury.\n\u201c Willing to take\u201d equivalent to \u201c will take:\u201d Water, on Spec. Perf., secs. 232,135, note referring to Bonnywell v. Jenkins, L. R., 8 Ch. D., 70.\nAmbiguity, if any, as to offer and acceptance, cured by acquiescence in action of Mrs. Foster, showing her belief that offer was made and accepted; also cured by failing promptly to disabuse her mind of such belief: Fry on Spec. Perf., sec. 184; Herm. on Estop., sec. 405; Mora, on Corp., sec. 618.\nAcceptance may be proven by parol: Fry on Spec. Perf., secs. 181,182; Pome, on Spec. Perf., secs. 75, 76.\nMemorandum need only be signed by party to be charged, or by his duly authorized agent: Watson v. Baker, 71 Texas, 747; Krutchfield v. Donathon, 49 Texas, 695.\nCorrespondence may constitute memorandum, and letters written to agent of seller sufficient: Patton v. Rucker, 29 Texas, 410; Smith\u2019s Lead. Cases, 1510, note; Fry on Spec. Perf., secs. 360, 361.\nLetters need not refer to each other, paroi evidence being admissible to show connection: Beckworth v. Tolbert, 95 U. S., 293; Manufacturing Co. v. Goddard, 14 How., 446.\nAs to the authority of the parties signing the letters to bind the company.\u2014Name of principal need not appear in the correspondence: Ford v. Williams, 21 How., 287; Dickers v. Townsend, 24 N. Y., 57; Manufacturing Co. v. Goddard, 14 How., 456; Briggs v. Partridge, 64 N. Y., 363; McWilliams v. Lawless, 17 N. W. Rep., 349; Reed on Stat. Frauds, sec. 372; McWharton v. McMahon, 10 Paige, 385, note. An agent\u2019s authority to bind the principal may be proven by paroi evidence: Reed on Stat. Frauds, 357. And authority of agent may be implied from acts in such case: Pome, on Spec. Perf., sec. 78; Water, on Spec. Per., 585, 586. And subsequent ratification by principal of contract unauthorized, takes same out of the statute: Fry pn Spec. Perf., sec. 335; Pome, on Spec. Perf., sec. 77, note; Water, on Spec. Perf., 244. And agency may be inferred from relation of parties and nature of the employment: Whart. on Spec. Perf., 243. And same rule holds good in this country in case of corporations: Pome, on Spec. Perf., sec. 79; 2 Mora, on Priv. Corp., 577, 578; Pollard v. Vinton, 106 U. S., 12. Clerks of agents may sometimes bind principal: Fry on Spec. Perf., sec. 358.\nAs to identification of the land and sufficiency of description.\u2014Paroi evidence admissible to explain the meaning and application of the language used: Watson v. Baker, 71 Texas, 748; Crabtree v. Whiteselle, 65 Texas, 112; Westmoreland & Co. v. Carson, Sewell & Co., 76 Texas, 621; Flanagan v. Boggess, 46 Texas, 331; Peters v. Phillips, 19 Texas, 74; Adkins v. Watson, 12 Texas, 199; Barry v. Coombs, 1 Pet., 648; Coombs v. Scott, 45 N. W. Rep., 532; Water. on Spec. Perf., 153; Kitchen v. Herring, 7 Ired. Eq., 190; Thomas v. Hammond, 47 Texas, 42; Warring v. Heirs, 40 N. Y., 358; Dev. on Deeds, secs. 1011,1012; Truett v. Adams, 46 Cal., 191; Drew v. Drew, 28 N. H., 489; Coleman v. Manhattan Beach Co., 94 N. Y., 231; Lirch v. O\u2019Donnell, 3 Cal., 59. The description may be doubtful: Fry on Spec. Perf., 209; Ross v. Baker, 72 Pa. St., 186; Spangler v. Danforth, 65 Ill., 152; Moss v. Atkinson, 44 Cal., 3; Mead v. Parker, 115 Mass., 413.\nWillie & Ballinger, for defendant in error.\nThe paroi proof proposed to be introduced by plaintiff would not, in connection with the letters and telegrams already read in evidence, have made out a written contract for a sale of the lands in controversy, or the memorandum in writing required by the statute of frauds.\nVerbal acceptance: Patton v. Rucker, 29 Texas, 402; Lanz v. McLaughlin, 14 Minn., 72; Palmer v. Scott, 1 Russ. & M., 394; Wendell v. Williams, 62 Mich., 50; Holland v. Eyre, 2 Sims & S., 194.\nCertainty as to subject matter: Johnson v. Granger, 51 Texas, 42; Norris v. Hunt, Ib., 609; Ragsdale v. Mays, 65 Texas, 255; Peters v. Phillips, 19 Texas, 70; Water. on Spec. Perf., sec. 236; Holmes v. Evans, 48 Miss., 247; Hammon v. Eldorney, 46 Pa. St., 334; Dossen v. Litten, 5 Colo., 616; King v. Wood, 7 Mo., 389; Farwell v. Mather, 10 Allen, 322; Ives v. Armstrong, 5 R. I., 567; Meadows v. Meadows, 3 McCord, 458.\nIncomplete negotiations; contract to be made in future: Patton v. Rucker, 29 Texas, 402; Carr v. Duval, 14 Pet., 77; Water. on Spec. Perf., secs. 235, 177, 136; Eliason v. Henshaw, 4 Wheat., 235; 1 Pars, on Con., 475-477; Story on Sales, sec. 136; Potts v. Whitehead, 23 N. J. Eq., 512; Wardell v. Williams, 67 Mich., 50; Iron Co. v. Meade, 21 Wis., 474; Honeyman v. Maryatt, 21 Beav., 14; Lyman v. Robinson, 14 Allen, 254; 7 Johns. Rep., 470; Hussey v. Hompague, L. R., 8 Ch. Div., 670; Wentner v. Sharp, 4 C. B., 404; Corcoran v. White, 117 Ill., 118; Bank v. Hall., 101 U. S., 43; Sawyer v. Brossart, 67 Iowa, 678; Nundy v. Matthews, 34 Hun, 74; Strange v. Crowley, 7 West. Rep., 106; Martin v. Coal Co., 22 Fed. Rep., 596; Honeyman v. Maryatt, 6 H. L. C., 112.\nMisunderstanding by defendant as to subject matter and doubt as to contract: Pome, on Spec. Perf., sec. 58; 2 Pome. Eq. Jur., sec. 680; Water, on Spec. Perf., sec. 152; Coles v. Brown, 10 Paige Ch., 526; Blanchard v. Railway, 31 Mich., 44.\nNoncompliance by vendee: Iron Co. v. Meade, 94 Am. Dec., 557; Shirley v. Shirley, 7 Black., 452; Wardell v. Williams, 67 Mich., 50."
+  },
+  "file_name": "0505-01",
+  "first_page_order": 531,
+  "last_page_order": 543
+}

@@ -1,0 +1,62 @@
+{
+  "id": 220983,
+  "name": "The Texas & New Orleans Railway Company v. J. M. Ludtke",
+  "name_abbreviation": "Texas & New Orleans Railway Co. v. Ludtke",
+  "decision_date": "1893-05-25",
+  "docket_number": "No. 231",
+  "first_page": "308",
+  "last_page": "310",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 308"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 251,
+    "char_count": 4403,
+    "ocr_confidence": 0.552,
+    "sha256": "59db7c147f5956cfbd2fdf00d56802b59fba439e2df57bc718161c0da2883852",
+    "simhash": "1:e2c16a2940274efc",
+    "word_count": 786
+  },
+  "last_updated": "2023-07-14T18:08:23.206239+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The Texas & New Orleans Railway Company v. J. M. Ludtke."
+    ],
+    "opinions": [
+      {
+        "text": "PLEASANTS, Associate Justice.\nThis suit originated in the court of a justice of the peace for Harris County. Appellee sued for the value of a horse, alleged to have been killed by appellant\u2019s train, through the negligence of the train men, on the 4th of August, 1891. Judgment for plaintiff for $100. The alleged value of the horse was $150. Upon appeal to the County Court a judgment for the same sum was rendered for appellee.\nAppellant\u2019s motion for new trial being overruled, it appealed to this court, and presents for our consideration but two assignments of error.\nFirst. \u201c The verdict and judgment are contrary to the law and evidence, in this, that even if it be conceded that no bell was rung or whistle blown, there is no proof that the omission to give said signals contributed in any manner to the death of said animal.\u201d\nSecond. \u201c Because the proof shows, that only one animal was struck at the crossing in question on the day alleged, to-wit, the 4th day of August, 1891, and that said animal was struck at half-past 12 o\u2019clock at night; that the night was dark and cloudy; that the whistle was blown for the crossing, and no negligence shown on the part of those operating defendant\u2019s engine.\u201d\nAs to the second assignment, it suffices to say, that the hour at which the animal was killed was controverted. The testimony for plaintiff, by one who testified as an eye-witness, of the killing, is, that it occurred at about 6 o\u2019clock in the morning of the 4th of August; and the testimony of the engineer in charge of the locomotive is, that he struck the animal five and one-half hours earlier than the time stated by plaintiff\u2019s witness when he saw the animal killed. Upon this issue it was the province of the jury to determine whether the killing occurred in the nighttime or in the daytime. They might in their discretion have found upon this issue for the appellant; but if they found otherwise, it is not for us to say that the finding is erroneous. The jury heard the two witnesses testify, and they were therefore better able to decide upon their relative credibility than we are.\nAs to the first assignment, we have to say, that it may be true that if the bell had been rung and the whistle blown, that such signals would not \u2022have prevented the animal from coming in collision with the train; on the other hand it can not be said, that had the signals required by the statute been given a collision would not have been avoided. And assuming, as the assignment under consideration does, that the statutory signals were not given, the culpable omission of those in charge of the locomotive in not ringing the bell or blowing the whistle, coupled with the testimony of plaintiff\u2019s witness as to the time and place and circumstances of the billing, are, in our judgment, sufficient to sustain the verdict. We are not authorized to set aside a verdict when the evidence is conflicting; it is only when there is no evidence to support the verdict, or when it is palpably against the weight of the evidence, that an appellate court can disturb the findings of a jury. The judgment must be affirmed.\nAffirmed.\nDelivered May 25, 1893.",
+        "type": "majority",
+        "author": "PLEASANTS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "W. N. Shaw, for appellant.",
+      "No brief for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "The Texas & New Orleans Railway Company v. J. M. Ludtke.\nNo. 231.\n1. Conflicting Evidence\u2014Province of Jury.\u2014There being conflict between the evidence of the engineer, who claimed that the animal killed was struck at half-past 12 p. m., and that of an eye-witness of the killing, who stated that it occurred about 6 o\u2019clock a. m., it was the province of the jury to determine when the killing occurred, and it is not for this court to say that their finding is erroneous. Having heard the two witnesses testify, they were better able to decide upon their relative credibility than this court is.\n2. Ringing Bell, Blowing Whistle.\u2014It may be true that if the bell had been rung and the whistle blown that such signals would not have prevented the animal from coming in contact with the train, but it can not be said that a collision would not have been avoided had the signals required by statute to be given at crossings been given.\n3. Verdict Set Aside on the Evidence, When.\u2014It is only when there is no evidence to support it, or when it is palpably against the weight of the evidence, that an appellate court can disturb a verdict.\nAppeal from Harris. Tried below before Hon. W. C. Anders, County Judge.\nW. N. Shaw, for appellant.\nNo brief for appellee."
+  },
+  "file_name": "0308-01",
+  "first_page_order": 334,
+  "last_page_order": 336
+}

@@ -1,0 +1,79 @@
+{
+  "id": 219165,
+  "name": "Leon & H. Blum v. W. R. Bratton",
+  "name_abbreviation": "Leon v. Bratton",
+  "decision_date": "1893-01-18",
+  "docket_number": "No. 64",
+  "first_page": "226",
+  "last_page": "230",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 226"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "15 Neb., 476",
+      "category": "reporters:state",
+      "reporter": "Neb.",
+      "case_ids": [
+        4403995
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/neb/15/0476-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 517,
+    "char_count": 11522,
+    "ocr_confidence": 0.575,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.008707650523254444
+    },
+    "sha256": "975f1c73cb5bf961998ec91bd28d5d3ac027651ff9296c7030564d535c3acafe",
+    "simhash": "1:09a2e68bd0cb0355",
+    "word_count": 2056
+  },
+  "last_updated": "2024-02-27T19:43:33.086404+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Leon & H. Blum v. W. R. Bratton."
+    ],
+    "opinions": [
+      {
+        "text": "FISHER, Chief Justice.\nThe appellants Leon & H. Blum, as creditors of J. H. Brodie & Co., sued out a writ of attachment from the District Court of Comanche County, which was levied by the appellant T. E. Wilson, sheriff of Comanche County, upon a stock of merchandise in the possession of the appellee, W. R. Bratton, who claimed the same as assignee of the firm of J. H. Brodie & Co. Appellee brought suit against the appellants for the conversion of the said stock of merchandise. Trial was before the court without a jury. There was a judgment in favor of the appellee for $1881.56, from which judgment appellants prosecute this appeal.\nWe find the facts to be as follows:\n1. That J. H. Brodie & Co., a firm composed of J. H. Brodie and W. B. Brodie, was before the 1st day of October, 1889, engaged in the mercantile business in Comanche, Texas.\n2. That said firm was on the 1st day of October, 1889. insolvent, and that upon that day the firm, through W. B. Brodie, made and delivered to appellee the following deed of assignment, to-wit:\n''\u25a0The State of Texas, County of Comanche.\u2014This indenture, made this 1st day of October, A. D. 1889, by and between J. H. Brodie & Co. and W. R. Bratton, all of Comanche County, witnesseth: That whereas the said J. H. Brodie & Co. are jointly indebted in divers sums of money, which they are unable to pay in full, to different creditors, whose names are stated in the annexed list, and they desire to make a fair distribution of their property and assets among those of their creditors who will consent to accept their proportional share of their estate and discharge them from their respective claims in accordance with the statute.\n\u201cNow therefore, in consideration of the premises and of the sum of one dollar to them in hand paid by the said W. R. Bratton, the said J. H. Brodie & Co. do by these presents bargain, sell, convey, release, and set over unto the said W. R. Bratton all their real and personal estate, other than that which is by law exempted from execution, to have and to hold, unto him, the said W. R. Bratton and his successors, in trust for the benefit of the creditors of the said J. H. Brodie & Co. as aforesaid. And the said W. R. Bratton on his part covenants and agrees to faithfully perform his duties as assignee in accordance with the statute concerning assignments for the benefit of creditors.\n\u201c In testimony whereof, witness our hands, October 1, 1889.\n\u201c J. H. Brodie & Co.,\n6* By W. B. Brodie.\u201d\nThis assignment was duly and properly acknowledged on the 1st day of October, 1889, by the said W. B. Brodie for the firm of J. H. Brodie & Co., before a notary public of Comanche County, Texas.\n3. That at the time of the execution and delivery of the deed of assignment, and before that time, J. H. Brodie was an absconding debtor, and left the stock of merchandise of the firm in the possession of W. B. Brodie.\n4. That W. B. Brodie had paroi consent from J. H. Brodie to execute the deed of assignment.\n5. That J. H. Brodie, at the time of the execution and the delivery of the deed of assignment, had no other property than his interest in the firm of J. H. Brodie & Co.\n6. It appears that the property of J. H. Brodie & Co. is a stock of merchandise and accounts, etc., and is wholly personal property.\n7. That W. R. Bratton, appellee, duly and legally qualified as assignee under such deed of. assignment, and that J. H. Brodie filed, as required by law, a list and schedule of the creditors and inventory and assets of the property and estate of J. H. Brodie & Co., and the same were duly recorded, etc.\n8. That appellants have a valid debt against J. H. Brodie & Co. in the amount of $3325.97, and that suit was filed on said debt in the District Court of Comanche County, and that an attachment was issued and levied on the goods transferred by the deed of assignment by the appellants.\n9. That the value of the goods levied upon by the writ of attachment is the sum of $1881.56.\nObjections were made in the court below to the evidence of witnesses Hamilton, W. B. Brodie, and Cunningham, as to certain statements made by J. II. Brodie before he left Comanche, and before the assignment was made, tending to show his purpose to be to make an assignment of the property of J. H. Brodie & Co., and also tending to show that he authorized W. B. Brodie to execute the assignment. Objection is also made to evidence showing that J. H. Brodie had no property other than his interest in the firm assets.\nWithout entering into a discussion of this question and giving our reasons in full, we hold that the evidence objected to was admissible. Coffin v. Douglass, 61 Texas, 406; McKee v. Coffin, 66 Texas, 307.\nThe next question raised is, that paroi authority given by J. H. Brodie was not sufficient to authorize W. B. Brodie to execute the assignment so as to bind the members of the firm.\nThe evidence shows, that the assets of the firm are personal property, and that J. H. Brodie owned no other property, and that he authorized his partner, W. B. Brodie, to make the assignment if he did not hear from him by a certain day. Failing to hear from J. H. Brodie within the time agreed, W. B. Brodie executed the deed of assignment.\nThese facts sufficiently authorized W. B. Brodie to execute the assignment, and it is binding upon him as well as J. H. Brodie. McKee v. Coffin, 66 Texas, 307.\nThe next question to be considered is, Does the deed of assignment pass the individual property of the partners as well as the assets of the firm ? We think it does. The terms employed in the instrument are in many respects similar to those passed upon in the cases of Shoe Company v. Ferrell, 68 Texas, 638; Coffin v. Douglass, 61 Texas, 406; and Mc-Guffin v. Sowell, 1 Texas Civil Appeals, 187.\nThe court in those cases holds, that the instruments are sufficient to pass the individual property of the members of the firm as well as the firm property.\nWe find no error in the record, and affirm the judgment.\nAffirmed.\nDelivered January 18, 1893.",
+        "type": "majority",
+        "author": "FISHER, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "Scott, Levi & Smith and Lindsey & Hutchison, for appellants.",
+      "' Hamilton & Presler, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Leon & H. Blum v. W. R. Bratton.\nNo. 64.\n1. Assignment by Firm made by One Member\u2014An assignment for the benefit of accepting creditors, executed in name of a firm by one of its members, was attacked by creditors. Held, that paroi testimony was competent and relevant, tending to show that the member of the firm other than the one signing the conveyance intended to make an assignment, that he authorized the execution, and that he had no property other than his interest in the firm assets.\n2 Same.\u2014See facts held sufficient to show the authority of one member of a firm to execute an assignment of the firm assets.\n3. Same\u2014Sufficiency of Firm Deed to Convey Individual Property.\u2014A deed of assignment executed by a firm was sufficient to convey the individual property of its members when the deed conveyed \u201c all their real and personal estate other than that which is by law exempted from execution.\u201d\n4. Cases Adhered to.\u2014Coffin v. Douglas, 61 Texas, 406, and Shoe Company v. Ferrell, 68 Texas, 638, adhered to, as to assignments.\nAppeal from Comanche. Tried below before Hon. T. H. Conner.\nScott, Levi & Smith and Lindsey & Hutchison, for appellants.\n1. The evidence, the admission of which is complained of, if competent at all, was only to show that W. B. Brodie was authorized by J. H. Brodie to execute an assignment for the latter, and for that purpose it was wholly inadmissible, because there was no allegation that any such authority was granted, or that the assignment was executed in pursuance thereof.\n2. The said testimony was inadmissible for any other purpose, because for any other purpose it was, as to the appellants, purely hearsay, and related to matters that were res inter alios acta.\n3. The said testimony was further inadmissible, because even if the authority which it undertook to show had been alleged, it was incompetent' to prove by paroi a paroi authority to execute an assignment, which does not purport to be executed by any such authority, and which the law requires should be subscribed and acknowledged by the grantors therein, or some one by them thereunto authorized, and after being so subscribed, duly authenticated for record as in cases of deeds. Act of March 24, 1879.\n4. The deed of assignment, which stipulates for a release from the creditors accepting thereunder, and which is not signed by all of the assignors, is void as to creditors, and can not be validated by showing that the assignor who did not sign had no individual estate; and evidence to show that he had no such estate is not admissible. The deed of assign-' ment is void on its face, and can not be cured by any such evidence. Burr, on Ass., see. 197.\n5. Tested by and considered in relation either to our statute on assignments or the common law, the assignment under consideration is void as to appellants, for that it stipulates for a release of the firm and its members by accepting creditors, and yet was executed only by one of the two members of the firm.\nThat the assignment is not good under the statute: Donoho v. Fish Bros., 58 Texas, 168; Still v. Focke, 66 Texas, 715; Cleveland v. Battle, 68 Texas, 111; Baylor County v. Craig, 69 Texas, 330; Burr. on Ass., sec. 197.\nThat a general assignment executed by less than all the members of the assigning firm is not as a general rule valid at common law: Burr, on Ass., ch. 4, see. 68, et seq.\nThe exception to the rule, which permits an assignment by only a portion of the members under certain circumstances, is not of universal force and is a much mooted question. Burr, on Ass., ch. 4, sec. 68, et seq.\nAn assignment, even by all the partners, which stipulates for a release, is of very doubtful validity at common law, and the best authorities and the strongest reasons are against their enforcement. Burr, on Ass., ch. 11.\n' Hamilton & Presler, for appellee.\n1. One partner may make a valid assignment under the statute in this State. When the other partner has abandoned the business and absconded, or when the partner not signing has consented to the execution of the assignment, such assent may be inferred from the circumstances. Such consent and authority may be given by paroi, and paroi proof thereof is admissible, even when the deed of assignment confines the benefit thereof to and exacts a release from consenting creditors. McKee v. Coffin, 66 Texas, 307; Coffin v. Douglass, 61 Texas, 406; Bump. on Fraud. Con., 355, 546; Eng. and Am. Encycl. of Law, 849 (note 3 and cases cited), 850 (note 1); Sullivan v. Smith, 15 Neb., 476.\n2. The deed of assignment, signed and executed by one member of a copartnership in the firm name, and acting with the authority and consent of the other partner and at his special direction so to do, is valid. Notwithstanding the deed stipulates for a release from accepting creditors, the act of the agent, under such circumstances, becomes the act of the principal, and the deed is in legal contemplation executed by both members of the copartnership, and the firm signature becomes tantamount and equivalent to the individual signatures of partners composing the firm; and if the terms of the deed will admit of such construction, it will be construed to pass to the assignee the title both to the firm property and that property not by law exempt, belonging to the copartners as individuals. McKee v. Coffin, 66 Texas, 308; Coffin v. Douglass, 61 Texas, 407.\nAs to firm signature instead of that of individuals: Donoho v. Fish Bros., 58 Texas, 164; Keating v. Vaughn, 61 Texas, 518."
+  },
+  "file_name": "0226-01",
+  "first_page_order": 252,
+  "last_page_order": 256
+}

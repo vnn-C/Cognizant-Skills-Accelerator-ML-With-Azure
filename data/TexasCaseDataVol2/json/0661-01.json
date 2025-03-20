@@ -1,0 +1,139 @@
+{
+  "id": 219260,
+  "name": "The City of Denison v. Mary E. Sanford",
+  "name_abbreviation": "City of Denison v. Sanford",
+  "decision_date": "1893-03-23",
+  "docket_number": "No. 117",
+  "first_page": "661",
+  "last_page": "664",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 661"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "8 Am. St. Rep., 144",
+      "category": "reporters:state",
+      "reporter": "Am. St. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Gray, 395",
+      "category": "reporters:state",
+      "reporter": "Gray",
+      "case_ids": [
+        2075507
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/70/0395-01"
+      ]
+    },
+    {
+      "cite": "68 Me., 152",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        8844215
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/me/68/0152-01"
+      ]
+    },
+    {
+      "cite": "66 Iowa, 725",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        4379249
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/iowa/66/0725-01"
+      ]
+    },
+    {
+      "cite": "61 Iowa, 103",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        4371009
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/iowa/61/0103-01"
+      ]
+    },
+    {
+      "cite": "5 Am. Rep., 368",
+      "category": "reporters:state_regional",
+      "reporter": "Am. Rep.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Black, 418",
+      "category": "reporters:scotus_early",
+      "reporter": "Black",
+      "case_ids": [
+        3466098
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/67/0418-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 436,
+    "char_count": 8136,
+    "ocr_confidence": 0.523,
+    "pagerank": {
+      "raw": 1.6071389395175994e-07,
+      "percentile": 0.684933947886537
+    },
+    "sha256": "56a6ef7c30ba9ff470a2b0f8fe5432e345e6ef3ae6d32c13b324ceb2e9494533",
+    "simhash": "1:f899a4a8db26fc6a",
+    "word_count": 1423
+  },
+  "last_updated": "2024-02-27T19:43:33.086404+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The City of Denison v. Mary E. Sanford."
+    ],
+    "opinions": [
+      {
+        "text": "HEAD, Associate Justice.\nAppellant is a city of over 1000 inhabitants, incorporated under the general laws of this State applicable to such cities. Gandy Street and Houston Avenue are public streets of said city, recognized and adopted as such. These streets intersect each other, and at their intersection appellant placed two large flat stones, leading from the sidewalk to the crossing. These stones were somewhat inclined, were intended for use by pedestrians, and the verdict of the jury establishes negligence on the part of the city in the manner in which they were placed for such use, and also knowledge on its part of such dangerous condition. Appellant had for several months maintained a light at this crossing, but upon the night in question it was not burning. The verdict also establishes that on the night of May 80,1888, appellee, without negligence on her part, slipped upon the stones above referred to, and by her fall was injured in the manner alleged in her petition, from which she sustained damage to the amount of the verdict, which was $1600. There was a decided conflict in the evidence as to whether or not the construction and use of the stones above referred to was negligence on the part of the city, but under the well settled rules in this State, the verdict was supported by sufficient evidence on this point to sustain it.\nAppellant, in its first assignment of error, complains of the action of the court below in overruling a special exception interposed by it to appellee\u2019s original petition, on the ground that such petition did not allege .that she did not have notice of the defective condition of the crossing prior to her injury, but on the contrary, affirmatively shows that she did have such knowledge. We do not construe the petition as showing affirmatively that plaintiff had notice of the defective condition of this crossing, nor do we believe that the petition was defective in failing to .aver affirmatively that she did not have such notice. The law applicable to this case is not that which pertains to the relation of master and servant, under which it is held, that the servant assumes the risk from defects of which he has notice, but it is to be decided according to the rules of law applicable to the duty a city is under in reference to its streets for the protection of the public, who sustain no contractual relation to it. In such cases, it is well settled in this State, that knowledge of the defect by an injured traveller, prior to the injury, is not conclusive evidence of negligence on his part. The question of contributory negligence thus raised is one for the jury under the circumstances of the particular case. Railway v. Gasscamp, 69 Texas, 545; City of Galveston v. Hemmis, 72 Texas, 558; City of Austin v. Ritz, 72 Texas, 391. In such cases, unless plaintiff in stating her case shows contributory negligence on her own part, it would seem to be necessary for the defendant to plead it. For a full decision as to the practice upon this question, see Murray v. Railway, 73 Texas, 2.\nAppellant pleaded specially in the court below, that prior to the time when plaintiff was injured, it had entered into a contract with the Denison Gas and Coal Company to furnish to it a certain number of lamps upon its streets, including the one at the crossing where the injury occurred, and that under such contract said company was bound to keep said lamp supplied with gas and burning while it was dark, and that if plaintiff had suffered any injury by reason of said lamp not being lighted, and if there was any fault at all in failing to have it lighted, it was the fault of the said Denison Gas and Coal Company, and it prayed that said company be made a party to said suit, and for judgment over against it.\nPlaintiff\u2019s petition charged negligence on the part of the city in the use and construction of the stones referred to above, and also in failing to have this light burning, and appellant in its answer does not allege that the injury to plaintiff was caused solely by the failure to have the lamp lighted. The court below sustained a special exception to this answer, interposed by the gas company, upon the ground that it showed no right of action against it for damages appellant might be compelled to pay by reason of its default or omission concurring with other negligence on the part of the city to cause the injury to plaintiff complained of in her petition. We believe the ruling of the court was correct. Had appellant\u2019s answer, in itself or in connection with the petition of plaintiff, shown that the injury to plaintiff was caused solely by the negligence of the gas company in failing to keep the lamp lighted in compliance with its contract with the city, we are not prepared to hold that the city would not have a right of action against such company for the damage it is compelled to pay appellee. This question is ably and exhaustively treated in the case of The City of Brooklyn v. The Brooklyn City Railway Company, 47 New York, 475. Also, see Chicago v. Robbins, 2 Black, 418: Robbins v. City of Chicago, 71U. S., 657; Cool. on Torts, 2 ed., 170; Armstrong v. Clarion County, 5 Am. Rep., 368; Railway v. Railways, 83 Texas, 509.\nIt is not, however, necessary for us to decide this question, inasmuch as we construe plaintiff\u2019s petition as charging negligence both upon the part of the city in constructing the crossing and in failing to have the lamp lighted; and under the charge of the court we think the jury must have found such negligence to have existed in reference to the crossing; and under these circumstances, it seems to be well settled, if defendant\u2019s own negligence contributed in causing the injury, it can not have contribution, although its contractor\u2019s negligence may also have contributed thereto. Railway v. Railways, supra, with the other authorities above cited.\nWe do not believe the evidence fairly raised the issue as to plaintiff\u2019s having been injured by stepping upon rocks not in the crossing of Houston Avenue and Gandy Street, and there was therefore no error in refusing the charge as complained of in the third assignment; nor do we believe the charge of the court to be subject to any of the other objections interposed to it.\nIt will be seen from the findings of fact that we would not be authorized to reverse the judgment for lack of evidence to support it.\nThe judgment of the court below will be in all things affirmed.\nAffirmed.\nDelivered March 23, 1893.",
+        "type": "majority",
+        "author": "HEAD, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "D. O. Hause and Brawn & Bliss, for appellant.",
+      "S. A. Gilbert and Stratton & Moseley, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "The City of Denison v. Mary E. Sanford.\nNo. 117.\n1. Pleading \u2014 Contributory Negligence. \u2014In an action for damages against a city for personal injury, it is not necessary for plaintiff to aver that he had no notice of the defect in the sidewalk causing the injury; and knowledge by him of such defect is not conclusive evidence of contributory negligence on his part.\n2. Parties \u2014 Contribution \u2014 One Wrongdoer can not Make Another Party Defendant, When.\u2014The defendant in a suit for damages resulting from its negligence has not the right to have a third party joined as defendant, and to have judgment over against such third party, where its own negligence has contributed to cause the injury complained of, although the negligence of such third party in failing to carry out a contract with defendant may also have contributed to the injury.\nAppeal from Grayson. Tried below before Hon. P. B. Muse.\nD. O. Hause and Brawn & Bliss, for appellant.\nThe verdict and judgment are contrary to the law and the evidence. 2 Dill, on Mun. Corp., secs. 1007, 1015, 1019; Parkhill v. Brighton, 61 Iowa, 103; McGinty v. Keokuk, 66 Iowa, 725; Shearm. & Redf. on Neg., 4 ed., 376; Klein v. City of Dallas, 71 Texas, 285; Perkins v. Fayette, 68 Me., 152; Marble v. Worcester, 4 Gray, 395.\nS. A. Gilbert and Stratton & Moseley, for appellee.\nPlaintiff\u2019s petition was sufficient, and the special exceptions thereto were properly overruled. Dill, on Mun. Corp., secs. 789, 790; Galveston v. Hemmis, 72 Texas, 558; Austin v. Ritz, 72 Texas, 391; Klein v. Dallas, 71 Texas, 285; Galveston v. Posnainsky, 62 Texas, 118; Village of Ponca v. Crawford, 8 Am. St. Rep., 144."
+  },
+  "file_name": "0661-01",
+  "first_page_order": 687,
+  "last_page_order": 690
+}

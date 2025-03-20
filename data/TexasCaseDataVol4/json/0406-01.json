@@ -1,0 +1,62 @@
+{
+  "id": 223705,
+  "name": "M. E. Compton v. M. C. Ashley",
+  "name_abbreviation": "Compton v. Ashley",
+  "decision_date": "1893-10-18",
+  "docket_number": "No. 1021",
+  "first_page": "406",
+  "last_page": "407",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Tex. Civ. App. 406"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 217,
+    "char_count": 3533,
+    "ocr_confidence": 0.583,
+    "sha256": "e900f7866625069a7944debc709620655fe373cee2f6a47df340b71562492b14",
+    "simhash": "1:6d43b2bc089201d8",
+    "word_count": 644
+  },
+  "last_updated": "2023-07-14T14:53:58.701798+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "M. E. Compton v. M. C. Ashley."
+    ],
+    "opinions": [
+      {
+        "text": "COLLARD, Associate Justice.\nThe final judgment in this cause was rendered in the court below, as shown by the record, on the 13th day of October, 1891, and the petition and bond for writ of error were filed on May 5, 1893.\nWe are asked to dismiss the case because the petition and bond were filed more than one year after the rendition of the judgment.\nThe statute, before the creation of the Courts of Civil Appeals, provided, that a writ of error might be sued out at any time within two years after final judgment was rendered, and not thereafter, except in the ease of infants, married women, and persons of unsound mind, who were allowed two years after their disabilities were removed in which to sue out the writ. Rev. Stats., art. 1389.\nDelivered October 18, 1893.\nThe act of the called session of the Legislature upon the same subject, which took effect September 1, 1892, provided, that a writ of error to the Court of Civil Appeals might be sued out at any time within twelve months after final judgment, and not thereafter; there being no saving clause for infants, married women, and persons of unsound mind.\nWe think the late act of the Legislature should be so construed, with the law as it was before, as to entitle a party, otherwise entitled, to sue-\u2022out a writ'of error to this court at any time within twelve months from \u25a0the time the act took effect, provided it be done within two years from the rendition of the judgment. The act should not be held to retroact and bar the right to the writ in cases where twelve months and not two years had already expired before the act took effect; that is, to bar all \u2022cases where twelve months had passed before the act took effect. The Legislature has expressed no such intention.\nIf this be true, that in a case where twelve months and not two years had expired, the cause would not be barred, it would also be true where twelve months had not expired before the law commenced to operate. We could not have two rules of construction for the same act. It was certainly not the intention to bar causes twelve months old at the time the law took effect. The new law should be construed, in connection with the old law, to affect existing rights from the time it begins to operate, subsequent rights from the time they arise, but of course not to extend the time limited by the former law. Stephenson v. Stephenson, -decided by Supreme Court, April 6, 1893.\nThe bond for writ of error was approved and filed May 5, 1893, and the citation was served upon the defendant in error, M. C. Ashley, in person, on the 3rd day of June, 1893, before his death on the 10th day \u25a0of June, 1893. The cause does not abate by such death. Gen. Laws of 1892, pp. 30, 31, sec. 30.\nThe motion to dismiss is overruled.\nMotion overruled.",
+        "type": "majority",
+        "author": "COLLARD, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Sims & Snodgrass, for motion.",
+      "W. K Smith, for plaintiff in error."
+    ],
+    "corrections": "",
+    "head_matter": "M. E. Compton v. M. C. Ashley.\nNo. 1021.\nWrit of Error, when may be Sued Out.\u2014We think the late act of the Legislature (chapter 17, Act of April 13, called session Twenty-second Legislature, article 1389) should be so construed, with the law as it was before (Revised Statutes, article 1389), as to entitle a party, otherwise entitled, to sue out a writ of error to this court at any time within twelve months from the time the act took effect (September 1,1892), provided it be done within two years from the rendition of the judgment.\nErbob from Coleman. Motion to dismiss writ of error because the petition and bond in error were filed more than one year after rendition of the judgment.\nSims & Snodgrass, for motion.\nW. K Smith, for plaintiff in error."
+  },
+  "file_name": "0406-01",
+  "first_page_order": 430,
+  "last_page_order": 431
+}

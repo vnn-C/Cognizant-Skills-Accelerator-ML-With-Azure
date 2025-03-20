@@ -1,0 +1,79 @@
+{
+  "id": 221043,
+  "name": "W. L. Rail v. City National Bank of Fort Worth",
+  "name_abbreviation": "Rail v. City National Bank",
+  "decision_date": "1893-06-28",
+  "docket_number": "No. 499",
+  "first_page": "557",
+  "last_page": "559",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 557"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "7 Cranch, 299",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch,",
+      "case_ids": [
+        572714
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/11/0299-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 313,
+    "char_count": 4962,
+    "ocr_confidence": 0.546,
+    "pagerank": {
+      "raw": 3.934510088519946e-07,
+      "percentile": 0.9031655899629669
+    },
+    "sha256": "33a68aa88cc48353771cbf149aadfa7b7569aa056c45d78d590abfc57e78f819",
+    "simhash": "1:964cdc8161acf3a7",
+    "word_count": 869
+  },
+  "last_updated": "2024-02-27T16:31:46.217873+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "W. L. Rail v. City National Bank of Fort Worth."
+    ],
+    "opinions": [
+      {
+        "text": "STEPHENS, Associate Justice.\nAppellant and one Joe Cain, by a contract in writing, undertook to erect for appellee a stone and brick building in the city of Fort Worth for the sum of $19,000, and to secure the performance of this contract on their part, entered into a bond with sureties. During the progress of the work Cain died. Appellant claims, that soon thereafter a verbal contract was entered into between him and the bank, by which he was released from his written obligation for the performance of the entire contract, but that he was only to complete the-stone and brick work and receive therefor the sum of $7300. This is the contract declared upon in this suit. In the petition the appellant alleged, that this new verbal contract was made with appellee through its authorized agent. This issue was met with a denial on the part of appellee, both as to the existence of the new contract and the authority to make it. The evidence was conflicting as to whether any such subsequent contract ever was entered into, and there was little or no evidence that the-person who, appellant claims, represented the bank in making the contract, to-wit, John Nichols, vice-president and director at the time, had any authority to make such a contract.\nThe court submitted to the jury as grounds of recovery, (1) whether any such contract was made with an authorized agent of appellee as alleged; and if not, (2) whether appellee had afterwards ratified such contract. Upon these issues the jury returned a verdict in favor of appellee;, hence this appeal.\nAppellant complains, by different assignments of error, that the court should have charged the jury, that if the bank held out Nichols as having: authority, it would be liable for his contract, though in fact he was not. authorized to make it. No such state of case was set up in his pleadings. To bind the principal for an unauthorized act of the agent, he must not only hold him out, but the apparent authority must be relied on in good faith and in the exercise of reasonable prudence by the party invoking the conclusive presumption of authority. Mech. on Ag., secs. 83, 84. We understand the rule in this State to be, that an estoppel, which is the principle involved, to be available, must be alleged. Scarbrough v. Alcorn, 74 Texas, 358, and cases there cited. We think, therefore, the court did not err in refusing the several requested instructions presenting this theory of the case to the jury.\nWe are also of opinion, that the numerous other requested charges were' properly refused, because, in so far as they stated in proper form correct propositions of law applicable to the facts of this case, they were given in the main charge; and.that the complaint as made by appellant against the court\u2019s charge can not be sustained. Fitzhugh v. Franco-Texan Land Co., 81 Texas, 306. This disposes of all the assignments, except that one which calls in question the sufficiency of the evidence to support the-verdict, which must also be denied, as the evidence was conflicting.\nThe judgment will therefore be affirmed.\nAffirmed.\nDelivered June 28, 1893.",
+        "type": "majority",
+        "author": "STEPHENS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Stanley, Spoonts & Meek, for appellant.",
+      "S. P. Greene and J. Y. Hogsett, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "W. L. Rail v. City National Bank of Fort Worth.\nNo. 499.\n1. Principal and Agent \u2014 Apparent Authority must be Belied on.\u2014In order to bind the principal for an unauthorized act of his agent, the apparent authority of the agent must be relied on in good faith, and in the exercise of reasonable prudence by the other party.\n2. Same\u2014Estoppel of Principal must be Pleaded.\u2014That a principal has held out an agent as having certain authority, and is therefore liable for his contract, though in fact he was not authorized to make it, involves the principle \u25a0of estoppel, and must be pleaded to be available.\nAppeal from Tarrant. Tried below before Hon. R. E. Beckham.\nStanley, Spoonts & Meek, for appellant.\nIf the plaintiff contracted with John Nichols as representing the bank, with no knowledge of any want of authority upon the part of said Nichols; and if said Nichols was-held out by the bank as having authority to make the contract, and had the apparent authority to make the contract; and if he had made the original contract; and if the plaintiff under his said contract made with said Nichols, in good faith fully performed the same, and there was a balance due him, he was entitled to recover such balance. Bank v. Martin, 70 Texas, 643; Bank v. Patterson, 7 Cranch, 299.\nS. P. Greene and J. Y. Hogsett, for appellee.\nThe court did not err in its charge in failing to present to the jury the law of estoppel: because\u2014\n1. The plaintiff made no plea of estoppel against defendant.\n2. The charge of the court as given, in substance, that a contract- of the character of that here sued on, to be binding on the bank, must be made by its board of directors, or by an agent by such board duly authorized, or if made without the authority of such board, must be ratified by such board, is the correct law of this case under the pleadings and facts."
+  },
+  "file_name": "0557-01",
+  "first_page_order": 583,
+  "last_page_order": 585
+}

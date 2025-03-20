@@ -1,0 +1,97 @@
+{
+  "id": 221168,
+  "name": "The San Antonio & Aransas Pass Railway Company v. J. T. Wells et al.",
+  "name_abbreviation": "San Antonio & Aransas Pass Railway Co. v. Wells",
+  "decision_date": "1893-05-18",
+  "docket_number": "No. 183",
+  "first_page": "307",
+  "last_page": "308",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 307"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "43 Ala., 508",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        3068503
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/43/0508-01"
+      ]
+    },
+    {
+      "cite": "42 Ala., 43",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Ala., 391",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "22 Ill., 16",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 254,
+    "char_count": 4624,
+    "ocr_confidence": 0.544,
+    "pagerank": {
+      "raw": 3.410345718937583e-07,
+      "percentile": 0.8779355475937014
+    },
+    "sha256": "398cbb0a0d869d2d344a922b4536be0c8b5d41bdb643553b967e16de938905ea",
+    "simhash": "1:b4cfe0c7cfd8d320",
+    "word_count": 803
+  },
+  "last_updated": "2024-02-27T16:31:46.217873+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The San Antonio & Aransas Pass Railway Company v. J. T. Wells et al."
+    ],
+    "opinions": [
+      {
+        "text": "WILLIAMS, Associate Justice.\nArticle 1223, Revised Statutes,, provides, that in suits against incorporated companies, service of citation may be had on the president, secretary, or treasurer of the company, or upon the local agent representing such company in the county in which the suit is brought, etc.\nIn this case service was had upon Reagan Houston, the sheriff stating in his return that Houston was the secretary of the defendant. The citation commanded the sheriff to serve the defendant, by name, and was directed to the county of its domicile.\nIt is claimed by plaintiff in error, that before judgment by default was taken upon such service, the court should have required evidence that Houston was in fact the secretary of the company.\nThe court is of the opinion, that the case differs from those in which service is made upon some person claimed to be the local agent representing the defendant in the county in which the suit is brought. In the latter case it has been intimated, that where the petition does not allege that the person served is such local agent, evidence of the fact that he is should be required. Railway v. Gage, 63 Texas, 572. This provision of the statute points out no particular agent or officer of the corporation who is authorized to represent it in receiving service. The sheriff, when he delivers the process, may deliver it to an agent who has not, as well as to one who has, under the provisions of this law, such authority. Without directions in the writ, he must judge for himself whether or not the person served occupies such relation to the defendant as to warrant such service. There is therefore a reason for requiring evidence of the fact of agency, which does not apply in cases where service is had on one of the general officers named in the statute. Those officers, by the law which controls and directs the sheriff in making the service, are clothed with the capacity to represent the defendant for the purpose of the service. The statute itself directs to whom the process may be delivered. All that the officer has to do is to determine the identity of the incumbent of the offices specified, just as in serving an individual, he must ascertain his identhy. When he states in his return, therefore, that he has served one of those officers, that should, in our opinion, afford prima facie evidence that the person served is such officer.\nBut it does not appear from this record that the court did not receive evidence that Houston was the secretary of the defendant, and if necessary it should be presumed that such evidence was furnished. All of the facts which the statute requires to appear of record do thus appear. There is no requirement that evidence in regard to agency should be put of record; and in aid of the judgment, every presumption should be indulged which is consistent with the facts made to appear.\nThe judgment is therefore affirmed.\nAffirmed.\nDelivered May 18, 1893.",
+        "type": "majority",
+        "author": "WILLIAMS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "O. T. Holt, for plaintiff in error.",
+      "No brief for defendants in error reached the Reporter."
+    ],
+    "corrections": "",
+    "head_matter": "The San Antonio & Aransas Pass Railway Company v. J. T. Wells et al.\nNo. 183.\n1. Service of Citation on Corporation.\u2014The statute provides, that In suits against incorporated companies service of the citation may he made on the president, secretary, or treasurer; therefore, where the sheriff served the secretary by name, stating in his return that such person is the secretary, such return is sufficient evidence of the identity of the person served as secretary to support a judgment by default, although the petition does not designate him as secretary by name.\n2. Presumptions in Support of Judgment by Default.\u2014It does not appear from the record in this case that the court did not receive evidence that Houston was the secretary, and if necessary it should be presumed that such evidence was furnished. In aid of the judgment, every presumption should be indulged which is consistent with the facts made to appear.\nError from Harris. Tried below before Hon. James Masterson.\nO. T. Holt, for plaintiff in error.\n1. The supplemental petition of defendants in error should have designated who was the local agent of plaintiff in error\u2019s corporation in Bexar County. Ins. Co. v. Seeligson 59 Texas, 6; Railway v. Shepherd, 21 Texas, 277; Railway v. Gage, 63 Texas, 568.\n-2. When the petition and citation fail to designate who the agent of a corporation is, no action should be taken until proof is made that the person served is and was really the agent of the corporation. Railway v. Gage, 63 Texas, 568; Railway v. Keep, 22 Ill., 16; 1 Ala., 391 3 Ala. (N. S.), 151; 6 Ala. (N. S.), 655; 42 Ala., 43; 43 Ala., 508.\nNo brief for defendants in error reached the Reporter."
+  },
+  "file_name": "0307-01",
+  "first_page_order": 333,
+  "last_page_order": 334
+}

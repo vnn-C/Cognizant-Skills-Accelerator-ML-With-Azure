@@ -1,0 +1,114 @@
+{
+  "id": 221080,
+  "name": "William T. Scott v. Elizabeth S. Sloan and Husband et al.",
+  "name_abbreviation": "Scott v. Sloan",
+  "decision_date": "1893-05-25",
+  "docket_number": "No. 226",
+  "first_page": "302",
+  "last_page": "303",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 302"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "14 Wall., 296",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.,",
+      "pin_cites": [
+        {
+          "page": "297"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Wall., 483",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "19 Vt., 467",
+      "category": "reporters:state",
+      "reporter": "Vt.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "98 U. S., 470",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11276
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/98/0470-01"
+      ]
+    },
+    {
+      "cite": "16 Ark., 154",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8724390
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/16/0154-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 272,
+    "char_count": 4551,
+    "ocr_confidence": 0.553,
+    "pagerank": {
+      "raw": 8.922023919071207e-08,
+      "percentile": 0.5006504240208599
+    },
+    "sha256": "c650d8073e1bf524b0c04c346ac0407bb16f2346262e8f7fef2127bdbbbda8fe",
+    "simhash": "1:a007818d29c5549c",
+    "word_count": 815
+  },
+  "last_updated": "2024-02-27T16:31:46.217873+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William T. Scott v. Elizabeth S. Sloan and Husband et al."
+    ],
+    "opinions": [
+      {
+        "text": "GARRETT, Chief Justice.\nThe defendant in error, Elizabeth S. Sloan, joined by her husband, W. L. Sloan, brought this suit in the District Court of Harrison County, on December 22, 1891, against Nancy Sherwood, independent executrix of the will of L. L. Sherwood, deceased, to recover on three promissory notes, and to foreclose a lien on land in Irion County. The First National Bank of Marshall, Texas, and the plaintiff in error, William T. Scott, were joined as defendants, the bank as a subsequent purchaser of the land from the executrix, and Scott as a junior mortgagee of L. L. Sherwood, both with notice of the lien of plaintiff Elizabeth S. Sloan.\nThere is no statement of facts in the record, and the case comes up on the action of the court in overruling the special demurrer of the defendant Scott setting up the statute of four years limitation against the interest on the notes sued on, which were the separate property of Mrs. Sloan, and though due more than four years, were protected by her coverture. It was claimed that the interest was community property.\nThe petition showed a cause of action on three notes, all dated December 13, 1883, and due on January 1, 1885, 1886, and 1887, respectively, payable to the order of Elizabeth S. Sloan, with interest thereon from maturity at the rate of 10 per cent per annum; and that the notes were given for land which was the separate property of Mrs. Sloan. Interest had been paid and credited on the notes to within four years of the date of the filing of the suit.\nInterest on money which is the separate property of the wife becomes the community property of the husband and wife. Braden v. Gose, 57 Texas, 37. It is the opinion of the writer, as expressed by Judge West in Carlisle v. Sommer, 61 Texas, 127, that interest contracted for in vendor\u2019s lien notes executed for the separate real estate of the wife remains the separate property of the wife.\nBut let it be conceded that the interest on the notes sued on in this case became community property as it accrued; it was an incident to the notes, and no separate cause of action could have been maintained therefor. The cause of action on the notes by reason of the coverture of Mrs. Sloan was not barred, and it is clear that the right to recover all interest accruing within four years of the time of filing the suit was not barred, even if interest that accrued more than four years before that time should be. The contract to pay interest is not separable from the contract to pay the principal together with interest, as it might be where it is stipulated that interest must be paid annually or at stated times, or is evidenced by coupons upon which, when detached, a separate action may be maintained. But see De Cordova v. Galveston, 4 Texas, 482.\nA Junior mortgagee may avail himself of the defense of limitation against the debt secured by the prior mortgage which is sought to be foreclosed. Wood on Lim., sec. 41; Johnson v. Lasker Real Estate and Building Association, 2 Texas Civ. App., 494.\nThere was no error in the judgment of the court below, and it will be affirmed.\nAffirmed.\nDelivered May 25, 1893.",
+        "type": "majority",
+        "author": "GARRETT, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "T. P. Young, for plaintiff in error,",
+      "James Turner, for defendant in error,"
+    ],
+    "corrections": "",
+    "head_matter": "William T. Scott v. Elizabeth S. Sloan and Husband et al.\nNo. 226.\n1. Community Property, Interest on Wife\u2019s Note is.\u2014Interest on money which is the separate property of the wife becomes the community property of the husband and the wife; but it is the opinion of the Chief Justice that interest contracted for in vendor's lien notes executed for the separate real estate of the wife (as was the case here), remains the separate property of the wife.\n2. Interest, when not Recoverable Apart from Note.\u2014When the notes do not stipulate that the interest shall be paid annually or at fixed dates, or when the interest is not evidenced by coupons which may be detached from the notes, and become a separate cause of action, it is incident to the notes, and no separate action can be maintained therefor; and in this case,the notes not being barred, it is clear that the plaintiff could recover all interest accruing within four years of the time of filing the suit, even if interest that accrued more than four years before that time shall be barred. And all the interest accrued prior to. four years having been paid, the judgment is affirmed.\nError from Harrison. Tried below before Hon. W. H. Graham.\nT. P. Young, for plaintiff in error,\ncited 57 Texas, 37; 13 Texas, 127; 16 Ark., 154.\nJames Turner, for defendant in error,\ncited 4 Texas, 482; 98 U. S., 470; 19 Vt., 467; 9 Wall., 483-487; 14 Wall., 296, 297."
+  },
+  "file_name": "0302-01",
+  "first_page_order": 328,
+  "last_page_order": 329
+}

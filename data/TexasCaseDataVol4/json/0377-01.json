@@ -1,0 +1,151 @@
+{
+  "id": 223783,
+  "name": "J. C. Foley v. R. C. Storrie",
+  "name_abbreviation": "Foley v. Storrie",
+  "decision_date": "1893-10-04",
+  "docket_number": "No. 320",
+  "first_page": "377",
+  "last_page": "380",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Tex. Civ. App. 377"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "69 Ill., 403",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        2635454
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/69/0403-01"
+      ]
+    },
+    {
+      "cite": "36 N. Y., 388",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        498925
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/36/0388-01"
+      ]
+    },
+    {
+      "cite": "47 Mich., 489",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1400301
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich/47/0489-01"
+      ]
+    },
+    {
+      "cite": "63 Mass., 135",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        9454136
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/63/0135-01"
+      ]
+    },
+    {
+      "cite": "69 Ill., 403",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        2635454
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill/69/0403-01"
+      ]
+    },
+    {
+      "cite": "47 Mich., 489",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1400301
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/47/0489-01"
+      ]
+    },
+    {
+      "cite": "63 Mass., 135",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        9454136
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/63/0135-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 457,
+    "char_count": 7468,
+    "ocr_confidence": 0.538,
+    "pagerank": {
+      "raw": 4.022729757668913e-07,
+      "percentile": 0.9067007381511432
+    },
+    "sha256": "7f55c0ade1f7424b5accf0bab6e34aa3452286af7ed7badf6b77d9e853465d14",
+    "simhash": "1:0302868d7a4f30c2",
+    "word_count": 1353
+  },
+  "last_updated": "2024-02-27T18:01:03.208661+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "J. C. Foley v. R. C. Storrie."
+    ],
+    "opinions": [
+      {
+        "text": "COLLARD, Associate Justice.\nIt was error to instruct the jury that there was no consideration for the contract sued on, and the assignment must be sustained.\nOn the 1st day of February, 1890, plaintiff and defendant entered into a contract, by which plaintiff was to deliver to defendant 1000 cords of cedar wood on railway cars near Fowler, in Bosque County, to commence work at once, load first car in fifteen days from date, and load one car each day thereafter for the first five days, to increase the loads to thirty cords per day by March 1, and to continue delivering thirty cords per day; Storrie, the defendant, to pay freight and expenses of shipment to Waco and of unloading; all duty of Foley, the plaintiff, to end when the cars were loaded at or near Fowler; for which defendant was to pay $4 per cord, as stated in the contract.\nIt was stipulated, that Foley \u201cshould not be held responsible for failure of the railway company to furnish cars in amount sufficient to handle the above mentioned number of cords per day, nor for delays occasioned by the weather, or other matters beyond human control.\u201d\nThe terms of the contract required its performance by Foley by the 1st day of April, 1890. No cars were furnished by the railroad company for loading the wood until about the 10th or 11th of April, and plaintiff delivered no wood under the contract.\nOn March 28, 1890, plaintiff wrote to Storrie at Waco:\n\u201c I have secured twelve more men, making twenty in all chopping, but I am not having good success holding them; they can not make wages cutting at $1 per cord this weather, and pay board. Working with the force I now have and the price I am now getting, I am simply giving you the wood for nothing, and it would require all summer to complete the contract. If you can stand a raise of $1 per cord, I can pay choppers a little better wages and push the work through; but if you can not, I will be compelled to stop work, as I can not pay choppers wages enough to induce them to stay in the woods this warm weather; and without choppers, of course I can not do anything. I am sorry I am compelled to demand this, but it has got so late in the season that it is almost impossible to get hands unless you can pay them decent wages, and this I can not afford to do at present price. Please let me hear from you as early as possible.\u201d\nOn April 5, defendant, Storrie, replied to the foregoing letter as follows:\n\u201c Yours of the 27th instant at hand, and would state that I will pay you 85 per cord. Please hurry up and ship wood. Let me hear from you soon.\u201d\nPlaintiff delivered, after this, wood to the amount of 100 cords or more, and has brought suit for sain\u00e9 on the contract as shown by the foregoing correspondence.\nDefendant set up the contract of February 1, claiming that he was damaged by the failure of plaintiff to perform the same, showing that he was under contract to put down certain wood pavements in the city of Waco in a given time, which fact was known to plaintiff; that his employes under pay were idle on account of the delay of plaintiff, and that he had to pay 82 per cord more for wood than he agreed to pay plaintiff.\nVerdict and judgment were rendered for defendant for the sum of 825 upon the issues so made.\nThe circumstances show that plaintiff was not in default at the time the first contract was rescinded or modified; that no part of said contract had been performed; that its obligations, if any existed at all, were to be performed in the future, and that to compel its performance would work a great hardship upon plaintiff; facts known and recognized by the defendant. In such case it could not be held that the new promise was without consideration.\nThe parties had the right to rescind their contract, or to modify it by mutual agreement.\nWhere one contracted to furnish materials and build a house at a certain price, and on account of a rise in the price of materials, informed his employer that he would not comply, and the employer directed him to go on and he would pay him what was right, it was held that the new contract was based upon a sufficient and valid consideration. Bishop v. Busse, 69 Ill., 403.\nIn Massachusetts, it was held that a modified agreement as to future obligations, without further consideration, will be sustained, though partly performed before the new promise was made. Holmes v. Doane, 9 Cush., 135.\nIn Michigan, an ice company had a contract with a brewery to furnish them ice during the next season at a given rate; the ice crop failed, and in May the defendants were informed by the ice company that no more ice would be furnished under the contract, when defendants, being compelled to have ice to prevent their beer from spoiling, made a new arrangement with the ice company, and agreed to pay a higher price for the ice, giving note for the same when furnished. It was held, that defendants could not dispute the validity of the note upon the ground that it was without consideration, and that the parties were competent to make the new arrangement. Shipman v. Butterfield, 47 Mich., 489.\nDelivered October 4, 1893.\nIn the same case, it was also held, that defendants could have stood upon the original contract and claimed damages for breach of it; but-having elected to do otherwise, they were bound to pay the note.\nIn the case of Galveston v. Railway Company, 46 Texas, 440, it is said, that \u201cif a contract has been obtained by mistake, or if, through change of circumstances, it is deemed to operate oppressively, an agreement to make an additional compensation, or to annul or modify it, is not, as is well settled, invalid for want of consideration.\u2019\u2019 See Bean v. Jay, 23 Maine, 117; Bish. on Con., secs. 812-814, 836.\nIn the case before us, defendant might have relied upon his original contract, and upon default by plaintiff, if there had been such default in fact, have recovered damages for its breach; but for reasons at the time-deemed by him sufficient, he elected to modify the contract and pay a greater price for the wood.\nThe parties were competent to make the change, and rest it upon their mutual promises to be performed in the future, and by so .doing defendant waived performance and damages under the contract as it was at first made. The rights of the parties must stand or fall upon the contract as reconstructed by them.\nOther assignments of error need not be noticed.\nThe judgment of the court below should be reversed and the cause remanded, and it is so ordered.\nReversed and, remanded.",
+        "type": "majority",
+        "author": "COLLARD, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "D. H. Hardy and W. M. Flournoy, for appellant, cited,",
+      "No brief for appellee reached the Reporter."
+    ],
+    "corrections": "",
+    "head_matter": "J. C. Foley v. R. C. Storrie.\nNo. 320.\nNew Contract\u2014Consideration.\u2014Foley contracted to furnish to Storrie a quantity of cedar wood at \u00a74 a cord at a stipulated place and time. The wood was not furnished, and after the specified time Storrie agreed to pay \u00a73 per cord. Under the new contract wood was delivered, and Storrie refused payment. In suit for the new contract price, it was error in the court to charge that there was no consideration for the new contract. The parties had the right to make a new contract, and having done so, the rights of the parties must be determined according to it.\nAppeal from the County Court of McLennan.\nTried below before Hon. W. H. Jenkins, County Judge.\nD. H. Hardy and W. M. Flournoy, for appellant, cited,\nGalveston v. Railway, 46 Texas, 440; Holmes v. Doane, 63 Mass., 135; Goebel v. Lynn, 47 Mich., 489; Stewart v. Kettlets, 36 N. Y., 388; Bishop v. Bussee, 69 Ill., 403.\nNo brief for appellee reached the Reporter."
+  },
+  "file_name": "0377-01",
+  "first_page_order": 401,
+  "last_page_order": 404
+}

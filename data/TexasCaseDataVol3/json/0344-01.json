@@ -1,0 +1,73 @@
+{
+  "id": 221182,
+  "name": "W. K. Gray v. J. W. Edwards",
+  "name_abbreviation": "Gray v. Edwards",
+  "decision_date": "1893-05-23",
+  "docket_number": "No. 167",
+  "first_page": "344",
+  "last_page": "346",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 344"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "101 U. S., 380",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 306,
+    "char_count": 5114,
+    "ocr_confidence": 0.545,
+    "pagerank": {
+      "raw": 4.076306636737454e-08,
+      "percentile": 0.008896335446809758
+    },
+    "sha256": "4ebc006c6d64e2ef9fbbf8ae2adb434e6d3c391d8e7fa4a68c56a33378406861",
+    "simhash": "1:5bda02e3dc83f739",
+    "word_count": 890
+  },
+  "last_updated": "2024-02-27T16:31:46.217873+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "W. K. Gray v. J. W. Edwards."
+    ],
+    "opinions": [
+      {
+        "text": "TARLTON, Chief Justice.\nW. K. Gray, plaintiff, filed his petition on the 7th day of February, 1890, against J. W. Edwards, for the sum of \u00a7842.65, and alleged, that plaintiff, as assignee of one M. Eyer, deposited with Edwards for sale lumber and shingles invoicing at cost, with freight added, the sum of $1233.53; that Edwards received and agreed to sell the same for cash, and to account to plaintiff therefor at the invoice price thereof, with freight added; that Edwards was to receive as his pay for selling the lumber all that he could get over the invoice price with freight, and also was to deduct a certain bill due him by M. Eyer of \u00a718.88; that Edwards was to sell the lumber and shingles as rapidly as possible, and account to plaintiff as fast as sold; that defendant had disposed of all of the lumber and shingles, but had not accounted to plaintiff therefor, except for the sum of $372. Plaintiff also caused an attachment to be issued and levied on certain property of Edwards, consisting of machinery, engine, and boiler used in a planing mill, and the same was sold before final trial under order of the court, and bought in by the plaintiff, subject to encumbrances.\nThe defendant denied, and claimed that he had sold only \u00a7538.29 worth of lumber, and claimed credits to the amount of $551.58, which left plaintiff due him the sum of $19.20, and reconvened for damages. Upon the trial (May 19, 1890) the jury found for plaintiff the sum of $657.12, and for defendant the sum of $1440 actual damages, and judgment was accordingly entered. From this judgment the plaintiff has prosecuted this appeal.\nIn the first assignment, appellant challenges the correctness of the first paragraph of the court\u2019s charge, as well as of the special instruction granted in the same connection at the request of the defendant.\nIn the paragraph referred to, the jury were directed, under certain contingencies, to \u2018-find in favor of the plaintiff at the agreed price for all lumber sold by the defendant,\u201d etc. In the requested charge, they were instructed as follows: \u201c Under the pleadings in this case you can only find for plaintiff for such of the lumber in question as the evidence shows was sold by the defendant.\u201d\nThus the amount of lumber sold and unaccounted for was made the exclusive test of the defendant\u2019s liability. We think this assignment well founded. The petition alleged liability because the defendant had disposed of all the lumber which he had accepted under the agreement to sell. Under the pleading, therefore, the defendant was liable not only for lumber which he had sold and for which he had failed to account, but also for lumber which he had in any other manner disposed of without accounting therefor.\nThe word \u201cdispose\u201d is of broader meaning than the word \u201csell.\u201d Phelps v. Harris, 101 U. S., 380; Carpenter v. Pridgen, 40 Texas, 33; Pearre v. Hawkins, 62 Texas, 434; Anderson\u2019s Law Dict.\nThe plaintiff introduced evidence tending to show that the defendant had disposed of a portion of the lumber in a manner other than by sale, and under this evidence and the pleading supporting it, the action of the court complained of was too restrictive of the plaintiff\u2019s right to recover. If the jury had believed the evidence on which he, in this respect, relied, he was entitled to recover the value, at the agreed price, not only of the lumber sold, but also of that disposed of, in whatever manner, by the defendant, and for which he had rendered no account.\nOther questions in the record are not so presented as to require consideration.\nThe judgment is reversed and the cause is remanded.\nReversed and remanded.\nDelivered May 23, 1893.\nJustice Head did not sit in this case.",
+        "type": "majority",
+        "author": "TARLTON, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "Stratton & Moseley and Decker & Harris, for appellant.",
+      "No brief for appellee reached the Reporter."
+    ],
+    "corrections": "",
+    "head_matter": "W. K. Gray v. J. W. Edwards.\nNo. 167.\nPleading and Proof \u2014 Sold and \u201c Disposed of.\u201d\u2014Where plaintiff deposited lumber with defendant for sale, and afterwards sued for its value, alleging that defendant had \u201c disposed of\u201d all the lumber, and had not accounted in full therefor, it was error in the court to restrict the right of recovery to such lumber only as had been sold by the defendant; since the pleading also warranted a recovery for a part thereof which the defendant had disposed of otherwise than by sale.\nAppeal from Grayson. Tried below before Hon. H. O. Head.\nStratton & Moseley and Decker & Harris, for appellant.\nThe allegation that defendant had \u201c disposed\u201d of all the lumber deposited with him for sale is entitled to a broader construction than would be the allegation that he had sold it all. Plaintiff does not attempt to recover upon a showing or account of how much lumber defendant has actually sold, but alleges that he deposited so much lumber for sale with him, which he has. \u201c disposed\u201d of and has not accounted for. It is not within the knowledge of plaintiff how much of said property he may have sold or how much he may have converted to his own use, but in either case it would be such a disposition thereof as would entitle plaintiff to recover, and the measure of his damages for the portion so converted would be the. agreed price.\nNo brief for appellee reached the Reporter."
+  },
+  "file_name": "0344-01",
+  "first_page_order": 370,
+  "last_page_order": 372
+}

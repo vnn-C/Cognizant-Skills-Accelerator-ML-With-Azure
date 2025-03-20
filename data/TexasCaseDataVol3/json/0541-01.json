@@ -1,0 +1,66 @@
+{
+  "id": 221213,
+  "name": "James Clark and M. E. Clark v. J. J. Gallaher",
+  "name_abbreviation": "Clark v. Gallaher",
+  "decision_date": "1893-06-21",
+  "docket_number": "No. 940",
+  "first_page": "541",
+  "last_page": "542",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 541"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 212,
+    "char_count": 2963,
+    "ocr_confidence": 0.561,
+    "pagerank": {
+      "raw": 7.317852702137001e-08,
+      "percentile": 0.4392790853829702
+    },
+    "sha256": "cdba13a6d59d230e0e784bb2e69c525a1031fa6ef92fb3ac725496094a18980c",
+    "simhash": "1:c36f2fabab4e428e",
+    "word_count": 499
+  },
+  "last_updated": "2023-07-14T18:08:23.206239+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James Clark and M. E. Clark v. J. J. Gallaher."
+    ],
+    "opinions": [
+      {
+        "text": "STEPHENS, Associate Justice.\nThis suit was brought to dissolve an alleged partnership between appellee and James Clark; M. E. Clark, the wife of James Clark, being joined as codefendant with her husband, on account of her claiming the stock of goods in controversy as her separate property. The petition, among other things, alleged, that a profit of $400 was due appellee, and that he had incurred an expense of $75 as attorney fees in bringing this suit; praying for a dissolution of the firm, distribution of profits and assets, appointment of receiver, etc. The exceptions to the petition were properly overruled, no objection being taken to the claim of $75 for attorney fees.\nThe only issue submitted to the jury by the charge of the court was that of partnership vel non, upon which they returned the following verdict: \u201cWe, the jury, find a verdict for the plaintiff.\u201d Whereupon the court adjudged that appellee recover of appellants the sum of $475, awarding execution, and appointing \u00e1 receiver to sell the goods in controversy and apply the proceeds of sale as far as necessary to the satisfaction of the judgment. We can find no support for this judgment, except possibly in the petition, and it must therefore be reversed. The jury selected to try controverted issues of fact must first pass upon them; hence, without the ascertainment by the verdict of the amount due appellees, if anything, on final settlement of the partnership, the judgment for the sum of $475 was entirely arbitrary.\nIf, upon another trial, appellant M. E. Clark should fail to establish her title to the stock of goods, and it should be determined that the partnership existed as alleged, and that the goods were partnership assets, the verdict should ascertain the extent of each partner\u2019s interest therein, as well as the amount due the one or the other upon settlement of the partnership accounts. Upon such a verdict, the proper decree could be entered for a sale of the goods and an application of the proceeds in accordance with the rules followed in the dissolution and settlement of partnerships.\nThe cause will be remanded for. further proceedings in accordance with this opinion.\nReversed and remanded.\nDelivered June 21, 1893.",
+        "type": "majority",
+        "author": "STEPHENS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Jarrett Todd and T. P. Glay, for appellants.",
+      "Duke & Garrett and T. W. Gregory, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "James Clark and M. E. Clark v. J. J. Gallaher.\nNo. 940.\nPartnership \u2014 Judgment not Warranted by Verdict.\u2014Where the plaintiff sued to dissolve an alleged partnership, claiming a certain sum of money as due him on final settlement, and the only issue submitted to the jury \u2022was the question of partnership vel non, on which they returned a verdict for plaintiff, the court was not authorized to enter a judgment for plaintiff for the amount of money claimed by him, and appointing a receiver to sell the partnership property and apply the proceeds to its satisfaction.\nAppeal from the County Court of Greer. Tried below before Hon. G-. S. Huling.\nJarrett Todd and T. P. Glay, for appellants.\nDuke & Garrett and T. W. Gregory, for appellee."
+  },
+  "file_name": "0541-01",
+  "first_page_order": 567,
+  "last_page_order": 568
+}

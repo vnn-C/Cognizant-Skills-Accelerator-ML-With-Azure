@@ -1,0 +1,79 @@
+{
+  "id": 219065,
+  "name": "Texas & Pacific Railway Company v. Mrs. D. H. Bledsoe et al.",
+  "name_abbreviation": "Texas & Pacific Railway Co. v. Bledsoe",
+  "decision_date": "1893-01-03",
+  "docket_number": "No. 412",
+  "first_page": "88",
+  "last_page": "90",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 88"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "145 U. S., 593",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3561983
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/145/0593-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 306,
+    "char_count": 4952,
+    "ocr_confidence": 0.582,
+    "pagerank": {
+      "raw": 5.061447019797991e-08,
+      "percentile": 0.3171175230679472
+    },
+    "sha256": "1bda71e5eff737233743882990fa98f1f9b31bdf8141e855b3857ac0f4424938",
+    "simhash": "1:38ac978a70652744",
+    "word_count": 827
+  },
+  "last_updated": "2024-02-27T19:43:33.086404+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Texas & Pacific Railway Company v. Mrs. D. H. Bledsoe et al."
+    ],
+    "opinions": [
+      {
+        "text": "TARLTON, Chief Justice.\nAppellant prosecutes this appeal from a judgment rendered against it, and in favor of appellees, on account of personal injuries resulting in the death of D. H. Bledsoe, husband and father of the appellees, respectively. It is apparent from the pleadings and from the record, that the injuries were received while the property of the defendant company was in the hands of John C. Brown and Lionel A. Sheldon, as receivers. Under such circumstances a recovery, it is well settled, can not be adjudged against the receivers. Turner v. Cross and Eddy, 83 Texas, 218; Receivers v. Selph, 83 Texas, 607. Nor could a recovery be adjudged against the company for the negligence of the receivers. Railway v. Collins, 84 Texas, 121.\nAppellees seek to maintain the judgment in this case on two grounds, which, as they contend, were not considered by the court in the case of Turner v. Eddy and Cross, above cited. These grounds are as follows:\nFirst. Appellant is liable under subdivision 2 of article 2899, Revised. Statutes, which subdivision reads as follows: \u201c2. When the death of any person is caused by the wrongful act, negligence, unskillfulness, or default of another.\u201d\nSecond. Appellant is liable under subdivision 1 of article 2899, not indeed as9the \u20181 proprietor, owner, charterer, or hirer \u201d of a railroad (the sole relation considered in the Turner case), but because the receivers must be regarded as the \u201cservants or agents\u201d of the appellant at the-time the injury was inflicted.\nWe are unable to sustain either of these propositions. Subdivision 2 is applicable only when the act or omission complained of is chargeable to the direct or immediate agency or negligence of the person sought to be bound. Hendrick v. Walton, 69 Texas, 192. We do not understand it to be here contended that the receivers were personally and immediately guilty of the negligence complained of.\nWith reference to the first subdivision: Receivers (in the absence, at least, of facts specially affecting and qualifying their relation) are to be regarded not as the agents of the railway company itself, but as the representatives of the court appointing them, for the preservation and management of the property. Brown v. Warner, 78 Texas, 543; Railway v. Geiger, 79 Texas, 13.\nThese views remain unchanged after a careful perusal of the case of Railway v. Cox, 145 United States, 593, cited by appellees, which involves the construction of the liability of receivers under a statute of Louisiana.\nWe decline to adopt the suggestion of appellant, to reverse and dismiss this case. We are not prepared to say that a state of facts might not exist, and be made to appear on another trial, requiring the receivers to be considered agents or representatives of the railroad corporation. In any event, we prefer the course usually followed by our Supreme Court, to reverse the judgment and to remand the cause.\nIt is accordingly so ordered. \u2022\nReversed and remanded.\nDelivered January 3, 1893.",
+        "type": "majority",
+        "author": "TARLTON, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "Finch & Thompson, for appellant.",
+      "Templeton & Kern and Hunter, Stewart & Dunklin, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "SECOND DISTRICT,\nJANUARY, 1893.\nTexas & Pacific Railway Company v. Mrs. D. H. Bledsoe et al.\nNo. 412.\n1. Beceiver of Bailway Company.\u2014The receiver of a railway company is ordinarily to be regarded not as the agent of the company but as the representative of the court appointing him, for the preservation and management of the property; and a recovery can not be had against the company for the negligence of the receiver.\n2. Same\u2014Company not Liable, When\u2014Statute Construed.\u2014Under subdivision 2, article 2899, of the Revised Statutes, a railway company can not be held liable for negligence resulting in the death of a person from injuries received while the road was in the hands of a receiver, where it does not appear that the receiver was personally and immediately guilty of the negligence complained-of.\nAppeal from Tarrant, Tried below before Hon. B. E. Beckham.\nFinch & Thompson, for appellant.\nA railway company is not liable for the torts of a receiver who has the exclusive control and operation of its road. Hicks v. Railway, 62 Texas, 38; Beach on Receivers, sec. 731.\nTempleton & Kern and Hunter, Stewart & Dunklin, for appellees.\n1. The decision in Turner v. Cross and Eddy, 83 Texas, 218, was based' solely on the question whether or not the receiver could be considered: \u201cthe proprietor, owner, charterer, or hirer of any railway.\u2019\u2019 Under the-circumstances of this case, the receiver was the agent or servant of appellant, and by reason thereof appellant is liable, even under this subdivision 1 of article 2899, Revised Statutes. Ryan v. Hays, 62 Texas, 42.\n2. Subdivision 2 of article 2899 gives a right of action on account of injuries occasioning death, \u201c when the death of any person is caused by the wrongful act, negligence, unskillfulness, or default of another;\u201d and this was intended to cover every case of death so resulting and not provided for in the preceding subdivision of the same article. Railway v. Cox, 145 U. S., 593."
+  },
+  "file_name": "0088-01",
+  "first_page_order": 114,
+  "last_page_order": 116
+}

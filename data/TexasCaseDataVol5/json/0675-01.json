@@ -1,0 +1,139 @@
+{
+  "id": 227449,
+  "name": "The Gulf, Colorado & Santa Fe Railway Company v. Mary H. Carter et al.",
+  "name_abbreviation": "Gulf, Colorado & Santa Fe Railway Co. v. Carter",
+  "decision_date": "1893-12-13",
+  "docket_number": "No. 110",
+  "first_page": "675",
+  "last_page": "678",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Tex. Civ. App. 675"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "23 Am. Dec., 209",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "15 Am. Dec., 608",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "12 Ill., 200",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "78 Mich., 218",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "72 Ind., 523",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1938175
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/72/0523-01"
+      ]
+    },
+    {
+      "cite": "69 Ind., 553",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1933260
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/69/0553-01"
+      ]
+    },
+    {
+      "cite": "30 Conn., 347",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "22 Vt., 407",
+      "category": "reporters:state",
+      "reporter": "Vt.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "24 Minn., 165",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "33 N. W. Rep., 215",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 485,
+    "char_count": 9965,
+    "ocr_confidence": 0.557,
+    "pagerank": {
+      "raw": 4.235932745771525e-08,
+      "percentile": 0.2687938563213531
+    },
+    "sha256": "a17d4685087a225f797a0312619a01360cf4e5f6dd1ec116daeefc8f9d0cbebd",
+    "simhash": "1:efda958214b316cb",
+    "word_count": 1748
+  },
+  "last_updated": "2024-02-27T16:31:09.266747+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The Gulf, Colorado & Santa Fe Railway Company v. Mary H. Carter et al."
+    ],
+    "opinions": [
+      {
+        "text": "RAINEY, Associate Justice.\nThis is an action of trespass to try title, brought in the court below by appellees against appellant. There was an agreement between the parties, \u20181 that either party could read from the records of deeds of the county clerk\u2019s office of Johnson County, Texas, any deed recorded therein, subject to the same objection that a certified copy would be in case it had been filed the length of time required by law, and notice thereof had been given, and that jt had been shown that the original could not be produced.\u201d\nOn the trial appellees offered to read in evidence from said records a deed which constituted a link in their chain of title. Objection was made, because the acknowledgment did not show to have been made before any officer authorized by the laws of Texas to take acknowledgments, and that the official character of the officer purporting to take the acknowledgment was not shown on the face of the certificate of acknowledgment. The acknowledgment was in the proper form, except the only attempt at a disclosure by the officer of his official capacity was the signature, which was \u201c Gr. H. Maxey, clerk, by Gr. M. Walker, deputy.\u201d The objection was overruled, and said deed admitted in evidence; to which ruling a bill of exceptions was reserved by appellant; and complaint is here made to this ruling. In signing the bill of exception, the learned judge appended the following explanation, which the facts show to be a correct statement of the record sought to be introduced:\n\u201cApproved, with the explanation: The book N of the record of deeds, page 306, which was read to the jury as containing a copy, was proven to be the deed record of Johnson County, Texas, and the same had been in use as such for many years; it further appeared from an inspection of the book itself, that it was a book of printed forms very similar to the blank forms of deeds in common use. The blank form at the bottom of each page which was to be filled out showing when the deed was filed for record, was to be attested by an officer whose title was in said certificate designated as \u2018 C. D. C., J. C. T.,\u2019 which letters were in print. The certificate as to this particular deed, showing when it was filed for record, showed that the same was filed on the day after its acknowledgment, and was in substance as follows: \u2018 Filed for record on September 28, 1876, and recorded the same day, in book N, page 306, deed records for Johnson County, Texas.\u2019 Signed, \u2018 G. H. Maxey, C. D. C., J. C. T., by G. M. Walker, deputy.\u2019 It was further shown, that on the day previous, that is, on the 27th day of September, 1876, and on the day subsequent, that is, on September 29, 1876, other deeds were acknowledged in the same book, on pages preceding and succeeding page 306, in which the said G. II. Maxey\u2019s name appeared: \u2018 Filed for record on September 27, 1876,\u2019 etc., \u2018 G. H. Maxey, C. C. C., J. C. T.\u2019 In these instances the printed \u2018 D.\u2019 which was in the printed forms standing for district, was erased, and the \u2018 C.\u2019 in writing put in its place. The court considered from these facts that the official character of the officer taking the acknowledgment was apparent from an inspection of the instrument in the record of deeds.\u201d\nIn Coffey v. Hendricks, 66 Texas, 678, Associate Justice Gaines, in passing upon a like question to the one at issue, says: \u201cWe think the official character of the officer who makes the certificate should be shown in it, either in the body or appended to the signature. The effect of a proper acknowledgment or proof of a bond for title or deed is to admit the instrument to record and confer the rights incident thereto. Such acknowledgment or proof should show upon its face that it was taken by an officer authorized by law to perform that act, so that the recorder may know without the aid of extrinsic evidence that the statute is complied with. Without this it can not be lawfully recorded, and whether transcribed upon the records or not, can not be admitted in evidence without proof of its execution as at common law.\u201d It is also held in the same case, \u2018 \u2018 that paroi evidence can not be introduced to show the official character of the person who made the certificate, his authority not appearing upon its face.\u201d\nDelivered December 13, 1893.\nIf it is improper to record a deed when the acknowledgment fails to show on its face the official character of the officer taking the same, it follows that the certificate of the officer in relation to its being filed and recorded can not be used in aid of a defective certificate of acknowledgment. The recording officer was without authority to record the instrument, and his acts connected with the recording thereof will not be considered in the premises.\nTaking the deed record and its recitals, as shown by the trial judge\u2019s explanation and the statement of facts, we can not tell in what capacity G. H. Maxey was acting at the time said acknowledgment was taken. It can not be told whether he was clerk of the District or clerk of the County Court of Johnson County. The certificate, as appears from the deed record, showing when the deed was filed for record, was signed \u201c G. H. Maxey, C. D. C., J. C. T., by G. M. Walker, deputy,\u201d which indicates that he was clerk of the District Court, while on all the pages immediately preceding and succeeding, was appended to his signature the letters \u201c C. C. C., J. C. T.,\u201d which shows him to have been the clerk of the County Court.\nAppellees\u2019 counsel insist, \u20181 that the entire instrument and the several certificates thereon may be looked to, to determine the official character of the officer before whom the acknowledgment was taken, or any other fact in that connection necessary to be understood.\u2019 \u2019 Limiting this contention to what appears upon the face of the instrument and the certificates that pertain to its making and the acknowledgment thereof made thereon, we agree with counsel; but if their contention extends to the certificates endorsed thereon that relate to the recording thereof, then we hold to the contrary. When the official character of the officer taking the acknowledgment does not appear from the certificate, whether or not it can be established aliunde, and if so, what character of evidence is required, we do not feel called upon now to decide.\nThe objection to the admission in evidence of the record in question we think should have been sustained. For this reason the judgment of the lower court is reversed and the cause remanded for a new trial.\nThe questions raised by the other assignments of error need not be raised on another trial, and we deem it unnecessary to pass thereon.\nReversed and remanded.\nReversed and remanded.",
+        "type": "majority",
+        "author": "RAINEY, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "L. B. Davis and J. W. Terry, for appellant.",
+      "T. H. Dixon and Crane & Ramsey, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "The Gulf, Colorado & Santa Fe Railway Company v. Mary H. Carter et al.\nNo. 110.\nRegistration \u2014 Acknowledgment \u2014 Failure to Disclose Official Character \u2014 The acknowledgment of a deed was in proper form, except that the only attempt at a disclosure by the officer of his official capacity was the signature, which was \u201cfi.H. Maxey, clerk,by G. M. Walker, deputy.\u201d As it is improper to record a deed when the acknowledgment fails to show on its face the official character of the officer taking the same, it follows that the certificate of the officer in relation to its being filed and recorded can not be used in aid of the acknowledgment which fails to disclose the official character of the person taking it.\nAppeal from Johnson. Tried below before Hon. J. M. Hall.\nL. B. Davis and J. W. Terry, for appellant.\n1. In order to admit a deed to record, and admit in evidence a certified copy of the deed from the record, without proving the execution of the original, it is necessary that the official character of the officer taking the acknowledgment must appear in the certificate of acknowledgment, and such official character can not be shown by evidence dehors the certificate. Hoffman v. Hendricks, 66 Texas, 678; 1 Dev. on Deeds, sec. 499.\n2. Even if admissible to go beyond the certificate of acknowledgment for the purpose of showing the official character of the officer, matters pertaining to things set forth in the judge\u2019s explanation to the bill of exceptions are not sufficient to show such official character, for it does not appear therefrom with certainty whether G. H. Maxey was clerk of the District Court of Johnson County or clerk of the County Court of said county.\nT. H. Dixon and Crane & Ramsey, for appellees.\n1. The certificate of acknowledgment signed G. H. Maxey, clerk, by G. M. Walker, deputy, taken in connection with the certificate showing when the deed in question was filed for record, which certificate was signed G. H. Maxey, C. D. C., J. C. T., by G. M. Walker, deputy, was sufficient, if interpreted literally, to show that the officer who took the acknowledgment was acting in the scope of his authority, and that it was properly acknowledged. That the court had a right to look to the entire instrument and all the certificates thereon to ascertain the official character of the officer taking the acknowledgment, is well settled. Rev. Stats., art. 4305; Broxton v. McDougall, 63 Texas, 197; Stephens v. Mote, 81 Texas, 115; Brunswick-Balke-Collender Co. v. Brockel, 33 N. W. Rep., 215; Wells v. Adkinson, 24 Minn., 165; Chombe v. Spear, 22 Vt., 407; Sanford v. Buddy, 30 Conn., 347.\n2. The abbreviations C. D. C., J. C. T., would be understood to mean a clerk of the District Court of Johnson County, Texas. 1 Am. and Eng. Encycl. of Law, 15, and authorities; Dougan v. Tressler, 69 Ind., 553; Buell v. Slate, 72 Ind., 523; Fenal v. Bookers, 78 Mich., 218; Rowley v. Bernor, 12 Ill., 200.\n3. A certificate of acknowledgment must be construed with reference to the entire instrument to which it is attached, and the instrument is allowed to help out the construction of the certificate. Furhman v. Londan, 15 Am. Dec., 608; Brooks v. Chaplin, 23 Am. Dec., 209; 1 Am. and Eng. Eng. Encycl. of Law, 156, and note 2."
+  },
+  "file_name": "0675-01",
+  "first_page_order": 701,
+  "last_page_order": 704
+}

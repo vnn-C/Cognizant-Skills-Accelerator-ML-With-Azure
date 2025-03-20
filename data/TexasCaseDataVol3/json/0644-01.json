@@ -1,0 +1,500 @@
+{
+  "id": 221116,
+  "name": "The International & Great Northern Railway Company v. M. H. Foltz et al.",
+  "name_abbreviation": "International & Great Northern Railway Co. v. Foltz",
+  "decision_date": "1893-05-24",
+  "docket_number": "No. 226",
+  "first_page": "644",
+  "last_page": "649",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 644"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "31 Me., 228",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        620292
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/me/31/0228-01"
+      ]
+    },
+    {
+      "cite": "20 La., 502",
+      "category": "reporters:state",
+      "reporter": "La.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "39 Miss., 822",
+      "category": "reporters:state",
+      "reporter": "Miss.",
+      "case_ids": [
+        299315
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/miss/39/0822-01"
+      ]
+    },
+    {
+      "cite": "16 Pa. St., 68",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "28 Ga., 543",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        261632
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ga/28/0543-01"
+      ]
+    },
+    {
+      "cite": "14 Bush, 590",
+      "category": "reporters:state",
+      "reporter": "Bush",
+      "case_ids": [
+        2346046
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ky/77/0590-01"
+      ]
+    },
+    {
+      "cite": "68 Ga., 350",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        45203
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ga/68/0350-01"
+      ]
+    },
+    {
+      "cite": "39 Ark., 523",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1898700
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/39/0523-01"
+      ]
+    },
+    {
+      "cite": "14 W. Va., 180",
+      "category": "reporters:state",
+      "reporter": "W. Va.",
+      "case_ids": [
+        8641076
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/w-va/14/0180-01"
+      ]
+    },
+    {
+      "cite": "44 Ala., 468",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        5469655
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/44/0468-01"
+      ]
+    },
+    {
+      "cite": "41 Ala., 486",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        3122015
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/41/0486-01"
+      ]
+    },
+    {
+      "cite": "61 Ill., 184",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        2460772
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/61/0184-01"
+      ]
+    },
+    {
+      "cite": "55 Pa. St., 53",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1470740
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/55/0053-01"
+      ]
+    },
+    {
+      "cite": "55 Wis., 319",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "case_ids": [
+        8705121
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wis/55/0319-01"
+      ]
+    },
+    {
+      "cite": "52 Mo., 390",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        972116
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mo/52/0390-01"
+      ]
+    },
+    {
+      "cite": "31 Minn., 85",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        749118
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/minn/31/0085-01"
+      ]
+    },
+    {
+      "cite": "30 Kans., 645",
+      "category": "reporters:state",
+      "reporter": "Kan.",
+      "case_ids": [
+        53475
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/kan/30/0645-01"
+      ]
+    },
+    {
+      "cite": "60 Minn., 1017",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "24 Minn., 506",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        752477
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/minn/24/0506-01"
+      ]
+    },
+    {
+      "cite": "37 Ala., 274",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        8497779
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/37/0274-01"
+      ]
+    },
+    {
+      "cite": "3 Wall., 107",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.,",
+      "case_ids": [
+        3476296
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/70/0107-01"
+      ]
+    },
+    {
+      "cite": "93 U. S., 174",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5645450
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/93/0174-01"
+      ]
+    },
+    {
+      "cite": "95 U. S., 660",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 How., 383",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "17 Wall., 375",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "112 U. S., 331",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3508051
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/112/0331-01"
+      ]
+    },
+    {
+      "cite": "8 Pac. Rep., 469",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "137 Mass., 33",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        757815
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/137/0033-01"
+      ]
+    },
+    {
+      "cite": "100 U. S., 24",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        4622
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/100/0024-01"
+      ]
+    },
+    {
+      "cite": "13 S. W. Rep., 190",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "45 Mich., 51",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1405325
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/45/0051-01"
+      ]
+    },
+    {
+      "cite": "43 Barb., 225",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5123292
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/43/0225-01"
+      ]
+    },
+    {
+      "cite": "30 Minn., 438",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        8876478
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/minn/30/0438-01"
+      ]
+    },
+    {
+      "cite": "74 N. C., 538",
+      "category": "reporters:state",
+      "reporter": "N.C.",
+      "case_ids": [
+        8683178
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nc/74/0538-01"
+      ]
+    },
+    {
+      "cite": "66 Ga., 39",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        49946
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ga/66/0039-01"
+      ]
+    },
+    {
+      "cite": "62 Ga., 347",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        21795
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ga/62/0347-01"
+      ]
+    },
+    {
+      "cite": "28 Wis., 204",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "case_ids": [
+        8707495
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis/28/0204-01"
+      ]
+    },
+    {
+      "cite": "53 Ala., 19",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        3346362
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ala/53/0019-01"
+      ]
+    },
+    {
+      "cite": "32 Vt., 665",
+      "category": "reporters:state",
+      "reporter": "Vt.",
+      "case_ids": [
+        2353305
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/vt/32/0665-01"
+      ]
+    },
+    {
+      "cite": "75 Ala., 587",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        8493344
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ala/75/0587-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 690,
+    "char_count": 15371,
+    "ocr_confidence": 0.56,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.008774063661626605
+    },
+    "sha256": "cb3346b718417f88c0ea317eb7f1fe33ee6124bf28753cca395a6950931c2cb9",
+    "simhash": "1:fd3805610a11a1c0",
+    "word_count": 2663
+  },
+  "last_updated": "2024-02-27T16:31:46.217873+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The International & Great Northern Railway Company v. M. H. Foltz et al."
+    ],
+    "opinions": [
+      {
+        "text": "COLLARD, Associate Justice.\nAppellant has made the following correct statement of the nature and result of the case:\n\u201c Suit by Mrs. M. H. Folts, joined by her husband, T. W. Folts, against the International & Great Northern Railway Company, to recover the value of certain baggage (jewelry), the property of Mrs. Folts, alleged to have been lost through the negligence of the defendant while she was being conveyed, as a passenger for hire, over the line of the defendant and the lines of other named carriers, from Austin, Texas, to Waukesha, Wisconsin.\nDefenses were general demurrer and special exceptions; general denial, and a special answer, alleging, that Mrs. Folts and her baggage were carried from Austin to Waukesha under and pursuant to a special contract in writing, which provided, among other things, that the liability of the defendant should be restricted and limited to loss or damage occurring on its own line, extending from Austin, Texas, to Taylor, Texas; that .\u2022as to other lines by which the carriage was to be made, the defendant :acted as agent only, and that liability for baggage lost or damaged should be limited to wearing apparel, not exceeding in value Si00.\n\u201c Defendant denied, under oath, that in making said contract it was a partner of the other named carriers or interested with them in any running or other arrangement in the nature of a partnership.\n\u201cTrial before the court, without the intervention of a jury, resulted in a judgment for plaintiffs for $531 and costs, based on conclusions of fact and of law found by the court. Plaintiffs remitted so much of the judgment as allowed interest. Defendant appealed.\u201d\nOpinion.\u2014The first assignment of error relied on by appellant is, that the court erred in overruling special exception to the petition, in that it alleged that other railway companies were partners with defendant and failed to make them parties.\nWe think the allegation of partnership was not made to establish liability of other connecting lines, but as a basis for the alleged liability of defendant on the entire route. It is alleged, \u201c that said ticket was sold under said agreement between said roads as aforesaid; and by virtue of said ticket defendant became liable as a common carrier for the safe transportation of plaintiff and her baggage over its line and said entire line. That said International & Great Northern Railway Company, on the day above mentioned, received from the plaintiff her baggage, consisting of one large lady\u2019s trunk and contents, and agreed and promised and bouhd itself to safely carry said trunk and contents over its line, and have it conveyed over connecting lines as aforesaid, from Austin to Waukesha, and to deliver it and its contents to plaintiff, at Waukesha, Wisconsin, free from damage, loss, or injury,\u201d etc.\nThe separate liability of defendant is made to appear sufficiently to authorize suit against it for the through passage.\nThe irregularity, if it be such, as contended, is immaterial, since the \u25a0court below found that there was no partnership with other roads further than having authority to issue tickets over all the roads named.\nThe ticket was purchased from defendant as alleged, and her trunk was checked through to place of destination; the trunk containing the articles alleged, the jewelry being used by plaintiff Mrs. Folts for personal adornment. The trunk, when delivered to defendant, was locked and .strapped, and was apparently in the same condition when it arrived at Waukesha, but the jewelry had been stolen therefrom, and was a total loss. Where, when, or by whom it had been taken, the evidence does not show.\nDefendant\u2019s road extended only from Austin to Taylor, Texas, about \u202235 miles, and the rest of the trip was made upon other roads, as alleged, and called for in the ticket.\nThe ticket, among others, contained the following stipulations:\n\u201cIn consideration of the reduced rate at which this ticket is sold, I, the undersigned, agree to and with the several companies over whose lines this ticket entitles me to be carried as follows, to-wit:\n\u201c1. That in selling this ticket the International & Great Northern Bailroad, the Missouri Pacific Bail way, lessee, acts only as agent, and is not responsible beyond its own line.\n*\n\u201c 8. That baggage liability is limited to wearing'apparel, not exceeding \u00a7100 in value.\u201d\nThe conclusions of fact found and filed by the court below are correct, and we adopt the same as our findings.\nAppellant contends, that the court erred in rendering judgment for plaintiff, because the contract limited the liability of defendant to loss occurring upon its own line, and plaintiff made no proof that the loss occurred on defendant\u2019s road, the burden of proof being on plaintiff to show such fact.\nIt is also claimed by appellant, that there was error in not restricting \u2022defendant\u2019s liability to \u00a7100 as stipulated in the contract.\nIt was conceded by the court below, that defendant would be bound only for loss occurring upon its own line under the contract, but that the burden of proof, under the circumstances, was upon the defendant to show that the loss occurred upon one of the other connecting lines; that defendant was liable in the absence of such proof.\nThe authorities are not entirely clear upon the question presented. But it may be said, that where the goods are shipped over several lines,, and they are found, upon arrival at destination, to be damaged only, the burden of proof is upon the last carrier to prove that it received the goods in such damaged condition. By making this proof it would be relieved of liability. But when there is a total loss, and the goods do not. arrive at their final destination, the receiving company would be held liable, unless there be proof that the goods were delivered to the next succeeding line. Railway v. Culver, 75 Ala., 587; Brintall v. Railway, 32 Vt., 665; Express Co. v. Hess, 53 Ala., 19.\nThere are cases where goods are shipped in boxes, and at destination it is found that some of the goods have been abstracted on the way, and it has been held, that the last carrier would be prima facie liable. But this holding seems to be upon the principle, that a partial loss would be only a damage to the entire lot or package. Laughlin v. Railway, 28 Wis., 204; Railway v. Holloway, 9 Baxt. (Tenn.), 188.\nIn the case of Railway v. McIntosh, 73 Georgia, 532, where a passenger\u2019s baggage checked through was lost, it was held, that the last road was liable, notwithstanding the first road would also be liable, as had been before decided by the same court. 62 Ga., 347. Of course, the receiving company may shift responsibility by showing that the freight was delivered to its connecting line; and so may the delivering company of damaged goods, by making proof that it received the goods in a damaged condition. Shafer v. Railway, 66 Ga., 39; Dixon v. Railway, 74 N. C., 538; Leo v. Railway, 30 Minn., 438; Smith v. Railway, 43 Barb., 225; Railway v. Kirkwood, 45 Mich., 51; Hutch, on Carr., 761; Schoul. on Bail, and Car., sec. 606.\nIn a case like the one at bar, where it is shown that the jewelry contained in a locked trunk was a total loss, and was never delivered at destination in any condition, it would be more in consonance with the principle upon which the distinction rests, to hold the receiving company liable.\nIf there is to be a presumption at all, it ought to be against the company who is proved to have received the goods, rather than the company who has not been shown to have had possession of them in any condition.\nWhen defendant received the goods, it became liable to carry them and deliver them to the next line, but was not liable for the further carriage under the contract. The contract specially excepted such liability; in the absence of all testimony explaining the loss, it devolved upon defendant to show that the loss fell within the exception. It is impossible to say that the exception exists.\nThis being so, and the reason of the rule authorizing a presumption against the last carrier having no application in case of \u00e1 total loss, we think defendant should be required to show that the contracted exception applies.\nThe trunk was delivered, locked and strapped as it was at first, and there was nothing in its appearance to indicate that it had been tampered with; nothing to cause the last or intermediate carriers to inquire, or to give them any notice as in case of damage or injury.\nUnder the circumstances of this case, we conclude that the onus was upon defendant to show that it came within the exception stipulated in the ticket contract. Ryan v. Railway, 65 Texas, 14; but see Adams v. Railway, 78 Texas, 372.\nIf we are correct in the foregoing conclusion, it must also be held, that-there was no error in rendering judgment for the full value of the property lost; Defendant is held to be liable for the loss, upon the ground that it occurred upon its own road. The restriction as to liability in the-contract as to value was illegal. A common carrier can not contract against liability for its own negligence. Railway v. Greathouse, 82 Texas, 110, and authorities cited.\nWe find no error in the judgment, and it is affirmed.\nAffirmed.\nDelivered May 24, 1893.\nJustice Key did not sit in this case.\nWrit of error refused.",
+        "type": "majority",
+        "author": "COLLARD, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Fisher & Townes, for appellant.",
+      "T. W. Gregory, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "The International & Great Northern Railway Company v. M. H. Foltz et al.\nNo. 226.\n1. Pleading\u2014Partnership.\u2014Suit against a railway company for damages for loss of jewelry from the trunk of plaintiff, which was shipped as baggage. The ticket extended over several lines to the place of destination. The petition alleged that the defendant company, which sold the ticket and received the trunk, was partner with the other lines named in the ticket. It seemed that the allegation of partnership was made only as a basis of the alleged liability of the defendant on the entire route. Meld, that the allegations were sufficient to show separate liability of the defendant company.\n2. Limited Liability of Carrier \u2014 Presumptions. \u2014While a railway can limit its liability to loss or injury upon its own road, yet where the article shipped was never delivered it devolves upon the defendant who received the ireight to show compliance with its contract, and a safe delivery to the connecting carrier. The burden of proof rests upon the carrier receiving the goods, which were never delivered, to clear itself of blame, to avoid liability.\n3. Stipulated Damages by Negligence Illegal.\u2014An excursion ticket limited liability for loss of passenger's baggage to $100. The road receiving the baggage being liable, the restriction as to liability in the contract as to value was illegal.\nAppeal from Travis. Tried below before Hon. W. M. Key.\nFisher & Townes, for appellant.\n1. The court erred in not rendering judgment for defendant; because it was affirmatively shown, that the baggage alleged to have been lost was received by the defendant, if at all, under a special contract in writing, which limited and restricted the liability of the defendant to losses occurring on its own line, which extended in the route of travel outlined in said contract from Austin, in Travis County, to Taylor, in Williamson County, and because plaintiffs made no proof that the loss alleged to have been sustained by them occurred upon the line of this defendant, or while said baggage was in its custody or under its control; the burden of proof in such case resting upon plaintiffs to show that the loss, for which damages were sought, occurred upon the line of the defendant company or while the baggage was in its custody or under its control. Harris v. Howe, 74 Texas, 534; Hunter v. Railway, 13 S. W. Rep., 190; 78 Texas, 372; Railway v. Baird, 75 Texas, 256; Railway v. Williams, 77 Texas, 121.\n2. Defendant had the right to stipulate that its liability for loss or damage should not extend beyond its own line, and without such stipulation such liability, in the absence of contract assuming it, could not attach; and no recovery could lawfully be had against defendant in the absence of affirmative proof by plaintiffs to the effect that the baggage was lost on its line or while in its custody. No such proof was made. 78 Texas, 372; Railway v. Baird, 75 Texas, 256; Railway v. Williams, 77 Texas, 121; Harris v. Howe, 74 Texas, 534; Hunter v. Railway, 13 S. W. Rep., 190.\n3. The court erred in not limiting and restricting the recovery herein,, if liability attached at all, to $100, that being the limit of liability fixed by the contract; the contract not being one to be performed wholly within the limits of the State of Texas, but being an interstate contract, and the limitation aforesaid being reasonable and just in the eye of the law. Railway v. Fraloff, 100 U. S., 24; Graves v. Railway, 137 Mass., 33; Sprague v. Railway, 8 Pac. Rep., 469; Hart v. Railway, 112 U. S., 331.\nT. W. Gregory, for appellees.\n1. The court did not err in rendering-judgment for defendant; because it was affirmatively shown that the baggage alleged to have been lost was received by the defendant under a special contract in writing, which limited and restricted the liability of the defendant to losses occurring on its own line, which extended in the route of travel outlined in said contract from Austin, in Travis County, to Taylor, in Williamson County, and because defendant made no proof that the loss sustained occurred upon connecting lines, and not while said baggage was in its custody or under its control; the burden of proof in such case resting upon defendant to show that the loss, for which damages were sought, occurred upon the connecting lines.\n(1) When the acceptance of the goods is special, the burden of proof is still on the carrier to show not only that the cause of the loss was within the terms of the exceptions, but also that there was on his part no negligence or want of due care. Ryan & Co. v. Railway, 65 Texas, 20, and authorities.\n(2) The initial carrier contracting to transport over entire line, subject to condition that it will be exempt from loss on connecting lines, the burden of proof is on it to show that it is within exempting clause.\n2. Apart from the statutes, a common carrier can not limit its liability by contract restricting the amount to be recovered for loss arising from its negligence. It can only exempt itself from liability, in whole or in part, in cases where loss arises from accident or mistake; and in case of loss, the burden of proof is on the carrier to show that the loss arose from accident or mistake. Railway v. Maddox, 75 Texas, 300; Railway v. Lockwood, 17 Wall., 375; Navigation Co. v. Bank, 6 How., 383; Railway v. Stevens, 95 U. S., 660; Bank v. Exp. Co., 93 U. S., 174; York Co. v. Railway, 3 Wall., 107; Steele v. Burges, 37 Ala., 274; Shriver v. Railway, 24 Minn., 506; Railway v. Abelt, 60 Minn., 1017; City v. Railway, 30 Kans., 645; Hulbert v. Moulton, 31 Minn., 85; Ketchum v. Exp. Co., 52 Mo., 390; Black v. Goodrick, 55 Wis., 319; Farnham v. Railway, 55 Pa. St., 53; Exp. Co. v. Steltaners, 61 Ill., 184; Railway v. Hopkins, 41 Ala., 486; Exp. Co. v. Crookley, 44 Ala., 468; Maslin v. Railway, 14 W. Va., 180; Railway v. Talbot & Co., 39 Ark., 523; Railway v. Gann & Reavet, 68 Ga., 350; Railway v. Brownlee, 14 Bush, 590; Berry v. Cooper, 28 Ga., 543; 16 Pa. St., 68; 39 Miss., 822; 20 La., 502; 31 Me., 228; 37 Ind.,448."
+  },
+  "file_name": "0644-01",
+  "first_page_order": 670,
+  "last_page_order": 675
+}

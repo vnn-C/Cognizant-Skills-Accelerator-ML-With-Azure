@@ -1,0 +1,66 @@
+{
+  "id": 223775,
+  "name": "W. L. Skeeters v. The Slater Milling Company",
+  "name_abbreviation": "Skeeters v. Slater Milling Co.",
+  "decision_date": "1893-11-16",
+  "docket_number": "No. 346",
+  "first_page": "665",
+  "last_page": "667",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Tex. Civ. App. 665"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 376,
+    "char_count": 7339,
+    "ocr_confidence": 0.55,
+    "pagerank": {
+      "raw": 4.076306636737454e-08,
+      "percentile": 0.008949286335349114
+    },
+    "sha256": "37a2a294b937305d3011fef99819992d4c9c3f8212b523274ade5360e810b43d",
+    "simhash": "1:b21fc69fae9741d7",
+    "word_count": 1327
+  },
+  "last_updated": "2023-07-14T14:53:58.701798+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "W. L. Skeeters v. The Slater Milling Company."
+    ],
+    "opinions": [
+      {
+        "text": "WILLIAMS, Associate Justice.\nAppellee brought suit in the District Court of Nacogdoches County against W. T. Skeeters, and sued out a writ of attachment, which was levied on eleven bales of cotton, the subject of this controversy. Appellant made claim to the cotton by making the affidavit and bond as required by the statute; and from the judgment -against him in the trial of the right of the property that followed, he prosecuted this appeal.\nAppellee, the plaintiff in attachment, in the issues tendered, claimed both that at the date of the levy the property was its own, and also that it belonged to W. T. Skeeters, the defendant in attachment, and was subject to the levy.\nAppellant alleged title in himself.\nThe question was raised in the court below and is presented in this appeal, whether or not the plaintiff in the attachment in this proceeding could claim that the title to the property was in itself, having attached it as the property of W. T. Skeeters, and alleging at the same time that it belonged to him. Inasmuch as, in our opinion, the evidence did not show a title in the plaintiff, we deem it unnecessary to decide this point.\nAfter'carefully considering the evidence, we are constrained to hold, that there was no sale of the cotton to the appellee prior to that to appellant and his daughter by W. T. Skeeters under which appellant claims, and that the court erred in holding that there had been such a sale. As we construe the transaction between W. T. Skeeters and Doughtie, it does not appear that there was an intention on the one part to sell to the other at that time, nor on the other to buy. This is evidenced by the facts that Doughtie was only permitted to realize upon the cotton by a future sale, and could not appropriate it in any other way; that he was empowered to sell only for the highest market price that could be obtained in Nacogdoches, and could not sell at any time nor for any price until he had consulted Skeeters. These facts are certainly inconsistent with the idea that the title passed to the plaintiff through the act of Doughtie as its agent; for they clearly evince the intent of the parties that absolute title and control should not pass out of Skeeters until a sale, consented to by him, had been made upon the market. A further circumstance in support of this view is, that when Skeeters proposed to sell to him Doughtie declined to buy, and then the arrangement was made upon which appellee relied as a sale.\nDelivered November 16, 1893.\nThe court below held that the facts shown constituted a sale, whether the parties intended it as such or not. In order to constitute a complete sale, the minds of the parties must have met in agreement on the one part to sell and on the other to buy. The intent that the title should pass must be gathered from the express agreement of the parties or from their acts. If there was no such meeting of the minds, there was no sale.\nA subsequent statement by one of the parties, that he did not intend to sell, when the acts of both at the time of the alleged sale were such as to meet the tests applied by the law to determine whether or not the title had passed, would not control. But unless at the time the sale is claimed to have taken place the minds of the parties assented to it, there could be\" no sale; and if the court meant to hold otherwise, its judgment was based upon an erroneous conception of the law. But the court found that the alleged sale by W. T. Skeeters to his father and sister, under which appellant claims, was fraudulent as to creditors; and if this is true, appellee\u2019s attachment lien is of course superior to the claim of appellant.\nWe are not satisfied with the evidence adduced to prove the fraud. There are some suspicious circumstances, but they are not inconsistent with the account of the transactions given by the otherwise uncontradicted statements of appellant and of W. T. Skeeters. Without commenting upon them, the judgment will be reversed and the cause remanded for another trial.\nReversed and remanded.",
+        "type": "majority",
+        "author": "WILLIAMS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "J. B. Truett and E. G. Branch, for appellant.",
+      "Jennings, Lewis & Matthews, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "W. L. Skeeters v. The Slater Milling Company.\nNo. 346.\n1. Sale\u2014Conditions.\u2014Cotton samples and yard receipts were placed in the-hands of the agent of a creditor of the owner \"of the cotton, with instructions to sell at the highest market price, and not to sell without consulting the owner of the cotton. The money realized was to go to the payment of the owner\u2019s debt to the creditor. Prior to this transaction the debtor had offered to sell to the creditor, but he had declined to buy. In such case there is no sale. Unless at the time the sale is claimed to have taken place the minds of the parties assented to it, there could be no sale.\n2. Inadmissible Evidence.\u2014A subsequent statement by one of the parties that he did not intend to sell, when the acts of the parties at the time of the alleged sale were such as to meet the tests applied by the law to determine whether or not the title had passed, would not control.\n3. Facts not Proving Fraud.\u2014If the sale made to the claimant of the property was fraudulent as to creditors, the attachment lien is good; but though there are suspicious circumstances attending the sale, they are not inconsistent, with the account of the transaction given by appellant.\nAppeal from Nacogdoches.\nTried below before Hon. James T. Polley.\nThe receipt given by Doughtie for the cotton samples and receipts was as follows:\n\u201cNacogdoches, Texas, November 27, 1890.\n6\u2018 Received from Wm. L. Skeeters receipts for eleven bales of cotton, weighing as follows [giving weights and numbers], not to be sold until he is consulted by wire or letter.\n[Signed] \u201c John S. Doughtie.\u201d\nDoughtie stated that when the receipt for the yard receipts was given, it was agreed that he was to notify Skeeters of the highest market price he could get; and that it was also agreed between them that the price for the cotton was to be the highest that could be obtained on the market atNacogdoches. Skeeters told him that he wanted to get 8 cents for it. On December 9 he wired Skeeters that he was offered 7-| cents for it, but he did not make a sale. These facts were also testified to by Skeeters, but there was some conflict of testimony as to the conversation that took place between Doughtie and Skeeters at the time the receipt was given,, and also between W. L. Skeeters and Doughtie as to what was said when Doughtie got the receipts at the bank and gave them to W. L. Skeeters on the 10th of December.\nJ. B. Truett and E. G. Branch, for appellant.\n\u2014 To make a complete sale, the minds of both parties must be made up and agree, and everything must be done that is possible to do; and if it was not their intention that the sale was complete at that time, then no title would pass from the seller to buyer, and third parties purchasing the property from the real owner would take title. 5 Wait\u2019s Act. and Def., 533-541.\nJennings, Lewis & Matthews, for appellee.\nA proposition of sale made by the owner of property, accepted by the buyer, price agreed upon, and delivery of the property, and nothing remaining to be done by the seller with respect to the property, constitute a complete and perfect sale, though the price be fixed only as \u201c the highest market price.\u201d That is certain which can be rendered certain. 1 W. & W. C. C., sec. 319; Linn v. Wright, 18 Texas, 317."
+  },
+  "file_name": "0665-01",
+  "first_page_order": 689,
+  "last_page_order": 691
+}

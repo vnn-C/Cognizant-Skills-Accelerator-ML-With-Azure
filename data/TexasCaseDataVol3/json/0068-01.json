@@ -1,0 +1,133 @@
+{
+  "id": 221190,
+  "name": "M. Levy v. O. E. Du Bose et al.",
+  "name_abbreviation": "Levy v. Du Bose",
+  "decision_date": "1893-03-29",
+  "docket_number": "No. 119",
+  "first_page": "68",
+  "last_page": "71",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 68"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "17 S. C., 414",
+      "category": "reporters:state",
+      "reporter": "S.C.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Johns., 101",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2131441
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/5/0101-01"
+      ]
+    },
+    {
+      "cite": "57 Am. Dec., 355",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "41 Am. Dec., 92",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "13 Pet., 136",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "case_ids": [
+        3337844
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/38/0136-01"
+      ]
+    },
+    {
+      "cite": "5 Biss., 50",
+      "category": "reporters:federal",
+      "reporter": "Biss.",
+      "case_ids": [
+        6575834
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f-cas/19/1250-01"
+      ]
+    },
+    {
+      "cite": "6 Wend., 22",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2007400
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/6/0022-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 464,
+    "char_count": 8969,
+    "ocr_confidence": 0.537,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.00877580121466541
+    },
+    "sha256": "6a1bc786d47d93d43d142413cee7f4ccdefdaa8a32dfe608514ea684b8cd2378",
+    "simhash": "1:3ada63e7183ea1f4",
+    "word_count": 1611
+  },
+  "last_updated": "2024-02-27T16:31:46.217873+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "M. Levy v. O. E. Du Bose et al."
+    ],
+    "opinions": [
+      {
+        "text": "COLLARD, Associate Justice.\nSuit by M. Levy, appellant, against O. E. Du Bose and II. Bickleman on their joint promissory note for 8225, dated January 5, 1889, due November 1, 1889, bearing 12 per cent interest after maturity, containing a stipulation to pay 10 per cent attorney fees if collected by law. The note was made to W. M. Feagle, or order. Levy bought the note, and it was transferred to him before maturity. The suit was filed November 29, 1889.\nDu Bose answered by general denial, and pleaded tender on the day the note fell due, and also on the 30th day of November, 1889, of principal and interest then due, and that plaintiff refused to accept, because suit had been filed and the tender did not include attorney fee. Du Bose deposited the amount due on last tender, without attorney fee, with the clerk with his plea.\nDu Bose also set up that his codefendant Rickleman was only a surety on the note.\nRickleman was served, but did not answer. On the day of trial, plaintiff and defendant Du Bose announced ready, whereupon plaintiff asked for judgment final by default against Rickleman, who, being present in court, informed the court orally that he had not answered because he did not remember being served, but asked that if the court held that he had been served, he desired to answer, and wished to adopt the pleas of Du Bose. The court denied the request, and entered judgment against Rickleman for the amount of note, principal and interest due, and 10 per cent attorney fee, $252.25.\nThe cause was tried between plaintiff and Du Bose, and the court rendered judgment for plaintiff for $227.25, amount due when last tender was made as alleged, without attorney fee, and against plaintiff for costs incurred by Du Bose. The judgment also held Rickleman to be only bound as a surety of Du Bose, and directed that he be protected by the deposit with the clerk to the extent of the judgment against Du Bose, but awarded execution against him for the residue.\nThe same day, after the judgment, Rickleman filed an unsworn motion, -stating that he was only a surety on the note, and asking that the same judgment be entered against him that had been rendered against his principal, Du Bose. The court granted the motion and reformed the judgment as requested. Plaintiff appealed.\nThe facts show that one J. M. Walker had brought suit against Feagle in the Justice Court, and had in that suit garnished Du Bose, on the 1st of November. On that day Du Bose had come to town (Marlin) with the amount due on the note, to pay it to plaintiff, but before he saw the latter he was served with the writ of garnishment. He saw plaintiff, and proposed to him to deposit the $225 due on the note with the justice of the peace who had issued the writ of garnishment, to abide the result of that suit, which proposition plaintiff refused to accept. On the 12th of November, 1889, Du Bose filed his answer to the garnishment, setting up the facts, and on the 30th of November, 1889, was discharged as garnishee. He on the same day tendered payment to plaintiff the amount then due on the note, principal and interest, which plaintiff refused to accept, because the suit had been brought, and he was entitled to the attorney fee, which had not been tendered. Again, on the 5th of December, 1889, Du Bose made another tender of amount then due, except the attorney fee, which plaintiff refused to accept.\nAfter reformation of the first judgment, plaintiff in time filed a motion for a new trial, upon two grounds; that the court had improperly set aside the first judgment against Rickleman and reformed the same upon an unsworn motion, without equity or good reason shown in the same; and because the court erred in rendering judgment against him and in favor of both defendants for attorney fees, interest, and costs.\nIt was proved on the original trial, before the first judgment was rendered, that Rickleman was a surety on the note. Rickleman was not garnished in the suit of Walker v. Feagle. It was admitted on the trial that the writ of garnishment and all preliminary steps were regular.\nThere is but one question in the case raised by assignment of error that need be considered. Was Du Bose or Rickleman protected from suit on the note pending the garnishment proceedings ?\nThis question must be answered in the negative. It was a negotiable promissory note in the hands of an endorsee before maturity. Had there been judgment against Du Bose as garnishee, it would have been no bar to the action on the note; hence the service of the writ and the pendency of the proceeding in garnishment could in no way affect the rights of the holder. It is only when the note is shown to be in the hands of the original payee after maturity that equities can be inquired into. Bassett v. Garthwaite, 22 Texas, 231; Iglehart v. Moore, 21 Texas, 501; Iglehart v. Mills, 21 Texas, 545; Wade on Attach., secs. 458-460.\nThis is a case of garnishment of the maker after endorsement by the payee before maturity. In such case there can be no controversy as to the law that the maker is not liable as garnishee. The question is simple. Du Bose was not excused for nonpayment of the note at maturity by reason of the garnishment, to which he had a perfect defense. The holder was not required to wait until the garnishment was at an end before he could sue. The refusal of Du Bose to pay at maturity was the same as if there had been no garnishment. His tender after suit on the day he was discharged as garnishee was not a tender of the full amount due. The suit had been legally brought, which fixed the liability for attorney fees. Other questions need not be discussed.\nThe court below should have rendered judgment for Levy for the amount, principal and interest, due on the note at the time of trial, and 10 per cent thereon as attorney fees, according to the terms of the note, and all costs against Du Bose as principal and Rickleman as surety.\nThe judgment of the lower court should be reversed, and here rendered for Levy in conformity with this opinion for the amount due on the note at the time of trial below, and 10 per cent attorney fees against both defendants as stated above, for all costs of the court below and of this appeal; and it is so ordered.\nReversed and rendered.\nDelivered March 29, 1893.",
+        "type": "majority",
+        "author": "COLLARD, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "J. A. Martin, for appellant.",
+      "B. H. Rice and Z. I. Harlan, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "M. Levy v. O. E. Du Bose et al.\nNo. 119.\n1. Garnishment\u2014Negotiable Paper not Due.\u2014The holder of a negotiable note not due is not affected- by garnishment proceedings against the maker of the note. Such holder may sue and enforce payment after maturity regardless of such garnishment.\n2. Attorney Fee\u2014Tender.\u2014Upon the maturity of a negotiable note its holder by endorsement before maturity brought suit to enforce payment. The note stipulating for attorney fee in event of suit, the right to the attorney fee upon suit became fixed. The subsequent tender of principal and interest without the stipulated attorney fee was not a full tender.\nAppeal from County Court of Falls. Tried below before Hon. S. B. Scott.\nJ. A. Martin, for appellant.\n1. The maker of a negotiable promissory note is not subject to garnishment in a suit against the original payee before maturity; nor after maturity, without pleading and proof by the plaintiff that his debtor was the owner of such note at the time the writ was served. Brown v. Chancellor, 61 Texas, 437; Watkins v. Willis, 58 Texas, 521; Waples on Attach., 207, 208, 217; Iglehart v. Moore, 21 Texas, 501; Am. and Eng. Encycl. of Law, 1173, 1175.\n2. The endorsee and bona fide holder of a negotiable promissory note has a perfect right to sue upon the same if not paid at maturity; and this right is not impaired by the fact that the maker of the note has been garnished as for a debt due the original payee; the maker must investigate the facts. 2 Greenl. on Ev., secs. 601-607; Dunham v. Jackson, 6 Wend., 22; Rev. Stats., art. 1421.\nB. H. Rice and Z. I. Harlan, for appellees.\n1. Where two actions affecting the same subject matter are brought in different courts, the first court to obtain jurisdiction will maintain it to the end; and the prior pendency of a garnishment proceeding should be sufficient to abate any subsequent action in which judgment is sought for the same debt against the party garnished, until the end of the garnishment proceedings. 3 Myers\u2019 Fed. Dec., secs. 1409, 1542; Pratt v. Burr, 5 Biss., 50-55; Wallace v. McConnell, 13 Pet., 136-152; Hooker v. Stevens, 4 McL., 535; Crawford v. Clute, 41 Am. Dec., 92; Ladd v. Baker, 57 Am. Dec., 355; Embree v. Hanna, 5 Johns., 101; 2 Wade on Attach., secs. 493, 494, 500, and note 1; 8 Am. and Eng. Encycl. of Law, 1220; Murs v. Ins. Co., 17 S. C., 414; Berry Bros. v. Nelson Davis & Co., 77 Texas, 191.\n2. The tender in this case was sufficient in law, and in morality and justice as much as could and ought to have been demanded of the defendant under the circumstances. Ins. Co. v. Busby, 3 Willson\u2019s C. C., sec. 103; 2 Willson\u2019s C. C., sec. 557."
+  },
+  "file_name": "0068-01",
+  "first_page_order": 94,
+  "last_page_order": 97
+}

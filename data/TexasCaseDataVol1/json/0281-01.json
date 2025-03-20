@@ -1,0 +1,66 @@
+{
+  "id": 216282,
+  "name": "Susan Beckham et al. v. G. N. Rice",
+  "name_abbreviation": "Beckham v. Rice",
+  "decision_date": "1892-11-01",
+  "docket_number": "No. 15",
+  "first_page": "281",
+  "last_page": "281",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Tex. Civ. App. 281"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 143,
+    "char_count": 2393,
+    "ocr_confidence": 0.553,
+    "pagerank": {
+      "raw": 5.676830387708631e-08,
+      "percentile": 0.35509232391540974
+    },
+    "sha256": "fabb2bdfe5b853f04cdf228b7433b3b49a6a48e3d2cc62257da4ab87c36ca573",
+    "simhash": "1:17d6fd58c6415f4f",
+    "word_count": 410
+  },
+  "last_updated": "2023-07-14T14:31:22.177647+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Susan Beckham et al. v. G. N. Rice."
+    ],
+    "opinions": [
+      {
+        "text": "TARLTON, Chief Justice.\nH. S. Holman was justice of the peace of Precinct No. 1, Cooke County. In his court this suit was instituted by appellants as plaintiffs against appellee as defendant. Judgment was rendered for appellee, from which appellants appealed to the County Court of Cooke County. Pending the appeal Holman was elected county judge of Cooke County. When the cause was called for trial in the County Court, Holman, the county judge, declined to take jurisdiction thereof. He held that he was disqualified to try the case, from the fact that he had tried it as justice of the peace, and for this reason transferred it to the District Court of Cooke County. A trial in the District Court resulted in a judgment for appellee, from which appellants appeal.\nIt is urged that the District Court was without jurisdiction to try the case, the County Court having erred in the transfer referred to, and that this appeal should be dismissed.\nWe hold that the fact that the county judge had presided at the trial in the Justice Court did not disqualify him from hearing the case in the County Court, and did not justify its transfer to the District Court. Rev. Stats., art. 1138; Railway v. Holden, 3 Ct. App. C. C., sec. 323.\nIt remains for us, therefore, but to dismiss this appeal, with instructions to the District Court to transfer the cause to the County Court, and it is so ordered.\nDismissed.",
+        "type": "majority",
+        "author": "TARLTON, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "W. B. Johnson, for appellants.",
+      "Davis & Harris, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Susan Beckham et al. v. G. N. Rice.\nNo. 15.\nDelivered November 1, 1892.\n1. Disqualification of Judge. \u2014 Where a case was appealed to the County Court, the county judge was not disqualified to try it because, as justice of the peace, he had tried it once already.\n2. Jurisdiction \u2014 Dismissal of Appeal. \u2014 The county judge having improperly transferred the ease to the District Court because of his supposed disqualification. an appeal from a trial had in the District Court is dismissed, with instructions to transfer the case to the County Court.\nAppeal from Cooke. Tried below before 1-Ion. D. E. Bakkett.\nW. B. Johnson, for appellants.\nThe appeal should be dismissed because of the erroneous transfer and the want of jurisdiction in the District Court. Rev. Stats., art. 1138.\nDavis & Harris, for appellee.\nThe County Court erred in transferring the cause; and the District Court being without jurisdiction, the appeal should be dismissed. Railway v. Holden, 3 Ct. App. C. C., sec. 323."
+  },
+  "file_name": "0281-01",
+  "first_page_order": 305,
+  "last_page_order": 305
+}

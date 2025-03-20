@@ -1,0 +1,368 @@
+{
+  "id": 223752,
+  "name": "Rainwater-Boogher Hat Company et al. v. John H. Weaver",
+  "name_abbreviation": "Rainwater-Boogher Hat Co. v. Weaver",
+  "decision_date": "1893-10-25",
+  "docket_number": "No. 32",
+  "first_page": "594",
+  "last_page": "599",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Tex. Civ. App. 594"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "23 S. W. Rep., 27",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "20 S. W. Rep., 1127",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "20 S. W. Rep., 52",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "138 U. S., 109",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3550459
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/138/0109-01"
+      ]
+    },
+    {
+      "cite": "1 Sandf. Ch., 4",
+      "category": "reporters:state",
+      "reporter": "Sand. Ch.",
+      "case_ids": [
+        2163597
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/sand-ch/1/0004-01"
+      ]
+    },
+    {
+      "cite": "12 Fed. Rep., 233",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "20 Johns., 442",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2142388
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/20/0442-01"
+      ]
+    },
+    {
+      "cite": "17 N. Y., 22",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2019309
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/17/0022-01"
+      ]
+    },
+    {
+      "cite": "18 Ala., 734",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        3171521
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/18/0734-01"
+      ]
+    },
+    {
+      "cite": "24 N. Y., 305",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Hill, 438",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "42 Ill., 230",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        5293889
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/42/0230-01"
+      ]
+    },
+    {
+      "cite": "1 Sandf. Ch., 83",
+      "category": "reporters:state",
+      "reporter": "Sand. Ch.",
+      "case_ids": [
+        2163595
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/sand-ch/1/0083-01"
+      ]
+    },
+    {
+      "cite": "9 Barb., 253",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Wis., 42",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "case_ids": [
+        8712463
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wis/2/0042-01"
+      ]
+    },
+    {
+      "cite": "13 N. Y., 215",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "27 N. Y., 311",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "52 Mich., 211",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Minn., 305",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        8875613
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/minn/6/0305-01"
+      ]
+    },
+    {
+      "cite": "3 Minn., 364",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        732829
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/minn/3/0364-01"
+      ]
+    },
+    {
+      "cite": "2 Mich., 445",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1933596
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich/2/0445-01"
+      ]
+    },
+    {
+      "cite": "2 N. Y., 365",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        492239
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/2/0365-01"
+      ]
+    },
+    {
+      "cite": "6 N. Y., 510",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2498773
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/6/0467-01"
+      ]
+    },
+    {
+      "cite": "60 Ill., 93",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        8499929
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/60/0093-01"
+      ]
+    },
+    {
+      "cite": "1 Sandf. Ch., 135",
+      "category": "reporters:state",
+      "reporter": "Sand. Ch.",
+      "case_ids": [
+        2163609
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/sand-ch/1/0135-01"
+      ]
+    },
+    {
+      "cite": "17 N. Y., 9",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2019300
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/17/0009-01"
+      ]
+    },
+    {
+      "cite": "7 Md., 380",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        1013308
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/md/7/0380-01"
+      ]
+    },
+    {
+      "cite": "10 Mo. App., 87",
+      "category": "reporters:state",
+      "reporter": "Mo. App.",
+      "case_ids": [
+        528261
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mo-app/10/0087-01"
+      ]
+    },
+    {
+      "cite": "55 Fed. Rep., 588",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        7853893
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/55/0588-01"
+      ]
+    },
+    {
+      "cite": "22 S. W. Rep., 6",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "20 S. W. Rep., 1127",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 737,
+    "char_count": 15977,
+    "ocr_confidence": 0.582,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.0088231012696107
+    },
+    "sha256": "88106c957c048216883f6edac02933447427029dcec220827b930c90703a4a56",
+    "simhash": "1:bd8befd83b6b7286",
+    "word_count": 2798
+  },
+  "last_updated": "2024-02-27T18:01:03.208661+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Rainwater-Boogher Hat Company et al. v. John H. Weaver."
+    ],
+    "opinions": [
+      {
+        "text": "FINLEY, Associate Justice.\nThis is an agreed case under article 1414 of the Revised Statutes, and the question presented for decision is as to the validity of a conveyance, commonly called deed of trust, executed by Steinlein & Co. to John H. Weaver, trustee, for the benefit of certain creditors. It is admitted that at the time the instrument was executed Steinlein & Co. were largely indebted and insolvent, and that all their property was covered by the conveyance. It is contended by appellants that the instrument contains certain provisions which render it void upon its face.\nOne of the provisions complained of is as follows: \u201c The said John H. Weaver to take immediate possession and control of the said property, and after an inventory thereof shall have been taken, the said Weaver is to proceed to sell said property for cash, and reduce into money the dioses of action and all evidences of debt hereby conveyed and turned over to him. The goods to be sold at retail, or in such other manner as will realize the largest amount of m\u00f3\u2019ney, and the proceeds received from both sales and collections to be deposited daily with the Red River County Bank, subject to be distributed as herein after directed; and after the stock shall have been so reduced that it will not justify selling at retail, the said Weaver is hereby authorized and empowered to sell the remainder of the goods on hand, either in bulk or in lots, at public auction for cash, to the highest bidder.\u201d\nIt is asserted by appellants, that this provision directs the trustee to sell the goods at retail in the regular course of business, and in effect prohibits an immediate sale, and contemplates the carrying on of a retail merchandise business for an indefinite period of time; and therefore, by its terms, it hinders and delays appellants (creditors) in the collection of their debts, and that the conveyance is thereby rendered void. We think the construction of the provision contended for is reasonable and correct; but does the legal consequence claimed by appellants necessarily follow ?\nAppellants were not included among the fortunate creditors for whose benefit the conveyance was made; and it does not appear from the instrument itself, or otherwise, that the property conveyed exceeded in value the amount of the debts intended to be satisfied out of the proceeds from the sale of the property. It does not appear that any of the debts attempted to be secured by the conveyance were fictitious or invalid for any reason; and the only facts presented for consideration in connection with the recitals in the instrument, which, it is insisted, tend to support the proposition that the instrument is void, are, that Steinlein & Co. were insolvent, and that all their property was embraced in the conveyance. The proposition, that an insolvent debtor may convey all his property to satisfy a preferred creditor, is so well settled that it needs no argument or citation of authority to support its announcement. These facts alone, then, can not render fraudulent and void a provision which would be legal in their absence.\nThe instrument under consideration was a mortgage executed to secure the debts of certain creditors of Steinlein & Co. Laird v. Weis Bros., 85 Texas, 95. The trust was accepted by Weaver, the trustee, and the creditors who were beneficiaries under it; and the parties attacking the validity of thq mortgage are strangers to it, and could have no possible interest to be affected by the terms of sale provided in the mortgage, unless the property conveyed exceeded in value the valid debts intended to be secured. Marshall v. Bank of California, 1 Texas Civ. App., 704. Same case on writ of error to Sup. Ct., 22 S. W. Rep., 6.\nThis provision in the mortgage is, to say the most of it, but a badge or circumstance of fraud, and does not of itself render the instrument void. In all the cases in our State in which it has been held that similar provisions as to the terms of sale render the mortgage void, these additional facts were made to appear, which we think are necessary to the conclusion reached, namely: that the mortgagor was insolvent; that all his property was conveyed; and that the value of the property conveyed was in excess of the amount of the valid debts intended to be secured. Gallagher v. Goldfrank, 75 Texas, 562; Gregg v. Cleveland, 82 Texas, 187; Puckett v. Richardson Drug Co., 20 S. W. Rep., 1127. The burden is on the party attacking the legality of the conveyance to establish the facts which render it void; and in the absence of proof as to such facts, the court will presume in favor of the validity of the instrument.\nThe other provision in the mortgage attacked by appellants is as follows: In naming the debts to be paid out of the proceeds of the property, it provides, \u201cthe sum of $1000 due by us to Sims & Wright, as evidenced by our note of even date herewith, and in the event of litigation, an additional 10 per cent on the amount involved.\u201d It was admitted that the 81000 was due for \u201cattorney fees,\u201d in what matter it is not stated; but appellants contend that it may fairly be inferred that it was attorney fees for preparing the mortgage.\nDelivered October 25, 1893.\nIt is claimed by appellants that this provision renders the mortgage void, for the reason that it provides a fund for the payment of attorneys, selected by the failing debtors and for their benefit, to deter creditors not provided for from questioning the validity of the instrument. Assuming that the 81000 to be paid Sims & Wright was due for attorney fees for services rendered in preparing the mortgage, we see no reason why the debt should not be secured by the conveyance. Steinlein &'Co. had the right to employ counsel for the purpose, and the only questions that could be raised are the bona fides of the debt and the reasonableness of the amount. As to the additional 10 per cent to be paid them in case of litigation, we do not see that a fraudulent intent is necessarily implied. The trustee, in the absence of this provision, would have had the legal right to employ counsel to defend the trust, and to pay for such services out of the trust fund; indeed, it would have been his duty to have done so, and we can not say, as a matter of law, that because the mortgage made provision for it, that it is therefore void. Such provision might have some significance as a circumstance upon an issue of fact as to the fraudulent intent of the morgagor, but it is not in itself a fraud rendering the instrument void. Baldwin v. Peet, 22 Texas, 720; Simon, Gregory & Co. v. Ashe, 1 Texas Civ. App., 202; Mills v. Pessels, 55 Fed. Rep., 588.\nWe are of opinion that there is no error in the judgment of the court below, and it is therefore affirmed.\nAffirmed.",
+        "type": "majority",
+        "author": "FINLEY, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Dudley & Moore, for appellants.",
+      "M. L. Sims and H. D. McDonald, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Rainwater-Boogher Hat Company et al. v. John H. Weaver.\nNo. 32.\n1. Deed of Trust to Secure Preferred Creditors. \u2014 A creditor, not named as a beneficiary in a deed of trust to secure certain preferred creditors, attacked the instrument as void, because the debtors, being insolvent, conveyed all their property thereby to a trustee for the benefit of certain preferred creditors, and provided by the instrument for the sale of the goods by the trustee at retail in the regular course of business for an indefinite period of time. The trust was accepted by the trustee and the beneficiaries under it. Held, as it does not appear that the property conveyed exceeded in value the amount of debts intended to be satisfied, or that any of the debts attempted to be secured were fictitious or invalid, appellant, the creditor attacking the instrument, had no possible interest to be affected by the provision as to the terms of sale in the mortgage, which was, at most, but a badge of fraud, and alone does not render the instrument void.\n2. Same \u2014 Attorney Fees \u2014 Expenses of the Trust.\u2014An insolvent debtor has the right to employ counsel to prepare such an instrument and to secure the debt for such services by the conveyance, provided the same is bona fide and reasonable. 3STo fraudulent intent is necessarily implied because the instrument provides for additional attorney fees in case of-litigation over the trust fund. In the absence of such provision, it would be the right and duty of the trustee to employ counsel to defend the trust, and to pay for such services out of the trust fund.\nAppeal from Red River.\nTried below before Hon. E. D. McClellan.\nThe appellants caused to be levied writs of attachment upon the stock of goods in the hands of the trustee, the appellee; the latter thereupon filed a claimant\u2019s oath and bond, and an agreed case was made up and submitted.\nDudley & Moore, for appellants.\n1. The court erred in holding that-the instrument executed by Steinlein & Co. to appellee, of date October, 18, 1890, set out in full and made a part of the agreed case herein, was a valid and legal chattel mortgage against the attaching creditors of the said Steinlein & Co.\n2. The court should have held said instrument void as against appellants, and should have rendered judgment in their favor against appellee and his sureties on claimant\u2019s bond, for the amount of their respective debts, and 10 per cent damages; because said instrument attempts to fasten a lien upon a stock of goods, wares, and merchandise for an indefinite time, and by its terms hinders and delays appellants in the collection of their debts against Steinlein & Co.; prevents and prohibits an immediate sale of the goods by the trustee, and contemplates and provides for the carrying on of a retail mercantile business for an indefinite period by such trustee; and creates and sets apart a fund to be paid to the attorneys selected by Steinlein & Co., out of the property conveyed, to deter their creditors from questioning the validity of such instrument. The State v. Mueler, 10 Mo. App., 87; Bank v. Inloes, 7 Md., 380; Dunham v. Waterman, 17 N. Y., 9; Wait on Fraud. Con., sec. 11.\n3. The property conveyed and turned over to appellee, by the terms of the instrument in question, passed to him upon the conditions therein named; and the provisions with regard to selling the goods, wares, and merchandise at retail, and depositing the daily sales in the bank, coupled with the provisions, \u201c that when the stock shall have been so reduced that it will not justify selling at retail, then the said Weaver is hereby authorized and empowered to sell the remainder of the goods on hand, either in bulk or lots, at public auction,\u201d renders the instrument void, because it. seeks, through the instrumentality of the appellee, to provide for carrying on the mercantile business for an indefinite period, and delays the-execution of the trust for an indefinite time, beyond what was reasonably necessary for the execution of the same. Gallagher v. Goldfrank, 75 Texas, 562; Hart v. Crain, 7 Paige, 37; Storm v. Davenport, 1 Sandf. Ch., 135; Hardin v. Osborn, 60 Ill., 93; Nicholson v. Leavitt, 6 N. Y., 510; Barney v. Griffin, 2 N. Y., 365; Pierson v. Manning, 2 Mich., 445; Smith v. Caldwell, 3 Minn., 364; Gear v. Murry, 6 Minn., 305; Jones v. Syer, 52 Mich., 211; Dunham v. Waterman, 17 N. Y., 9; Rapalel v. Stuart, 27 N. Y., 311; Bingham v. Gullengort, 13 N. Y., 215; Keep v. Sanderson, 2 Wis., 42; Woodburn v. Mosher, 9 Barb., 253; Wait on Fraud. Con., secs. 330, 331; Bump on Fraud. Con., 411-415, 88-90.\n4. The provisions in the instrument creating and preferring a debt to-Sims & Wright of $1000, and providing for the payment of an additional 10 per cent on the amount involved in case of litigation, renders the instrument void. It not only delays the execution of the trust created thereby, but provides a fund for the payment of attorneys, selected by the failing debtors and for their benefit, to deter creditors not provided for from questioning the validity of the instrument. Mead v. phillips, 1 Sandf. Ch., 83; Heacock v. Durand, 42 Ill., 230; Goodrich v. Downes, 6 Hill, 438; Campbell v. Woodsworth, 24 N. Y., 305; Stokes v. Jones, 18 Ala., 734; Nichols v. McEwing, 17 N. Y., 22; Sewall v. Russell, 2 Paige, 175; Austin v. Bell, 20 Johns., 442; Bump on Fraud. Con., 424, 425; Wait on Fraud. Con., sec. 335; Hill v. Agnew, 12 Fed. Rep., 233.\nM. L. Sims and H. D. McDonald, for appellee.\n1. It was not the intention of the parties to the mortgage, tested by its terms, to create a lien for an indefinite period, but its immediate and speedy execution is shown by all of its provisions to have been their intention. Webster\u2019s Die., word \u201c Proceed.\u201d\n2. The naming of the attorneys to be employed by the trustee in the event of litigation respecting the trust property, and fixing their compensation, does not delay the execution of the trust, is not for the benefit of the mortgagor, is not intended to and can not have the effect of deterring creditors not provided for from questioning the validity of the mortgage, is not unlawful, and does not vitiate the instrument. Baldwin v. Peet, 22 Texas, 720; Vannest v. Yoe, 1 Sandf. Ch., 4-6; Bump on Fraud. Con., 3 ed., 425; Burr, on Ass., 4 ed., sec. 232.\n3. Even if it was unlawful to provide for attorneys\u2019 fees, such item would be stricken out, and the mortgage sustained as to the other debts. Burr. on Ass., 4 ed., sec. 117; Jones on Chat. Mort., sec. 336.\n4. The discretion given to the trustee by the instrument in its different provisions, notably those in reference to selling at retail, depositing the proceeds in bank, selling remainder of the goods at public auction in bulk when not justified in selling longer at retail, is lawful, and in no manner impairs the validity of the mortgage, and many mortgages containing similar provisions have been sustained by the Supreme Court of Texas. Jackson v. Harby, 65 Texas, 710; Haas v. Kraus, 75 Texas, 106; Dupuy v. Burkitt, 78 Texas, 338; Hudson v. Milling and Elevator Co., 79 Texas, 401; Stiles v. Hill, 62 Texas, 430; Watterman v. Silberberg, 67 Texas, 100; Reagan v. Aikin, 138 U. S., 109; Bump on Fraud. Con., 59, 413-416; Simon v. McDonald, 20 S. W. Rep., 52.\n5. The utmost that can be truly said against the provisions in the mortgage now objected to is, that they are badges of fraud; but mere badges, standing alone, never vitiate. Tried before a jury or before the court on the facts, a verdict or finding' adverse to its validity might be sustained; similarly tried, with a favorable verdict or finding, the judgment quoad hoc would never be set aside. The \u201c agreed case\u201d invokes the decision of the Supreme Court on this single question, \u201c Is the mortgage valid on its face ?\u201d We say it is. Baldwin v. Peet, 22 Texas, 708; Bailey v. Mills, 27 Texas, 434; King v. Russell, 40 Texas, 125; Van Hook v. Walton, 28 Texas, 59; Eicks v. Copeland, 53 Texas, 589.\n6. Every case cited by appellants was a case of an assignment and not a mortgage. While there is no defeasance in this case, none is necessary\u2014 it is implied; it does provide for a return of the surplus to the mortgagors (Bank v. Lovenberg, 63 Texas, 506; Johnson v. Robinson, 68 Texas, 399), and this makes it a mortgage.\nThe only question this court can consider here is, is this mortgage valid on its face, because that is the exact question upon which the \u201cagreed case\u201d invokes a decision; but in the event the court should conclude to consider in connection with the mortgage the facts admitted, then the only pertinent facts are, \u201c that Steinlein & Co. were largely in debt, and were insolvent at the time they executed the instrument and conveyed all their property.\u201d It is not shown that the property conveyed by the mortgage exceeded in value the debts therein secured; and the validity of those debts not being disputed, no provision of the mortgage can injuriously affect appellants. Bank v. Marshall, 1 Texas Civ. App., 704, and the Court of Appeals decision to which writ of error was refused (unpublished); Puckett v. Richardson Drug Co., 20 S. W. Rep., 1127; Blankenship & Blake Co. v. Kelly, 23 S. W. Rep., 27."
+  },
+  "file_name": "0594-01",
+  "first_page_order": 618,
+  "last_page_order": 623
+}

@@ -1,0 +1,99 @@
+{
+  "id": 221121,
+  "name": "The Corsicana Ice and Refrigerating Company v. J. A. Anderson et al.",
+  "name_abbreviation": "Corsicana Ice & Refrigerating Co. v. Anderson",
+  "decision_date": "1893-05-10",
+  "docket_number": "No. 157",
+  "first_page": "413",
+  "last_page": "416",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 413"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "1 How., 250",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "case_ids": [
+        3325592,
+        3324947
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/42/0250-02",
+        "/us/42/0250-01"
+      ]
+    },
+    {
+      "cite": "1 Pet., 124",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "41 Am. Rep., 197",
+      "category": "reporters:state_regional",
+      "reporter": "Am. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "17 Am. Rep., 281",
+      "category": "reporters:state_regional",
+      "reporter": "Am. Rep.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 381,
+    "char_count": 7059,
+    "ocr_confidence": 0.564,
+    "pagerank": {
+      "raw": 4.076306636737454e-08,
+      "percentile": 0.008893990758018347
+    },
+    "sha256": "5fcfd2e3da21d91c58679a84ef44566ca0a812ebd50e1aea46e41d7747bddf92",
+    "simhash": "1:509b61a23d5617f7",
+    "word_count": 1189
+  },
+  "last_updated": "2024-02-27T16:31:46.217873+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The Corsicana Ice and Refrigerating Company v. J. A. Anderson et al."
+    ],
+    "opinions": [
+      {
+        "text": "KEY, Associate Justice.\nThe statement of the nature and result of this suit in appellant\u2019s brief is not controverted by appellees, and is as follows:\nOn August 20, 1890, appellant filed its first amended petition, alleging that it had a contract with one J. A. Anderson, by the terms of which appellant was to furnish the said Anderson with beer and ice at certain stipulated prices, and that to indemnify appellant the said Anderson, as principal, and appellees, as sureties, entered into a bond as follows, to-wit:\n\u201c State of Texas, County of Limestone.\u2014Know all men by these presents, that we, J. E. Parker and R. L. Anderson, of said county and State, hereby guarantee to the party of the first part in the above and foregoing contract, that the party of the second part in said contract shall and will faithfully perform all of his obligation named in said contract, in accordance with the terms, intent, and spirit of said contract.\n\u201c In testimony whereof, we have signed our names hereto on this July 5, 1889.\n\u201c J. A. Anderson,\n\u201c R. L. Anderson,\n\u201c J. E. Parker.\u201d\nThat after the execution and delivery of said bond, and from that date to October 5, 1889, appellant furnished said J. A. Anderson with beer and ice as per contract, attaching to said petition an itemized account thereof, showing all payments and remittances, which account shows a balance in favor of appellant of $696.15.\nThe contract, among other things, stipulated that settlement for beer and ice should be made at the end of each month, but the contract was to be and remain in full force and effect until mutually abandoned.\nAppellant, in its amended petition, charged, that J. A. Anderson, the principal in said bond, was hopelessly and notoriously insolvent at the time of the execution and delivery thereof, and has so remained ever since; and in its trial amendment it charged that this fact was well known to appellees.\nAppellees excepted to plaintiff\u2019s petition specially, because the same showed that J. A. Anderson made default at the end of the first month, and that appellees were not notified of such default.\nThe court, on appellees\u2019 exception, struck out all of appellant\u2019s cause of action except so much thereof as accrued within one month after the execution and delivery of the bond, and upon the trial rendered judgment for appellant for $96.30.\nIt is proper to state further, that this suit is against E. L. Anderson and J. E. Parker; and that appellant alleges in its petition that it had already sued J. A. Anderson for the debt guaranteed by appellees, and obtained judgment against him for $714.95\nThe court below sustained demurrers to appellant\u2019s petition, and held,, that no recovery could be had against appellees upon any item of indebtedness against J. A. Anderson which accrued prior to July 5, 1889, the time when his contract with appellant and the contract of guaranty were executed, nor upon any item accruing subsequent to August 5, 1889.\nThe first of these rulings was correct. The contract between appellant and J. A. Anderson, and to which the contract of guaranty relates, does not bind the latter to pay any pre-existing indebtedness, and appellees only guaranteed the performance by J. A. Anderson of the obligations \u201cnamed in the contract.\u201d\nThe other ruling was wrong. It is true that the original contract required J. A. Anderson to make settlements at the end of each month, and stipulated that no account should run over one month, and that these provisions of the contract were not complied with; and the petition does not allege that appellee had notice of J. A. Anderson\u2019s failure to make monthly settlements, and that monthly arrears were accumulating against him.\nIf under ordinary circumstances such notice would be necessary to fix appellees\u2019 liability as guarantors, averments of the petition show that such notice was not essential in this case. It is charged in appellant\u2019s pleadings, that J. A. Anderson was hopelessly and notoriously insolvent at the time of the execution of the contract of guaranty, and has so continued ever since, and that this fact was known to appellees. If these averments be true, notice of default was unnecessary. Wade on Notice, 2 ed., sec. 426; 9 Am. and Eng. Encycl. of Law, 80; Brandt on Sure, and Guar., sec. 202.\nFor the error pointed out, the judgment of the District Court is reversed and the cause remanded.\nReversed and remanded.\nDelivered May 10, 1893.",
+        "type": "majority",
+        "author": "KEY, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Frost & Etheredge, for appellant.",
+      "Thomas J. Gibson, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "The Corsicana Ice and Refrigerating Company v. J. A. Anderson et al.\nNo. 157.\n1. Liability of Guarantors. \u2014 A contract guaranteeing makers of an agreement for the delivery of articles of trade, will not bind the guarantor for articles delivered before the making of such guaranty.\n2. Continuing Guaranty \u2014 Monthly Settlements. \u2014 An insolvent dealer contracted with the ice and refrigerating company for the purchase of ice and beer. The company took a guaranty from other persons. The dealer was notoriously insolvent, and did not make monthly settlements, as his contract required. Held, that if ordinarily a guarantor should be given notice of the failure of the dealer to make monthly settlements, and of the incurring increase of indebtedness, the fact of the insolvency of the dealer or principal would render notice of default unnecessary.\nAppeal from Limestone. Tried below before Hon. Rufus Hardy.\nFrost & Etheredge, for appellant.\n1. It is not necessary to notify either sureties or guarantors in continuing contracts of absolute guaranty of the monthly default of the principal. Wade on Law of Notice, secs. 415,. 423; McKechnie v. Ward, 17 Am. Rep., 281; Ins. Co. v. Simmons, 41 Am. Rep., 197; Gardner v. Watson, 76 Texas, 25.\n2. Insolvency of the principal excuses notice to the guarantors of his-default. Wade on Law of Notice, sec. 426; 9 Am. and Eng. Encycl. of. Law, 80.\nThomas J. Gibson, for appellees.\nThe original contract was between appellant and J. A. Anderson. The obligation of appellees was an independent guaranty, intended to cover future transactions. They obligated themselves that they would guarantee that said J. A. Anderson would faithfully perform all of his obligations named in his contract with appellant, \u201c in accordance with the terms, intent, and spirit of said contract.\u201d One of the terms of said contract was, that \u201csettlement for beer, ice, and. rent shall be made at the end of each month, but that remittances shall be made weekly,\u201d and \u201c no account shall run over one month.\u201d On the. failure of said J. A. Anderson to settle at the end of the first month, appellees were entitled to notice of his default, to the end that they might, protect themselves against loss; and the fact that Anderson was insolvent would not relieve appellant from its obligation to give appellees notice of such default. Appellees were entitled to stand on the terms of the contract, the performance of which they had guaranteed. Mayfield v. Wheeler, 37 Texas, 259; Douglass v. Reynolds, 1 Pet., 124; Am. and Eng. Encycl. of Law, 68 (sec. 2), 80; United States v. Eckford, 1 How., 250; 2 Suth. on Dam., 54, 549."
+  },
+  "file_name": "0413-01",
+  "first_page_order": 439,
+  "last_page_order": 442
+}

@@ -1,0 +1,145 @@
+{
+  "id": 223701,
+  "name": "The Texas & Pacific Railway Company v. W. J. Barron",
+  "name_abbreviation": "Texas & Pacific Railway Co. v. Barron",
+  "decision_date": "1893-10-06",
+  "docket_number": "No. 37",
+  "first_page": "546",
+  "last_page": "550",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Tex. Civ. App. 546"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "38 Miss., 242",
+      "category": "reporters:state",
+      "reporter": "Miss.",
+      "case_ids": [
+        9512040
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/miss/38/0242-01"
+      ]
+    },
+    {
+      "cite": "39 Am. Rep., 526",
+      "category": "reporters:state_regional",
+      "reporter": "Am. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Mo., 425",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "19 Mo., 557",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        315481
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mo/19/0557-01"
+      ]
+    },
+    {
+      "cite": "64 Iowa, 349",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        4373546
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/iowa/64/0349-01"
+      ]
+    },
+    {
+      "cite": "63 Iowa, 627",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        4372951
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/iowa/63/0627-01"
+      ]
+    },
+    {
+      "cite": "61 Iowa, 278",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        4370779
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/iowa/61/0278-01"
+      ]
+    },
+    {
+      "cite": "11 Conn., 280",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 578,
+    "char_count": 11663,
+    "ocr_confidence": 0.57,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.008822715146713187
+    },
+    "sha256": "5977736ca212d06def08c6de32e7ae5c3d56f0d17ea2b4dd48c54e4e1b4e4940",
+    "simhash": "1:e0eba9285e1bf073",
+    "word_count": 2023
+  },
+  "last_updated": "2024-02-27T18:01:03.208661+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The Texas & Pacific Railway Company v. W. J. Barron."
+    ],
+    "opinions": [
+      {
+        "text": "FINLEY, Associate Justice.\nConclusions of Fact.\u2014About noon on June 30, 1889, about three miles east of Elmo, in Kaufman County, as appellant\u2019s eastbound through passenger train was passing on its railway, the track beneath it gave way, because the dirt supporting the same at that place was washed out during a very heavy rainfall shortly before or about that time. The baggage car was turned over and the baggage master instantly killed. The express and mail cars were turned partially over, and the smoking car, ladies\u2019 car, and sleeping car were derailed, though not turned over. Appellee, who was a passenger on said train from Terrell, intending to go to Wills Point, was, with many others, in the smoking car at the time of the wreck, and sustained serious personal injuries therein. The rain which caused the washout was not extraordinary or unprecedented. The section foreman did not inspect the track after the rain and before the wreck, though there was ample time for him to have done so, and it was his duty to do it. At the time of the accident the train was running at a rapid rate of speed\u2014full schedule rate, if not in excess of it. We conclude that the cause of the wreck was the condition of the roadbed\u2014the washout; the roadbed not being in a condition to resist the force of such a rainfall was the result of the negligence of the railway company, either in original construction or maintenance of its roadbed; and that the failure of the section foreman to inspect the track at the place of the accident, after the rainfall and before the train ran over it, was negligence.\nConclusions of Law.\u2014There are but two assignments of error presented by appellant:\n\u201c 1. The verdict of the jury and the judgment of the court are not authorized by plaintiff\u2019s pleadings, in this: that plaintiff in his petition seeks a recovery upon the ground that defendant\u2019s train was run in a reckless manner, and its road in bad condition; and upon the trial sought to recover, and did recover, upon the ground of negligence not alleged, to-wit, that defendant\u2019s section foreman had not gone over defendant\u2019s road that morning at the place where the wreck occurred.\u201d\nSo much of plaintiff\u2019s petition as sets forth the cause of his injury is as follows: \u201c That while plaintiff was such passenger, as aforesaid, through the carelessness, negligence, and reckless running of said cars by the agents of said defendant, and the negligent and dangerous condition of defendant\u2019s roadbed, the cars of defendant ran off of said track, and plaintiff was hurled violently against and upon the sides of said car and the projecting arms of the seats therein,\u201d etc.\nAppellant claims that the failure of the section foreman to inspect the track was the only negligence shown, and that it was not alleged. The cause of the wreck was the dangerous, defective condition of the track; the failure of the section foreman to inspect the track, as well as all acts or conduct of defendant\u2019s employes owing any duty in the premises, tending to show negligence in relation to such condition, are to be regarded as but incidents of proof of the main fact alleged, namely, \u201c the negligent and dangerous condition of defendant\u2019s roadbed.\u201d We are of opinion that the proof sustains the allegations as to negligence, and that the assignment is not well taken. Railway v. Kirk, 62 Texas, 232.\n\u201c 2. The court erred in permitting the witness R. L. Warren to state that he heard superintendent Grant reprimand the section foreman for not having gone over defendant\u2019s road on the day the wreck occurred, said witness stating that he could neither recollect the language of said Grant nor the substance thereof; said testimony being admitted over defendant\u2019s objection, as shown by bill of exceptions number 1.\u201d\nThe bill of exceptions to the ruling in question is as follows: \u201c Be it remembered, that on the trial of the above cause, while R. L. Warren, witness for plaintiff, was on the stand, plaintiff\u2019s counsel asked said witness to state whether he heard Superintendent Grant reprimand the section boss after said wreck occurred, for not having gone over that part of defendant\u2019s road prior to the wreck and on the morning of the wreck; to which defendant, by its counsel, then and there objected, which objection was overruled by the court, and the witness stated, that after the wreck he heard said Grant reprimand said section boss for not having gone over said road prior to said wreck; that he did not remember the language used by said Grant nor the substance thereof. To which answer defendant then and there excepted, upon the ground that said answer was an opinion of witness and a mere conclusion, and was incompetent as evidence against defendant; which objection was overruled by the court, and the defendant then and there excepted to said ruling, and presented this its bill of exception.\n\u201cThis bill is signed with the explanation, that while the witness stated that he could not repeat the language used by Grant, nor give the substance of the language used, yet he stated that from what language he heard Grant use, witness understood that he (Grant) was reprimanding said foreman for not going over the road that morning after the rain.\n[Signed] \u201cAnson Rainey, Judge.\u201d\nDelivered October 6, 1893.\nIt is contended that this evidence was not admissible; first, because it was the mere opinion of the witness as to the effect of the words spoken; second, it was not shown that the person speaking was acting within the scope of his authority; third, it was not shown to be a part of the res gestae. The first of these objections to the evidence was the only ground urged in the trial court, and it alone can be considered by this court. Rules Dist. Ct., 58; Railway v. Hogsett, 67 Texas, 687.\nIt is a general and elementary principle that a witness must testify as to facts, and not to inferences and conclusions. Was this principle violated in the admission of the testimony of the witness ? He testified to the fact that he heard the general manager, Grant, reprimand the section foreman for not inspecting the track on the morning of the wreck; he did not remember his language or form of expression; but he did remember the idea conveyed or impression received by him, and it was to this that he testified. How much such evidence proves, or ought to weigh with a jury, is another and different question. Where the impression received is vague and uncertain, the trial court might properly exclude the evidence; but where the defect is a failure to remember the exact words or forms of expression, while the impression or idea conveyed is distinct and clear, the evidence should be admitted. Simpson v. Brotherton, 62 Texas, 172; 1 Whart. Law of Ev., secs. 514, 515; Seymour v. Harvey, 11 Conn., 280; The State v. Donoran, 61 Iowa, 278; Walker v. Camp, 63 Iowa, 627; The State v. Jones, 64 Iowa, 349.\nWe do not think the objection urged to the evidence well founded; and there being no other errors assigned, the judgment should be affirmed, and it is so ordered.\nAffirmed.",
+        "type": "majority",
+        "author": "FINLEY, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "R. 8. Lovett and Manion & JHuffmaster, for appellant.",
+      "Wm. JHJ. Allen, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "The Texas & Pacific Railway Company v. W. J. Barron.\nFIFTH DISTRICT, 1893.\nNo. 37.\n1. Negligence\u2014Pleading- and Proof.\u2014The petition alleged, \u201cthat while-plaintiff was a passenger, through the carelessness, negligence, and reckless running of the cars by the agents of said defendant, and the negligent and dangerous condition of defendant\u2019s roadbed, the cars of defendant ran off of said track, and the plaintiff was hurled violently against and upon the sides of said car, and the projecting arms of the seats therein.\" etc. It was proven, but not alleged, that the section foreman, though it was his duty and he had time, failed to inspect the track at the place of the washout which occasioned the wreck, after the rainfall and before the accident. Held, under the evidence, the cause of the wreck was the dangerous, defective condition of the track; the failure of the section foreman to inspect the track, as well as all acts or conduct of defendant\u2019s employes owing any duty in the premises, tending to show negligence in relation to such condition, are to be regarded as but incidents of proof of the main fact alleged,namely, \u201cthe negligent and dangerous condition of defendant\u2019s roadbed,\u201d and that the proof sustains the allegations as to negligence.\n2. Evidence\u2014Grounds of Objection.\u2014Grounds of objection to the admissibility of evidence not urged in the trial court, will not be considered on appeal.\n3. Impressions of Witness. \u2014The impressions of a witness as to the meaning and import of a conversation, if not vague and uncertain, may be testified to, though the witness may be unable to remember the exact words or form of expression.\nAppeal from Kaufman.\nTried below before Hon. Anson Rainey.\nR. 8. Lovett and Manion & JHuffmaster, for appellant.\n1. The proof shall conform to the allegations; and facts not alleged, though proved, will not support the judgment. Hall & Jones v. Jackson, 3 Texas, 309; Paul v. Perez, 7 Texas, 338; Tarlton v. Daily, 55 Texas, 94; Edrington v. Newland, 57 Texas, 632.\n2. Mere opinion as to the effect of words spoken, or conclusions from language used, is inadmissible to establish an admission against a party. The precise language used, or the substance thereof, must be shown. Declarations or admissions of an agent bind the principal only when within the scope of his agency and a part of the res gestae. Railway v. Garrett, 52 Texas, 133; Blain & Kelly v. Express Co., 69 Texas, 74; Rogers v. McCune, 19 Mo., 557; Haven v. Brown, 7 Mo., 425; McDermott v. Railway, 39 Am. Rep., 526; 1 Greenl. on Ev., sec. 114.\nWm. JHJ. Allen, for appellee.\n1. The allegations of the petition, that the injury complained of was caused by the cars being so negligently and carelessly run, and the roadbed in such a negligent and dangerous condition, that the car in which plaintiff was a passenger ran off the track, were fully sustained by the proof that the plaintiff was hurt by the cars leaving the track while the train was running at full speed over a washout in the roadbed after a general heavy rain; and the failure of the section foreman to properly inspect the road and thus discover the washout and avert the wreck, was simply a matter of evidence supporting the allegation of plaintiff, that the roadbed was at the time of the accident in a negligent and dangerous condition. Railway v. Kirk, 62 Texas, 232; Railway v. Brett, 61 Texas, 483; Mason v. Kleberg, 4 Texas, 85; Railway v. Smith, 74 Texas, 278; Railway v. Halloren, 53 Texas, 46; Railway v. McElyea, 71 Texas, 391; Pennsylvania Co. v. Roy, 12 Otto, 451; 2 Redf. on Rys., 225; Railway v. Albritton, 38 Miss., 242; 2 Thomp. on Neg., 1249.\n2. The fact that a witness can only give his recollection of a conversation, and is not able to detail the conversation in full or swear with absolute certainty as to its substance, will not exclude his testimony, but is a matter wholly for the jury in considering his credibility. Simpson v. Brotherton, 62 Texas, 172; Swinney v. Booth, 28 Texas, 116.\n3. The appellate court will consider only the objections to evidence made thereto at the trial. Dist. Ct. Rule 58; Rector v. Hudson, 20. Texas, 234; Frizzell v. Johnson, 30 Texas, 34; Bonart v. Waag, 61 Texas, 33; Railway v. Gage, 63 Texas, 575; Endick v. Endick, 61 Texas, 559; Whitehead v. Foley, 28 Texas, 294; Johnson v. Crawl, 55 Texas, 576.\n4. The reprimand was within the scope of the general manager\u2019s authority and a circumstance attending the wreck, and was properly admitted in evidence. Railway v. Collier, 62 Texas, 321; 1 Green, on Ev., sec. 108; Abb. Tr. Ev., p. 589, sec. 19, p. 597, sec. 37."
+  },
+  "file_name": "0546-01",
+  "first_page_order": 570,
+  "last_page_order": 574
+}

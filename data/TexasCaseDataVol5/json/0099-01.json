@@ -1,0 +1,180 @@
+{
+  "id": 227337,
+  "name": "J. W. Hickman v. F. M. Hickman",
+  "name_abbreviation": "Hickman v. Hickman",
+  "decision_date": "1893-11-01",
+  "docket_number": "No. 382",
+  "first_page": "99",
+  "last_page": "103",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Tex. Civ. App. 99"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Saw., 383",
+      "category": "reporters:federal",
+      "reporter": "Sawy.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Johns. Ch., 371",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "case_ids": [
+        1976917
+      ],
+      "pin_cites": [
+        {
+          "page": "378"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns-ch/3/0371-01"
+      ]
+    },
+    {
+      "cite": "3 Story, 516",
+      "category": "reporters:federal",
+      "reporter": "Story",
+      "case_ids": [
+        6673268
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f-cas/10/0864-01"
+      ]
+    },
+    {
+      "cite": "19 Wall., 254",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.,",
+      "case_ids": [
+        3432456
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/86/0254-01"
+      ]
+    },
+    {
+      "cite": "7 Wall., 132",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.,",
+      "case_ids": [
+        3451264
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/74/0132-01"
+      ]
+    },
+    {
+      "cite": "23 How., 172",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "case_ids": [
+        3462779
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/64/0172-01"
+      ]
+    },
+    {
+      "cite": "3 Woods, 287",
+      "category": "reporters:federal",
+      "reporter": "Woods",
+      "case_ids": [
+        6595967
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f-cas/12/0225-01"
+      ]
+    },
+    {
+      "cite": "1 Bond, 175",
+      "category": "reporters:federal",
+      "reporter": "Bond",
+      "case_ids": [
+        6116916
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f-cas/1/0383-03"
+      ]
+    },
+    {
+      "cite": "10 N. H., 77",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        6754572
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nh/10/0077-01"
+      ]
+    },
+    {
+      "cite": "42 N. Y., 124",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 622,
+    "char_count": 11291,
+    "ocr_confidence": 0.581,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.008870208263107231
+    },
+    "sha256": "e667f9f20ccaad16c747c9d796ce4e648758ce8836f8a03f0d45dad94ad5f9e5",
+    "simhash": "1:44eff53106bb1438",
+    "word_count": 1979
+  },
+  "last_updated": "2024-02-27T16:31:09.266747+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "J. W. Hickman v. F. M. Hickman."
+    ],
+    "opinions": [
+      {
+        "text": "COLLARD, Associate Justice.\nThere was no error in the conclusion of the court below, that the title to the horses was in the appellee. The . attempted sale by appellee to appellant was not in writing, of course not recorded, and not accompanied by delivery, the horses running loose upon the range. Rev. Stats., arts. 4562-4564; Brown v. Vaughan, 70 Texas, 50; Bank v.Emery, 78 Texas, 512; Prude v. Campbell, 85 Texas, 4; Rankin v. Bell, 85 Texas, 36; Bank v. Brown, 85 Texas, 85.\nThe attempted sale was a nulity. If it had been executed in compliance with the statute, it being to defraud creditors, appellee could not disturb appellant\u2019s rights acquired' thereunder. Seeligson v. Lewis, 65 Texas, 216; Wegner Bros. v. Biering, 65 Texas, 506.\nCourts can not be used to enforce or cancel such contracts. But the attempt to sell in this case amounted to nothing; it left the title to the horses in the appellee. The entry in the record of marks and brands by the clerk, by direction of appellee, to the effect that his mark and brand had been transferred to his son, the appellant, was not an act of sale, nor did it cure the defects in the original attempted sale.\nThe conclusion of the court, that the possession of the horses as claimed by appellant in bar of appellee\u2019s title was a joint possession, and was not adverse to appellee, was sustained by the testimony, and it was not error to hold that the plea of limitation was not sustained.\nThe judgment of the court, that F. M. Hickman was the owner of the horses, was correct, as before seen, and it was therefore not error to perpetuate the preliminary injunction, restraining J. W. Hickman from handling or in any manner using the horses.\nDelivered November 1, 1893.\nWe have examined the evidence, and conclude that it can not be said that the court awarded to defendant below a less sum on his plea in re-convention than he was entitled to under the evidence. It is not necessary to discuss the testimony. It does not show that the court, who was the judge of the credibility and weight of the testimony, has erred.\nThe judgment of the court below is affirmed.\nAffirmed.",
+        "type": "majority",
+        "author": "COLLARD, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Walters Brothers, for appellant,",
+      "E. L. Rector and Rector, Thomson & Rector, for appellee.\u2014"
+    ],
+    "corrections": "",
+    "head_matter": "J. W. Hickman v. F. M. Hickman.\nNo. 382.\n1. Sale of Live Stock in the Range. \u2014 A sale of horses running on the range, without actual delivery, or a hill of sale, is a nullity and passes no title.\n2. Mark and Brand. \u2014 The owner of a mark and brand did not pass title to his stock horses running at large by causing an entry to be made upon the registry of marks and brands that he had transferred his mark and brand.\n3. Fraudulent Conveyance. \u2014 While courts will not interfere in behalf of a fraudulent vendor who has delivered the property, to recover possession of it, yet when the attempted sale is void and no actual possession was given, such contract presents no obstacle to the recovery of the property by the vendor when seized by the alleged vendee.\n4. Limitation \u2014 Possession.\u2014Father and son were living together. The father made a paroi sale of horses on the range to the son. There was no change in the possession thereafter. Held, that such condition of the property did not show exclusive possession by the son, so as to pass title by limitation against the father.\nAppeal from San Saba. Tried below before Hon. W. M. Allison.\nThis was a suit instituted by appellee, F. M. Hickman, on the 25th day of February, 1891, against appellant, J. W. Hickman, to recover a certain stock of horses, numbering about forty head, valued at 8800; and at the same time plaintiff obtained a temporary injunction, restraining the def\u00e9ndant from handling or in any manner using said horses.\nAppellant answered by general denial, and specially setting up ownership and title to said horses in himself by purchase for valuable consideration from the plaintiff on or about the 18th day of January, 1887, and peaceable adverse possession of said horses in appellant for more than two years, claiming the same in his own right, before the filing of suit by appellee, under and by virtue of appellant\u2019s purchase from appellee on said date.\nAppellant also filed a cross-action against appellee to recover the purchase money paid for said stock of horses, and $1920 for labor in care and attention bestowed on said horses for four years since the date of said purchase, 18th of January, 1887, to the filing of this suit, 25th of February, 1891. In the alternative, that the plaintiff should recover said horses.\nAppellant further plead in bar to the appellee\u2019s recovery, that he had sold and transferred said stock of horses for the purpose of defrauding, hindering, and delaying his creditors, and that he was estopped to take any benefit or claim, or enforce any suit in the courts of the country under his own fraudulent act.\nJudgment for appellee for the horses, and injunction made perpetual; and judgment for appellant against appellee for $132.50 on cross-action for money had and received and services in attention to said horses. And each party adjudged to pay one-half of the cost.\nThe court also filed findings of fact and conclusion of law, as follows:\n\u201c That in the year 1886 appellant sent from Nolan County, Texas, to the appellee the sum of $70, to be used for the benefit of Frank Hickman, who was the son of appellee and brother of appellant, and who was then being prosecuted in Llano, Texas, charged with felony. Some months later appellant moved from Nolan to Llano County, and about January 5, 1887, appellant executed his note to the attorney of said Frank Hickman for $100, and afterwards paid said note, and that the same was paid for the use and benefit of said Frank Hickman.\n\u201c That the $70 and the $100 above mentioned were paid by appellant at the request of appellee, who promised to repay the same to appellant.\n\u201c That at this time, to-wit, in January, 1887, and for a long time prior thereto, appellee owned the stock of horses in controversy in this suit, then numbering about 25 head.\n\u201c That at this time appellee was indebted to W. W. Martin in about the sum of $62, balance of fee due him for legal services to said Frank Hickman, and that at this time it was the intention of appellee to defeat the payment of said debt by a transfer of his property subject to execution.\n\u201c That about January 5, 1887, appellee agreed with appellant to transfer the title and possession of said horses to appellant. That the consideration was the $70 and the $100 before paid by appellant for the benefit of said Frank Hickman; and further, that the appellant was to sell as many of said horses as was necessary, or all of them if necessary, in order to procure counsel and pay expenses necessarily incurred in getting up petitions and procuring signatures thereto in support of an application for pardon addressed to the Governor of Texas in behalf of said Frank Hickman, who had then been tried and convicted under the aforesaid charge of felony; and that it was also the intention of appellee and appellant by such transfer to defeat the collection of the debt owed by appellee to said W. W. Martin.\n\u20181 That at the time of said attempted transfer said horses were running loose on the range in Llano and San Saba Counties, and consisted of about 26 head of stock horses, and appellee did not deliver possession of said horses to appellant at the time of said transfer; neither did appellee at any time execute to appellant a bill of sale for said horses; or other written instrument conveying title.\n\u201cOn January 19, 1887, appellee caused the county clerk of Llano County, Texas, to note on the record book of marks and brands of said county, on the page opposite where appellee\u2019s horse brand was recorded, the following words, to-wit: \u2018 The above mark and brand was transferred to John W. Hickman, Cherokee, Texas, January 19, 1887. Witness, J. T. Warden.\u2019\n\u201cAt different times, and within six months after January 19, 1887, appellant gathered said horses and placed them in pastures, where he and appellee have since continued to look after and care for them.\n\u201c During most of the time since January, 1887, appellant and appellee, the latter being the father of the former, have lived together in the same house as one family, jointly assisting each other about their separate business matters.\n\u201cIn the summer of 1887 appellant bought a tract of land and paid for same out of the horses, and on this land the parties have lived together.\n\u201cAppellant since 1887 has sold eight head of said horses to different parties for an aggregate sum of 8382.50, and applied the proceeds to his own use and benefits, but at other times paid to appellee different sums of money, aggregating 8115. He has also expended in breeding and pasturing said horses 830, and that his services in attending to said horses for four years are worth 8200.\n\u201c Conclusions of Law.\u2014 1. There being no actual delivery of said horses, and no written conveyance for the same, as required to transfer stock by mark and brand, the title of said horses has never passed from F. M. Hickman, and that he is now the owner of said horses.\n\u201c 2. That defendant has not had such actual and exclusive possession of said horses as would sustain his plea of limitation.\n\u201c 3. That defendant is indebted to plaintiff in sum of 8132.50.\u201d\nWalters Brothers, for appellant,\ncited: Wells v. Littlefield, 59 Texas, 556; Benj. on Sales, par. 311; 1 Par. on Con., 527; Russell v. Carrington, 42 N. Y., 124; Blackb. on Sales, 152, 153; Page v. Carpenter, 10 N. H., 77; Warner v. Daniels, 1 Woodb. & M., 90; Alexander v. Todd, 1 Bond, 175; Hitchcock v. City of Galveston, 3 Woods, 287; Moss v. Riddle, 5 Cr., 351; Castle v. Bullard, 23 How., 172; Lincoln v. Claffin, 7 Wall., 132; Kitchen v. Rayburn, 19 Wall., 254; Gould v. Gould, 3 Story, 516; Roberts on Fraud. Con., ch. 4, sec. 10; Roberts v. Anderson, 3 Johns. Ch., 371, 378; Randall v. Phillips, 3 Mason, 378; Phetliplace v. Sayles, 4 Mason, 312; Lenox v. Notrebe, Hemp., 251; Kinney v. Mining Co., 4 Saw., 383; Seligman & Houghton v. Wilson, 1 W. & W. C. C., sec. 896; 44 Texas, 634.\nE. L. Rector and Rector, Thomson & Rector, for appellee.\u2014\n1. A verbal agreement of sale under which appellant claims the property in controversy, unaccompanied by actual delivery of possession, and without a bill of sale or other conveyance in writing from appellee to appellant, conveyed no title to appellant. The memorandum of a transfer of the brand in question, from appellee to appellant, entered by the clerk upon the mark and brand record of Llano County, was not authorized by law, and gave no validity to the pretended transfer.\n2. It having been shown that one of the objects and considerations for the attempted verbal transfer, contemplated and intended by both appellant and appellee, was to evade the payment of a small debt of appellee\u2019s, the element of fraud would vitiate the entire transaction; and courts will not interfere to perfect and validate or to rescind such fraudulent agreement for the benefit of either of the mutually guilty parties thereto, but will leave said parties as to such agreement where they have legally placed themselves. Rev. Stats., art. 4564; Edrington v. Rogers, 15 Texas, 188; Wood v. Chambers, 20 Texas, 253; Seeligson v. Lewis, 65 Texas, 215; Davis v. Sittig, 65 Texas, 497; Wegner Bros. v. Biering & Co., 65 Texas, 506."
+  },
+  "file_name": "0099-01",
+  "first_page_order": 125,
+  "last_page_order": 129
+}

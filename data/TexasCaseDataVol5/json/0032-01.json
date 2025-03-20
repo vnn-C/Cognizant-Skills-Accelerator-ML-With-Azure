@@ -1,0 +1,79 @@
+{
+  "id": 227394,
+  "name": "T. R. Gray v. Mrs. E. C. Thompson et al.",
+  "name_abbreviation": "Gray v. Thompson",
+  "decision_date": "1893-11-08",
+  "docket_number": "No. 269",
+  "first_page": "32",
+  "last_page": "34",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Tex. Civ. App. 32"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "99 U. S., 180",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3373040
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/99/0180-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 309,
+    "char_count": 4375,
+    "ocr_confidence": 0.565,
+    "pagerank": {
+      "raw": 8.138363859351185e-08,
+      "percentile": 0.4688686483266013
+    },
+    "sha256": "9722fa1ab342603464885bc4eed5b6e4e76de1a43d71c15312100cf3d9e399f3",
+    "simhash": "1:6e268399d216da68",
+    "word_count": 771
+  },
+  "last_updated": "2024-02-27T16:31:09.266747+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "T. R. Gray v. Mrs. E. C. Thompson et al."
+    ],
+    "opinions": [
+      {
+        "text": "STEPHENS, Associate Justice.\nMrs. E. M. Cunningham purchased through the Land Board the section of school land in controversy, in the year 1884, under the Act of 1883, and actually settled thereon within six months, as provided in that act. She made this purchase and settlement for her own benefit, as well as for the benefit of her son and another person. That is, she testified that such was her intention, though there was no contract between them to that effect. After residing on the land a few months, and after making the first payments of principal and interest, by a deed dated 29th day of June, 1885, she assigned her rights to J. A. Dickey.\nIn April, 1888, the husband of appellee, Mrs. E. C. Thompson, became the purchaser by assignment, and soon thereafter died while on his way to the land. His son, J. M. Thompson, had already gone on the land in right of his father, and continued after his death to hold possession for his mother, making substantial improvements thereon and cultivating the same. After the crop of 1890 had been harvested, and during the temporary absence of J. M. Thompson, appellant took possession of the house and field, and proceeded to cultivate the land in his own right. At this time all interest had been,paid on the original purchase, and Mrs. Thompson claimed the possession.\nConclusions of Law. \u2014 The court charged the jury to find for plaintiffs, appellees here, if at the time defendant entered upon and took possession of the land sued for, plaintiff J. M. Thompson was in actual possession of the same as agent and tenant for plaintiff E. C. Thompson; but to find for defendant if such possession had been abandoned prior to that time, and the land was then vacant and unoccupied. Under the facts of this case, we find no material error in this charge, and hence overrule the first assignment of error, which complains that there was error in restricting the right of recovery to the issue of possession. So long as the State does not complain, a mere interloper should not be heard to litigate the issue of good faith or bad faith on the part of a purchaser of and an actual settler on a section of school land. As against such trespasser the prior possession of one holding under a purchase (whether valid or not) from the State, is sufficient ground for ejectment. Parker v. Railway, 71 Texas, 132.\nThe second error is not well assigned, and hence will not be considered.\nDelivered November 8, 1893.\nThe third must also be overruled, because, if sufficient in form and material, which is doubted, it is not sustained by the record.\nThere being no other assignments, the judgment will be affirmed.\nAffirmed.",
+        "type": "majority",
+        "author": "STEPHENS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Lucky & Sadler, for appellant.",
+      "Stephens & Huff, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "T. R. Gray v. Mrs. E. C. Thompson et al.\nNo. 269.\n1. Trespass to Try Title \u2014 Possession Sufficient Against Trespasser. \u2014 As against a mere trespasser, the prior possession of one occupying a survey of State school land under a purchase from the State, whether valid or not, is sufficient to sustain an action of ejectment.\n2. Same \u2014 State School Land. \u2014 So long as the State does not complain, a mere trespasser should not he permitted to litigate the issue of the good or bad faith of the purchaser of school land from the State with one who is an actual settler on the land, claiming under the purchase.\nAppeal from Wilbarger. Tried below before Hon. G. A. Brown.\nLucky & Sadler, for appellant.\n1. The court erred in its charge to the jury, in limiting the right of the plaintiff to recover upon possession by the plaintiff J. M. Thompson, as agent or tenant of the plaintiff E. C. Thompson. Act April 12, 1883, see. 6; 2 Sayles\u2019 Civ. Stats., 691; Barker v. Millman, 77 Texas, 46; Martin v. McCarty, 74 Texas, 128; King v. James, 78 Texas, 285.\n2. One who purchases land for himself and the use and benefit of another forfeits his right to the land; and the erection of valuable improvements upon school land is not sufficient to evidence that the purchaser has made an actual settlement in good faith. Taylor v. Burke, 66 Texas, 643; Barker v. Millman, 77 Texas, 46; Martin v. McCarty, 74 Texas, 128.\nStephens & Huff, for appellees.\nPossession alone is sufficient to sustain the action of trespass to try title against a mere naked trespasser. Parker v. Railway, 71 Texas, 152; Kolb v. Bankherd, 18 Texas, 229; Thurbur v. Conner, 57 Texas, 96; Wright v. Thompson, 14 Texas, 558; Burt v. Paujans, 99 U. S., 180."
+  },
+  "file_name": "0032-01",
+  "first_page_order": 58,
+  "last_page_order": 60
+}

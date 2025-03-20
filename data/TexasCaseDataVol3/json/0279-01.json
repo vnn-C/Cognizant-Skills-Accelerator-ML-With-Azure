@@ -1,0 +1,79 @@
+{
+  "id": 220968,
+  "name": "John H. Richardson v. M. G. Howe, Receiver, and The Houston East & West Texas Railway Company",
+  "name_abbreviation": "Richardson v. Howe",
+  "decision_date": "1893-05-11",
+  "docket_number": "No. 159",
+  "first_page": "279",
+  "last_page": "281",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 279"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "19 S. W. Rep., 1093",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "19 S. W. Rep., 1093",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 371,
+    "char_count": 7345,
+    "ocr_confidence": 0.546,
+    "pagerank": {
+      "raw": 4.076306636737454e-08,
+      "percentile": 0.008884416612120086
+    },
+    "sha256": "b6684c9988847ff14971fec0784cca9abce9063e5dc0e0af91e158e0cec93726",
+    "simhash": "1:5eadecb14144d726",
+    "word_count": 1267
+  },
+  "last_updated": "2024-02-27T16:31:46.217873+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John H. Richardson v. M. G. Howe, Receiver, and The Houston East & West Texas Railway Company."
+    ],
+    "opinions": [
+      {
+        "text": "WILLIAMS, Associate Justice.\nAppellant brought this suit to foreclose a vendor\u2019s lien on a tract of land claimed by appellees, alleging these facts: That a tract of land fully described in the petition was sold by W. J. Scroggin to Stephen Scroggin, the latter executing a note, set out in the petition, for the purchase money; that W. J. Scroggin assigned such note to the plaintiff; that Stephen Scroggin died, leaving the note unpaid, and plaintiff brought suit against his heirs, naming them, to foreclose his lien, recovered judgment of foreclosure, caused the tract to be-duly sold thereunder, and became the purchaser for a price stated, which was credited on the judgment, leaving a balance due; that before the former suit was instituted, the defendants in this suit, with notice of such lien, acquired from Stephen Scroggin some claim to a part of the tract first described, the portion thus claimed by defendants being also minutely described by metes and bounds, and were holding same subject to plaintiff\u2019s lien. The prayer was \u201c for a decree foreclosing the lien on the tract of land herein described against defendants for the balance due on said judgment, for an order of sale requiring said land to be sold to satisfy said lien, and for all such other further and general relief as he may be entitled to,\u201d etc.\nThe defendants excepted to this petition (after plaintiff had met other exceptions by trial amendment) on the grounds, first, that the heirs of Stephen Scroggin were necessary parties; second, that it showed no cause of action.\nThe court sustained these exceptions, and, plaintiff declining to amend, dismissed the petition.\n1. All right or claim of the heirs of Stephen Scroggin had been concluded by the former judgment of foreclosure. They had no interest to-be affected in the present suit which made it necessary to have them before the court. This was decided in Byers v. Brannon, 19 S. W. Rep., 1093.\n2. The second exception above stated was no more than a general demurrer. The petition stated a cause of action. The allegations showed that plaintiff had a lien on the land which he was entitled to have foreclosed, and that his former judgment, though good against the defendants therein, was not a valid foreclosure against the claim set up by the present defendants. All of the facts essential to enable the court to decree such a foreclosure were stated. The prayer for special relief asked for a judgment to which plaintiff was not entitled. The defendants not being in any sense bound by the former judgment, the part of the land which they claim can not be separated from the remainder of the tract and sold to pay the balance due on the judgment, as is apparently sought by the prayer of the petition. The right of the plaintiff is to have the whole tract resold as against the defendants to pay the whole amount of the debt. This is necessary in order that the defendants may enforce any right which they have, unaffected by the other foreclosure.\nThe prayer for general relief was sufficient to entitle the plaintiff to any relief growing out of the facts alleged, which was not repugnant to that prayed for specially. There being no special exception to the prayer, and the heirs of Stephen Scroggin not being necessary parties, the sustaining of the exceptions and dismissing the cause was erroneous.\nReversed and remanded.\nDelivered May 11, 1893.",
+        "type": "majority",
+        "author": "WILLIAMS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Ratcliff & Ingraham, for appellants.",
+      "Goldthwaite, Ewing & H. F. Ring, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "John H. Richardson v. M. G. Howe, Receiver, and The Houston East & West Texas Railway Company.\nNo. 159.\n1. Parties \u2014 Second Suit for Foreclosure.\u2014A foreclosure judgment upon a vendor\u2019s lien note having been obtained against the heirs of the deceased vendee, who were only in possession of a part of the land (the vendee having sold apart of it to defendant), and a sale under the judgment not realizing the amount of the judgment, but leaving a part of it unpaid, in a suit by the plaintiff against the owners of the remainder of the land to foreclose his vendor\u2019s lien thereon, and to make it liable for the unpaid remainder of the judgment, the heirs of the original vendee were not necessary parties. They had been concluded by the former judgment, and had no interest to be affected by the present suit.\n2. Pleading\u2014Sufficient Allegations.\u2014See opinion for statement of the material parts of a petition held sufficient against a general demurrer. The allegations showed that plaintiff had a lien upon the land which he was entitled to have foreclosed, and that his former judgment, though good against defendants therein, was not a valid foreclosure against the claim set up by the present defendants.\n3. Prayer\u2014Special Relief.\u2014The prayer was for a foreclosure upon the land claimed by defendants for the balance due on the judgment. This was relief to which plaintiff was not entitled. Defendants not being bound by the former judgment, the part of the land they claim can not be separated from the remainder of the tract and sold to pay the balance due on the judgment.\n4. Proper Relief to be Granted.\u2014The right of the plaintiff is to have the whole tract resold, as against the defendants, to pay the whole amount of the debt, so that the defendants may enforce any right which they have, unaffected by the other foreclosure.\nAppeal from Nacogdoches. Tried below before Hon. James I. Perkins.\nRatcliff & Ingraham, for appellants.\n1. Persons who have no interest in the subject matter of the suit, and persons whose interests have been foreclosed and sold, are not necessary parties to a proceeding to foreclose a lien. Byers v. Brannon, 19 S. W. Rep., 1093; Jolly v. Stallings, 78 Texas, 605; Ufford v. Wells, 52 Texas, 619; Black v. Black, 62 Texas, 296, and authorities there cited; Andrews v. Key, 77 Texas, 35.\n2. One who takes title to real estate encumbered with a lien for the purchase money, of which he has notice, does so subject to such lien, and is liable to discharge the lien before he acquires full title to the land. 1 Texas, 332.\nGoldthwaite, Ewing & H. F. Ring, for appellees.\n1. The vendor\u2019s superior title does not pass by the mere transfer of the note, but is then vested in the vendee of the land, with only the ordinary lien remaining. Classady v. Frankland, 55 Texas, 52. If the superior title is in the holder of the note, a foreclosure may in certain circumstances be effectual against intermediate vendees; but if the holder of the note has only a lien, the intermediate vendee is an indispensable party in order to cut off his rights or affect him in any manner. Foster v. Powers, 64 Texas, 247; Black v. Black, 62 Texas, 296; Andrews v. Key, 77 Texas, 35.\n2. There can not be foreclosures by piecemeal of an entire tract under a single contract. Intermediate vendees, not parties to a foreclosure judgment, are not affected by it, and can be foreclosed against, if at all, only by treating the purchaser to the extent of his bid, through process of equitable subrogation, as assignee of the indebtedness instead of vendee of the land, and reforeclosing as though no previous foreclosure sale had been made, with all the parties before the court; wherefore, the petition being utterly insufficient for such relief, the demurrers were rightly sustained. Tinsley v. Boykin, 46 Texas, 592; Savage v. Fairman, 53 Texas, 601; Miller v. Rogers, 49 Texas, 399; King v. Brown, 80 Texas, 276;, Sheld. on Subr., secs. 31-33."
+  },
+  "file_name": "0279-01",
+  "first_page_order": 305,
+  "last_page_order": 307
+}

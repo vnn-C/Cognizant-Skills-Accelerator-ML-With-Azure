@@ -1,0 +1,181 @@
+{
+  "id": 219222,
+  "name": "Western Union Telegraph Company v. Frank J. Williford",
+  "name_abbreviation": "Western Union Telegraph Co. v. Williford",
+  "decision_date": "1893-03-30",
+  "docket_number": "No. 124",
+  "first_page": "574",
+  "last_page": "578",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 574"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "124 U. S., 444",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3525023
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/124/0444-01"
+      ]
+    },
+    {
+      "cite": "83 Ala., 542",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        3274349
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/83/0542-01"
+      ]
+    },
+    {
+      "cite": "34 Wis., 471",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "case_ids": [
+        8707884
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wis/34/0471-01"
+      ]
+    },
+    {
+      "cite": "1 Colo., 230",
+      "category": "reporters:state",
+      "reporter": "Colo.",
+      "case_ids": [
+        5255182
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/colo/1/0230-01"
+      ]
+    },
+    {
+      "cite": "44 N. Y., 487",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "16 N. Y., 489",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1297822
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/16/0481-01"
+      ]
+    },
+    {
+      "cite": "37 Mo. App., 554",
+      "category": "reporters:state",
+      "reporter": "Mo. App.",
+      "case_ids": [
+        520886
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mo-app/37/0554-01"
+      ]
+    },
+    {
+      "cite": "30 Ohio St., 555",
+      "category": "reporters:state",
+      "reporter": "Ohio St.",
+      "case_ids": [
+        897502
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ohio-st/30/0555-01"
+      ]
+    },
+    {
+      "cite": "1 Lans., 125",
+      "category": "reporters:state",
+      "reporter": "Lans.",
+      "case_ids": [
+        4809736
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/lans/1/0125-01"
+      ]
+    },
+    {
+      "cite": "41 N. Y., 544",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2045763
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/41/0544-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 546,
+    "char_count": 10504,
+    "ocr_confidence": 0.544,
+    "pagerank": {
+      "raw": 7.351004668085049e-08,
+      "percentile": 0.44114888551417475
+    },
+    "sha256": "2fd9662f1a70cf1a4094006384cb11d72f880d9c31ff3914a4fa49334af61111",
+    "simhash": "1:f802110a8ed72a38",
+    "word_count": 1870
+  },
+  "last_updated": "2024-02-27T19:43:33.086404+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Western Union Telegraph Company v. Frank J. Williford."
+    ],
+    "opinions": [
+      {
+        "text": "PLEASANTS, Associate Justice.\nThe appellee instituted suit against appellant for the recovery of damages sustained by him, as alleged, from the negligence of appellant in failing to deliver promptly the following telegram, addressed by S. E. Allen to appellee: \u201c How many beeves and bulls have you ? Don\u2019t go away. Will get them off. Answer.\u201d\nThe message was dated May 11, 1891, and was on same day, after nightfall, delivered to appellant\u2019s operator at Harrisburg, in Harris County, with written request from the sender that it be sent at once to appellee at Stafford\u2019s Point, where appellee was at the time holding a herd of cattle, while Allen was negotiating for their sale in the city of Houston. The cattle had been gathered for the purpose of delivering them to one who had contracted for them, but who had failed to comply with his contract. The plaintiff continued to hold the cattle until the 13th of May, 1891, on which day, not having heard from Allen, he turned the cattle loose, and went himself to Houston, and there learned that the cattle had been sold, the purchaser agreeing to pay $14 a head for the beeves and $10 for for the bulls.\nThe evidence shows that plaintiff called several times at the telegraph office at Stafford\u2019s Point before he turned the cattle loose, and inquired if there was a telegram for him from Houston, and was told that there was not. It also appears that the operator, prior to his receipt of the telegram, was advised by the plaintiff that he was there for the purpose of selling and shipping his herd of cattle, and that he was expecting a telegram from Houston in regard to the shipment. The telegram was never delivered to plaintiff. The operator at Stafford testified, that he could not say whether he received the telegram on the 12th or 13th of May, but that he received it the same day that plaintiff turned his cattle loose and left for Houston; that he received it about 12 or 1 o\u2019clock, and he immediately dispatched a messenger to the prairie with the telegram to be delivered to plaintiff, and the messenger returned without finding the plaintiff.\nWhen plaintiff arrived in Houston he interviewed the appellant\u2019s manager there in relation to the telegram which had been delivered to the operator at Harrisburg on the 11th day of May, with instructions to send to plaintiff at Stafford\u2019s Point, and the manager informed plaintiff that for two days the operator at Houston had been calling the operator-at Stafford\u2019s Point, but had been unable to obtain a response, and the manager supposed that the absence of the operator from his post was the reason why plaintiff had not received the telegram. By his not receiving the telegram, the plaintiff was deprived of the opportunity of completing the sale of his cattle which Allen had negotiated for him.\nThe plaintiff had in his herd about 178 beeves and 45 bulls. The bulls, as an indispensable preparation for shipment to market, had been dehorned, as bulls with their horns could not be shipped to market. The plaintiff upon the trial was permitted to show that the bulls with horns sawed off, in May, and turned upon the range in that section of the State, would suffer from flies, and that the probability was that not more than two-thirds of their number would survive the summer. The plaintiff was also allowed to show that it cost him $225 to collect and hold the herd at Stafford\u2019s; there was evidence that plaintiff owned some of the bulls, and that he bought some of them, for which he paid $5 a head.\nThere was a verdict and judgment for plaintiff for $500; and a motion for a new trial being overruled, defendant appealed.\nSeveral errors are assigned by the appellant, all of which may be considered under two heads:\nFirst. The message did not on its face apprise the operator at Harrisburg that loss or damage would probably result to the vendee if the message was not promptly received by him, nor was there any extrinsic evideuce that the operator was informed of the nature and object of the telegram, and the necessity for its prompt delivery.\nSecond. That if the defendant be liable in damages for failure to deliver the message, the plaintiff can not recover the damages sued for, because the same are remote and speculative, and are not such as naturally result from breach of appellant\u2019s contract to deliver the message.\nThe damages for which a party may recover for a breach of contract are such as ordinarily and naturally flow from its nonperformance. This has been a rule of law recognized by both English and American courts since the decision of the well known case of Hadley v. Baxendale, 9 Exch., 341, and the application of this rule to the case now under consideration restricts the plaintiff\u2019s right of recovery to the difference between the market value of his cattle and the price he would have obtained for them had he been able to deliver them under the contract negotiated for him by his agent in the city of Houston.\nWe think, therefore, the court erred in permitting the plaintiff to show the cost incurred by him in gathering and holding the cattle at Stafford\u2019s Point, and also his probable loss of bulls. For this error the cause must be reversed.\nThe plaintiff, in addition to nominal damages, will be entitled to recover, as we have said, the difference between the value of his cattle at Stafford\u2019s Point in the condition they were in while on the land and the price he was to have received under the contract made by his agent, less the cost of transportation of the cattle to Houston, if the contract required that they be delivered in Houston.\nTo authorize a recovery for other than nominal damages from a telegraph company for failure to deliver promptly a message received by its operator for transmission over its wires, when the sender gives no explanation to the operator to whom the message is delivered of its nature and purpose, the message itself must upon its face advise the operator that it is in reference to a transaction from which loss or injury will probably result to the sender or him to whom it is sent, if the message is not promptly delivered. When we consider that in all telegraphic communications the utmost brevity of expression is cultivated, we are of the opinion that the message delivered to the operator on the 11th of May at Harrisburg, to be sent to the plaintiff at Stafford\u2019s Point, does of itself advise the operator that it relates to a matter of business in which loss will probably result to either the sender or the plaintiff if the message is not promptly delivered; and if the failure to deliver the message to the plaintiff was the proximate cause of his not reaping the benefit of the contract of sale made for him by the sender of the message, the appellant is liable for such damages as naturally flow from the breach of cbntract.\nIt would be an unreasonable rule (as seems to be contended for by the appellant) to hold, that to make the telegraph company liable for failure to deliver the message, the operator must have been made acquainted with both the terms of the contract and the parties to it. Such a rule would, in our judgment, not only be unreasonable, b.ut inconsistent, with the uses and purposes of the telegraph.\nThe judgment of the lower court is reversed and remanded.\nBeversed and remanded.\nDelivered March 30, 1893.",
+        "type": "majority",
+        "author": "PLEASANTS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Stewart & Stewart, for appellant.",
+      "Hutcheson & Sears, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Western Union Telegraph Company v. Frank J. Williford.\nNo. 124.\n1. Notice of Importance of Message.\u2014To authorize recovery of other than nominal damages for failure to deliver a message promptly, when the sender gives no explanation of its importance, it must upon its face advise the operator that it is in reference to a matter out of which loss or injury will probably result. \u201cHow many beeves and bulls have you? Don\u2019t go away. Will get them off,\u201d is a message that gives such notice. The operator need not be made acquainted both with the terms of the contract and the parties to it.\n2. Measure of Damages.\u2014If there was failure to make sale of a herd of cattle caused by the nondelivery of a message, the measure of damages is the difference between the market value of the cattle in the condition they were in while in the herd, and the price the owner would have obtained for them had he been able to deliver them under the contract, deducting the cost of transportation if the contract required them to be delivered. The plaintiff should not have been permitted to prove the cost of collecting and holding them, nor the probable loss on bulls from dehorning them.\nAppeal from Harris. Tried below before Hon. James Masterson.\nStewart & Stewart, for appellant.\n1. The message must show on its face what pecuniary liability would exist against the telegraph company if it failed to promptly transmit or delayed in delivering the message, or this liability must be shown by information given at the time the message was filed. Tel Co. v. Brown, 71 Texas, 723; Daniel v. Tel. Co., 61 Texas, 456; Tel Co. v. Kirkpatrick, 76 Texas, 217; Tel. Co. v. Moore, 76 Texas, 66; Tel. Co. v. McKinney, 2 Willson\u2019s C. C., 645; Gray on Com. by Tel., 23; Calvit v. McFadden, 13 Texas, 325; 3 Suth. on Dam., 303; Leonard v. Tel. Co., 41 N. Y., 544; 2 Pars, on Con., 300; Baldwin v. Tel. Co., 1 Lans., 125; Sedg. on Meas. of Dam., 413; Shields v. Tel. Co., Allen\u2019s Tel. Cases, 5; Lane v. Tel. Co., Allen\u2019s Tel. Cases, 61; Bank v. Tel. Co., 30 Ohio St., 555; Abeles v. Tel. Co., 37 Mo. App., 554; Griffin v. Colver, 16 N. Y., 489; McCall v. Tel. Co., 44 N. Y., 487; Tel. Co. v. Graham, 1 Colo., 230; Candee v. Tel. Co., 34 Wis., 471; Tel. Co. v. Way, 83 Ala., 542.\n2. The judgment is contrary to the law and the evidence, because the damage sought to be recovered was altogether too uncertain and speculative in its nature. Lumber Co. v. Tel. Co., 58 Texas, 395; Railway v. Shirley, 45 Texas, 373; De la Zerda v. Korn, 25 Texas Supp., 193; Jones v. George, 56 Texas, 153; 61 Texas, 361; Calvit v. McFadden, 13 Texas, 324; Railway v. Joachimi, 58 Texas, 456; Tel. Co. v. Hall, 124 U. S., 444.\nHutcheson & Sears, for appellee.\nThe telegraph company had full information that the plaintiff had a herd of cattle which he had gathered and was holding for sale, and that the sale was effected of such cattle; and was in possession of a telegram in ample time to have consummated plaintiff\u2019s trade if they had not been guilty of the grossest negligence. Tel. Co. v. Moore, 76 Texas, 67; Tel. Co. v. Adams, 75 Texas, 531; Tel. Co. v. Feegles, 75 Texas, 537; Daniel v. Tel. Co., 61 Texas, 457."
+  },
+  "file_name": "0574-01",
+  "first_page_order": 600,
+  "last_page_order": 604
+}

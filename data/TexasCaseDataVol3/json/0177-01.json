@@ -1,0 +1,134 @@
+{
+  "id": 221214,
+  "name": "W. K. Baylor v. Joseph H. Brown",
+  "name_abbreviation": "Baylor v. Brown",
+  "decision_date": "1893-01-24",
+  "docket_number": "No. 72",
+  "first_page": "177",
+  "last_page": "179",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 177"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "83 Mo., 175",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        429660
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mo/83/0175-01"
+      ]
+    },
+    {
+      "cite": "110 Ill., 340",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        5374008
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/110/0340-01"
+      ]
+    },
+    {
+      "cite": "109 U. S., 478",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8239
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/109/0478-01"
+      ]
+    },
+    {
+      "cite": "97 U. S., 319",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3375926
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/97/0319-01"
+      ]
+    },
+    {
+      "cite": "4 S. W. Rep., 253",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "55 Ala., 282",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        8492751
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/55/0282-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 403,
+    "char_count": 6289,
+    "ocr_confidence": 0.544,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.008776573460460436
+    },
+    "sha256": "6945a148a8e5e36aea65af11c07a4f14cd5110d1f80240abd2e1f742446459dc",
+    "simhash": "1:1916bc2a2052fbcc",
+    "word_count": 1123
+  },
+  "last_updated": "2024-02-27T16:31:46.217873+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "W. K. Baylor v. Joseph H. Brown."
+    ],
+    "opinions": [
+      {
+        "text": "TARLTON, Chief Justice.\nOn the 4th day of September, 1886, J. A. Putman, being indebted to Joseph H. Brown, the appellee, in about \u25a0the sum of $5900, conveyed to him his entire stock of goods, fixtures, etc., an invoice of which was to be taken at their market value and credit given upon this debt therefor. This value was subsequently ascertained to be about $3300. This transfer was in writing; and upon the same day, and as a part of the same transaction, said Putman executed to appellee another writing, conveying to him all his notes, accounts, and outstandings; the purpose of this instrument being recited to be the further securing of said indebtedness. A few days after the execution of these instruments, several of the creditors of Putman attached the goods in controversy, and this suit was instituted by appellee to recover of appellant, as sheriff, the value thereof, alleging a conversion by him by reason of his having levied said attachments thereon as the property of Putman.\nThe sheriff defended on the ground that the transfer from Putman to appellee was in fraud of the creditors of the former.\nUpon the trial the court refused to submit the question of fraud to the jury, and, in effect, instructed them to find for appellee.\nWe are of opinion that this action of the court was error. We believe that the two instruments must be construed together as parts of the same transaction; and when so considered, there is evidence in the record which tends to show that the value of the property transferred was greatly in excess of the debt to be paid or secured. If the transfer of the goods could be considered as a separate transaction from that of the notes and accounts, the action of the court could be sustained. There being nothing in the evidence attacking any part of appellee\u2019s debt, and the value of the goods being much less than the amount of such debt, there would be nothing in the evidence raising the issue of fiaud as to this transfer. But whether the transfer of the notes and accounts is to be taken as a sale or only as a mortgage, if the value thereof, when added to the value of the goods, greatly exceeded the amount of the debt, it would at least be a badge of fraud in fact, and in such case its effect would be for the decision of the jury under appropriate instructions; and without calling special attention thereto, we are of opinion that there was other evidence that appellant was entitled to have them pass upon. It is true, if the transfer of the notes and accounts is only to be construed as a mortgage, the fact that their value might greatly exceed the debt would not render the transaction void in law (Simmons Hardware Company v. Kaufman & Runge, 77 Texas, 138); but even in such case, it would be a badge of fraud, where fraud in fact is alleged in the pleading. Jackson v. Harby, 65 Texas, 715; Haas v. Kraus, 75 Texas, 106.\nIf the two instruments are to be construed as parts of the same transaction, as we have held they must be, then it is hardly necessary for us to add that fraud in part of an entire transaction will vitiate the whole. Oppenheimer v. Halff, 68 Texas, 412.\nFor the refusal of the court below to submit the issue of fraud in fact to the jury, we are of opinion that the judgment of the court below should be reversed and the cause remanded.\nReversed and remanded.\nDelivered January 24, 1893.\nA motion for rehearing was overruled.\nJustice Stephens did not sit in this case.\nThis case did not reach the Reporter with the January records.",
+        "type": "majority",
+        "author": "TARLTON, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "B. G. Bidwell, for appellant.",
+      "Stanley, Spoonts & Meek, for appellee.",
+      "McCall & Moseley, for appellant, on motion for rehearing."
+    ],
+    "corrections": "",
+    "head_matter": "W. K. Baylor v. Joseph H. Brown.\nNo. 72.\nConveyance in Fraud of Creditors\u2014Instruments Construed Together.\u2014P. was owing B. \u00a75900, and by written transfer conveyed to him his stock of goods, worth \u00a73300, and also, on the same day, all his notes and accounts, by a separate writing reciting that this was to further secure the debt. Other creditors of P. levied on the goods and attacked the transfer thereof as having been made in fraud of their rights. On the issues thus raised, held:\n1. That the transfer of the notes and accounts should be considered in connection with that of the goods, and that the two instruments should be construed together as parts of the same transaction, in determining whether the value of the property transferred was not greatly in excess of the debt to B.\n2. Even if the transfer of the notes and accounts be taken as a mortgage, yet if the value thereof, together with that of the goods, greatly exceed the debt to B., it would at least be a badge of fraud in fact where such fraud was alleged in the pleadings.\nAppeal from Parker. Tried below before Hon. J. W. Patterson.\nB. G. Bidwell, for appellant.\nThe two transfers were made at the same time, and conveyed property worth about $13,363 to pay a debt of $5969.29; and under such evidence, where the pleadings charged fraud, the court erred in failing to submit the issue of fraud to the jury. Rev. Stats., ch. 12; Saddlery Co. v. Schoelkopf, 71 Texas, 418; La Belle v. Tidball, 69 Texas, 166; Allen v. Carpenter, 66 Texas, 140; Greenleve v. Blum, 59 Texas, 124.\nStanley, Spoonts & Meek, for appellee.\n1. The execution of two or more instruments or contracts at the same time, although between the same parties, does not make them one transaction, where one is subsidiary to or based upon the other. Saddlery Co. v. Schoelkopf, 71 Texas, 418; Crawford v. Kirksey, 55 Ala., 282.\n2. A transfer of choses in action can not be questioned except in a proceeding to subject the debt transferred. Sewing Machine Co. v. Atkeson, 75 Texas, 330.\n3. The uncontradicted testimony of witnesses clearly established that the notes and accounts were assigned as collateral security for the unpaid balance of a just debt; thus rendering clear and explaining away any ambiguity, inconsistency, or badge of fraud apparent on the face of the writings. The court should not submit an issue where the testimony in support of it is insufficient and too slight to justify or support a verdict or judgment in favor of the party presenting it. Willis v. Whitsett, 4 S. W. Rep., 253; Railway v. Faber, 77 Texas, 153; Herbert v. Butler, 97 U. S., 319; Randall v. Baltimore, 109 U. S., 478; Simons v. Railway, 110 Ill., 340; Jackson v. Hardin, 83 Mo., 175.\nMcCall & Moseley, for appellant, on motion for rehearing."
+  },
+  "file_name": "0177-01",
+  "first_page_order": 203,
+  "last_page_order": 205
+}

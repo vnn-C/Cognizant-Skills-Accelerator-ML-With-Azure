@@ -1,0 +1,194 @@
+{
+  "id": 221133,
+  "name": "The Atchison, Topeka & Santa Fe Railway Company v. Roberts & Co.",
+  "name_abbreviation": "Atchison, Topeka & Santa Fe Railway Co. v. Roberts & Co.",
+  "decision_date": "1893-05-03",
+  "docket_number": "No. 126",
+  "first_page": "370",
+  "last_page": "378",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 370"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "3 S. E. Rep., 660",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "pin_cites": [
+        {
+          "page": "802"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "107 U. S., 102",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3499953
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/107/0102-01"
+      ]
+    },
+    {
+      "cite": "100 Mass., 26",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2141866
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/100/0026-01"
+      ]
+    },
+    {
+      "cite": "46 N. Y., 271",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2052630
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/46/0271-01"
+      ]
+    },
+    {
+      "cite": "88 Ill., 136",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        5335618
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/88/0136-01"
+      ]
+    },
+    {
+      "cite": "13 S. W. Rep., 190",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "28 Fed. Rep., 41",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "96 U. S., 258",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3382729
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/96/0258-01"
+      ]
+    },
+    {
+      "cite": "1 Gray, 614",
+      "category": "reporters:state",
+      "reporter": "Gray",
+      "case_ids": [
+        1973940
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/67/0614-01"
+      ]
+    },
+    {
+      "cite": "60 Ind., 199",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1500588
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/60/0199-01"
+      ]
+    },
+    {
+      "cite": "29 Wis., 207",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "54 Wis., 26",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "50 N. Y., 601",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 732,
+    "char_count": 21432,
+    "ocr_confidence": 0.536,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.008774642845972873
+    },
+    "sha256": "ad2d70f40662b834a8e28ee086fd2a20d7d4508f6d7bdcf60050981899674cfd",
+    "simhash": "1:0b65f762861ab176",
+    "word_count": 3759
+  },
+  "last_updated": "2024-02-27T16:31:46.217873+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The Atchison, Topeka & Santa Fe Railway Company v. Roberts & Co."
+    ],
+    "opinions": [
+      {
+        "text": "COLLARD, Associate Justice.\nSuit by the appellees, brought in the District Court of El Paso County on the 2nd day of November, 1888, to recover of appellant (defendant below) statutory penalty for every day\u2019s detention of goods shipped to plaintiffs from Chicago, Illinois, to the City of Mexico, consigned to plaintiffs at El Paso, Texas, and to be delivered to them at that place.\nPlaintiffs alleged that they demanded the goods after arrival at El Paso on the 31st day of October, 1888, and tendered the amount of freight due, $365.55, to defendant, and delivery was refused.\nDefendant answered by general denial; and specially, that the goods were shipped from Chicago to the City of Mexico on a contract of through shipment, and consigned to A. Martinez at the City of Mexico, at certain rates; that the goods were so shipped and billed under direction of plaintiffs, with the intent to avoid the local El Paso rate from Chicago, and with the intent to inveigle defendant into the transportation as far as El Paso, Texas, and then to compel defendant to deliver them there to plaintiffs at a tariff rate less than the usual rate to El Paso, and at less than the through tariff to the City of Mexico, which was a fraud upon defendant, attempted to be maintained by this suit. That as soon as the goods arrived at El Paso plaintiffs demanded them, .and defendant was ready and willing to carry them on to the City of Mexico on the agreed terms; but plaintiffs, by process of the court, obtained possession thereof, and to avoid litigation, defendant offered to .deliver them at El Paso to plaintiffs if plaintiffs would willingly and without protest pay thereon the usual El Paso rate of freight, which they refused to do; but to avoid question of further liability, the goods were afterwards delivered to plaintiffs under protest. Defendant alleges that the freight due is $1448.62, which is unpaid; prayer for judgment for such amount and interest.\nThe court, trying the case without a jury, gave judgment for plaintiffs for $1462.20, enforcing the statutory penalty; from which judgment this-appeal is taken.\nThe court filed conclusions of fact and law, which are as follows, and! we find that the facts so found are supported by the testimony:\n\u201c That the defendant is a railway corporation, and a common carrier of merchandise for hire, doing business in El Paso County, Texas, and was such on the 23rd day of October, 1888, and continued to be such up to the time of trial.\n\u201c That on said 23rd day of October, 1888, the defendant received all the goods,--and merchandise described in plaintiffs\u2019 original petition, on its cars at the city of Chicago, in the State of Illinois, for transportation, said goods, \u2014.\u2014 and merchandise being packed in boxes, bags, and barrels, and marked \u2018A. Martinez, City of Mexico, care of Roberts & Co., El Paso, Texas,\u2019 and \u2018 M. Martinez, City of Mexico, care of Roberts & Co., El Paso, Texas.\u2019\n\u201c That at the time said goods were received at Chicago, defendant executed and delivered to plaintiffs two certain bills of lading for said goods, etc., and delivered them to plaintiffs as set forth in plaintiffs\u2019 said petition, and that said bills of lading show the marks on said packages as stated above.\n\u201cThat prior to said shipments, and at the time of same, defendant published and circulated its tariff schedules and freight rates, showing freight rates on said goods, etc., from Chicago to the City of Mexico, and from Chicago to the city of El Paso. That said published tariff schedules were circulated by defendant among the merchants of El Paso and elsewhere, and that at the time of said shipment the plaintiffs were cognizant of and knew of said tariff schedules. That said bills of lading refer to said published tariff, and provide expressly that said shipment was made subject to the conditions and regulations of the published tariff, in that said published tariff is a part of said bills of lading; and that the amount of freight due upon said shipments by the local tariff schedule between Chicago and El Paso, when taken in connection with said bills of lading, was the sum of $365.55, that being the amount claimed to be due by defendant by said tariff schedule.\n\u201cThe court further finds, that the plaintiffs were the consignees of said goods at El Paso, Texas, and that when said goods arrived at El Paso, Texas, on the 31st day of October, 1888, the plaintiffs tendered to the defendant the sum of $365.55, being the full amount of freight claimed by defendant at that time to be due defendant, as shown by said bills of lading and tariff schedules so published; that defendant then and there had possession of all of said goods, and was well able to deliver them up; that defendant then and there refused to receive said amount so tendered; that said tender was made under protest by plaintiffs; that defendant refused said tender, and refused and failed to deliver up said goods to the consignees, Roberts & Co., the owners of the goods, on the ground that the amount named (\u00a7365.55) was tendered under protest; that it gave no other reason, and had no other reason for refusing to accept the amount tendered and deliver the goods, than that the freight money was tendered under protest.\n\u201cThe court finds, that defendant, after said tender and demand for the possession of said goods were made, kept and held possession of said goods, and detained them from plaintiffs for the period of four entire days from the time said tender and demand were made, before they were delivered to plaintiffs; and that at the expiration of said four days defendant notified plaintiffs that it would deliver up the goods and accept the payment of the freight before tendered under protest, and did at the time of their said delivery accept said payment under protest, which was before refused on account of said protest.\n\u201c From the foregoing findings of fact, I conclude that the law is for the plaintiffs; that when the sum of 8365.55, the amount claimed by defendant to be due it as freight, was tendered to defendant under protest, it became the duty of defendant to deliver up the goods to plaintiffs, and having failed and refused so to do for the period of four entire days, it incurred the penalty of the statute; and therefore the plaintiffs ought to recover of defendant four times the amount of said freight tendered as aforesaid, which amounts to the sum of $1462.20; and it will be so ordered.\u2019 \u2019\nOn the 23rd day of October, 1888, plaintiffs, the owners of the goods, living at El Paso, Texas, caused them to be shipped at Chicago, Illinois, consigned to A. Martinez and M. Martinez, City of Mexico, in care of plaintiffs, at El Paso, Texas, over defendant\u2019s line of road, under two contracts or bills of lading, containing a description of the goods, etc. The bills of lading contracted to carry the goods, \u201c subject to the conditions and regulations of the published tariff of said company and its connections, * * * over the line of its road to the City of Mexico, and delivered in like good order (the reservations below excepted) to the consignee, or to such company or carriers (if the property is to be forwarded beyond said station) whose line may be considered a part of the route to the place of destination; it being distinctly understood that the responsibility of the company shall cease at the station where delivered to such consignee, company, or carrier; but this company guarantees that the rate of freight for the transportation of said packages from Chicago shall not exceed rates noted in margin of this bill of lading, provided contents of said packages are correctly stated in railroad receipts (original and duplicate) on which this bill of lading is issued, subject to the following conditions.\u201d Here follow conditions limiting liability of the company to loss caused by its agents, and making the company alone liable upon whose line loss occurs.\nOne bill of lading contains the following form and entries:\n\u201c Marks and Consignee. No. Pkgs. ^ Packages. Said to weigh.\n\u201cA. Martinez, City of Mexico, care 363 Box can\u2019d goods. 23,600\nRoberts & Co., El Paso, Texas. (25 boxes over)\n\u201c Original.\n\u201cVia O.K.\n\u201c Rates from Chicago., 111., in cents per hundred pounds: 1st class, 2nd class, 3rd class, 4th class, 5th class. Carload rate, 82.36. No shipment, however small, rated less than 100 Ifcs.\u201d\nThe other bill of lading is similar to the foregoing, except in minor particulars.\nAt the time of shipment and arrival of the goods at El Paso, defendant had published tariff rate for city of El Paso and other points, which showed and fixed the freight tariff on similar shipments to that of plaintiffs between Chicago and El Paso to be 8365.55; the same being amount of freight according to the published tariff schedule that would be due at that time on a similar shipment. The freight published by defendant from Chicago to the City of Mexico was the same as that stated in the foregoing bills of lading. The charges from Chicago to City of Mexico were more than the published tariff local charge to El Paso.\nOn the-day of-, 1888, J. Budd, defendant\u2019s agent at El Paso, received from his company a telegram applying to these shipments, as follows:\n\u201cSt. Louis, Mo., October 26, 1888.\n\u201c J. Budd, Agent:\n\u201cIt is agreed between Schriever, Hinton, and myself, effective at once: You will refuse to deliver in El Paso goods in transit to Mexico at less than full published tariff rates to El Paso. Should attempt be made to take possession at less than full tariff rates, you will place the matter in the hands of our respective attorneys, with instructions to retain the same by legal process. When delivery is finally made at said published El Paso tariff rates, it must be done without protest or cost to the transportation company.\u201d\nOn the 31st of October, 1888, the goods arrived at El Paso, Texas, and defendant\u2019s agent notified plaintiffs, who inquired of the agent the amount of freight charges; the agent said $365, which amount plaintiffs tendered to the agent under protest. The agent, acting under his instructions by the telegram, refused to deliver the goods unless the tender was freely made and without protest, and continued to so refuse for four full days; at the expiration of which time, defendant, through its agent, delivered the goods to plaintiffs and accepted the amount tendered, the tender still being under protest.\nDefendant\u2019s road terminated at the center of the Rio Grande, where it connected with the Mexican Central Railway. Defendant was ready and willing to transport the goods to the City of Mexico, according to the terms of the contracts of shipment. \u2022 The Mexican Central Railway was defendant\u2019s connecting line, and would have carried the goods on to the City of Mexico if desired, after they had passed through the hands of the consignees at El Paso, and passed through the Mexican custom house in Paso del Norte by the consignee, who should have paid the duty.\nGoods shipped from the United States to Mexico by way of El Paso had to be to a consignee at El Paso, Texas, to be delivered to him to pass, them through the custom house after paying the duty required to obtain entry into Mexico.\nIt was not plaintiffs\u2019 original intention to ship the goods to Mexico, but to El Paso, where they would be held. Since the 16th of October, 1887, plaintiffs and other merchants in El Paso, Texas, took out at El Paso all goods shipped as these were, upon payment of the proportional rate to El Paso. (Defendant has no interest in the difference between the through rate and the proportionate rate.)\nAll railways coming into El Paso delivered goods shipped from Chicago and other points, since October, 1887, upon the proportionate rate; but this was done for defendant during the period mentioned without any express direction from defendant. The course was forced upon defendant by a multitude of sequestration suits.\nOpinion.\u2014Appellant\u2019s first assignment is, that the court erred in finding, as a fact established on the trial, that the published tariff was a part of the bill of lading, and that the amount of freight due upon said shipment by the local tariff schedule between Chicago and El Paso, when taken in connection with said bill of lading, was the sum of $365.55, for the reason that a local tariff rate to El Paso, Texas, is hereby applied and made to control a contract for through shipments to the City of Mexico, when the tariff schedules for the State of Texas and for the Republic of Mexico were different, the bill of lading in this case being regulated and controlled, if at all, by said Mexican tariff schedule.\nThe proof showed that the defendant was ready, willing, and able to comply with the terms of the contract and deliver the goods at the City of Mexico at the contract price, which was higher than the local El Paso tariff tendered.\nIt is provided by statute, that \u201c any railway company, its officers, agents, or employes, that shall refuse to deliver to the owner, agent, or consignee any freight, goods, wares, and merchandise of any kind or character whatever, upon the payment or tender of payment of the freight charges due as shown by the bill of lading, the said railway company shall be liable in damages to the owner of said freight, goods, wares', or merchandise, to an amount equal to the amount of the freight charges for every day said freight, goods, wares, or merchandise is held after-payment, or tender of payment, of the charges due as shown by the bill of lading, to be recovered in any court of competent jurisdiction.\u201d\nThis statute has been held to be constitutional. Railway v. Harry Bros., 63 Texas, 256.\nWe think the amount due and to be paid as freight charges on the shipment from Chicago to El Paso was shown by the bills of lading within the meaning of the statute. The contract, as expressed in the bills of lading, was stated to be \u201c subject to the published tariff of said company and its connections.\u201d The final destination of the goods was the only part of the contract that was changed, and this was done by both the parties, and it was the custom to do so for shippers at El Paso, the company directing that the local rate to El Paso should be paid before the goods should be delivered there. This was the published rate provided for in the bill of lading\u2014the local rate to that point as the final destination. The change in the destination of the goods changed the meaning of the terms\u2014the published rates\u2014but did not change the terms themselves. By consent the haul became a local haul from Chicago to El Paso, and according to the contract the published rate for such local haul would be the freight charge. Defendant insisted that this was the amount to be. paid, and required its agent to demand such amount before delivering the freight.\nThe amount of freight charge to be paid as shown by the bill of lading was tendered and delivery refused, as found by the court. The fact that the tender by plaintiffs was made under protest did not affect it; it could not be refused on that ground. It seems plaintiffs were contending that they should only pay the proportionate rate of freight to El Paso on a contract of through shipment to the City of Mexico, and protested against paying the local rate to El Paso, but did tender and finally pay the published local rate to El Paso as demanded by the company, but did so under protest. The protest did not invalidate the tender; it being for the amount due and demanded, it was absolute. 1 Benj. on Sales, sec. 1076; 2 Whart. on Con., sec. 974.\nThe assignment of error criticising the finding of the court, that defendant refused to receive the amount tendered because it was made under protest, and for that reason only, is not well taken. The proof shows that this was the only ground of refusal made by defendant\u2019s agent, and that such refusal was in obedience to directions from his company to govern him in such cases.\nWe find no error in the judgment of the court below, and it is affirmed.\nAffirmed.\nDelivered May 3, 1893.",
+        "type": "majority",
+        "author": "COLLARD, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "J. P. Hague and Waters Davis, for appellant.",
+      "H. P. Barnhart filed argument for appellees.",
+      "Millard Patterson and C. N. Buckler, tor appellees."
+    ],
+    "corrections": "",
+    "head_matter": "THIED DISTEIOT,\nMAT, 1893.\nThe Atchison, Topeka & Santa Fe Railway Company v. Roberts & Co.\nNo. 126.\n1. Penalty for Railway Refusing to Deliver Freight.\u2014The statute imposing a penalty, equal to the amount of freight charges due, for every day goods may he held after payment or tender of payment of freight as shown by bill of lading, has been held and is held constitutional. Railway v. Harry Bros., 63 Texas, 256.\n2. Freight Charges Shown by Bill of Lading \u2014 Tariff Referred to.\u2014Where a bill of lading by a railway company states that it is \u201csubject to the published tariff of said company and its connections,\u201d and said tariff is well known to the shipper, rates in the tariff, when applicable, will form part of the freight contract.\n3. Freight Contract \u2014 Case in Judgment. \u2014 Freight was shipped at Chicago for City of Mexico, consigned to owner at El Paso, Texas. When the freight reached El Paso the owners demanded it, tendering under protest the freight charges demanded by the railway company, which were as stated in the tariff of charges referred to in the bill of lading. The railway company refused, on the ground that the tender was made under protest. Held:\n1. The tender was full, and that it was made under protest was no reason for its rejection.\n2. The railway company was subject to the statutory penalties for refusing to deliver the freight.\n3. That the bill of lading was for City of Mexico, and for balance of distance at higher rates, gave no right to the railway company beyond the earned freights according to its published tariff of charges.\nAppeal from El Paso. Tried below before Hon. T. A. Falvey.\nJ. P. Hague and Waters Davis, for appellant.\n1. If any published tariff was a part of the bill of lading, it was only that to which the bill of lading referred, to-wit, the published tariff schedule of rates on shipments from the city of Chicago, Illinois, to the City of Mexico. The local El Paso rate, not being referred to in the bill of lading, and not having been contemplated by defendant, was not a part of its contract of shipment.\n2. Defendant had a right to stand upon its contract of shipment, which authorized it to transport the goods to the City of Mexico, and demand full compensation therefor. Hutch. on Carr., secs. 337, 445.\n3. Plaintiffs, in demanding and receiving the goods for the purpose of appropriating them in El Paso, abrogated the contract evidenced by the bill of lading, and abandoned all their rights thereunder.\n4. Plaintiffs can not recover, as statutory penalty, an amount ascertained by the court to be reasonable for the services rendered by defendant, or an amount ascertained from a new contract, either express or implied, when the original contract has been abrogated by plaintiff; but plaintiff must show his claim to be strictly within the statute. His right of recovery must rest wholly upon the written contract. His claim must be founded upon and established by the bill of lading alone. And if no bill of lading is the foundation of this action, if it fails to show the contract or the freight charges due, no penalty can be recovered. Sayles\u2019 Civ. Stats., art. 4258a, secs. 2, 3; Plank Road Co. v. Parkill, 50 N. Y., 601; Allaire v. Howell Works Co., 2 Green (N. J. L.), 23; The State v. Siegel, 54 Wis., 26; The State v. Huck, 29 Wis., 207; Tel. Co. v. Axtell,, 60 Ind., 199; Keith v. Railway, 1 Gray, 614.\nH. P. Barnhart filed argument for appellees.\nMillard Patterson and C. N. Buckler, tor appellees.\n1. When the tender of all that appellant claimed to be due to it was made, it was its duty to state fully all of its reasons for refusing to receive it; and having placed its refusal to accept the amount tendered on the sole ground that the tender was made under protest, the court was justified in finding that it had no other reason.\nTender under protest is good tender and can not be refused on that ground: Benj. on Sales, sec. 725; 2 Greenl. on Ev., sec. 605, note 5; 2 Whart. on Con., sec. 974.\nParty waives all objections not made at the time tender was made: 2 Greenl. on Ev., sec. 601, note 1; Railway v. McCarthy, 96 U. S., 258; Hughes v. Mort. Co., 28 Fed. Rep., 41.\n2. The two contracts or bills of lading under which the goods were shipped were not through contracts. They show upon their face that the responsibility of appellant as a common carrier was to terminate at El Paso, Texas, the terminus of the defendant\u2019s railway, and that the rates mentioned in the margin of each one of them were simply guaranteed rates in case the goods went through; and the defendant having claimed, and insisted at the time the goods were demanded at El Paso, that the shipment under the bills of lading was controlled by the published tariff referred to in the bills of lading (termed the El Paso local tariff schedule) in the evidence, which schedule fixed the freight at $365.55, and having refused to accept the freight money claimed simply because it was tendered under protest, it is not in a position to deny that it is liable for that wrongful detention of the goods of the appellees which the statute was designed to prohibit by the penalty. Railway v. McCarthy, 96 U. S., 258; 2 Greenl. on Ev., sec. 601, note 1; Hunter v. Railway, 13 S. W. Rep., 190; Dispatch Co. v. Moore, 88 Ill., 136; Lamb v. Railway, 46 N. Y., 271; Burroughs v. Railway, 100 Mass., 26; 107 U. S., 102; 3 S. E. Rep., 660, 802."
+  },
+  "file_name": "0370-01",
+  "first_page_order": 396,
+  "last_page_order": 404
+}

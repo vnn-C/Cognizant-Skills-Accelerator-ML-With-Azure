@@ -1,0 +1,66 @@
+{
+  "id": 216181,
+  "name": "T. R. Bonner et al., Receivers, v. A. B. Bryant",
+  "name_abbreviation": "Bonner v. Bryant",
+  "decision_date": "1892-11-24",
+  "docket_number": "No. 36",
+  "first_page": "269",
+  "last_page": "272",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Tex. Civ. App. 269"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 344,
+    "char_count": 8151,
+    "ocr_confidence": 0.541,
+    "pagerank": {
+      "raw": 6.087085966315723e-08,
+      "percentile": 0.3798999478347965
+    },
+    "sha256": "eb60c833d0a745a6c0ef56fdebbb4687a7a800ad56b4c19183d29aa0432d6da4",
+    "simhash": "1:2acae4c8ed7c2f76",
+    "word_count": 1411
+  },
+  "last_updated": "2023-07-14T14:31:22.177647+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "T. R. Bonner et al., Receivers, v. A. B. Bryant."
+    ],
+    "opinions": [
+      {
+        "text": "WILLIAMS, Associate Justice.\nAppellee sued appellants as receivers of the International & Great Northern Railroad Company, to recover damages for a personal injury, which appellee alleges was inflicted upon him through the negligence of a brakeman in their employment. Verdict and judgment were rendered in the lower court against appellants for $2500, from which they bring this appeal.\nThe facts, as we find them from the record, are, that appellee, while in the employment of one Burkitt, who had a contract with appellants to furnish them with wood for their road, and while engaged in loading-cars belonging to appellants with wood thus furnished by Burkitt, was requested by a brakeman in appellants\u2019 service to assist in pushing two cars, then loaded, for the purpose of coupling them to the caboose, and was directed by such brakeman to get between two cars, which were coupled together, in order to move them more easily. He did so, and while he was pushing against the front car, while both cars were slowly moving, the brakeman mounted one of them, on which a brake was set, and, without notice or warning to appellant, unfixed the brake, whereby the cars were caused to move suddenly forward and caught appellant\u2019s foot and ran over his leg and crushed it, necessitating amputation. Appellant, in thus pushing the car, was acting in furtherance of his master\u2019s business, as well as that of appellants. He was between 17 and 18 years of age, had not been long engaged in that work, and it was reasonably safe for him to get between the cars and push as he did, if there had been proper care on the brakeman\u2019s part; and we conclude that he was not guilty of negligence in acting as he did, but that, in unsetting the brake without notice or warning, the brakeman was guilty of negligence which caused the injury. Appellee was damaged to the amount found by the jury.\nThe evidence adduced in the trial below would, perhaps, have warranted the jury in finding that appellee was not acting in Burkitt\u2019s interest when he was hurt, but in view of their finding we adopt the conclusion that he was..\nThe court charged the jury, in substance, that appellee was in Burkitt\u2019s employment, and that it was not his duty to push the cars or assist in so doing unless such aid was reasonably necessary in expediting Burkitt\u2019s business and in furtherance thereof; and that, if he pushed the cars only in response to the brakeman\u2019s request, and as an accommodation to him, and not because it was necessary to the furtherance of Burkitt\u2019s business, as an act reasonably incident to appellee\u2019s'duties, then he would be a volunteer, and could not recover. But that if the brakeman requested or directed Bryant to assist in removing the cars in order to make up the train, and if Bryant did so as an act reasonably necessary in loading the train and moving the wood for Burkitt, and in furtherance of Burkitt\u2019s business by facilitating the loading of the cars and making up the train, appellee could recover, if he was hurt through the negligence of the brakeman.\nAnother portion of the charge, which is assigned as error, is as follows: \u201c You will determine from the evidence for what purpose Bryant went to push the cars, and whether Bryant\u2019s act in pushing the cars down to the caboose was or was not reasonably necessary under the terms of his employment, and considering the nature of his duties in the furtherance and expediting Burkitt\u2019s business, or whether he acted as a volunteer and as an accommodation to the brakeman, and not under the belief that to push the ears was a part of his duties, and not for the purpose of expediting Burkitt\u2019s business.\nUnder the facts stated appellee can not be treated as a fellow servant of the brakeman, and therefore precluded from recovering. Eason v. Railway, 65 Texas, 577; Bonner & Eddy v. Bryant, 79 Texas, 540. And as he was not himself guilty of negligence which contributed to his hurt, and as the brakeman\u2019s negligence caused his injuries, the appellants are liable.\nDelivered November 24, 1892.\nThe portion of the charge complained of improperly alluded to appellee\u2019s belief as to whether or not it was a part of his duty to push the cars, for his right to recover would depend upon the facts to be found by the jury, and not upon his belief. The charge, however, does not instruct the jury that his belief on the subject would constitute the basis of appellants\u2019 liability, and the jury would not have been warranted in so understanding it, in view of the previous and repeated specific directions, that his act must have been reasonably necessary in furthering or expediting his master\u2019s interests. It would not be a fair construction of the charge to hold that it authorized a recovery upon appellee\u2019s belief. Rather should it be interpreted to mean, if any effect whatever is to be given to such belief, that it must have existed in addition to the other facts defined as essentials to a verdict in appellee\u2019s favor.\nThe charge fairly submitted the issues to the jury, and the evidence is sufficient to support it, and the judgment is therefore affirmed.\nAffirmed.",
+        "type": "majority",
+        "author": "WILLIAMS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Cate & Teagarden, for appellants.",
+      "Sam R Frost, B. D. Dashiell, and F. M. Etheridge, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "T. R. Bonner et al., Receivers, v. A. B. Bryant.\nNo. 36.\n1. Fellow Servant. \u2014 'Appellee was in the employ of one Burkitt, who had a contract with appellants to furnish them wood. While engaged in loading appellants' cars with wood, appellee was requested by a brakeman to assist him in pushing two loaded cars to the caboose, and was directed by the brakeman to get between the two cars, which were coupled together, in order to move them easily. He did so, and while pushing the cars, which were slowly moving, the hrakeman mounted one of them, upon which was a set brake, and, without warning or notice to appellee, unfixed the brake, whereby the cars were caused to move suddenly forward, and caught appellee\u2019s foot and crushed his leg. Under the facts, appellee was not a fellow servant of the brakeman and thereby precluded from recovery.\n2. Volunteer \u2014 Proper Charge. \u2014 The trial court in substance charged that plaintiff was in Burkitt's employment, and that it was not his duty to push the car, or to assist in doing so. unless such aid was reasonably necessary in expediting Burkitt's business and in furtherance thereof; and that if he pushed the car only in response to the brakeman's request, and as an accommodation to him, and not because it was necessary to the furtherance of Burkitt's business as an act reasonably incident to appellee\u2019s duties, then he would be a volunteer, and could not recover. But if the brakeman requested or directed Bryant to assist in removing the cars, in order to make up the train, and if Bryant did so as an act reasonably necessary in loading the train, and moving the wood for Burkitt, appellee could recover, if he was hurt through the negligence of the brakeman. This charge fairly submitted the issue to the jury.\n3. Charge \u2014 Plaintiff\u2019s Belief. \u2014 \u201cYou must determine from the evidence for what purpose Bryant went to push the cars, and whether his act in pushing the cars down to the caboose was or was not reasonably necessary under the terms of his employment, and considering the nature of his duties in the furtherance of and expediting Burkitt\u2019s business, or whether he acted as a volunteer and as an accommodation to the brakeman, under the belief that to push the cars was a part of his duties, and not for the purpose of expediting Burkitt's business.\u201d The charge improperly alluded to appellee's belief, for his right to recover could not depend upon his belief,but upon the facts found by the jury; but the charge given, fairly construed, did not authorize a recovery on the basis of appellee\u2019s belief, and judgment is affirmed.\nAppeal from Leox. Tried below before I-Ion. Norman G. Kittrell.\nCate & Teagarden, for appellants.\nPlaintiff\u2019s right to a recovery did not depend upon his belief. Patt. Ry. Acc. Law. secs. 52, 53.\nSam R Frost, B. D. Dashiell, and F. M. Etheridge, for appellee.\nAppellee in pushing the car was expediting his master\u2019s business. Bonner v. Bryant, 79 Texas, 540; Eason v. Railway, 65 Texas, 577; Railway v. Bolton, 21 Am. and Eng. Ry. Cases, 501."
+  },
+  "file_name": "0269-01",
+  "first_page_order": 293,
+  "last_page_order": 296
+}

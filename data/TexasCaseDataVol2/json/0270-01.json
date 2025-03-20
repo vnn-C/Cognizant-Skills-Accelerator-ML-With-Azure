@@ -1,0 +1,144 @@
+{
+  "id": 219166,
+  "name": "Gulf, Colorado & Santa Fe Railway Company v. E. B. Wallace",
+  "name_abbreviation": "Gulf, Colorado & Santa Fe Railway Co. v. Wallace",
+  "decision_date": "1893-02-02",
+  "docket_number": "No. 213",
+  "first_page": "270",
+  "last_page": "273",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 270"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "45 Mo., 473",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "28 Mich., 510",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1953438
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich/28/0510-01"
+      ]
+    },
+    {
+      "cite": "33 Iowa, 387",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "opinion_index": -1
+    },
+    {
+      "cite": "28 N. E. Rep., 211",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "27 N. E. Rep., 299",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "15 N. E. Rep., 686",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 N. E. Rep., 788",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "pin_cites": [
+        {
+          "page": "925"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "43 Ind., 343",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1406913
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/43/0343-01"
+      ]
+    },
+    {
+      "cite": "109 Ind., 295",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1313997
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/109/0295-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 439,
+    "char_count": 7736,
+    "ocr_confidence": 0.557,
+    "pagerank": {
+      "raw": 9.100207081922839e-08,
+      "percentile": 0.5059723559172755
+    },
+    "sha256": "28149ab0f54716674290a6fe204800badfd3504e11cc35cfd14216e9e527381d",
+    "simhash": "1:f2e5dd26b1b526fd",
+    "word_count": 1340
+  },
+  "last_updated": "2024-02-27T19:43:33.086404+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gulf, Colorado & Santa Fe Railway Company v. E. B. Wallace."
+    ],
+    "opinions": [
+      {
+        "text": "WILLIAMS, Associate Justice.\nThe holding of the county judge, that because the road of appellant was not fenced at the point where the animal was killed, it was liable without proof of negligence in such killing, was erroneous.\nThe evidence showed, that at that place appellant had established a flag station and siding where passengers were taken on and put off, and where freight was received and delivered by it, and where switching of trains was necessary for these purposes. It also appeared that across its main line and switch appellant kept up a crossing for a road, which had been in use there for ten or fifteen years, and that it was upon this crossing that the mare was struck.\nIn the case of Railway v. Cocke, 64 Texas, 154, it is said: 16 Under statutes the same as in force in this State it has been held, that the general terms used in such statutes imposing liability on railway companies for injuries done to animals unless their railways are fenced, do not apply to such places as public necessity or convenience require should be left unfenced, as the streets of a city or town, depots, and contiguous grounds, the crossings of highways, and other like places.\u201d In Railway v. Dunham, 68 Texas, 232, the same principle is recognized and applied to depot grounds.\nThe language just quoted would embrace the \u2018 \u2018 depot and contiguous grounds\u201d in this case and the switches upon which the animal was killed; and those decisions are conclusive of this case, unless this particular stopping place does not come within the principle, upon which they rest.\nSome language used in those opinions, and also in cases decided by the Court of Appeals (2 Willson\u2019s Civil Cases, sections 374, 670), is to the effect, that the exemption from the requirement to fence would exist only with respect to places where a fence would be unlawful. That language should be understood with reference to the facts which were under discussion, and to the point before the mind of the court, the exemption claimed being from a fencing of public streets of a town, which is forbidden by law. These decisions should not be construed to mean that no exception can be allowed from the statutory requirement to fence except in cases where a compliance would be a violation of positive law. The true principle, which is the result of the authorities, is stated in the extract above given from 64 Texas, and embraces within the exception all places which \u201c public necessity or convenience require should be left unfenced.\u201d\nAccess to and from stations and the grounds around them necessary to their proper use and convenience must be allowed to passengers and freighters.\nArticle 4226, Revised Statutes, requires railway companies to receive and discharge freight and passengers at sidings and stopping places for receiving and discharging way passengers and freight.\nArticle 4239 provides, that \u201c when a company constructs a switch on its road for the accommodation of freighters, they shall be bound to furnish a sufficient number of cars for the transportation of freight therefrom when requested so to do.\u201d\nThese provisions were made for the benefit of shippers and passengers, and full effect is not given to them if the carrier is required to fence them in, and thereby obstruct the public in the free enjoyment of the privileges thus sought to be secured. The mere fact that Quarry was a station at which trains stopped only when passengers or freight were to be received or discharged can not, in our opinion, take it out of the operation of the rule which relieves railways from the necessity of fencing their depot grounds. Those who got on or off the cars or shipped or received goods there were as much entitled to free access as were those dealing with appellant at its regular stations. The right to leave its track unfenced there was proper to the discharge of the duties resting upon the carrier.\nThis view of the case makes it unnecessary for us to determine whether or not the road which crossed appellant\u2019s track was such as appellant was bound to leave open. The court erred in holding that appellant was liable had no negligence been shown.\nThe court held, that the killing of the mare was caused by negligence of the employes of appellant running the train. This finding is attacked as being unsupported by evidence. While the testimony tending to establish negligence is weak and of a negative character, and is contradicted by positive evidence, we can not say that the judgment is so entirely without evidence to support it as to justify this court in setting it aside. In such cases the rule is that the appellate court will affirm the judgment, whether the finding on the facts meets its approval or not.\nAffirmed.\nDelivered February 2, 1893.",
+        "type": "majority",
+        "author": "WILLIAMS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "J. W. Terry and H. I. Phillips, for appellant.",
+      "Campbell & Pennington, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Gulf, Colorado & Santa Fe Railway Company v. E. B. Wallace.\nNo. 213.\n1. Unfenced Track at Flag Station.\u2014There was a flag station, siding, and public road crossing at the place where the animal was killed. The general terms used in the statute imposing liability on railway companies for Injuries-done to animals, unless their railways are fenced, do not apply to such places as public necessity or convenience require should be left unfenced. Railways are by statute required to receive and discharge freight and passengers at sidings, and to furnish cars for transportation of freight therefrom when requested, and full effect can not be given to them if the carrier is required to fence sidings at flag stations. It was therefore error for the court below to hold that appellant was liable, without proof of negligence.\n2. Conflicting Evidence\u2014Judgment Affirmed.\u2014The testimony tending to establish negligence was weak, and was contradicted by positive evidence, but the court held that the killing of the mare was caused by the negligence of appellant's employes, and in such cases the rule is to affirm the judgment, whether the finding on the facts meets the approval of this court or not.\nAppeal from Washington. Tried below before Hon. Lafayette Kirk, County Judge.\nJ. W. Terry and H. I. Phillips, for appellant.\n1. The animal was killed at a place on defendant company\u2019s main track where it is crossed by a county road. The said highway had been used by the public as a county road for fifteen years or more, and before defendant\u2019s railway was constructed. It would have been unlawful for defendant to have closed said highway by a fence or otherwise. Penal Code, art. 405; Rev. Stats., arts. 4232, 4170; 1 W. & W. C. C., secs. 82, 862; 2 Willson\u2019s C.C.-, sec. 204.\n2. The accident happened at a station or siding where passengers and freight were daily received and discharged. Defendant is absolved from the duty of fencing its track at such places, and is not liable on account of stock killed on its station grounds in the absence of proof of negligene. Railway v. Cocke, 64 Texas, 154; Railway v. Quick, 109 Ind., 295; Buhdolt v. Railway, 43 Ind., 343; 9 N. E. Rep., 788, 925; 15 N. E. Rep., 686; Railway v. Peters, 27 N. E. Rep., 299; Stewart v. Pennsylvania Co., 28 N. E. Rep., 211; Soward v. Railway, 33 Iowa, 387; Railway v. Lull, 28 Mich., 510; Iba v. Railway, 45 Mo., 473.\nCampbell & Pennington, for appellee.\n1. This being a place where the appellant was not prohibited by law from fencing the road, a failure to fence at such place is negligence per se. Rev. Stats., art. 4245; Railway v. Mitchell, 2 Willson\u2019s C. C., sec. 374; Railway v. Simpson, 2 Willson\u2019s C. C., see. 670.\n2. If it be held that the appellant had no legal right to fence its road at this point, then the failure to ring the bell, check the train, or blow the whistle is negligence per se, and renders the company liable. Rev. Stats., art. 4232; Railway v. Anderson, 2 Willson\u2019s C. C., sec. 205."
+  },
+  "file_name": "0270-01",
+  "first_page_order": 296,
+  "last_page_order": 299
+}

@@ -1,0 +1,66 @@
+{
+  "id": 221123,
+  "name": "W. S. Mills v. J. A. Johnson",
+  "name_abbreviation": "Mills v. Johnson",
+  "decision_date": "1893-05-24",
+  "docket_number": "No. 778",
+  "first_page": "359",
+  "last_page": "360",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 359"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 293,
+    "char_count": 3795,
+    "ocr_confidence": 0.567,
+    "pagerank": {
+      "raw": 2.155958207378321e-07,
+      "percentile": 0.7692104829277692
+    },
+    "sha256": "5f642d8def651284bd23d7bf4cd5ba87cec98e91b0409c69a9b71fb5f921cd97",
+    "simhash": "1:60a8b1d7ddf6a1ef",
+    "word_count": 684
+  },
+  "last_updated": "2023-07-14T18:08:23.206239+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "W. S. Mills v. J. A. Johnson."
+    ],
+    "opinions": [
+      {
+        "text": "HEAD, Associate Justice.\nAppellee sued appellant on two notes for $150 each, and to foreclose a mortgage upon a mare. Appellant answered, under oath, that these notes, with another one for $150, which he had since paid, were given as the purchase price for this mare; that appellant purchased the mare for racing purposes, and appellee represented her to be sound in all respects and a good one for this business; that these representations were fraudulently made; that the mare was not sound, but had been afflicted with a disease which left her in such condition that when violently exercised she would choke up to such an extent as to render her unfit for racing purposes; that had she been as represented, she would have been worth the agreed price (\u00a7450), but as she really was, she was not worth exceeding \u00a7225; and he pleaded this difference in value in offset to the notes sued on. This answer shows that the payment of the first \u00a7150 note was after the discovery of the fraud, but alleges that it was paid under protest, and with no intention of waiving the damage caused thereby. To this answer the court below sustained an exception, seemingly upon the ground that by paying one of the notes after he had notice of the fraud that had been perpetrated upon him, appellant elected to ratify the trade and waived his damage. In this we think the court erred.\nIn Blythe v. Speake, 23 Texas, 429, our Supreme Court, Justice Roberts delivering the opinion, in a case quite similar in principle to this, says: \u201cA party defrauded in a contract has his choice of remedies. He may stand to the bargain and recover damages for the fraud, or he may rescind the contract and return the thing bought and receive back what he paid. Campbell v. Fleming, 1 Ad. & E., 40.\u201d This we understand to be well established in this State. Brantley v. Thomas, 22 Texas, 270; Aultman & Taylor Co. v. Hefner, 67 Texas, 54; Scalf v. Tompkins, 61 Texas, 476; Routh v. Caron, 64 Texas, 289.\nThe fact that appellant paid one of the notes after he learned of the fraud might have the effect to deprive him of the right to cancel the trade, but should not be construed as a waiver of his right to offset the damage he had sustained against the other notes. He did not claim a total, but only a partial, failure of consideration. In such case he should be allowed to pay as much as he admits to be due, and thereby save himself from costs in case suit is brought for the balance.\nFor the error in sustaining the exception above indicated, we are of opinion the judgment of the court below should be reversed and the cause remanded, and it is so ordered.\nReversed and remanded.\nDelivered May 24, 1893.\nChief Justice Tarlton did not sit in this case.",
+        "type": "majority",
+        "author": "HEAD, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "McKinnon & Carlton, for appellant.",
+      "Tarlton & Morrow, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "W. S. Mills v. J. A. Johnson.\nNo. 778.\nFraud\u2014Election of Remedies\u2014Failure of Consideration.\u2014A party defrauded in a contract may either rescind the contract, or stand to the bargain and recover damages for the fraud; and where he claims only a partial failure of consideration because of the fraud, he may pay as much as he admits to be due, without waiving his right to resist payment of the balance.\nAppeal from the County Court of Hill. Tried below before Hon. J. G. Abney.\nMcKinnon & Carlton, for appellant.\nAppellant did not estop himself from pleading a partial failure of consideration by paying the first note that became due after he had discovered the fraud. Horan v. Long, 11 Texas, 115; 1 W. & W. C. C., sec. 1051; 2 Willson\u2019s C. C., sec. 381.\nTarlton & Morrow, for appellee.\nAppellant\u2019s plea of fraud and failure of consideration came too late after he had kept the mare for more than two years, and had procured an extension on the notes, and had paid one of them with knowledge of the defect complained of. Warner v. Munsheimer, 2 Willson\u2019s C. C., sec. 395."
+  },
+  "file_name": "0359-01",
+  "first_page_order": 385,
+  "last_page_order": 386
+}

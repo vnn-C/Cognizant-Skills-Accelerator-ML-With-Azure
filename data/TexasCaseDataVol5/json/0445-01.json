@@ -1,0 +1,369 @@
+{
+  "id": 227419,
+  "name": "Laura E. T. Barelli et al. v. Frank Wagner",
+  "name_abbreviation": "Barelli v. Wagner",
+  "decision_date": "1893-10-12",
+  "docket_number": "No. 273",
+  "first_page": "445",
+  "last_page": "449",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Tex. Civ. App. 445"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "112 U. S., 109",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "134 U. S., 316",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8299249
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/134/0316-01"
+      ]
+    },
+    {
+      "cite": "19 S. W. Rep., 778",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Pet., 449",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "case_ids": [
+        5615466
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/35/0449-01"
+      ]
+    },
+    {
+      "cite": "109 U. S., 216",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8204
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/109/0216-01"
+      ]
+    },
+    {
+      "cite": "10 Wall., 308",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.,",
+      "case_ids": [
+        3436983
+      ],
+      "weight": 3,
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/77/0308-01"
+      ]
+    },
+    {
+      "cite": "33 Ohio St., 254",
+      "category": "reporters:state",
+      "reporter": "Ohio St.",
+      "case_ids": [
+        903091
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ohio-st/33/0254-01"
+      ]
+    },
+    {
+      "cite": "65 Ill., 540",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        2617377
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/65/0540-01"
+      ]
+    },
+    {
+      "cite": "3 Barb., 341",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        8593532
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/3/0341-01"
+      ]
+    },
+    {
+      "cite": "6 Wheat., 119",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        11729282
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/19/0119-01"
+      ]
+    },
+    {
+      "cite": "72 Mo., 370",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        445449
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mo/72/0370-01"
+      ]
+    },
+    {
+      "cite": "55 Mo., 128",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        936969
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mo/55/0128-01"
+      ]
+    },
+    {
+      "cite": "5 Mich., 98",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1928380
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich/5/0098-01"
+      ]
+    },
+    {
+      "cite": "11 Heisk., 260",
+      "category": "reporters:state",
+      "reporter": "Heisk.",
+      "case_ids": [
+        8539602
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/tenn/58/0260-01"
+      ]
+    },
+    {
+      "cite": "11 Heisk., 488",
+      "category": "reporters:state",
+      "reporter": "Heisk.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Yerg., 428",
+      "category": "reporters:state",
+      "reporter": "Yer.",
+      "case_ids": [
+        8542755
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/tenn/17/0428-01"
+      ]
+    },
+    {
+      "cite": "11 Humph., 108",
+      "category": "reporters:state",
+      "reporter": "Hum.",
+      "case_ids": [
+        11266353
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/tenn/30/0108-01"
+      ]
+    },
+    {
+      "cite": "4 Denio, 118",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        485384
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/denio/4/0118-01"
+      ]
+    },
+    {
+      "cite": "43 Mich., 461",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1409845
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich/43/0461-01"
+      ]
+    },
+    {
+      "cite": "1 Doug., 199",
+      "category": "reporters:state",
+      "reporter": "Doug.",
+      "case_ids": [
+        228864
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/doug/1/0199-01"
+      ]
+    },
+    {
+      "cite": "16 Wend., 514",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2149130
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/16/0514-01"
+      ]
+    },
+    {
+      "cite": "16 Wend., 562",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2149121
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/16/0562-01"
+      ]
+    },
+    {
+      "cite": "4 McLean, 642",
+      "category": "reporters:federal",
+      "reporter": "McLean",
+      "opinion_index": -1
+    },
+    {
+      "cite": "43 Mo., 502",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        952598
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mo/43/0502-01"
+      ]
+    },
+    {
+      "cite": "21 Ohio St., 142",
+      "category": "reporters:state",
+      "reporter": "Ohio St.",
+      "case_ids": [
+        885673
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ohio-st/21/0142-01"
+      ]
+    },
+    {
+      "cite": "95 U. S., 714",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3383405
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/95/0714-01"
+      ]
+    },
+    {
+      "cite": "10 Pet., 449",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "case_ids": [
+        5615466
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/35/0449-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 596,
+    "char_count": 12159,
+    "ocr_confidence": 0.561,
+    "pagerank": {
+      "raw": 1.4671137068259202e-07,
+      "percentile": 0.6584594314185885
+    },
+    "sha256": "005865dab62c550dc872517e540bd9716c54eab7a2c4bc427e86ec3b0c8007ba",
+    "simhash": "1:6bb6fee1d40034ec",
+    "word_count": 2139
+  },
+  "last_updated": "2024-02-27T16:31:09.266747+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Laura E. T. Barelli et al. v. Frank Wagner."
+    ],
+    "opinions": [
+      {
+        "text": "GARRETT, Chief Justice.\nThis is an action of trespass to try title for the recovery of an undivided one-half interest in and to lot number 1, block number 91, situated in the city of Victoria, instituted by Laura E. T. Barelli and others against Frank Wagner.\nPlaintiffs showed title in themselves to the land in controversy, as the heirs of John C. Barelli, deceased, and should recover in this suit, unless the defendant acquired title thereto by virtue of a judicial sale of the land made in the case of Samuel M. Todd v. John C. Barelli, brought in the District Court of Victoria County, by attachment, against the said John C. Barelli, as a nonresident of the State.\nThe suit of Todd v. Barelli was brought in January, 1876. It was upon a judgment obtained by Todd against the defendant in that suit in one of the District Courts of New Orleans, in Louisiana. The petition averred that the defendant resided in Louisiana; it set out the cause of action, and alleged that the defendant, John C. Barelli, was indebted to plaintiff in the sum of $4196.37, and concluded as follows: \u201c Petitioner further avers, that the said John C. Barelli has property situated in Victoria County, out of which he believes a portion of this debt can be made; wherefore petitioner sues and prays that the said John C. Barelli be cited by publication to appear and answer hereto at the next term of your honorable court for the county of Victoria, and that upon final trial petitioner have judgment for his said debt, with interest and for all costs of suit; and petitioner further prays, that a writ of attachment may issue, directing the sheriff of Victoria County to seize so much of the property of the said John C. Barelli as will pay the debt aforesaid,\u201d etc.\nThe petition was sworn to by A. H. Phillips, one of the attorneys for the plaintiff, and, with the affidavit of the attorney to the petition, forms the only affidavit made in the case. Following the petition is the affidavit: \u201c I do solemnly swear, that the matters set forth, in the foregoing petition are true, and that John C. Barelli, the defendant named in the foregoing petition, is justly indebted to Samuel M. Todd, the plaintiff named in the foregoing petition, in the sum of $4196.37, and that the said Barelli is not a resident of Texas.\u201d\nIt will appear from an inspection of the affidavit that the attorney of plaintiff did not swear that the attachment was \u201cnot sued out for the purpose of injuring the defendant,\u201d as required by the statute in force at the time the suit was brought. Pasch. Dig., art. 142.\nA writ of attachment, fair on its face, was issued and levied on the land. Citation by publication was duly perfected, and no appearance was made by the defendant. No question is made as to the entire regularity of the attachment and other proceedings resulting in judgment and the sale of the land, except as to the affidavit.\nAs presented by appellants in their brief, the question before the court is, \u201c Did the court (in the case of Todd v. Barelli) get jurisdiction of the property without the statutory affidavit for attachment, the defendant being a nonresident of the State, and not personally served with process and not appearing to answer in said cause; and was the personal judgment rendered against him, and in which the order of sale issued, and to satisfy which the property was sold, a void judgment ? \u201d\nWe are of the opinion that the judgment in the case of Todd v. Barelli was not void on account of the defect in the affidavit, and consequently not subject to a collateral attack in this action of trespass to try title. That the defendant is a nonresident is made by the statute one of the grounds for an attachment; and the proceedings in the attachment suit showed that the judgment rendered, if not free from error, was certainly not void, but at most only erroneous, if the question is to be determined by the statute of our State then in force, because the act regulating attachments provided that every original attachment issued without affidavit taken as required should be abated on motion of the defendant. Pasch. Dig., art. 147.\nThis right to abate the attachment on account of defects in the affidavit or bond is restricted by the statute to the defendant in the suit. Good bar, White & Co. v. Bank, 78 Texas, 461. That the act was intended to apply as well to cases where the property of a nonresident has been attached, if there could be any question as to that, is made clear by the eighteenth section, which declares, 1 \u2018 That no judgment shall be rendered in suits by attachment unless the citation or summons has been served in the ordinary mode or by publication in the manner provided by law.\u201d Pasch. Dig., art. 156. In accordance with the procedure in this State, the attachment of the property of the defendant and citation to him by publication conferred jurisdiction upon the court to subject the property to the satisfaction of the plaintiff\u2019s demand by sale thereof; and the affidavit was not a jurisdictional fact, so as to preclude the court having general jurisdiction of the subject matter from adjudicating its sufficiency to support a writ, fair on its face, which has been levied upon the property. Is this procedure due process of law, such as is necessary for a State court to take in subjecting the property of a nonresident, situated within the limits of the State, to a demand that may be established by its judgment ?\nThere are quite a number of decisions by the State courts which hold, that the affidavit is a jurisdictional fact, and that a judgment rendered in an attachment proceeding defective for the want of an affidavit complying with the provision of the statute, is utterly void, and may be attacked in a collateral proceeding. These decisions are not confined to proceedings in rem where the property of a nonresident is sought to be subjected to a demand asserted in a State court, but extend to cases of ordinary attachment, when the defendant has appeared and pleaded. But on the other hand, it is held, with better reason, we think, that the attachment of the property and bringing it into the custody of the law is the fact that gives the court jurisdiction of the property of a nonresident, and that citation to the defendant, as required by our statute, is not necessary, unless otherwise provided by the procedure of the State whose court has caused the property to be attached. The question has been definitely settled in this way by the Supreme Court of the United States, in the case of Cooper v. Reynolds, 10 Wallace, 319, and Mathews v. Dinsmore, 109 United States, 216. We think, also, that the trend of the decisions of our Supreme Court is to the same effect. Stewart v. Anderson, 70 Texas, 595; Goodbar, White & Co. v. National Bank, supra, and other cases, in which the question of presumption in favor of the judgment of a court having jurisdiction of the subject matter has been considered.\nDelivered October 12, 1893.\nBecause the court rendered a personal judgment against Barelli which was void, did not affect the validity of so much of the judgment as adjudged the amount due the plaintiff, and directed the sale of the attached property to satisfy the same. Foote v. Sewall, 81 Texas, 660.\nThe judgment of the court below will be affirmed.\nAffirmed.\nAssociate Justice Pleasants did not sit in this case.",
+        "type": "majority",
+        "author": "GARRETT, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "Labatt & Labatt and Fly & Hill, for appellants.",
+      "S. B. Dabney and W. H. Wilson, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Laura E. T. Barelli et al. v. Frank Wagner.\nNo. 273.\n1. Jurisdiction \u2014 Judgment, when not Void. \u2014 A judgment against a nonresident defendant, in a suit wherein citation was by publication, but there was levy of a writ of attachment upon land within the county in which suit was brought, is not void, although the affidavit for attachment was defective, in that it did not state that the attachment was not sued out for the purpose of injuring the defendant.\n2. Jurisdictional Facts in Attachment Case. \u2014 The attachment of the property, and bringing it into the custody of the law, is the fact which gives the court jurisdiction of the property of the nonresident, and defect in the affidavit for attachment will not defeat it. Following Cooper v. Reynolds, 10 Wallace, 319; Mathews v. Dinsmore. 109 United States. 216.\n3. Judgment Valid in Part and Void in Part. \u2014 Because the court rendered a personal judgment against defendant which was void, does not affect the validity of so much of the judgment as directed the sale of the attached property to satisfy the same.\nAppeal from Victoria. Tried below before Hon. H. Clay Pleasants.\nLabatt & Labatt and Fly & Hill, for appellants.\n1. A personal judgment rendered against a nonresident of the State, cited by publication and making default, is not by due process of law, and is void. 14th Amend. Const. U. S.; Pennoyer v. Neff, 95 U. S., 714; Wood v. Stanberry, 21 Ohio St., 142; Fithian v. Monks, 43 Mo., 502; Boswell v. Dickson, 4 McLean, 642.\n2. There is no more right to issue an attachment without an affidavit than to issue an execution without a judgment. Drake on Attach., 6 ed., see. 84; Earle v. Camp, 16 Wend., 562; Parks v. Walrod, 16 Wend., 514; Beach v. Batsford, 1 Doug., 199; Mathews v. Dinsmore, 43 Mich., 461.\n3. The issuance of the writ of attachment is the movement in the exercise of jurisdiction; if there is no affidavit, there is no right to make the movement, and the writ is coram non judice and void. Drake on Attach. , 6 ed., see. 89; Wade on Attach., sec. 57; 1 Am. and Eng. Encycl. of Law, 901, note 1.\n4. Where attachment proceedings are purely ex parte, the defendant not appearing to the action, a collateral attack may be made upon the title acquired under the attachment. Drake on Attach., secs. 87b, 88; Miller v. Brinkerhoff, 4 Denio, 118; Maples v. Tunis, 11 Humph., 108; Conrad v. Magee, 9 Yerg., 428; Stewart v. Mitchell, 11 Heisk., 488; Rumbough v. White, 11 Heisk., 260; Wilson v. Arnold, 5 Mich., 98; Bray v. McCleary, 55 Mo., 128; Hargadine v. Van Horn, 72 Mo., 370; Thatcher v. Powell, 6 Wheat., 119; Corwin v. Merritt, 3 Barb., 341.\n5. The affidavit brings the power of the court into action. If there be no affidavit, the whole attachment proceeding is incurably void. Drake on Attach, 6 ed., sec. 86; Inman v. Allport, 65 Ill., 540; Indell v. Leibrock, 33 Ohio St., 254.\nS. B. Dabney and W. H. Wilson, for appellee.\n1. In Texas, where an attachment is taken out for the purpose of reaching the property of a nonresident and subjecting it to the payment of his debts, the essential jurisdictional fact is the seizure of the res. This is in this case a constructive seizure, and consists in the issuance, levy, and return of a formal writ of attachment. By statute the publication of citation is also rendered jurisdictional, the statute declaring no judgment shall be rendered unless such publication has been made. When these two requisites concur, this jurisdiction has attached. The affidavit is a mere preliminary to the issuance of the writ; defects therein are defects in orderly procedure; but the defendant, through the seizure of his property, being before the court, such defects will not subject the judgment to any other than a direct attack. Cooper v. Reynolds, 10 Wall., 308; Mathews v. Dinsmore, 109 U. S., 216; Voorhees v. Bank, 10 Pet., 449; Pasch. Dig., arts. 147, 156; Stewart v. Anderson, 70 Texas, 595; Goodbar, White & Co. v. Bank, 78 Texas, 469; Davis v. Robinson, 70 Texas, 397; Hardy v. Beaty, 19 S. W. Rep., 778; Arndt v. Griggs, 134 U. S., 316.\n2. The case in question is a proceeding which is valid only as a proceeding in rem, though founded upon a personal claim. In so far as it is valid it is a proceeding in rem, and the question as to whether the defendant, or his property, which represents him, is before the court, is to be determined by the principles regulating proceedings in rem. Pennoyer v. Neff, 95 U. S., 714; Heidritter v. Oil Cloth Co., 112 U. S.; Cooper v. Reynolds, 10 Wall., 308.\n3. The principle is of universal recognition, that the one jurisdictional fact in proceedings in rem, where other facts are not made jurisdictional by the terms of some statute, is the seizure of the res. Black on Judg., sec. 794; 10 Wall., 308; 112 U. S., 109."
+  },
+  "file_name": "0445-01",
+  "first_page_order": 471,
+  "last_page_order": 475
+}

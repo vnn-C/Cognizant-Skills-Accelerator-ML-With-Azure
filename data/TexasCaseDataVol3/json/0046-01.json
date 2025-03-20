@@ -1,0 +1,65 @@
+{
+  "id": 220982,
+  "name": "George Scott et al. v. L. Weisburg et al.",
+  "name_abbreviation": "Scott v. Weisburg",
+  "decision_date": "1893-03-15",
+  "docket_number": "No. 105",
+  "first_page": "46",
+  "last_page": "50",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 46"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 453,
+    "char_count": 9501,
+    "ocr_confidence": 0.544,
+    "pagerank": {
+      "raw": 6.267022623599536e-08,
+      "percentile": 0.38674339700886035
+    },
+    "sha256": "8727e1757c0ad77f700fdcfc40a2a80172b2d2a729db146e383ce3fa795a24f2",
+    "simhash": "1:f5405791158139e5",
+    "word_count": 1739
+  },
+  "last_updated": "2023-07-14T18:08:23.206239+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "George Scott et al. v. L. Weisburg et al."
+    ],
+    "opinions": [
+      {
+        "text": "COLLARD, Associate Justice.\nThis suit was brought in form of trespass to try title, by George Scott and his wife Nettie Scott, the appellants, against L. Weisburg and Morris Lochman, for part of a lot in block 15 of the D. T. Chamberlin addition to the city of Waco.\nThe part of the lot in dispute is described in the petition as beginning on the east line of Sixth Street south 52\u00b0 west (evidently intended for east) 15 feet from the northwest corner of a lot conveyed by Wiley Jones to George Scott on July 14, 1885, running thence with the street south 52\u00b0 east 35 feet, for front, and thence back north 38\u00b0 east 165 feet, forming a parallelogram.\nLochman disclaimed. Weisburg pleaded not guilty, and statute of limitations of three and five years and improvements in good faith; interpleaded his warrantors, Stanley Epstein and Wiley Jones; Epstein adopting the pleas of Weisburg, and Jones denying liability as warrantor.\nThe court tried the case without a jury, and gave judgments for defendants, from which plaintiffs have appealed.\nBoth plaintiffs and defendants claim under Wiley Jones as a common source of title. The dispute as to the ownership of the strip of land in suit arose upon the following facts: On March 25, 1878, J. D. Bell was the owner of certain land in the Chamberlin addition to the city of Waco, lying between Fifth and Sixth Streets, which ran north 45\u00b0 west a short distance, and then changing course to north 52\u00b0 west, the south line of the Bell block running south 45\u00b0 west. March 25, 1878, Bell conveyed to one Jackson a strip 25 feet wide on the end of the block, calling for the south line of Marlboro Avenue at its north line, running south 45\u00b0 west from Fifth to Sixth Streets. At this time, stakes were driven down at the intersection of the north line of Marlboro Avenue with Fifth and Sixth Streets, Bell being present, so as to make the avenue 65 feet wide at Fifth and 50 feet wide at Sixth Street. The course of the north line of the avenue is not given, but the length of the line is about 350 feet. On the 6th of April, 1878, Bell conveyed to one Angel\u00ed a tract between Fifth and Sixth streets, the south line being the north line of Marlboro Avenue as marked. This survey begins on the west line of Fifth Street and runs from the avenue with Fifth Street, which here runs north 52\u00b0 west 192 feet; thence south 38\u00b0 west 350 feet to Sixth Street; thence with Sixth Street 191 feet to a point where it intersects the north line of Marlboro Avenue, and thence with this line to the beginning (course not given). Immediately after his purchase, Angel\u00ed fenced the land conveyed to him, and afterwards lived on it, the fence on the north line being almost parallel with the north line of the avenue, and 191 feet from the avenue on Sixth Street.\nJune 15, 1885, Angel\u00ed and wife conveyed the tract to Wiley Jones, copying field notes in the deed from Bell; the whole tract then fenced.\nOn July 15, 1885, Wiley Jones conveyed to George Scott lot 50 feet wide on Sixth Street, and running back 165 feet north 38\u00b0 east. Jones afterwards sold the residue of the Angel\u00ed survey, and by mesne conveyances defendant Weisburg became the owner.\nWhile Jones and George Scott were negotiating, the lot sold to Scott was pointed out to him by Jones, the north line being the fence erected by Angel\u00ed 165 feet in length; and the said lines 50 feet long were measured and stakes driven down to mark the corners. The line between these two stakes was pointed out to him as his south line, and the fence as his north line. When he built on the lot he placed his fence on this south line.\nThe confusion of boundary arises in this manner: If the north line of the Angel\u00ed tract is run according to course, south 38\u00b0 west, it will intersect Sixth Street some 30 feet south of the point where the fence reaches the street, and the line from such point of intersection south 52\u00b0 east to Marlboro Avenue will be too short by the same distance; whereas, by making the fence the north line of the Angel\u00ed tract, the distance on Sixth Street from the point where the fence intersects it to the avenue will be correct. The court below solves the difaculty by making course yield to distance, making the fence the north line, and giving the full distance called thence to the avenue along Sixth Street. This gives the land in dispute to defendants.\nWe can not say but that this conclusion is more consistent with all the facts in evidence showing the intention of the parties at the time of the deed to Angel\u00ed, than the other conclusion insisted on by appellants, that the course of the north line should prevail.\nThis conclusion, it seems to us, becomes irresistible when applied to Scott\u2019s survey. The land was so pointed out to him, and his lines and corners so designated and established at the time of his purchase. He settled upon the lot as thus located, and has since lived upon it. Under the facts, we do not think the court\u2019s finding should be disturbed. This disposes of the principal and important question in the case.\nWe can not see that the court erred in explaining his findings of fact and law by the map referred to and filed therewith. It is true, it was not offered in evidence, though it was used in connection with the testimony as explanatory of it. The court so used it in his findings to render them more intelligible. He could properly have made a sketch of his own from the testimony, and filed it as a part of his findings. Instead of this, he adopted a sketch prepared by one of the witnesses for the purpose, which he .had the right to do.\nThe court\u2019s finding, that Fifth and Sixth Streets run north 52\u00b0 west, when in fact they for a short distance run north 45\u00b0 west, was immaterial, and did not affect the case or the conclusion reached.\nThe testimony supported the finding, that to run the north line of the Angel\u00ed block south 38\u00b0 west, according to call in the deed to Jones, would shorten the west line on Sixth Street to the avenue by about 30 feet. Scott could, under the circumstances of his purchase and the designation of his boundaries, only hold the land 50 feet from the fence on Sixth Street.\nWe have already seen that the court was authorized by the testimony in giving preference to the fence as Scott\u2019s north line, and in confining his premises to an area of 50 feet in width from the fence, measured on Sixth Street, and it is unnecessary to repeat what has been said upon that subject in answer to special assignments raising the same question. This finding is the controlling feature in the case and must stand. It leaves the disputed strip sued for as defendants claim it to be, and necessitates the judgment as rendered by the court below, which is ordered to be affirmed.\nAffirmed.\nDelivered March 15, 1893.",
+        "type": "majority",
+        "author": "COLLARD, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "W. M. Flournoy, for appellants."
+    ],
+    "corrections": "",
+    "head_matter": "George Scott et al. v. L. Weisburg et al.\nNo. 105.\n1. Course may Yield to Distance \u2014 Calls in Deed. \u2014Where calls of a survey appear inconsistent, .and it appears that course should yield to distance in a call in order to conform to the intent of the parties, and if the land was so pointed out in the negotiations, course may properly be disregarded. See example.\n2. Findings of Fact \u2014Maps.\u2014In the testimony a witness illustrated his testimony by making a map. The map was not introduced in evidence. The judge in his finding of facts used said map. Meld, not error; he could adopt it, or have made another.\nAppeal from McLennan. Tried below before Hon. J. R. Dickinson.\nThe map following will aid in understanding the opinion. Its original formed part of the finding of facts filed by the trial judge. It was made by a witness to illustrate his testimony, but it was not offered or admitted in evidence, and does not appear to be accurate.\nW. M. Flournoy, for appellants.\n1. The court erred in its conclusions of law and of facts in basing its decree on a plot that was not in evidence and not proven on the trial of said cause. The court should arrive at its decision and render judgment on facts adduced in evidence exclusively. The plot attached to and referred to in the court\u2019s conclusions of facts and law was not in evidence and should not have been considered.\n2. The court erred in its conclusion of law and facts, in making course yield to distance, thereby pressing the north line of Angel\u00ed out of its course and abrogating all calls in deed of conveyance from Bell down to both plaintiffs and defendants. In its conclusion the court says: \u201cThis suit is brought to recover a strip in the south side of the 50 feet lot which plaintiff took possession of under his deed from Jones. The strip is 30 feet wide on Sixth Street and 17 feet at the end of the lot, 165 feet east of Sixth Street. If the course is to control in the deed from Bell to Angel\u00ed and from Jones, Angel\u00ed\u2019s vendee, to plaintiff, the strip sued for would be embraced in plaintiff\u2019s deed from Jones; but if in the deed from Bell to Angel\u00ed the distance in the third call is to control in locating the tract, the land would not be embraced in plaintiffs\u2019 deed. The court concludes that the proper rule in this case is to make course yield to distance, as it is only by that means that the proper area can be given to Angel\u00ed under that deed, and it is evident to the court that Bell intended to convey to Angel\u00ed distance of 191 feet on Sixth Street, and to make the tract almost an oblong square. This being the conclusion of the court on the facts, it follows that plaintiffs show no right of recovery, and judgment is ordered to be rendered for defendants.\u201d"
+  },
+  "file_name": "0046-01",
+  "first_page_order": 72,
+  "last_page_order": 76
+}

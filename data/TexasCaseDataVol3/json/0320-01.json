@@ -1,0 +1,66 @@
+{
+  "id": 220957,
+  "name": "W. B. Holloway v. W. L. Cabell et al.",
+  "name_abbreviation": "Holloway v. Cabell",
+  "decision_date": "1893-05-03",
+  "docket_number": "No. 154",
+  "first_page": "320",
+  "last_page": "322",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 320"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 298,
+    "char_count": 4512,
+    "ocr_confidence": 0.547,
+    "pagerank": {
+      "raw": 4.076306636737454e-08,
+      "percentile": 0.008884025830654852
+    },
+    "sha256": "e3ac056c7ee7bfc4aeab444e586131f3bb9ab0e522ea0d6bbcdb5ebc51b11063",
+    "simhash": "1:29b26df42d3eac8e",
+    "word_count": 792
+  },
+  "last_updated": "2023-07-14T18:08:23.206239+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "W. B. Holloway v. W. L. Cabell et al."
+    ],
+    "opinions": [
+      {
+        "text": "STEPHENS, Associate Justice.\nIn April, 1884, W. B. Holloway recovered a judgment in the District Court of Nolan County against N. J. Fritz & Son for $1400, foreclosing an attachment lien on what was known as the Fritz stock of horses, ranging in Nolan and adjoining counties. In January, 1885, this stock of horses was sold by the sheriff of Nolan County, under an alias, order of sale issued upon said judgment; at which sale appellant became the purchaser, his bid of $1500 being credited on the judgment. The sheriff executed to him a bill of sale, which was acknowledged and placed upon record The sale took place before the court house door, and the proceedings seem to have been regular, except that the acknowledgment of the bill of sale appears not to have been attested by an official seal. The attachment levy and foreclosure sale were made under those sections of the Eevised Statutes (articles 2293, 2314, 2316) providing for a range levy and sale.\nAbout the last of April or first of May next after this sale, appellant gathered and rounded up said stock of horses, branded the colts, and then turned them loose upon the range again, thereafter controlling and managing them as he did the rest of his stock running upon the range. In November, 1886, some 40 or 50 of these horses were levied upon by a deputy United States marshal, under an execution against N. J. Fritz Son on a judgment in favor of the Kansas Manufacturing Company. This levy began as a range levy, but under it the horses were rounded up and herded by the deputy marshal, and delivered at the sale to the purchaser. This suit was brought by appellant against the marshal and the sureties on his official bond, to recover the value of the horses so seized and converted.\nUpon the trial, the court charged the jury to return a verdict for defendants, on the ground that plaintiff had failed to prove title to or possession of the horses described in his petition. Appellant assigns the giving of this charge as error, and we are of opinion that the assignment must be sustained. We gather from the record, there being no brief for appellees, that the title of appellant was held to be invalid, on the ground that the sale under the foreclosure judgment of horses running upon the range was not sufficient to pass title, without being followed by a properly acknowledged and recorded bill of sale, as provided in article 4564 of the Eevised Statutes. Black v. Vaughan, 70 Texas, 47.\nIn the case of Panhandle National Bank v. Emery, 78 Texas, 512, it is held that this article of the statute is only applicable where the title depends alone upon the bill of sale. It has long been the rule, that an execution or a judicial sale not only does not depend alone upon the conveyance executed by the officer, but, if otherwise regular, the title will pass even without a formal conveyance. Miller v. Alexander, 8 Texas, 36; Bartlett v. Cocke, 15 Texas, 477. We are of opinion that article 4564 is applicable alone to a voluntary disposition by the owner of \u201cstock animals\u201d as they run in the range, and that it has no application to an execution or judicial sale of such animals, which is fully provided for in articles 2293, 2314, and 2316. Appellant having rounded up and taken possession, as purchaser under the foreclosure sale, of the horses so sold to him, including those afterwards seized by the deputy marshal, did not fail to acquire title and possession because the sheriff\u2019s bill of sale, for want of an acknowledgment under seal, was not, and could not be, properly registered. For a construction of the articles last cited, see Gunter v. Cobb, 82 Texas, 598.\nIt follows from these conclusions, that the judgment must be reversed and the cause remanded for a new trial.\nReversed and remanded.\nDelivered May 3, 1893.",
+        "type": "majority",
+        "author": "STEPHENS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Cowan & Fisher, for appellant.",
+      "No brief for appellees has reached the Reporter."
+    ],
+    "corrections": "",
+    "head_matter": "W. B. Holloway v. W. L. Cabell et al.\nNo. 154.\nExecution Sale of Live Stock on Range\u2014Record of Bill of Sale. Article 4564 of the Revised Statutes, providing that in sales of live stock running on the range no title shall pass until the bill of sale is recorded, is applicable alone to voluntary conveyances by the owner, and does not apply to judicial or execution sales; and where a purchaser at such execution sale has afterwards rounded up and taken possession of the stock, his title does not fail because the sheriff\u2019s bill of sale to him is defectively recorded.\nAppeal from Nolan. Tried below before Hon. William Kennedy.\nCowan & Fisher, for appellant.\nNo brief for appellees has reached the Reporter."
+  },
+  "file_name": "0320-01",
+  "first_page_order": 346,
+  "last_page_order": 348
+}

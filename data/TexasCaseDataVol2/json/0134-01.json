@@ -1,0 +1,73 @@
+{
+  "id": 219234,
+  "name": "P. J. Willis & Bro. v. M. A. Byars, Administratrix",
+  "name_abbreviation": "P. J. Willis & Bro. v. Byars",
+  "decision_date": "1893-01-17",
+  "docket_number": "No. 68",
+  "first_page": "134",
+  "last_page": "137",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 134"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "120 U. S., 205",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 491,
+    "char_count": 8783,
+    "ocr_confidence": 0.578,
+    "pagerank": {
+      "raw": 8.294651698820555e-08,
+      "percentile": 0.4794932059745568
+    },
+    "sha256": "480a0fb425e386038dec0302d0f9a7312d04be686261f97bb61d0b6855050d6c",
+    "simhash": "1:78ddfea21a6187ad",
+    "word_count": 1496
+  },
+  "last_updated": "2024-02-27T19:43:33.086404+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "P. J. Willis & Bro. v. M. A. Byars, Administratrix."
+    ],
+    "opinions": [
+      {
+        "text": "STEPHENS, Associate Justice.\nThe controlling question in this case arises upon the admission of paroi testimony to add to, and hence vary, one or more written instruments; it being contended by appellee that the testimony admitted came within the exceptions to the general rule on that subject. The written agreement between the parties, executed on the 25th day of May, 1886, omitting description of the property, reads as follows:\n\u201cState of Texas, County of Wilbarger.\u2014This agreement, made and entered into this day by and between P. J. Willis & Bro., of Galveston, Texas, of the first part, and Mrs. M. A. Byars, of Vernon, Texas, of the second part, witnesseth:\n\u201c That the party of the first part agreed not to defend case number 44, M. A. Byars v. P. J. Willis & Bro., in the District Court of Wilbarger County, Texas, but to allow the injunction asked therein to be made perpetual, upon the party of the second part paying all costs in said case which shall be adjudged against her.\n\u201cAnd said parties of the first part further agree to release and quitclaim to the said party of the second part all their right, title, and interest and claim in and to lots numbers 11,12,13, 14, and 15, in block number 31, now occupied as a homestead by party of the second part. In consideration of all which said party of the second part agrees to release and quitclaim to said parties of the first part all her right, title., and claim in and to the following lots and parcels of land in the town of Vernon, Wilbarger County, Texas. * * *\n\u201cAll said property being and lying in said town of Vernon, and the additions thereto, in Wilbarger County, Texas.\n\u201cAnd the said party of the second part further agrees to dismiss case number 78, M. A. Byars v. P. J. Willis & Bro., and number 81\u2019, M. A. Byars v. P. J. Willis & Bro., on the District Court docket in Wilbarger County, Texas, and to pay all costs in said two cases. And it is further agreed, in consideration of the above quitclaim deed, to be executed, by the said party of the first part, that the said party of the second part further release all claims for damages against the said party of the first part by reason of the suits, judgments, levies heretofore made and instituted by the said P. J. Willis & Bro. against C. M. Byars and herself. Witness our hands, this 25th day of May, 1886.\n\u201c Witnesses: M. A. Byars,\n\u201c Henry Finch, P. J. Willis & Bro.,\n\u201cDave McBride. Per Geo. Diehl. Agent.\u201d\nIn accordance with this agreement, there was executed by appellee, contemporaneously therewith, a quitclaim deed to appellants to certain lots of land therein set out, for the recited consideration of 81 and a release and quitclaim to certain other lots of land therein set out, executed by appellants to appellee. This deed contained the further recital that, \u201cmy husband, C. M. Byars, having left and abandoned me, and now being absent from the State, having been away for months, I make this quitclaim and release as the remaining manager of the community property, and to further protect its interest.\u201d In other respects, it was a quitclaim deed in the usual form, reciting only the considerations above specified.\nThe contention of appellee was that these writings did not contain the full contract; and she offered and was permitted, over the objection of appellants, to prove orally, that in addition to the matters settled and agreed upon, as shown by these writings, it was further agreed by appellant\u2019s agent, George Diehl, that a certain judgment which had been recovered in 1883 by appellants against C. M. Byars, in the District Court of Galveston County for over $4000, should also be considered settled on that day and by the agreement then entered into, and that thereafter said Diehl would mark the same satisfied on the record of said suit in Galveston County.\nAppellants objected to the introduction of this evidence as being violative of the rule which excludes oral testimony where it has the effect of varying a contemporaneous written instrument.\nAppellee alleged, that either through mistake or fraud, this part of the-agreement was not specified in the written instruments above set out.\nThe testimony, however, does not seem to have been admitted upon this ground; and the court in the charge did not submit that issue to the-jury, but instructed them that if at the time of the execution and delivery of the deed from M. A. Byars to plaintiffs below, it was understood and agreed by both def\u00e9ndant and plaintiff\u2019s agent, George Diehl, that the deed should be accepted by plaintiffs in full satisfaction and payment of said judgment, and that said Diehl had authority to settle said judgment, that they should find in favor of appellee upon that issue. This charge is also complained of by appellants.\nThe first contention of appellee, in support of the action of the court, is, \u201cWhere written instruments form a part of\"a more comprehensive transaction, the terms of which are not attempted to be expressed in writing, paroi evidence as to such parts of the transaction as were not reduced, to writing is admissible;\u201d citing the case of Thomas v. Hammond, 47 Texas, 54, and other cases.\nThese cases announce the correct rule where no attempt is made to reduce the more comprehensive agreement to writing. That, in our opinion, is not this case. Here the parties undertook with care to reduce to writing an agreement comprehending several different transactions. The agreement on its face appears to be complete. As to whether there was- or was not at the time, as a part of the settlement, an additional verbal agreement to satisfy the original judgment, the statements of the witnesses-for appellants and appellee were in sharp contradiction. To prevent such a result is evidently one of the objects of the rule which holds the writing to contain the entire agreement where on its face it appears to be, though not in fact, complete, and it is not shown that this appearance of completeness results from fraud, accident, or mistake. Belcher v. Mulhall & Scaling, 57 Texas, 18, and cases there cited.\nAppellee\u2019s second contention is, that paroi evidence was admissible to-show that the consideration for the quitclaim deed executed by appellee was not fully expressed; but that, in addition to the considerations named, it was agreed that the judgment in question should be satisfied. This proposition seems to have been decided against appellee by us at a former day of this term in the following cases: Weaver v. The City of Gainesville (1 Texas Civil Appeals, 286), and Rubrecht v. Powers (Id., 282).\nOur construction of the written instruments executed as above set forth, and constituting one transaction, leads to the conclusion that oral testimony to incorporate as a part thereof the agreement to satisfy the Galveston judgment was erroneous and necessitates a reversal of the judgment. We are, however, of the opinion that the court did not err in refusing to strike out appellee\u2019s plea in reconvention.\nThe questions raised by the other assignments of error are not likely to arise upon another trial, and hence need not be considered.\nThe judgment will be reversed and the cause remanded.\nReversed and remanded\nDelivered January 17 1893.",
+        "type": "majority",
+        "author": "STEPHENS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Charles Wheeler, Frank P. McGee, and G. E. Mann, for appellants.",
+      "J. F. Cooper, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "P. J. Willis & Bro. v. M. A. Byars, Administratrix.\nNo. 68.\nEvidence \u2014 Parol Testimony Varying Written Instrument. \u2014 A written agreement, comprehensive in character, specifying different transactions involved, and appearing on its face to be complete, can not, in the absence of proof of fraud, accident, or mistake, be varied by paroi evidence showing that at the time, and as a part of the settlement evidenced by the writing, there' was an additional verbal agreement forming part of the settlement, but not embraced in the written instrument.\nAppeal from Wilbarger. Tried below before Hon. G. A. Brown.\nCharles Wheeler, Frank P. McGee, and G. E. Mann, for appellants.\nA contemporaneous paroi agreement can not be set up to vary the terms of a written contract. Belcher v. Mulhall, 57 Texas, 18; Smith v. Garrett, 29 Texas, 53; Lanius v. Shuber, 77 Texas, 27; Donley v. Bush, 44 Texas, 7; Self v. King, 28 Texas, 552; Bedwell v. Thompson, 25 Texas Supp., 246; Callison v. Gray, 25 Texas, 86; Hunt v. White, 24 Texas, 653; Wheeler v. Friend, 22 Texas, 683; Lanes v. Squyres, 45 Texas, 387; Boffinger v. Tuyes, 120 U. S., 205; Howards v. Davis, 6 Texas, 180.\nJ. F. Cooper, for appellee.\nWhere written instruments form a part of a more comprehensive transaction, the terms of which are not attempted to be expressed in the writing, paroi evidence as to such parts of the transaction as were not reduced to writing is admissible. Thomas v. Hammond, 47 Texas, 54; Cox v. Bray, 28 Texas, 259; Westmoreland v. Carson, 76 Texas, 623; Preston v. Breedlove, 36 Texas, 96."
+  },
+  "file_name": "0134-01",
+  "first_page_order": 160,
+  "last_page_order": 163
+}

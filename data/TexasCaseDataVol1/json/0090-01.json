@@ -1,0 +1,320 @@
+{
+  "id": 216220,
+  "name": "Bateman and Brother v. The Western Star Milling Company",
+  "name_abbreviation": "Bateman & Brother v. Western Star Milling Co.",
+  "decision_date": "1892-10-11",
+  "docket_number": "No. 502",
+  "first_page": "90",
+  "last_page": "93",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Tex. Civ. App. 90"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "8 Wheat., 1",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        6136159
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/21/0001-01"
+      ]
+    },
+    {
+      "cite": "114 U. S., 196",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11293416
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/114/0196-01"
+      ]
+    },
+    {
+      "cite": "120 U. S., 502",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3467910
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/120/0502-01"
+      ]
+    },
+    {
+      "cite": "1 How., 311",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "case_ids": [
+        3325053
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/42/0311-01"
+      ]
+    },
+    {
+      "cite": "122 U. S., 347",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3521428
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/122/0347-01"
+      ]
+    },
+    {
+      "cite": "15 Wall., 232",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.,",
+      "case_ids": [
+        3425578
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/82/0232-01"
+      ]
+    },
+    {
+      "cite": "10 Sup. Ct. Rep., 881",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        1217868
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/136/0104-01"
+      ]
+    },
+    {
+      "cite": "120 U. S., 489",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3468705
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/120/0489-01"
+      ]
+    },
+    {
+      "cite": "128 U. S., 129",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3533434
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/128/0129-01"
+      ]
+    },
+    {
+      "cite": "16 Wall., 479",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.,",
+      "case_ids": [
+        411277
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/83/0479-01"
+      ]
+    },
+    {
+      "cite": "127 U. S., 640",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3531373
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/127/0640-01"
+      ]
+    },
+    {
+      "cite": "113 U. S., 727",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3511806
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/113/0727-01"
+      ]
+    },
+    {
+      "cite": "12 Whart., 285",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Wall., 168",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.,",
+      "case_ids": [
+        3445849
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/75/0168-01"
+      ]
+    },
+    {
+      "cite": "94 Ind., 14",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1340681
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/94/0014-01"
+      ]
+    },
+    {
+      "cite": "79 Ind., 264",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1949825
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/79/0264-01"
+      ]
+    },
+    {
+      "cite": "9 So. Rep., 136",
+      "category": "reporters:state_regional",
+      "reporter": "So.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "16 Pac. Rep., 605",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "141 U. S., 47",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3556047
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/141/0047-01"
+      ]
+    },
+    {
+      "cite": "111 U. S., 196",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 Wall., 181",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "148 U. S., 314",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "120 U. S., 489",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3468705
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/120/0489-01"
+      ]
+    },
+    {
+      "cite": "113 U. S., 727",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3511806
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/113/0727-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 520,
+    "char_count": 9492,
+    "ocr_confidence": 0.551,
+    "pagerank": {
+      "raw": 1.0786574472582153e-07,
+      "percentile": 0.5619314099007316
+    },
+    "sha256": "8874fad0e4216837f24a7eb8107a2fa40e5d03837ae93b0a0fec3e7ea48f6f73",
+    "simhash": "1:b67f580a586a89ea",
+    "word_count": 1569
+  },
+  "last_updated": "2024-02-27T16:44:05.763049+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bateman and Brother v. The Western Star Milling Company."
+    ],
+    "opinions": [
+      {
+        "text": "TARLTON, Chief Justice.\nJanuary 5, 1891, in the District Court of Tarrant County, appellee, as plaintiff, brought this suit against appellants, as defendants, upon certain acceptances in the aggregate sum of $1422.82. From a judgment in behalf of appellee for this amount, rendered June 25, 1891, appellants prosecute this appeal.\nThere is in the record an agreed statement of the facts proved. The terms of this agreement, with reference to the interstate character of the transaction involved and liereinbelow referred to, are to some extent vague and indefinite. As interpreted by us, however, and by the parties in their briefs, the agreement shows substantially as follows:\nThat at the date of the acceptances and of the institution of this suit, and of the rendition of the judgment, the plaintiff was a foreign corporation for pecuniary profit, organized under the laws of the State of Kansas, and that at said, dates it was and had been, through its commercial agents and otherwise, soliciting business in the State of Texas, and as such had sold goods to the defendants in this cause and to various other persons and firms in Texas; that it had no general office or special place of business in this State; that at said dates it had failed to file its articles of incorporation with the Secretary of State of the State of Texas, for the purpose of procuring a permit under the provisions of the Act of the Legislature of the State of Texas, approved April 3, 1889; that the acceptances sued on were executed in consideration of certain goods and merchandise purchased by the defendants in Fort Worth, Texas, from plaintiff, through its commercial agent or drummer; that in pursuance of said purchase the goods in question were shipped by the appellee in the State of Kansas, thence transported and delivered to the appellants in Fort Worth, Texas.\nThe Act of the Legislature referred to requires that foreign corporations (save in certain specified cases) desiring \u201c to transact business in this State, or solicit business in this State, or establish a general or special office in this State,\u201d shall file with the Secretary of State a duly certified copy of their articles of incorporation. It further provides, that on failure to so file such articles of incorporation, 1 \u2018 no such corporation can maintain any suit or action, either legal or equitable, in any of the courts of this State, upon any demand,\u201d etc. It further provides, that in order to procure such permit, such corporation shall pay a fee, ranging from $25 to $200, according to the amount of its capital stock.\nThe contention of appellants is, that the failure of plaintiff to comply with the Act of the Legislature above referred to defeats its right to maintain this suit. The contention of appellee is, that to it, as a foreign corporation engaged in interstate commerce, this statute is inapplicable; or, if sought to be applied, that it is unconstitutional and void \u2014 that it is repugnant to the \u201c commerce clause\u201d of the Federal Constitution.\nThe principle is well established, that it rests purely within the discretion of a State to recognize or to repudiate a foreign corporation; that it can, if such be its pleasure, exclude such a corporation entirely, or admit it conditionally. This principle, however, is not of universal application. A very emphatic and well fixed instance in which it does not obtain, is where a foreign corporation is engaged in interstate or foreign commerce. Horn Silver Mining Co. v. New York, 148 U. S., 314. That provision of the Federal Constitution which provides that 1 \u2018 Congress shall have power to regulate commerce with foreign nations and among the several States,\u201d constitutes such regulation a domain of legislation peculiarly within Federal prerogative.\nThe question then arises: Was the corporation plaintiff in this case engaged in interstate commerce, within the meaning of the Federal Constitution ?\nThe record, as we understand it, discloses that plaintiff corporation shipped, from its domicile in Kansas, goods and merchandise to Fort Worth, Texas, and there delivered them, or caused them to be delivered, to appellants, for which the indebtedness sued on was contracted. These goods were commodities of barter and sale \u2014 the essence of commerce; and the business in which the corporation plaintiff was engaged consisted in transactions of this character. It must be held, therefore, that the sale, transportation, and delivery of merchandise under such circumstances, and in the transaction of such business from one State to another, constituted an interstate commercial transaction within the meaning of the commerce clause in question, which applies as well to commerce carried on by corporations as to that carried on by individuals. Paul v. Virginia, 8 Wall., 181; Robbins v. Taxing District, 120 U. S., 489; Ferry Co. v. Pennsylvania, 111 U. S., 196; see also opinion of Matthews and Blatchford, Justices, in Mfg. Co. v. Ferguson, 113 U. S., 727; Crutcher v. Kentucky, 141 U. S., 47-62.\nWe are constrained, therefore, to hold, by virtue of an unavoidable construction of the authorities cited, that the statute invoked, if applied to the corporation plaintiff in this case and to its transactions, would impose conditions and restraints upon interstate commerce; that it would regulate interstate commerce. So understood and so applied, it is in conflict with the constitutional provision referred to, and must be deemed inoperative and void. Singer Mfg. Co. v. Hardee, 16 Pac. Rep., 605; Ware v. Shoe Co., 9 So. Rep., 136.\nDelivered October 11, 1892.\nThe opinions in the cases last cited, from the Supreme Courts of New Mexico and Alabama respectively, are particularly pertinent here. There are doubtless, however, cases in which the statute in question would be effective, and beneficially so; but it must be held not to be applicable in this case.\nAppellants addressed to the plaintiff\u2019s petition a special exception, the overruling of which they have assigned as error. We la.y no stress upon this assignment, as in the light of the facts subsequently fully developed, any error committed in reference to the special exception was rendered wholly immaterial.\nThe judgment is affirmed.\nAffirmed.",
+        "type": "majority",
+        "author": "TARLTON, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "Greene & Humphreys, for appellants.",
+      "Camp & Camp and I. P. Hutchison, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "SECOND DISTRICT, OOTOBER, 1892.\nBateman and Brother v. The Western Star Milling Company.\nNo. 502.\n1. Foreign. Corporations \u2014 Interstate Commerce \u2014 The Act of April 3,1889 (Acts Twenty-first Legislature, 87), providing that foreign corporations desiring to transact or solicit business in this State, or establish a general or special office in this State, shall file with the Secretary of State a duly certified copy of the articles of incorporation, and pay afee for a permit issued thereon, and that no such corporation failing to so do can maintain any suit or action, either legal or equitable, in any of the courts of this State, imposes conditions and restraints upon interstate commerce, and is in conflict with the fourth clause of section 8, article 1, of the Federal Constitution, giving to Congress the power to regulate commerce with foreign nations and among the several States.\n2. Same. \u2014 The sale of goods in one State by a corporation domiciled in another State, acting through drummers and shipping the goods so sold, constitutes interstate commerce.\nAppeal from Tarrant. Tried below before Hon. N. A. Stedman.\nThe opinion states the ease.\nGreene & Humphreys, for appellants.\nThe court erred in rendering judgment in favor of plaintiff and against the defendants, because the evidence showed that the plaintiff was and is a foreign corporation, organized under the laws of the State of Kansas, for pecuniary profit, and was at the time of making the contract sued on in this cause transacting and soliciting business in Texas, and had not at the time of making said contract, nor since, filed its articles of incorporation under the provisions of the Act of the Legislature of Texas, approved April 3, 1889, for the purpose of procuring a permit. Singer Mfg. Co. v. Effinger, 79 Ind., 264; Elston v. Piggott, 94 Ind., 14; Cooper Mfg. Co. v. Ferguson, 113 U. S. (Reporter\u2019s Ed.), 727; 2 Mora. on Corp., secs. 661-669; Paul v. Virginia, 8 Wall., 168; Ogden v. Saunders, 12 Whart., 285.\nCamp & Camp and I. P. Hutchison, for appellee.\n1. The sending, by corporations engaged in merchandise, and domiciled in a particular State, of drummers into other States, and by means thereof procuring sales of merchandise and the shipment of such merchandise from one State into the other to such purchasers, is interstate commerce; and any attempted regulation thereof, or restriction or burden thereon, by any State, is an usurpation of the power confided solely to the United States Congress, and is in conflict with article 1, section 8, clause 4, of the Constitution of the United States, known as the \u201ccommerce clause.\u201d Cooper Mfg. Co. v. Ferguson, 113 U. S., 727; Leloup v. Port of Mobile, 127 U. S., 640 (overruling Osborne v. Mobile, 16 Wall., 479); Asher v. Texas, 128 U. S., 129; Robbins v. Shelby Taxing Dist., 120 U. S., 489; McCall v. People of California, 10 Sup. Ct. Rep., 881; State Freight Tax Case, 15 Wall., 232; Tel. Co. v. Pendleton, 122 U. S., 347; Tel. Co. v. Kinsey, 1 How., 311; Carson v. Maryland, 120 U. S., 502; Ferry Co. v. Pennsylvania, 114 U. S., 196.\n2. The total denial of remedy amounts to the deprivation of right. Bronson v. Kinzie, 1 How., 311; Green v. Biddle, 8 Wheat., 1; Edwards v. Kearzey, 6 Otto, 595."
+  },
+  "file_name": "0090-01",
+  "first_page_order": 114,
+  "last_page_order": 117
+}

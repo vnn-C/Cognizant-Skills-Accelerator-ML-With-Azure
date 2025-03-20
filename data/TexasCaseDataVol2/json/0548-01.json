@@ -1,0 +1,62 @@
+{
+  "id": 219041,
+  "name": "The Gulf, Colorado & Santa Fe Railway Company v. J. M. Coleman et al.",
+  "name_abbreviation": "Gulf, Colorado & Santa Fe Railway Co. v. Coleman",
+  "decision_date": "1893-03-16",
+  "docket_number": "No. 214",
+  "first_page": "548",
+  "last_page": "550",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 548"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 296,
+    "char_count": 5903,
+    "ocr_confidence": 0.537,
+    "sha256": "7f23a6924bd5fa91a008f3d3cb6a03055e7690b612160f0ee8d66d21a77d49f0",
+    "simhash": "1:48df9ec061e155e2",
+    "word_count": 980
+  },
+  "last_updated": "2023-07-14T16:01:39.065288+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The Gulf, Colorado & Santa Fe Railway Company v. J. M. Coleman et al."
+    ],
+    "opinions": [
+      {
+        "text": "PLEASANTS, Associate Justice.\nThis case originated in the court of a justice of the peace, where judgment was rendered for appellee Coleman, against appellant, upon the following account:\nThe Gulf, Colorado & Santa Fe Railway Company and the Receivers of the International & Great Northern Railroad Company, T. R. Bonner and T. M. Campbell,\nTo J. M. Coleman, Dr.\nTo damages for failure to transport said J. M. Coleman from San Antonio to Paris, Texas, as per agreement, on purchase of ticket by said Coleman on May 16, 1891, and failure to furnish said Coleman with sleeping apartments as per agreement, to-wit:\nExposure to rain and mud, loss of sleep, mental and physical suf-\nfering, and exposure.................................... \u00a760 00\nBus fare, Temple ........................................ 50\nHotel fare, Temple....................................... 1 50\nValue of one day\u2019s time lost............................... 25 00\nTelegrams.............................................. 85\nRailroad fare from Temple to Paris......................... 6 95\nExtra expenses for one day................................ 2 50\n\u00a797 30\nThe judgment was for the amount sued for, and an appeal was taken to the County Court, and was dismissed in the latter court upon motion of appellee; and a writ of certiorari was then sued out by appellant, and the case taken to the County Court, and it was again dismissed from that court, and an appeal was prosecuted to the Court of Appeals, and by that court transferred to this.\nWhile pending in the Court of Appeals, the appellee moved to dismiss the appeal, on the ground that no appeal was allowed from the County Court from a judgment rendered in a case originating in a Justice Court wherein the amount involved was less than \u00a7100. This motion was overruled, the Court of Appeals holding that it had jurisdiction to determine whether the County Court committed error or not in dismissing the case. Without committing this court to the ruling of the Court of Appeals in its construction of the law governing and regulating appeals in such cases, we adopt that construction in considering this appeal, and hold that there is no question of jurisdiction presented for our determination.\nThe sole question for our decision is, did the County Court err in quashing the certiorari and dismissing the appellant\u2019s case, and refusing it a trial de nova ?\nIt has long been the settled law of this State, that the writ of certiorari will only be granted when the petition shows that the complainant has a meritorious cause of action or defense, and that injustice has been done him, and that such injustice is not due to the complainant\u2019s inexcusable neglect. The record discloses that appellant appeared in the Justice Court, and was present by counsel at the trial. It offered no evidence in bar of the plaintiff\u2019s suit, but asked, in case judgment be rendered for plaintiff against appellant, that it might have judgment over against the appellee the International & Great Northern Railway Company.\nThe petition for the writ of certiorari upon its face presents a meritorious defense to the appellee\u2019s suit, and the excuse for not making this defense upon the trial before the justice of the peace is, that prior to the trial in the Justice Court, appellant had no information of the nature and character of the plaintiff\u2019s claim, save such as could be obtained from an inspection of plaintiff\u2019s account filed in the Justice Court, and from that account appellant was justified in believing that the claim was based upon the refusal of its servants to permit the appellee to ride upon its road by virtue of the ticket purchased by him in San Antonio from the International & Great Northern Railway Company; and knowing that it had no agent in San Antonio for the sale of tickets, appellant had no reason to suspect, nor did it suspect, that appellee Coleman would upon the trial swear, as he did, that he purchased the ticket described in his account from an agent of appellant, and that said appellant was surprised at this testimony.\nThis is substantially the excuse offered by appellant for not making the defense presented in its petition before the justice of the peace, and the majority of this court are of opinion that such statement does not render it excusable for failing to make defense to plaintiff\u2019s suit before the justice of the peace, and we therefore affirm the judgment of the County Court, dismissing its suit and refusing it a trial de nova.\nAffirmed.\nDelivered March 16, 1893.",
+        "type": "majority",
+        "author": "PLEASANTS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "W. J. Terry, for appellant.",
+      "J. M. Coleman, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "The Gulf, Colorado & Santa Fe Railway Company v. J. M. Coleman et al.\nNo. 214.\nExcuse for not Making Defense in Justice Court Unavailing.\u2014\nA judgment in the Justice Court was appealed and dismissed. Then a certiorari was sued out. The question is, was it rightly quashed by the County Court? It is settled law, that the writ of certiorari will only be granted when the petition shows a meritorious action or defense, which the petition in this case does. But the reason given for not urging the defense below is, that appellant had no information of the nature of appellee's claim save such as could be obtained from an inspection of plaintiff's account filed in the Justice Court, and from that appellant was justified in believing that the claim was based upon the refusal of appellant to allow plaintiff to ride on its road by virtue of a ticket purchased in San Antonio; and knowing that appellant had no agent in San Antonio for sale of tickets, appellant had no reason to suspect that appellee upon the trial would swear, as he did, that he purchased the ticket described in his account from an agent of the appellant, and said testimony was a surprise to appellant. Held, not a good excuse, and that the certiorari was properly dismissed.\nAppeal from Harris. Tried below before Hon. W. C. Anders, County Judge.\nW. J. Terry, for appellant.\nJ. M. Coleman, for appellee."
+  },
+  "file_name": "0548-01",
+  "first_page_order": 574,
+  "last_page_order": 576
+}

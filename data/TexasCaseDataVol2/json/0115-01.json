@@ -1,0 +1,218 @@
+{
+  "id": 219150,
+  "name": "The Gulf, Colorado & Santa Fe Railway Company v. W. R. Buford",
+  "name_abbreviation": "Gulf, Colorado & Santa Fe Railway Co. v. Buford",
+  "decision_date": "1893-01-10",
+  "docket_number": "No. 418",
+  "first_page": "115",
+  "last_page": "118",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 115"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "47 Mich., 470",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1400396
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich/47/0470-01"
+      ]
+    },
+    {
+      "cite": "90 Ill., 586",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        2757406
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/90/0586-01"
+      ]
+    },
+    {
+      "cite": "49 N. Y., 177",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2057458
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/49/0177-01"
+      ]
+    },
+    {
+      "cite": "56 N. Y., 304",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "20 Wis., 344",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "case_ids": [
+        8708945
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wis/20/0344-01"
+      ]
+    },
+    {
+      "cite": "23 Pa. St., 147",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        974007
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/23/0147-01"
+      ]
+    },
+    {
+      "cite": "26 Md., 288",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "23 La. Ann., 462",
+      "category": "reporters:state",
+      "reporter": "La. Ann.",
+      "case_ids": [
+        5223224
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/la-ann/23/0462-01"
+      ]
+    },
+    {
+      "cite": "116 Mass., 269",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        719922
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/116/0269-01"
+      ]
+    },
+    {
+      "cite": "68 Mo., 593",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        455122
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mo/68/0593-01"
+      ]
+    },
+    {
+      "cite": "66 N. C., 494",
+      "category": "reporters:state",
+      "reporter": "N.C.",
+      "case_ids": [
+        11277763
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nc/66/0494-01"
+      ]
+    },
+    {
+      "cite": "28 Ind., 441",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1507730
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/28/0441-01"
+      ]
+    },
+    {
+      "cite": "10 Fed. Rep., 15",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        6729412
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f/10/0015-01"
+      ]
+    },
+    {
+      "cite": "13 S. W. Rep., 45",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 521,
+    "char_count": 9207,
+    "ocr_confidence": 0.536,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.00870687827745942
+    },
+    "sha256": "cf1865b0cce06c92eab6002f8825e3744b0f2afdb736e884cf12101f011482bd",
+    "simhash": "1:fcae0093cc19c1b4",
+    "word_count": 1586
+  },
+  "last_updated": "2024-02-27T19:43:33.086404+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The Gulf, Colorado & Santa Fe Railway Company v. W. R. Buford."
+    ],
+    "opinions": [
+      {
+        "text": "HEAD, Associate Justice.\nOn July 3, 1888, appellee, while en route from Brenham to Waco, was a passenger upon the cars of appellant; and \u25a0desiring to change from the said train to the Missouri, Kansas & Texas Railway, running from Temple Junction to Waco, when appellant\u2019s train \u25a0\u25a0stopped at said junction appellee undertook to leave the car, but before he could get entirely off, the train started, and he continued his attempt to leave while the train was in motion, and in so doing was thrown upon \u2022the ground and sustained the injuries for which he recovered.\nThe evidence sustains the verdict of the jury, that appellant did not stop its train long enough to reasonably enable its passengers to leave the cars; and also, that the cars were moving so slowly that appellant acted as an ordinarily prudent person would have done in making the attempt to leave as he did, and was therefore not chargeable with contributory negligence. The amount of the verdict is not complained of.\n. Appellant complains of the action of the court in overruling its special exception to plaintiff\u2019s petition, on the ground that the same was duplicitous, in that in one count it alleges that appellee was thrown from the car without fault on his part, and in another that he was injured by voluntarily attempting to leave the train. We are of opinion that the action of the court was correct, and that the petition was properly framed to meet the different phases of the case as it might be developed by the evidence.\nAppellant also complains at the action of the court in giving the following paragraph of its charge to the jury, viz.:\n\u201cIf plaintiff was injured, and the proximate cause of the injury was defendant\u2019s negligence, plaintiff would be entitled to recover; but if the proximate cause of the injury was plaintiff\u2019s contributory negligence, defendant would be entitled to a verdict, even though defendant may have been negligent also; and if plaintiff and defendant were equally negligent, plaintiff could not recover.\u201d\nThe ground of appellant\u2019s objection is, that this charge recognizes the erroneous doctrine of comparative negligence. If this charge stood alone, it might very well be held that it was calculated to lead the jury to understand that even though plaintiff was negligent, yet if his negligence was not equal in degree to that of defendant, he would not be precluded from recovering against it. This, of course, would be error. Railway v. Gorbett, 49 Texas, 573. But we are of opinion that there is no positive error in this charge, and that its only defect consists in its liability to mislead, and that this liability was sufficiently corrected in other parts of the main charge given the jury, as well as in the special charge given at the request of the defendant. This special charge is as follows:\n\u201cIf you believe defendant guilty of negligence as alleged in plaintiff\u2019s petition, in order for you to find for plaintiff you must believe that negligence to have been the proximate cause of the injury, without any contributory negligence on the part of plaintiff. By proximate cause, is meant the actual, direct cause of the injury. By contributory negligence on the part of plaintiff, is meant such imprudent or negligent conduct on his part, without which the accident would not have occurred.\u201d\nThe giving of the charge complained of is therefore held not to be sufficient cause to require a reversal.\nAppellant also complains of the insufficiency of the evidence to sustain this verdict, and we have had great hesitancy in affirming the judgment of the court below upon this ground: It seems to us that the strong preponderance of the evidence tends to show that appellant did stop its train a reasonable time to enable appellee to alight therefrom, and was therefore not guilty of any negligence in starting it when it did. We also think that the preponderance of the evidence tends to the conclusion that appellee, at his age (72), was guilty of contributory negligence in attempting to leave a moving train; but after a careful examination, we believe it would not be proper for us to disturb the finding of the jury upon these questions, after such finding has been approved by the trial court.\nAs to the length of time the train s'topped for the passengers to leave, the witness Rison, who was with appellee, testified: \u201c When the train reached the junction I spoke to plaintiff as soon as the train stopped, saying, this is our getting off place. He got up at once. I don\u2019t think the train stopped ten seconds.\u201d And appellee for himself testified: \u201cAs soon as the train stopped Mr. Rison told me that was our getting off place, and I immediately got up and walked right out, without stopping to talk or speak to any one. I don\u2019t know whether the car was in motion or not. If it was, I did not notice it.\u201d A number of other witnesses, however, including passengers, as well as employes of appellant, testify, that the train was stopped the usual time, and appellee did not attempt to leave until about the time it started.\nAs to the speed the train was going at the time appellee got off, his testimony as above set forth was corroborated by that of appellant\u2019s brakeman Bennedetti, who says: \u201cThe train was in motion when he got off. The train was just beginning to move up grade, and was moving very gently and slowly, and had gone but about half the length of a car at the time plaintiff got off.\u201d The testimony of several other witnesses, including appellee\u2019s witness Rison, however, tends very strongly to show a much higher rate of speed.\nIn this state of the evidence as above shown we do not feel authorized to disturb the verdict of the jury, but we would have been better satisfied with a different result. Railway v. Smith, 59 Texas, 406; Railway v. Leslie, 57 Texas, 83.\nWe are therefore of opinion that the judgment of the court below should be affirmed.\nAffirmed.\nDelivered January 10, 1893.\nA motion for rehearing in this case was overruled.",
+        "type": "majority",
+        "author": "HEAD, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Alexander & Clark and J. W. Terry, for appellant.",
+      "Leach & Templeton, E. B. Perkins, and Bennett & Holmes, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "The Gulf, Colorado & Santa Fe Railway Company v. W. R. Buford.\nNo. 418.\n1. Pleading not Duplicitous, When .\u2014Plaintiff\u2019s petition in a suit against a railway company for personal injuries is not duplicitous because it alleges in one count that plaintiff was thrown from the car without fault on his part, and in another that he was injured by voluntarily attempting to leave the train.\n2. Contributory Negilgence\u2014Charge of Court.\u2014A charge of court that \u201c if plaintiff was injured, and the proximate cause of the injury was plaintiff\u2019s contributory negligence, defendant would be entitled to a verdict, even though defendant may have been negligent also; and if plaintiff and defendant were equally negligent, plaintiff could not recover,\u201d is calculated to mislead the jury as to the doctrine of comparative negligence; but this is sufficiently corrected where, in another part of the charge, the jury are further instructed, that if they believe the defendant guilty of negligence, then in order to find for plaintiff they must believe such negligence to have been the proximate cause of the injury without any contributory negligence on the part of plaintiff.\nAppeal from Hunt. Tried below before Hon. E. W. Terhune.\nAlexander & Clark and J. W. Terry, for appellant.\n1. The petition was bad on special exception for duplicity. Rev. Stats., art. 1195; Rowe v. Horton, 65 Texas, 89; Mayton v. Railway, 63 Texas, 77; Edgar v. Galveston City Co., 46 Texas, 421; Caldwell v. Haley, 3 Texas, 317; McClelland v. Smith, 3 Texas, 210; Beal v. Alexander, 6 Texas, 531; 1 Chitt. Plead., 120, 260, 294; 1 Greenl., secs. 29, 30.\n2. The court erred in its charge submitting the doctrine of comparative negligence. Railway v. Gorbett, 49 Texas, 573; McQuilken v. Railway, 16 Am. and Eng. Ry. Cases, 353.\n3. The verdict is not sustained by the evidence, which clearly establishes plaintiff\u2019s contributory negligence as the proximate cause of his injury, and precludes any recovery therefor. Railway v. Dean, 13 S. W. Rep., 45; Railway v. Bracken, 59 Texas, 71; Railway v. York, 74 Texas, 366; Railway v. Clemmons, 55 Texas, 88; Railway v. Leslie, 57 Texas, 83; Railway v. Hassell, 62 Texas, 260; Jewell v. Railway, 6 Am. and Eng. Ry. Cases, 379; Secor v. Railway, 10 Fed. Rep., 15; Railway v. Duncan, 28 Ind., 441; Lambeth v. Railway, 66 N. C., 494; Nelson v. Railway, 68 Mo., 593; Harvey v. Railway, 116 Mass., 269; Knight v. Railway, 23 La. Ann., 462; Railway v. Hendricks, 26 Md., 288; Railway v. Aspell, 23 Pa. St., 147; Imhoff v. Railway, 20 Wis., 344; Morrison v. Railway, 56 N. Y., 304; Phillips v. Railway, 49 N. Y., 177; Railway v. Scates, 90 Ill., 586; Railway v. Bangs, 47 Mich., 470.\nLeach & Templeton, E. B. Perkins, and Bennett & Holmes, for appellee.\n1. The petition was not bad for duplicity. Rev. Stats., art. 1195; Rule 4 for Dist. Cts.; Sayles\u2019 Plead, and Prac., sec. 28.\n2. The court\u2019s charge as to contributory negligence was correct. 2 Wood\u2019s Ry. Law, 1097, 1098.\n3. There being evidence to support the verdict, it should not be disturbed on appeal. Railway v. Rushing, 69 Texas, 315; Railway v. Weisen, 65 Texas, 447; Railway v. Kuehn, 70 Texas, 585; Railway v. Dorough, 72 Texas, 111; Railway v. Duncan, 28 Ind., 441."
+  },
+  "file_name": "0115-01",
+  "first_page_order": 141,
+  "last_page_order": 144
+}

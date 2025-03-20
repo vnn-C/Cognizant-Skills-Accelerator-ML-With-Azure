@@ -1,0 +1,62 @@
+{
+  "id": 227529,
+  "name": "O. K. Krause & Co. v. M. Marx et al.",
+  "name_abbreviation": "O. K. Krause & Co. v. Marx",
+  "decision_date": "1893-10-25",
+  "docket_number": "No. 53",
+  "first_page": "397",
+  "last_page": "398",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Tex. Civ. App. 397"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 146,
+    "char_count": 1465,
+    "ocr_confidence": 0.581,
+    "sha256": "6c90ee41c3e4dd443496dce728fbf75f0c941a042b2e6f0dd3ee8659cea13835",
+    "simhash": "1:ce6a56b2123b81da",
+    "word_count": 250
+  },
+  "last_updated": "2023-07-14T18:07:14.925501+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "O. K. Krause & Co. v. M. Marx et al."
+    ],
+    "opinions": [
+      {
+        "text": "FINLEY, Associate Justice.\nThis is a companion case with the Otto Heinze & Co. and Manhattan Cloak and Suit Company cases, this day decided.\nThere is but one material difference in the facts of this case from the others named; but that difference is of such gravity as demands a different disposition of the case. In this case appellants brought suit in Lamar County on their entire account against Munzesheimer & Klein, except $180 worth of goods, which were stopped in transitu, without either giving credit or deducting the items of goods taken back in the claim suit, and recovered judgment for the full amount sued for. This judgment had been fully satisfied at the time of the trial of this cause, and thereby appellants\u2019 right to the property in question had been released and extinguished.\nDelivered October 25, 1893.\nThe judgment of the lower court should be affirmed, and it is so ordered.\nAffirmed.\nThis case did not reach the Reporter with the other October cases.",
+        "type": "majority",
+        "author": "FINLEY, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Henry & Henry, and Crawford & Crawford, for appellants.",
+      "Todd & Hudgins, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "O. K. Krause & Co. v. M. Marx et al.\nNo. 53.\nCase Distinguished. \u2014 This case distinguished from Otto Heinze & Co. v. M. Marx et al., 4 Texas Civil Appeals, 599.\nAppeal from Bowie. Tried below before Hon. John L. Sheppard.\nBy agreement the briefs of the case of Otto Heinze & Co. v. M. Marx et al., supra, were filed in this cause. For briefs and facts additional to those stated below, see that case.\nHenry & Henry, and Crawford & Crawford, for appellants.\nTodd & Hudgins, for appellees."
+  },
+  "file_name": "0397-01",
+  "first_page_order": 423,
+  "last_page_order": 424
+}

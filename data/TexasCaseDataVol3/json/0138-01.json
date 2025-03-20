@@ -1,0 +1,66 @@
+{
+  "id": 221205,
+  "name": "J. G. McDonel v. Callahan County",
+  "name_abbreviation": "McDonel v. Callahan County",
+  "decision_date": "1893-04-06",
+  "docket_number": "No. 136",
+  "first_page": "138",
+  "last_page": "141",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 138"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 372,
+    "char_count": 7087,
+    "ocr_confidence": 0.565,
+    "pagerank": {
+      "raw": 7.044348983065606e-08,
+      "percentile": 0.42480372407812195
+    },
+    "sha256": "985060c5c87d00a0458a559f1827e2fd109259ccd1c60957da95aa4ea1dd551d",
+    "simhash": "1:30afd7a06b4c9f5c",
+    "word_count": 1218
+  },
+  "last_updated": "2023-07-14T18:08:23.206239+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "J. G. McDonel v. Callahan County."
+    ],
+    "opinions": [
+      {
+        "text": "STEPHENS, Associate Justice.\nThis suit was brought by an ex-treasurer of Callahan County, about six years after his term of office expired, to recover commissions on the amount of certain bonds issued during his term of office and delivered to a contractor, in order to procure the erection of a court house for the county. The claim sued on was never' presented to the Commissioners Court until just before the institution of the suit, when it was rejected.\nFrom the trial court\u2019s findings of fact, which are here adopted, there being no statement of facts, we conclude, (1) that appellant failed to show that he was ever entitled to the commissions claimed; (2) that his demand was stale and barred by limitation.\nThe judgment will therefore be affirmed.\nAffirmed.\nDelivered April 6, 1893.",
+        "type": "majority",
+        "author": "STEPHENS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "J. E. Thomas, for appellant.",
+      "F. S. Bell, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "J. G. McDonel v. Callahan County.\nNo. 136.\nCounty Treasurer\u2014Commissions on Court House Bonds.\u2014Under a contract for the erection of a court house, a county issued certain court house bonds and delivered them to the contractor, who negotiated them at par and received the moneys therefor. The county treasurer registered the bonds at the time they were issued, but it does not appear that he had any further connection with the bonds or the proceeds thereof, excepting that one of them was, through him as treasurer, redeemed by the county during his term of office. More than six years after the bonds were issued, he presented to the Commissioners Court his claim for commissions at 2% per cent for receiving and the same for disbursing the moneys represented by the other bonds. Held:\n1. The evidence fails to show that the treasurer was entitled to the commissions claimed.\n2. The claim was stale and barred by limitations.\nAppeal from Callahan. Tried below before Hon. T. H. Conner.\nThe trial court\u2019s conclusions of fact, adopted by the appellate court, are as follows:\n\u201c The court finds, that during the year 1883, and until succeeded by Mr. C. Estes in November, 1884, plaintiff was the duly elected, acting, qualified treasurer of Callahan County, Texas; that in October, 1883, Callahan County, acting by its Commissioners Court, entered into a contract with one J. H. Milliken for the erection of a court house, the terms of which contract do not appear in evidence, but thereafter, on October 27, 1883, the Commissioners Court, presumably in accordance with said contract, issued eight bonds, each in the sum of 82000, payable to bearer, with interest at 6 per cent per annum, due in fifteen years, and redeemable at any time before maturity at the will of the Commissioners Court.\n\u201c These bonds were duly issued by virtue of an act of the Legislature of the State of Texas, entitled \u2018An act to authorize the County Commissioners Court of the several counties in this State to issue bonds for the erection of a court house, and to levy a tax to pay for same,\u2019 approved February 11, 1881. These eight bonds, amounting in all to $16,000, were each signed by the county judge, countersigned by the county clerk, and signed by plaintiff as treasurer; marked \u2018 registered.\u2019 It appears that as each bond was signed by the county judge and clerk, it was passed to the said treasurer, and signed by him as \u2018 registered.\u2019 After this was done said bonds were by the county judge each delivered to said J. H. Milliken, who afterwards negotiated and sold the bonds, receiving therefor the sum of $16,000.\n\u2018 \u2018 The plaintiff, J. G-. McDonel, had no further or other connection with the bonds or proceeds thereof, except that at sometime in 1884 one of said bonds was redeemed by payment by said plaintiff, he receiving therefor 2-|- per cent on the moneys given in redemption as the same had been received, and his commissions at 2-|- per cent on the amount paid in redemption at time of payment. Plaintiff now claims commissions on the full amount of $16,000, the face value of said bonds, at the rate of 2-J- per cent for receiving and per cent for paying out the same to Milliken.\n\u2018 \u2018 It appears in evidence, that during the negotiations and before the issuance of the bonds, the county judge of Callahan County, Judge W. H. Cliett, and J. H. Milliken went to Austin, Texas, for the purpose of seeing the Comptroller, and to learn if the bonds could be sold after issuance. It appears that the county judge went at the instance of said Milliken to give assurances that the contract was bona fide, and that the bonds would be duly issued. Milliken had gone to Austin before, but the Comptroller would not deal with him without assurances that everything was legal, and hence the visit of the county judge as above stated.\n\u201c This court, in the view taken of this case, does not deem it necessary to now decide whether this transaction and sale of the bonds was but an indirect sale and acquisition of $16,000 by Callahan County. As to this, the facts as developed on this trial are simply stated. But however this may be held, the court further finds, that plaintiff, J. G-. McDonel, made no claim whatever for such commissions until sometime during the year 1889, when he, for the first time, went before the Commissioners Court and offered to take $400 as satisfaction in full of his commissions. This was a proposition of compromise, as stated by plaintiff on the stand, but was rejected by the Commissioners Court. This presentation and rejection is not alleged in plaintiff\u2019s petition. Thereafter, at the February Term, 1890, plaintiff formally presented his claim for commissions, as sued for in this cause, to the Commissioners Court of Callahan County. According to the allegations of the petition it does not appear to have ever been presented or rejected before this time, and the evidence also shows that this was the first formal presentation and rejection of said claim.\u201d\nJ. E. Thomas, for appellant.\n1. Plaintiff\u2019s claim was not barred by limitation, because his cause of action did not accrue until the claim was presented to and rejected by the Commissioners Court, and limitation did not begin to run until after such rejection. Rev. Stats., art. 677; Caldwell v. Harbert, 68 Texas, 321.\n2. Sixteen thousand dollars in county bonds having been issued by the county, and through its aid negotiated during plaintiff\u2019s term of office, he was entitled to judgment for his commissions thereon. Sayles\u2019 Civ. Stats., arts. 994, 2403; Wall v. McConnell, 65 Texas, 397; Trinity County v. Vickery, 65 Texas, 554.\nF. S. Bell, for appellee.\n1. The statute of limitations commences to run from the time the cause of action accrues; and in this case the cause of action accrued when appellant first had a right, if any at all, to the commissions sued for herein. It was incumbent on appellant to have presented his claim, and also to have brought suit thereon, within two years from 1883, as limitation, in the absence of special provision to the contrary, runs in favor of and against a county as under the general rule. Rev. Stats., arts. 677, 3202.\n2. The county treasurer is under the law entitled to commissions only on moneys received and paid out by him. Rev. Stats., arts. 994, 961, 2403."
+  },
+  "file_name": "0138-01",
+  "first_page_order": 164,
+  "last_page_order": 167
+}

@@ -1,0 +1,246 @@
+{
+  "id": 227387,
+  "name": "City of Llano v. County of Llano",
+  "name_abbreviation": "City of Llano v. County of Llano",
+  "decision_date": "1893-11-15",
+  "docket_number": "No. 1078",
+  "first_page": "132",
+  "last_page": "141",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Tex. Civ. App. 132"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Neb., 494",
+      "category": "reporters:state",
+      "reporter": "Neb.",
+      "case_ids": [
+        5378809
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/neb/5/0494-01"
+      ]
+    },
+    {
+      "cite": "3 Neb., 185",
+      "category": "reporters:state",
+      "reporter": "Neb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Neb., 337",
+      "category": "reporters:state",
+      "reporter": "Neb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "12 Pet., 91",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "case_ids": [
+        5619900
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/37/0091-01"
+      ]
+    },
+    {
+      "cite": "84 Mich., 54",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1383088
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich/84/0054-01"
+      ]
+    },
+    {
+      "cite": "44 Minn., 536",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        8879108
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/minn/44/0536-01"
+      ]
+    },
+    {
+      "cite": "85 N. C., 525",
+      "category": "reporters:state",
+      "reporter": "N.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "96 Ill., 626",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "11 S. W. Rep., 119",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "51 Cal., 418",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2337083
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/51/0418-01"
+      ]
+    },
+    {
+      "cite": "74 Am. Dec., 365",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "50 Cal., 266",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Dill., 4",
+      "category": "reporters:federal",
+      "reporter": "Dill.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "11 Minn., 135",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "97 Am. Dec., 209",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "77 Ill., 326",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "69 Ill., 318",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        2637200
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill/69/0318-01"
+      ]
+    },
+    {
+      "cite": "18 Ohio St., 221",
+      "category": "reporters:state",
+      "reporter": "Ohio St.",
+      "case_ids": [
+        43727
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ohio-st/18/0221-01"
+      ]
+    },
+    {
+      "cite": "14 Pa. St., 187",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "6 Pet., 431",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "case_ids": [
+        1439696
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/31/0431-01"
+      ]
+    },
+    {
+      "cite": "3 Sneed, 299",
+      "category": "reporters:state",
+      "reporter": "Sneed,",
+      "weight": 3,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 962,
+    "char_count": 27977,
+    "ocr_confidence": 0.546,
+    "pagerank": {
+      "raw": 5.647842244228493e-07,
+      "percentile": 0.948783307443793
+    },
+    "sha256": "29c9361102e2f810af69d22006321cd6fc515f661d133ba41f3e5a8ec6ea25e8",
+    "simhash": "1:3e21f52af93cfe41",
+    "word_count": 5006
+  },
+  "last_updated": "2024-02-27T16:31:09.266747+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "City of Llano v. County of Llano."
+    ],
+    "opinions": [
+      {
+        "text": "FISHER, Chief Justice.\nThis is an action by the city of Llano against the county of Llano, to abate and remove the county jail and the cesspool in connection therewith from the public square of the city of Llano, they being an obstruction on said public square in the nature of purpresture and public nuisance; and also an abatement of the cesspool as a nuisance, resulting from its improper construction, whereby noxious \u2022gases arising from human excrement deposited therein are dangerous and deleterious to the public health of the citizens of said city.\nThe court below sustained a general demurrer to the petition, and also a special demurrer, to the effect that it does not appear that the city of Llano has \u201csuch an interest in the subject matter of said suit as would entitle it to any relief.\u201d The city of Llano declining to amend, its suit was dismissed, and judgment rendered that appellee, the county of Llano, \u201cgo hence with its costs.\u201d From this judgment the appellant appeals.\nThe petition, in effect, alleges, that in the year 1858, the county of Llano, owning the survey upon which the city of Llano was located, caused the survey to be surveyed and divided into lots, blocks, and streets, and one public square, and that at said time the said county did dedicate to the public and to public use the said streets and said public square, and that said public square was to be used as a public square and as a site for a court house. It is also alleged, that lots and blocks were thereafter sold with reference to said streets and public square, and that many individuals became the purchasers thereof, and that said dedication was accepted by the public; that said public square is situated in the most densely populated portion of said city. Then follow these averments:\n\u201cAbout the year 1883, defendant did wrongfully and unlawfully cause to be constructed and erected upon said public square a common jail, which jail constituted no part of the court house, and in connection with said jail did then cause to be constructed a cesspool. Thereafter defendant did use and now continues to use and to wrongfully and unlawfully maintain said common jail for the reception and incarceration of criminals, and said cesspool for the reception and deposit and retention of human defecations, offal, and other effete and noxious matter. The construction and maintenance of said jail upon said public square constitutes in itself a use of said public square inconsistent with and in violation of said dedication, and the same is an unlawful encroachment upon and obstruction of said public square. That the manner of construction and use of said cesspool is in itself a use of said public square inconsistent with and violative of said dedication. Said cesspool is improperly constructed, and is used by defendant, and defendant threatens to and will, unless restrained, continue to use said cesspool for the reception and retention of human excrement, offal, and other noxious and effete matter, and is, by reason of such construction and'use, dangerous and deleterious to the public health, and is a common and public nuisance, situated in the most densely populated portion of the city of Llano. That plaintiff has often requested defendant to remove said cesspool and jail, but so to do it has refused and still refuses.\u201d\nThe petition concludes with a prayer asking for an abatement and removal 'of said nuisances, and for a mandatory injunction against the county judge and the- Commissioners Court of said county, requiring said jail and cesspool to be removed.\nFrom the manner in which the case is here presented and tz\u2019eated by the parties, we are led to the conclusion that the court below sustained the demurrers principally for the reason that the appellant, the city of Llano, could not maintain this action, and was not entitled to invoke the remedy asked. The record is silent as to the reasons that influenced the action of the court upon the demurrers.\nThe petition alleges that the city of Llano is duly incorporated as a city by virtue of the laws of this State.\nWe understand from this allegation that the city of Llano is incorporated not by a special charter granted by the Legislature, but under the general laws of this State that provide for and regulate the incorporation of cities. This brings us to the consideration of the question, cazi the city maintain its action in the form as stated, and is it a proper party to ask relief against the alleged purpresture and nuisance ?\nThere are several provisions of the statutory law regulating the powers and duties of a city government, that show that the city can sue and be sued, and that give it control of its streets and public grounds, and authorize it to reznove obstructions therefrom and to abate nuisances that affect the public health. Sayles\u2019 Civ. Stats., arts. 342, 514, 375, 379, 382, 403, 404, 408, 468, 472, 521.\nWhatever may have been or is now the construction placed upon the common law by sozne courts, to the effect that public nuisances that are solely injurious to the general public can only be abated at the instance of the sovereign, either by indictment or equitable remedy invoked by its law officers to that end, must yield to a policy that has grown into a principle-of law in most of the States of the Union, to the effect that the State, in its sovereign capacity, has delegated its authority in this respect to those municipal corporations that are acting as city governments by authority from .the State. The control of these internal matters that affect directly the public interest of the city, or of its inhabitants as a part of the general public, is left to the governing bodies of the city. The highways and public grounds within the limits of the city are held in trust by it, in its municipal capacity, for the benefit of the public, to the end that they may be enjoyed and used by the public in the manner authorized by law. When this trust is interfered with or right invaded, so as to affect the general public in their enjoyment and use of this' easement, it is not o'nly proper but right that the city should take the proper steps to restore the property to that condition that will permit its full and unrestricted use and enjoyment by the public. Although the obstruction or invasion complained of may at common law or by reason of some act prohibited by ordinance create and constitute a nuisance per se, and though the city may have the power to abate without judicial ascertainment, the right also exists, as a cumulative remedy in the city, by a suit seeking to abate the nuisance and to cause the removal of the obstruction.\nThe right of the city to invoke the remedy insisted on in this case, and to resort to the courts for the protection of the interests of the public in property of which they had the right to its enjoyment and use, has been permitted in many instances.\nIn Trustees of Village of Watertown v. Cowen & Bogg, 4 Paige Chancery Reports, 511, the defendant erected a building partly in the street and public square. The town brought suit by injunction to restrain the erection and abate it as a nuisance. The court held that the city could maintain the suit, and said, \u201c the corporation is the proper representative of the equitable rights of the inhabitants of the village to the use of the public square, so as to authorize the filing of the bill.\u201d\nIn Mayor of Cit3r of London v. Bolt, 5 Vesey, 129, the Court of Chancery in England granted an injunction upon application of the corporation of the city of London to prevent a nuisance by which the lives of the citizens would .be endangered.\nIn Township of Hutchinson v. Filk, 44 Minnesota, 536, the town brought suit to enjoin the erection and maintenance of an obstruction to a public highway, and to recover damages for the expenses in attempting to abate the nuisance. It was insisted that the nuisance was only abatable by indictment, or by suit at the instance of the State through its attorney-general. The court held that the remedy invoked by the city was proper, and in disposing of the question, said: \u201cA city corporation is a governmental agency, to which is entrusted the care and superintendence of highways within its boundaries, and of removing obstructions therefrom. And in all matters pertaining to the highways, a town, to the extent of these powers and duties, is the representative of the State; and if it has the power to abate such a nuisance, as it undoubtedly has, there is no apparent reason why it may not in a proper case resort to a court of equity to aid it, by injunction or other appropriate remedy, in the performance of its public duties as a governmental agency of the State.\u201d\nTo the same effect is 44 Northwestern Reporter, 197.\nIn Price v. Plainfield, 40 New Jersey Law, it is held that the city has the authority to bring a suit for land that is dedicated to the public. The theory upon which the right is .permitted is by virtue of its representing the public, in which is the right of possession.\nIn Campbell County v. Town of Newport, 12 B. Monroe, 539, a suit in equity by the town against the county to restrain it in the erection of buildings upon the public square was allowed.\nIn City of Denver v. Mullen, 7 Colorado, 346, it is held that a city may maintain an action to abate a nuisance.\nCity of New Orleans v. Lambert, 14 Louisiana, 247, holds that the city may by injunction restrain and abate a nuisance.\nIn City of Dubuque v. Maloney, 74 American Decisions, 365, it is held that a city, by a suit for the benefit of the public, may enjoin a nuisance.\nIn Metropolitan City Railway v. Chicago, 96 Illinois, 627, the court holds that the State has the undoubted power, by a suit in equity by its proper officers, to restrain and abate a public nuisance. The law gives cities the authority over their public streets, and by this authority the town or city has the same power as the State, as its representative, to maintain the suit.\nIn City of Winona v. Huff, 11 Minnesota, 135, it is held that a city or town holds a public square for the use of the public, and it may maintain an action to recover it.\nIn Dunner v. Selectmen of Jersey City, 40 American Decisions, 214, it is held that a city, as trustee for the public, may sue for the recovery of a public square.\nThe court, in City of Jacksonville v. Railway, 67 Illinois, 541, holds that the city has the authority, as the representative of the public, to enjoin a nuisance and use of a public square.\nIn Samuels v. Mayor of Nashville, 3 Sneed, 299, it is held that a city may enjoin a county from creating a public nuisance.\nThe authority of the city in this respect is also admitted by Judge Dillon in his work on Municipal Corporations, fourth edition, volume 1, section 379; volume 2, section 659; and by Mr. Wood in his work on Nuisances, third edition, volume 2, section 743.\nWe think that this suit can be maintained by the city.\nThe next inquiry is whether the averments of the petition show that the jail and the cesspool are an obstruction of the public square, and are abatable as nuisances.\nThe allegations of the petition show that the square in question was dedicated by the county to the public for public use, and for the purpose of erecting thereon a court house. It appears that the jail and the cesspool are no part of the court house, and not used in connection therewith ; but that they are devoted to uses by the county to purposes for which jails are ordinarily used. The jail and cesspool are charged to be nuisances per se, because they constitute an encroachment and obstruction upon said public square, and operate as uses thereof inconsistent with the purposes of said dedication. The cesspool is also, in addition, charged to be a nuisance by reason of the fact that the foul gases arising therefrom are dangerous to the health of the inhabitants of the city. These allegations seem to state a permanent obstruction and use of the public square by the county in the manner stated.\nThe facts alleged establish a dedication of the public square for the use and benefit of the public, with a right reserved in the county to use it for the purpose.of erecting thereon a court house. The petition states all the facts necessary to enter into and create a complete dedication to public use. Trustees of City of Cincinnati v. White, 6 Pet., 431; Commonwealth v. Rush, 14 Pa. St., 187; Village of Van Wert v. Inhabitants, etc., 18 Ohio St., 221; City of Chicago v. Wright, 69 Ill., 318; Village of Princeville v. Austin, 77 Ill., 326; 2 Dill. on Mun. Corp., 4 ed., secs. 626-648; Lamar County v. Clements, 49 Texas, 348; County of Harris v. Taylor & Gabel, 58 Texas, 691.\nThe inference is fair from the allegations of the petition, that the city of Llano, as a municipal corporation, did not exist at the time the dedication was made, and that it was created as a corporation after that time. But this fact would not affect the validity of the dedication, or the right of the public to the use and enjoyment of the property so dedicated. Dedications to public use will not fail because there is not at the time an existing grantee capable of taking. It will simply be held in abeyance until the existence of such grantee; and in such circumstances the owner will not be permitted to claim the use of the property so dedicated, so long as it remains in public use. Trustees, etc., v. White, 6 Pet., 431; Village of Mankato v. Willard, 97 Am. Dec., 209; City of Winona v. Huff, 11 Minn., 135; 2 Dill., 4 ed., sec. 631.\nThe city, upon springing into existence as a municipal corporation, is by operation of law invested with the control, for the use of the public, of all highways and public grounds within its corporate limits, subject to such reserved rights as may exist in favor of the donors. 2 Dill. on Mun. Corp., sec. 631, and notes, 642, and notes.\nWe do not intend to say that a dedication may be forced upon a city against its consent, although made for a public use. Gilder v. City of Brenham, 67 Texas, 347. For such is not the case made by the petition before us.\nA dedication made for the public use must be considered with reference to the purpose for which it was originally intended.\nThe dedication of the public square to use and enjoyment of the public, with the rights reserved in the county to erect thereon a court house, would imply that the county had reserved all the rights it intended to retain in the thing granted; and a use by it for other purposes that are not in keeping with the original purpose for which the dedication was made, and in furtherance of some act tending to increase the facilities of the public generally in the use of the square in a way that said public squares are generally used by the public, would clearly be a diversion of the use and an invasion of the rights of the public. The easement in the public to the use of the square can not thus be invaded by the owner. Except as to those privileges reserved, he has only such rights to use as any other member of the public, and a use not consistent with that of the public can not be made by the owner. Village of Watertown v. Cowen & Bogg, 4 Paige, 511; Cincinnati v. White, 6 Pet., 431; Commonwealth v. Rush, 14 Pa. St., 187; Village of Van Wert v. Inhabitants, etc., 18 Ohio St., 221.\nThe easement of a square dedicated to public use does not vest in the county or city, but in the public. Hoadley v. City of San Francisco, 50 Cal., 266.\nIn Price v. Plainfield, 40 New Jersey Law, it is held that the word \u201cPark\u201d written upon a map dedicating property, indicates it was for the use of the public.\nIn Campbell County v. Town of Newport, 12 B.Monroe, 539, it is held that a dedication of a square for public buildings can only be used by the county for such purpose, and it will not be permitted to use it for a different purpose.\nIn City of Dubuque v. Maloney, 74 American Decisions, 365, the rule is there stated, that a dedication made for a designated public use does not authorize the city to use it for another purpose.\nIn City of Jacksonville v. Railway Company, 67 Illinois, 541, the railway company, by virtue of its charter, was authorized to run its road \u201c over, across, and along the streets, alleys, public grounds, squares, etc., of the town of Jacksonville.\u201d In pursuance of this grant, it attempted to construct its road across a public square within said city. The square was dedicated to the public by the original proprietors of the land. The court, in perpetually enjoining the railway company in its encroachment upon the square, says: \u201c The square was intended for beauty and adornment, and for the health and recreation of the public, and the donors never intended that it should be used as a street. * * * The donation was for a specific and defined purpose, * * * and was intended for the use of the public.\u201d And any attempted use different from that to which it was originally intended, would be a diversion of the trust. No power lies in the city or any other to do that.\nIn McCulloch v. City and County of San Francisco, 51 California, 418, the city, through its board of education, by the consent of the city and county, attempted to use a part of one of the public squares of 'the city upon which to erect a school house. The court held that such authority can not be conferred by the city and county, as such a use would be inconsistent with the purpose for which said squares were created.\nIn Village of Princeville v. Austin, 77 Illinois, 327, the village board of trustees attempted to move the town hall from its present site, and to place it on the public square. It was held, that the public square was devoted to the use and enjoyment of the public, and that neither the city nor the county could appropriate or use it for the purpose of erecting thereon public buildings.\nIn Lamar County v. Clements, 49 Texas, 349, it is held, that the county, having accepted the block or square in question from the donor for the purpose of erecting a court house thereon, was estopped from making use of the property so dedicated for an altogether different use.\nThe case before the court in The County of Harris v. Taylor & Gabel, 58 Texas, 690, in some of its features is similar to this case. There the original proprietors dedicated a block or square in the city of Houston as a \u201c court house square.\u201d The county undertook to erect upon it a jail; some of the adjacent owners enjoined the erection, upon the ground that the erection of the jail was a use and appropriation of the square to purposes foreign to its dedication, and its erection would constitute a public nuisance. The county contended that the use of the property for a jail was in keeping with the purpose of the dedication, and that such jail was a public use and public necessity. The court perpetuated the injunction restraining such use of the property, and, in effect, held that the construction of the jail was a use inconsistent with the dedication, and that the right to erect a court house thereon did not confer the right to erect a jail.\nA dedication of property to public uses by the government or a county is measured by the same law that governs a dedication for such purposes by an individual, and when the dedication is made by the county, it has no more right to devote the property to uses foreign to the dedication than an individual would have. City of Dubuque v. Maloney, 74 Am. Dec., 365; Samuels v. Mayor of Nashville, 3 Sneed, 299; 77 Ill., 326; 2 Dill. on Mun. Corp., 4 ed., sec. 647; 51 Cal., 418; 49 Texas, 354; 58 Texas, 693.\nThe rule that exists in Pennsylvania, announced in the case of Commonwealth v. Bowman, 3 Pennsylvania State, 203, that the right of the counties to the use of the public squares upon which to erect court houses and public buildings, has in that State \u201c become so established by usage and custom as to have acquired the consistency of law,\u201d can not, we think, obtain in this State; but that rather that rule should prevail that is announced in the case of Village of Princeville v. Austin, 77 Illinois, 326, to the effect that a square dedicated to the public can not by reason of a custom or usage be used for a purpose inconsistent with the purposes to which it was dedicated. The fact that the county may use the square in part for its jail building, and it being of a public or quasi public use, will not excuse it from the application of these general rules, unless such jail is a use that is permitted by the terms of the dedication.\nIf this public square can be used by the county for its, jail building, and this be justified upon the ground that it is a public use, or, in other words, a use by the public, it or the city, for the same reason, could use and appropriate the entire square to sites for the erection of such public buildings as they may be by law authorized to erect. The statement of such a proposition is an argument that defeats it. Clearly the county or the city would have no such right. It would be an inexcusable appropriation and diversion of the square to purposes and uses foreign to its dedication. It is said, and we think justly so, that public squares, so far as the uses of the property are concerned, except where a right is reserved in dedicating it, are placed in the same category as public highways (Cincinnati v. White, 6 Peters, 431; Commonwealth v. Bowman, 3 Pennsylvania State, 204; 2 Dillon on Municipal Corporations, section 646); and that the public have the right to the use and enjoyment of such highways to the extent of their entire length and width. It is a right in the concrete. And it makes no difference that the obstruction may not practically interfere with the use by the public; if it in fact is an obstruction and encroachment that is not in keeping with the use for which the property was dedicated, it is a purpresture and a nuisance, and as such is abatable. The State v. Goodnight, 11 S. W. Rep., 119; Railway v. Chicago, 96 Ill., 626; The State v. Edens, 85 N. C., 525; Samuels v. Mayor of Nashville, 3 Sneed, 299; 58 Texas, 693; 1 Woods on Nuis., 3 ed., secs. 248, 250, 81, 251, 252, 253, 254; Ell. on Roads and Streets, 477-485.\nSuch obstructions and encroachments upon the highways, that are permanent in character, are in law regarded as purprestures and public nuisances per se.\nThe doctrine laid down in Peckham v. Henderson, 27 Barbour, 207, to the effect that an encroachment is not a nuisance if it does not materially interfere with the public enjoyment and use of the property, was, with kindred cases, revised by the same court in Harrower v, Ritson, 37 Barbour, 301, and was, we think correctly, held to be in conflict with the settled doctrine of the well considered cases on this subject.\nThis rule is qualified to the extent that a temporary use of such public property under certain circumstances may be permitted, and such highways and public squares, when dedicated to public uses and enjoyment, may be improved or ornamented so as to make the use for which they were originally intended more beneficial to the public. But such improvements and use must be in keeping with the original purpose for which said dedication was made. To illustrate: The city would have the undoubted right to permit its highways to be in part occupied by a street railway, or to beautify and ornament its public squares. These acts, although permanent in character, would not be a diversion or a use inconsistent with the dedication, but would be acts in furtherance and in keeping with the original purpose in creating the highway or public square. They would tend, in the first instance, to increase the facilities for the use of the highway; and in the second instance, may make the use and enjoyment of the public square more beneficial in the way it was originally intended it should be used. Such acts as these would not be obstructions, and would not fall within the category of purprestures and public nuisances.\nDelivered November 15, 1893.\nThe facts stated in the petition, if true, show that the use of the public square for the jail and cesspool was unauthorized, and that they are encroachments and obstructions upon said square, in the nature of purprestures and public nuisances.\nFor the reasons expressed, we think the court erred in sustaining the demurrers to the petition.\nThe allegations of the petition that seek to abate the cesspool on account of the foul gases arising therefrom being injurious to the health of the inhabitants of the city, may not, for the want of certainty, be sufficient. In cases of this character, the rule of pleading is prescribed in the case of Dunn v. City of Austin, 77 Texas, 141; and if this should be an issue in another trial, we suggest that the rule in that case be followed.\nThe judgment of the court below is reversed and the cause remanded.\nReversed and remanded.",
+        "type": "majority",
+        "author": "FISHER, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "C. L. Lauderdale and R. H. Connerly, for appellant.",
+      "W. C. Linden, county attorney, for appellee,"
+    ],
+    "corrections": "",
+    "head_matter": "City of Llano v. County of Llano.\nNo. 1078.\n1. Power of City to Sue to Abate Nuisance. \u2014 There are several provisions of the statute regulating the powers and duties of a city government that show that the city can sue and be sued; that give it control of its streets and public grounds; that authorize it to remove obstructions therefrom, and to abate nuisances affecting the public health. Eev. Stats. (Sayles\u2019 ed.), arts. 342, 375, 379, 382, 403, 404, 408, 468, 472, 514, 521.\n2. Same. \u2014 The control of matters affecting directly the public interest of the city, or of its inhabitants, as part of the general public, is left to the governing bodies of the city. The highways and public grounds within the city are held for the benefit of the public. When this use by the public is interfered with, it is right that the city should take the proper steps to restore the property to its normal use.\n3. Same \u2014 Suit to Abate Nuisance. \u2014A city may maintain an action against the county in which it is situate to abate a nuisance; e. g., to prevent the continuance by the county of a jail and offensive cesspool upon a public square dedicated for a court house.\n4. Dedication. \u2014 See allegations held sufficient to show a dedication of a public square for the use and benefit of the public, with right reserved to construct thereon a court house.\n5. Same. \u2014 Dedications to public uses will not fail because there is not at the time a grantee capable of taking. The city subsequently incorporated by operation of law becomes invested with the control for the use of the public of all highways and public grounds within its territory, subject to reserved rights existing in favor of the donors.\n6. Public Square \u2014 Donor. \u2014 The easement in the public to the use of a public square can not be invaded by the donor. A dedication to the public, with right to erect thereon a court house, excludes other uses, and an attempt to occupy otherwise is an invasion of the rights of the public, which may be prevented by the city. '\n7. Nuisance \u2014 Pleading. \u2014 The rule of pleading declared in Dunn v. City of Austin, 77 Texas, 141, adhered to.\nAppeal from Llano. Tried below before Hon. W. M. Allison.\nC. L. Lauderdale and R. H. Connerly, for appellant.\n1. A city incorporated under title 17, Revised Statutes of Texas, may maintain an action to abate and remove a building, unlawfully erected by the county, upon a public ground within the corporate limits of said city. Rev. Stats., art. 375; Railway v. Brownsville, 45 Texas, 88; Dill. on Hun. Corp., sec. 520; 1 High on Inj., sec. 768; Trustees v. Cowen, 4 Paige, 510; Mayor v. Bolt, 5 Ves., 129; Hutchinson v. Filk, 44 Minn., 536; Grandville v. Jennison, 84 Mich., 54.\n2. The petition states a cause of action. [See opinion.] Oswald v. Grenet, 22 Texas, 94; Preston v. Navasota, 34 Texas, 684; Lamar County v. Clements, 49 Texas, 347; Harrison v. Boring, 44 Texas, 255; Harris County v. Taylor, 58 Texas, 690; High on Inj., sec. 855.\nW. C. Linden, county attorney, for appellee,\ncited, City of Georgetown v. Canal Co., 12 Pet., 91; 1 Neb., 337; 3 Neb., 185; 5 Neb., 494."
+  },
+  "file_name": "0132-01",
+  "first_page_order": 158,
+  "last_page_order": 167
+}

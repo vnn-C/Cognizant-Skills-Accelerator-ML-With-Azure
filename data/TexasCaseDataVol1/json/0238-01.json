@@ -1,0 +1,127 @@
+{
+  "id": 216242,
+  "name": "East Texas Fire Insurance Company v. James K. Clarke & Co.",
+  "name_abbreviation": "East Texas Fire Insurance v. James K. Clarke & Co.",
+  "decision_date": "1892-11-17",
+  "docket_number": "No. 21",
+  "first_page": "238",
+  "last_page": "241",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Tex. Civ. App. 238"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Mich., 390",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1933560
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich/2/0390-01"
+      ]
+    },
+    {
+      "cite": "29 Ala., 156",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "83 Ala., 458",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        3274831
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/83/0458-01"
+      ]
+    },
+    {
+      "cite": "47 Ga., 445",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        861108
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ga/47/0445-01"
+      ]
+    },
+    {
+      "cite": "14 Ga., 145",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        577646
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ga/14/0145-01"
+      ]
+    },
+    {
+      "cite": "5 So. Rep., 285",
+      "category": "reporters:state_regional",
+      "reporter": "So.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 405,
+    "char_count": 8115,
+    "ocr_confidence": 0.549,
+    "pagerank": {
+      "raw": 1.6249908369705453e-07,
+      "percentile": 0.6879484093474175
+    },
+    "sha256": "ff80844d6e960ba2d31fa01b09fb83ed10019e36135b1e42a44adb50da6a071d",
+    "simhash": "1:ba5622aff9fcf37c",
+    "word_count": 1439
+  },
+  "last_updated": "2024-02-27T16:44:05.763049+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "East Texas Fire Insurance Company v. James K. Clarke & Co."
+    ],
+    "opinions": [
+      {
+        "text": "GARRETT, Chief Justice.\nAction by Jas. K. Clarke & Co. against the East Texas Fire Insurance Company, to recover on a policy of insurance, written by the defendant, upon a saw mill situated in the State of Florida.\nThe defense is, that the policy was rendered void on account of the violation of the conditions thereof by the execution of a mortgage upon the insured property by Jas. It. Clarke, a member of the firm of Jas. It. Clarke & Co. . Trial was had by a jury, and verdict and judgment were for the plaintiffs.\nThis is the second appeal. On the first it was held that the mortgage was prohibited by the conditions of the policy. 79 Texas, 23.\nThe case now before us turns upon the question as to whether or not the mortgage which was executed by the plaintiff Jas. K. Clarke was ever delivered. .\nIt was shown by the-evidence, that on August 16, 1887, Jas. K. Clarke was indebted to the Southern Bank of the State of Georgia in a sum of money, for which he executed his promissory note, payable to said bank or order; and that on the same day, in order to secure his note, he executed a mortgage to the bank on land in Alabama, and the saw mill and machinery, situated on leased land in Florida, covered by the policy of insurance sued on. It was in usual form, purporting to be executed by Clarke alone, and contained no reference to his wife or her right of dower. It was properly acknowledged, and was delivered to Mr. Crane, the vice president of the bank, by the attorney of Clarke, and on August 29, 1887, the cashier of the bank sent it to Florida for record, and it was recorded there August 31, .1887. The property was destroyed by fire October 8, 1887.\nOn the trial in the court below evidence was admitted, over the objection of the defendant, to the effect, that when the mortgage was executed it was intended that Mrs. Clarke, the wife of the plaintiff, who executed the mortgage, should waive her dower interests in the property; that it was delivered to Mr. Crane, the vice president of the bank, with that understanding; and that plaintiff Jas. K. Clarke did not intend that the mortgage should become operative or effective until such dower rights had been waived, and so told Mr. Crane. A bill of exception was taken, and the action of the court in admitting the evidence has been assigned as error.\nThe mortgage is perfect on its face, and bears no evidence that Mrs. Clarke was to unite in its execution. Parol evidence was not admissible to prove that it was not to become operative as a deed until it should be completed by the waiver of dower interest by Mrs. Clarke. The mortgage was delivered to the bank by the attorney of Clarke; it was accepted by the bank and recorded. This is fatal to the contention that it was delivered as an escrow, only to become operative on the performance of a condition, \u201c for a deed can never be an escrow if delivered to the grantee himself, unless for the express purpose of being handed to another person, even though accompanied with an express condition, and not to take effect unless such condition is complied with.\u201d 3 Waslib. Real Prop., 584. It was said by the Supreme Court of Georgia, in the case of Jordan v. Pollock, 14 Georgia, 154, in discussing the question, that a stubborn principle of law interfered and declared that a deed delivered to the grantee could not be an escrow: 1 \u2018 One of those stern technical rules which the law, generalizing for the public good, establishes as controlling intention, and serving as lights and guides to the wayfarer in search of legal rights. That rule is, that a deed can never be delivered to the grantee himself as an escrow; but if intended to operate as such, must be delivered to a third person for him. If a deed be delivered to him, the law, for wise purposes and on just principles, vests the interests convej-ed instantly in him.\u201d This rule is inflexible and unvarying. The exception stated by Mr. Washburn, \u201c unless for the express purpose of being-handed to another person,\u201d is in fact no exception, for in that instance it is not a delivery, but the grantee is made the mere agent to deliver the deed to another person. Tiedeman, in his work on Real Property, also states the rule, and collates quite a number of authorities. Sec. 815. In Hargrave v. Melbourne (Alabama), 5 Southern Reporter, 285, it was contended that the wife of one of the grantors was to unite in the execution of the deed, which had been delivered to one of the grantees, and that the deed was not complete; but it was held that the delivery of a deed, complete on its face, to the grantee, is an absolute delivery, whatever conditions may be orally annexed .to qualify or postpone its operation, and it was not competent to prove by parol evidence that it was an escrow. The court erred in admitting the evidence as complained of. We think, moreover, that all the evidence before the court, including that which was erroneously admitted over the objections of these defendants, conclusively shows that the mortgage was executed and delivered; that it was a valid mortgage, and was binding upon the interest of Jas. K. Clarke in the property mortgaged, notwithstanding the fact that when it was delivered there was an understanding that Mrs. Clarke was to release her dower interest in the property, and that it was not complete without such release. There was no condition to be performed by the bank, and the delivery as to Clarke himself was absolute.\nDelivered November 17, 1892.\nWe deem it unnecessary to inquire whether Mrs. Clarke had a dower interest in the property or not, as the mortgage was complete and absolute without the release. It is not necessary to notice the remaining assignments of error further than to say that Clarke should not have been permitted to testify as to what his intention was when the mortgage was delivered.\nThe judgment of the court below will be reversed and the cause remanded.\nReversed and remanded.",
+        "type": "majority",
+        "author": "GARRETT, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "Whitaker & Bonner, for appellant.",
+      "H. Chilton, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "East Texas Fire Insurance Company v. James K. Clarke & Co.\nNo. 21.\n1. Conditional Delivery of Mortgage. \u2014 Appellee having sued appellant upon afire insurance policy upon property in Florida, was met by the defense that it was void, because of a violation of its conditions by reason of the execution of a mortgage upon the property insured; to which it was replied, that the mortgage was never delivered; that it was handed to the grantee with the understanding that the wife of the grantor should waive her dower interest in the property, and was not intended to become operative until that was done. The mortgage contained no reference to the wife or her right of dower, and the court erred in admitting parol evidence of the understanding alleged. But all the evidence, including that erroneously admitted, shows that it was executed and delivered, and that it was a valid mortgage upon appellee's interest in the property, although when delivered there was an' understanding that the dower interest was to be released. There was no condition to be performed by the grantee, and as to appellee the delivery was absolute.\n2. Escrow \u2014 Delivery.\u2014A deed can never be delivered to the grantee himself as an escrow, but if intended to operate as such must be delivered to a third person for him. If a deed he delivered to him, the law, for wise purposes and on just principles, vests the interest conveyed instantly in him.\nAppeal from Smith. Tried below before Hon. Felix J. McCord.\nWhitaker & Bonner, for appellant.\nWhere a deed to land is complete on its face, and bears no evidence that the wife of one of the grantors is to join in its execution, its delivery to the grantee is absolute, whatever condition may be orally attached; and parol evidence is incompetent to show that it was delivered only as an escrow. Hargrove v. Melbourne, 5 So. Rep., 285; Jordan v. Pollock, 14 Ga., 145; Duncan v. Pope, 47 Ga., 445; Cherry v. Herring, 83 Ala., 458; Ins. Co. v. McMillan, 29 Ala., 156; Dawson v. Hall, 2 Mich., 390; Tied. Real Prop., sec. 815; 3 Washb. Real Prop., marg. 584, subdiv. 41; Smith on Con., 5 Am. ed., 16; Bish. on Con., sec. 357,\nH. Chilton, for appellees."
+  },
+  "file_name": "0238-01",
+  "first_page_order": 262,
+  "last_page_order": 265
+}

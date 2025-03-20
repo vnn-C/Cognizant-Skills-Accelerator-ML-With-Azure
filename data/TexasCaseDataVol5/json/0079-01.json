@@ -1,0 +1,73 @@
+{
+  "id": 227592,
+  "name": "D. June & Co. v. C. Brubaker et al.",
+  "name_abbreviation": "D. June & Co. v. Brubaker",
+  "decision_date": "1893-11-29",
+  "docket_number": "No. 856",
+  "first_page": "79",
+  "last_page": "80",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Tex. Civ. App. 79"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "11 S. W. Rep., 495",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 275,
+    "char_count": 3810,
+    "ocr_confidence": 0.578,
+    "pagerank": {
+      "raw": 1.4810197006395822e-07,
+      "percentile": 0.6611076553111783
+    },
+    "sha256": "dda2b482f2c17c3fd52e2350abe7fe8cd621843a0da9f6aa1bc15094a541ecb6",
+    "simhash": "1:435484921c55a9b4",
+    "word_count": 647
+  },
+  "last_updated": "2024-02-27T16:31:09.266747+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "D. June & Co. v. C. Brubaker et al."
+    ],
+    "opinions": [
+      {
+        "text": "STEPHENS, Associate Justice.\nThe counter-claim was not unliquidated, and hence could be pleaded in offset by appellees to the notes sued on by appellant. They claimed commissions at a specified rate, agreed upon for the sale of certain machinery of a specified \u2022 price and value. The failure of appellant to fill the order and consummate the trade made by its agents rendered it liable for the commissions. Jones & Co. v. Hunt, 74 Texas, 657.\nThe statute of limitations, however, was a bar to the counter-claim, unless avoided by pleading and proof. The proof tended to show that it came within the exception of accounts between a merchant and his factor or agent, but no reply was made to the limitation plea. Such matter in avoidance must be alleged, the same as coverture or other disability. Ang. on Lim., sec. 292.\nFor this error, the judgment must be reversed and\u2018the cause remanded.\nReversed and remanded.",
+        "type": "majority",
+        "author": "STEPHENS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "J. H. Cobb, for plaintiff in error.",
+      "Boyd & Ofiel, for defendants in error.\u2014"
+    ],
+    "corrections": "",
+    "head_matter": "D. June & Co. v. C. Brubaker et al.\nNo. 856.\n1. Setoff and Counter-Claim \u2014 Unliquidated Damages. \u2014A claim for commissions at a specified rate agreed upon for the sale of certain machinery at a specified price and value, is not a claim of unliquidated damages, and may be pleaded as a setoff against a debt due by promissory note.\n2. Limitation \u2014 Matter in Avoidance Must be Pleaded. \u2014 Where the statute of limitation is well pleaded, and it can be avoided by matter bringing the case within some exception, such matter in avoidance must be alleged; and without such allegation, proof thereof is of no avail.\nError from the County Court of Wichita. Tried below before Hon. W. P. Skeen.\nThis was a suit brought by D. June & Co., a private corporation, against C. Brubaker and A. L. Brubaker, to _ recover the amount due on two promissory notes, executed by the defendants to plaintiff, for the sum of $337.50 each, with interest and attorney fees.\nDefendants answered by general exception, general denial, and a plea of counter-claim for certain Commissions claimed to be due them on a sale, made by them for plaintiff, of two portable engines, at $1350 each, at an agreed rate of 25 per cent for their commissions, amounting to $675.\nPlaintiff specially excepted to this counter-claim, on the ground that unliquidated damages could not be set off against a certain demand; and also pleaded the two years statute of limitation, it appearing that more than two years had elapsed after the sale of the engines before the counterclaim was filed. The trial court allowed the counter-claim, and gave plaintiff judgment for $24.75.\nDelivered November 29, 1893.\nJ. H. Cobb, for plaintiff in error.\n1. The court erred in overruling plaintiff\u2019s special exception to defendants\u2019 plea of offset and counter-claim. Unliquidated damages can not be set off against a liquidated demand. Rev. Stats., art. 649; Davis v. McDowell, 1 W. & W. C. C., sec. 380; Caruthers v. Thorp. 21 Texas, 358; Howard v. Randolph, 11 S. W. Rep., 495.\n2. The court erred in not finding for plaintiff on its plea of limitation to defendants\u2019 plea of counter-claim. Defendants\u2019 cause of action was barrecl by the statute of limitation of two years. Rev. Stats., art. 3203; Lowe v. Dearborn, 26 Texas, 509.\nBoyd & Ofiel, for defendants in error.\u2014\n1. Defendant may plead in setoff any counter-claim founded on a cause of action arising out of or incident to or connected with the plaintiff\u2019s cause of action. Rev. Stats., art. 650; Jones v. Hunt, 74 Texas, 657; Goodhue v. Meyers & Co., 58 Texas, 405; Cato v. Phillips, 28 Texas, 101; Bodman v. Meyers, 20 Texas, 31.\n2. Limitation does not begin to run between merchant and merchant, their factors and agents, until after a cessation of the dealings in which they were interested together. Rev. Stats., art. 3205; McGuire, Helm & Co. v. Bidwell, 64 Texas, 43; Hall v. Hodge, 2 Texas, 324."
+  },
+  "file_name": "0079-01",
+  "first_page_order": 105,
+  "last_page_order": 106
+}

@@ -1,0 +1,157 @@
+{
+  "id": 223650,
+  "name": "The Gulf, Colorado & Santa Fe Railway Company v. B. H. Pittman et al.",
+  "name_abbreviation": "Gulf, Colorado & Santa Fe Railway Co. v. Pittman",
+  "decision_date": "1893-09-27",
+  "docket_number": "No. 383",
+  "first_page": "167",
+  "last_page": "173",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Tex. Civ. App. 167"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "18 S. W. Rep., 1030",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "43 Ala., 360",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        3066477
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/43/0360-01"
+      ]
+    },
+    {
+      "cite": "15 Mich., 371",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1946781
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich/15/0371-01"
+      ]
+    },
+    {
+      "cite": "4 Johns. Ch., 310",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "case_ids": [
+        1978795
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns-ch/4/0310-01"
+      ]
+    },
+    {
+      "cite": "2 Wall., 87",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.,",
+      "case_ids": [
+        8299905
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/69/0087-01"
+      ]
+    },
+    {
+      "cite": "130 Mass., 50",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2128003
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/130/0050-01"
+      ]
+    },
+    {
+      "cite": "67 Ill., 450",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Denio, 69",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        484119
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/denio/1/0069-01"
+      ]
+    },
+    {
+      "cite": "18 S. W. Rep., 1030",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 744,
+    "char_count": 17523,
+    "ocr_confidence": 0.557,
+    "pagerank": {
+      "raw": 5.8591662004228935e-08,
+      "percentile": 0.3635794982641845
+    },
+    "sha256": "9f0c04742cf5d1768dac34ce448b8ddc97c6aa6670fa70c7164905f35cb940fd",
+    "simhash": "1:8422ffa4ae52f0e1",
+    "word_count": 3044
+  },
+  "last_updated": "2024-02-27T18:01:03.208661+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The Gulf, Colorado & Santa Fe Railway Company v. B. H. Pittman et al."
+    ],
+    "opinions": [
+      {
+        "text": "COLLARD, Associate Justice.\nThis is a suit by B. H. Pittman, J. F. Gordon, and C. F. Childs to rescind and cancel their subscription note executed and delivered to the appellant railway company.\nThe note is as follows, viz.:\n\u25a0\u201c$250. Coleman, Texas, August 21, 1885.\n\u201c In consideration that the Gulf, Colorado & Santa Fe Railway Company shall agree to build a railway to the town of Coleman, in Coleman County, Texas, we, as one of the inducements for said company to build said road, jointly and severally promise and bind ourselves-to pay, on demand, to the order of the Gulf, Colorado & Santa Fe Railway Com-' pony, at its office in Galveston, Texas, on or before the 1st day of September, 1886, the sum of $250.\n\u201c In witness whereof, we hereunto set our hands, this the 21st day of August, 1885.\n\u201c The condition of this obligation is such, that if the Gulf, Colorado & Santa Fe Railway Company does not build or cause to be built a railway to the town of Coleman by the 1st day of September, 1886, then this obligation to become void, otherwise to remain in full force or effect.\n[Signed] \u201cB. H. Pittman,\n\u201c J. F. Gordon,\n\u201c C. A. Childs.\u201d\nThe court below overruled a general demurrer and a special exception to the'petition. The special exception is, that the petition shows, that after the alleged fraudulent representations are claimed to have been made by the company, the agreement between the parties was reduced to writing, from which it appears that the plaintiffs have no cause of action.\nJudgment was rendered for plaintiffs; defendant has appealed, and assigns as error the ruling on the demurrer and special exception.\nWe think the petition states a good cause of action. It shows that the note sought to be cancelled is only a part of an entire and more comprehensive contract, in which there were certain other undertakings on the part of the company and of citizens of the town of Coleman, the faithful performance of which on the part of the company constituted the consideration for performance on the part of the citizens, and that the entire contract on the part of the company was necessarily the consideration of the note, which is of itself only a part of the undertakings of the citizens of the town. The citizens were to raise, and secure by notes acceptable to the company, a bonus of $20,000, of which the note in suit is a part; they were to secure right of way for the company through the county and the town; depot grounds, sidings in the town, etc;, all free to the company; and the company was to abandon its proposed line four miles south of the town, and build its road to Coleman and on west to an objective point on the Colorado River, which lines were already surveyed. The citizens, including plaintiffs, performed and tendered performance of their part of the contract; defendant built a tap road out from its main line to Coleman, run mixed trains thereto, furnishing imperfect and incomplete accommodations, and built its main road on through the county four miles south of Coleman, on the line it had agreed to abandon, to the injury of contracting citizens, their property, and business in the town. The note is but a part of and is dependent upon the whole contract. The undertakings of the company, not stated in the instrument, are alleged to have been fraudulently made to induce the citizens and plaintiffs to raise the subsidy and to make the note in suit, which undertakings were not performed. These undertakings on the part of the company are not inconsistent with the written instrument; would not change its terms, but would serve to explain what is left incomplete and uncertain.\nIt would not be contended that a strict compliance with the letter of the written part of the contract would be a compliance on the part of the company, and entitle it to the benefit stated. A strict compliance would be to build a railway to Coleman by the 1st day of September, 1886, whether cars were ever to be run on the road or not. Does a railway mean any railway from any point ? Or does it mean, as the surroundings will show, defendant\u2019s road, its main road from Galveston; fully equipped and in operation to Coleman by the time mentioned ? Proof of the entire contract with the citizens of the town as alleged would answer these queries not inconsistently with the written terms, but in explanation thereof. When read in the light of surrounding circumstances, the real undertakings, indefinitely and partially expressed in the writing, become apparent, and it is seen that the company has not complied with its contract, and is not in a condition to ask payment of the note without defrauding the plaintiffs. The petition stated a good cause of action. Railway v. Jones, 82 Texas, 161; Thomas v. Hammond, 47 Texas, 52; 1 Greenl. on Ev., 284, 285; 2 Willson\u2019s C. C., secs. 326-531; 2 Pars. on Con., 430; Miller v. Railway, 65 Texas, 659-664.\nThe instruction to the jury requested by defendant, to the effect that defendant had complied with its contract, and directing a verdict for it, was not the law applicable to the case, and it was not error to refuse it. Nor was it error to refuse a requested charge, to the effect that the jury should disregard alleged false representations made by defendant before the written contract sued on was executed. If the company made false representations that it would build the main road to and through the town of Coleman, as alleged and proved, and not on the line running four miles south of the town, as an inducement to the contract as made by the citizens of Coleman and plaintiffs, such facts would be a proper consideration for the jury, as we have before shown, in determining whether defendant could claim payment of the note. Such representations, as we have seen, were a part of the entire contract, not inconsistent with the written part of it.\nWhat has been said disposes of the assignment, that it was error to admit the proof sustaining the allegations of the petition.\nIt was not error to refuse the charge asked by the defendant, to the effect that it would not be bound by representations of director Gresham, unless it was first shown that he was authorized by defendant to make such representations. It is true, that the mere fact that he was a director would not authorize him to bind the company by contracts and representations; but he was authorized to represent the company and make the1 contract to secure the bonus for the company. His representations and declarations in procuring the same were part of the res geste. The company could not ask an enforcement of the contract without accepting its-obligations. An agent may make fraudulent representations for his principal, and secure a contract based upon them, and in such case, ordinarily, the principal will be bound if' he accept the benefits of the contract. If he accept the contract, he must accept the obligations it imposes upon him. Henderson v. Railway, 17 Texas, 560 et seq.\n. It is not correct, as insisted by the appellant, to say, that authority of the principal must first be shown to make the representations in order to admit false representations of the agent made in and about his employment. If he be authorized to act in the matter, to consummate a trade, his acts, conduct, and representations within the scope of his employment are the acts and declarations of his principal; and when such representations of the principal, in paroi, would be admissible, those of the agent, in the scope of his employment, are also admissible. \u201c The representations of the-agent, acting within the scope of his authority and employment, are treated as the representations of the principal himself, and are binding upon him, \u25a0whether he knew them or not. And though he has exceeded his authority in making the contract, yet, as the company, by accepting a conveyance, taking the benefit of the contract, have ratified and adopted his acts and made them their own, they are liable in like manner as if they had personally done the acts.\u201d\nThe above quotation is the language of Justice Wheeler in Henderson v. Railway, supra, and presents, as we understand it, the law in cases-where an agent\u2019s acts and representations are res gestee in the business-about which he is employed.\nThe case of Railway v. Garrett, 52 Texas, 137, is not similar to the-one at bar, on the question before us, as in that case it was not shown that persons making promises for the company were in the performance of any acts authorized by the company so as to make them a part of the res gestee. Of course, declarations and promises of strangers, or directors not in the performance of their functions as such, could not bind the company; but. such was not the relation of Gresham to the transaction under consideration. He was acting for the company in an act authorized by it and accepted by it. He negotiated the bonus for the company. His declarations and representations while so doing were a part of the res geste.\nDelivered September 27, 1893.\nThe charge of the court is in agreement with our views of the law of the case as above expressed, and therefore we can not sustain the assignment of error upon it.\nWe do not think plaintiffs are estopped from seeking to vacate their obligation, upon the ground that they did not sue immediately after knowledge that defendant would not comply with its contract, or upon the ground that they suffered defendant to build its road on from Santa Ana westward without protest. We do not see that the principle of estoppel applies to the case.\nDefendant was constructing its own road, not for the benefit of plaintiffs, but in continued violation of the. contract (if plaintiffs\u2019 case is made out), in disregard of the rights of plaintiffs thereunder. The contract was broken; it was annulled for the benefit of defendant, and plaintiffs were discharged of their obligation, which could be set up in defense of its enforcement, or in seeking to vacate it, unless their delay misled the defendant, to its injury or to the advantage of plaintiffs. The contract and its obligations were at an end when defendant abandoned it, without fault on the part of plaintiffs. We do not think the circumstances justify any shorter period as a bar than is usual in equitable actions.\nAppellant asks a reversal, upon the ground that plaintiffs obtained an extension of the time of payment upon application to defendant, and are therefore estopped from denying the validity of the note.\nIt is unnecessary to discuss the merits of the question raised by this assignment, because, upon objection of plaintiffs, the petition asking delay was excluded by the court from the jury, upon the issue of ratification set up by defendant, and was only permitted to be read to and considered by the jury upon the question as to whether the note was procured by fraudulent representations, and for no other purpose. The question raised by the assignment is then not before us.\nWe find no error in the judgment of the court below, and it is affirmed.\nAffirmed.\nRehearing refused.",
+        "type": "majority",
+        "author": "COLLARD, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Alexander & Clark and J. W. Terry, for appellant.",
+      "Sims & Snodgrass, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "The Gulf, Colorado & Santa Fe Railway Company v. B. H. Pittman et al.\nNo. 383.\n1. Railway Bonus\u2014Failure of Consideration.\u2014Subscribers to a bonus payable to a railway for building its road to a specified town, may defeat their \u25a0obligation by showing that the subscription note signed by them was but part of a larger contract, by which it was promised by the agent of the railway company taking the subscription that the company would extend its line through the named town, instead of upon a line four miles distant, upon which the road had been built. A tap road had been built from the road to the town, which was claimed to fill the obligation of the railway company.\n2. Same\u2014Cause of Action.\u2014Suit to cancel an obligation signed by the plaintiffs, payable to the defendant company. The allegations, that the making of the obligation was induced by false and fraudulent representations, that the company would extend its line through the town of Coleman in consideration of a stipulated bonus, instead of upon a line four miles from the town, on which the road was subsequently built, show a cause of action.\n3. Agent of Railway Company. \u2014 A director of the railway company, authorized to contract for a bonus for his company, and to control the location of its line, in making promises as to where the road shall be built in consideration of such bonus, is an agent of the company, so that such declarations and promises are admissible as res gestae against the company in a contention involving the contract made by such agent. If the company accepts the contract it is liable for obligations imposed.\n4. Same.\u2014If an agent is authorized to consummate a trade, his acts, conduct, and representations, within the scope of his employment, are the acts and declarations of his principal, and equally competent as evidence against such principal.\n5. Estoppel.\u2014Neither failure to sue immediately upon knowledge that the railway company would not comply with its contract, nor that no protest was urged against the construction of the road upon a line other than that contracted for, would operate an estoppel in favor of the railway company.\n6. Right of Action, when. \u2014 The contract and its obligations were at an end when defendant abandoned it, without fault of the plaintiffs, and the usual bar in equitable actions would apply in an action to cancel the contract.\nAppeal from the County Court of Coleman.\nTried below before H. O. Orr, County Judge.\nAlexander & Clark and J. W. Terry, for appellant.\n1. Declarations, representations, or expressions which precede, but do not enter into or form a part of the contract as finally reduced to writing, are not admissible to contradict or vary or change the terms of a written instrument, and furnish no ground of redress to the party claiming to have-been deceived or misled by them; for it isfchis own folly to rely upon them when they are not embodied in and made a part of the contract when it is reduced to writing. Wooters v. Railway, 54 Texas, 294.\n2. Prior representations or expressions, alleged to have been fraudulent, which contradict or change the obligations between the parties to a written agreement, are not admissible in evidence; the law presumes that the parties embodied in their writing the agreement between them. Wooters v. Railway, 54 Texas, 294.\n3. From the fact that Colonel Gresham was one of the defendant\u2019s directors, it does not follow that he had authority to make the alleged representations; and in the absence of proof of his authority, the representations made by him, if he made them, should not have been admitted in evidence. Railway v. Garrett, 52 Texas, 137.\n4. One who deals with an agent acting under express authority, whetlier written or verbal, is bound to know, at his peril, the power of such agent and the legal effect of his acts. The acts of an agent, to bind his principal, must be within the scope of the authority conferred upon him by his principal. 1 Am. and Eng. Encycl. of Law, 351, authorities cited in note; Wooters v. Railway, 54 Texas, 294.\n5. The defrauded party must proceed with promptness to assert his rights upon discovery of the fraud. To rescind a contract on the ground of fraud, the right must be exercised at the earliest practicable time after the discovery of the fraud. Masson v. Bevet, 1 Denio, 69; Hall v. Fullerton, 67 Ill., 450; Briggs v. Rice, 130 Mass., 50; Bodger v. Bodger, 2 Wall., 87; Shaver v. Radley, 4 Johns. Ch., 310; Campan v. Van Dyke, 15 Mich., 371.\n6. If the maker of a note get an advantage, such as extension of time, by acknowledging the justness of the same and his liability thereon to the owner, he will be estopped to dispute the truth of this admission in a suit between him and the owner of the note. Bige. on Estop., 2 ed., 461; Brooks v. Martin, 43 Ala., 360.\nSims & Snodgrass, for appellees.\n1. The consideration in private writings can be inquired into, and paroi evidence may be introduced to show the true consideration, or to show another or different consideration than that stated in the writing. 2 Willson\u2019s C. C., sec. 326, and authorities; 2 Whart. on Ev., secs. 1044, 1045, 1060, 1069; Railway v. Nedford, 18 S. W. Rep., 1030.\n2. Where a part only of an agreement is reduced to writing, paroi evidence is admissible to prove that which was not reduced to writing. Thomas v. Hammond, 47 Texas, 43; 2 Willson\u2019s C. C., sec. 544; 2 Whart. on Ev., secs. 1015, 1027; 1 Greenl. on Ev., 284a.\n3. Fraud in procuring a written contract, and fraudulent declarations, representations, and expressions as inducement for making the writing, may be pleaded and proven, and the written agreement set aside by reason thereof. 2 Willson\u2019s C. C., secs. 1, 2, 326, 531, 544, and authorities; Mitchell v. Zimmerman, 4 Texas, 80; O\u2019Connell v. Duke, 29 Texas, 299; Thomas v. Hammond, 47 Texas, 43; Young v. Young, 19 Texas, 504; 1 Story Eq., secs. 151-157; 2 Story Eq., sec. 1531; 2 Whart. on Ev., sec. 931, note 1; Greenl. on Ev., secs. 284, 296a.\n4. Where no bar has been fixed by statute for equitable remedy, equity will in analogous cases observe the rule as to legal remedy, unless special circumstances demand a shorter period; and in this case, as appellant held the notes, delay caused no injury to appellant, and the breach of the contract being continuous, the suit was brought within time. Glasscock v. Nelson, 26 Texas, 150; 1 Story Eq., secs. 187-194, 246-248, 251, 259, 307, 308, 312; 2 Story Eq., secs. 694, 695, 700-703, 705."
+  },
+  "file_name": "0167-01",
+  "first_page_order": 191,
+  "last_page_order": 197
+}

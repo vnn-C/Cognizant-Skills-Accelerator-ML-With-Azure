@@ -1,0 +1,66 @@
+{
+  "id": 221142,
+  "name": "E. C. Brock v. G. F. Abercrombie et al.",
+  "name_abbreviation": "Brock v. Abercrombie",
+  "decision_date": "1893-05-17",
+  "docket_number": "No. 775",
+  "first_page": "342",
+  "last_page": "343",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 342"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 183,
+    "char_count": 2786,
+    "ocr_confidence": 0.568,
+    "pagerank": {
+      "raw": 4.076306636737454e-08,
+      "percentile": 0.008894967711681434
+    },
+    "sha256": "812cdbdc80eaf2b0fec77320f55f07e049291f556e301565ebf132c8ccd2b0c2",
+    "simhash": "1:563482bfc668687d",
+    "word_count": 486
+  },
+  "last_updated": "2023-07-14T18:08:23.206239+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "E. C. Brock v. G. F. Abercrombie et al."
+    ],
+    "opinions": [
+      {
+        "text": "TARLTON, Chief Justice.\nThis appeal, in a cause involving more than \u00a7100, is prosecuted from a judgment of the County Court of Lamar County, dismissing an appeal from a judgment of a Justice Court of that county wherein the appellee Abercrombie recovered of appellant a judgment for \u00a715.\nThe judgment was rendered on December 14, 1889. On the ninth day thereafter, December 23, 1889, the appellant, Brock, for the purpose of appealing to the County Court of Lamar County, made his affidavit, under article 1639a of the Revised Statutes, of inability to pay costs. December 24, 1889, the appellee filed a contest of the affidavit, asking the court to set a day for the hearing of evidence as to the truth of the affidavit. \u00a1No day was set nor was evidence at any time heard.\nAppellant having filed in the County Court the transcript from the Justice Court, appellee, on March 20, 1890, filed his motion to dismiss the appeal, because the affidavit had not been filed in time to enable appellee to contest it.\nOn March 18, 1891, the County Court sustained this motion and dismissed the appeal from the Justice Court, whence this appeal.\nIn this the County Court erred.\nUnder the article referred to, the appellant had ten days in which to file his affidavit, which, having been made before the county judge, constituted prima facie proof of inability. Wooldridge v. Roller, 52 Texas, 447.\nThis affidavit was filed subject to contest.\nIt can not be said that appellee was deprived of an opportunity to institute this contest, even though appellant had waited until the last minute of the ten days allowed him by law within which to file his affidavit. The statute does not require that the affidavit shall be filed and the contest heard and determined within the ten days mentioned.\nThe judgment is reversed and the cause is remanded.\nReversed and remanded.\nDelivered May 17, 1893.\nA motion for rehearing was refused.",
+        "type": "majority",
+        "author": "TARLTON, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "W. L. Hutchinson, for appellant.",
+      "E. D. Scales, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "E. C. Brock v. G. F. Abercrombie et al.\nNo. 775.\nAppeal from Justice to County Court\u2014Affidavit in Lieu of Appeal Bond.\u2014On appeal from the Justice to the County Court, the appellant has ten days from the rendition of the judgment within which to file his affidavit of inability to pay costs in lieu of an appeal bond. The statute does not require that a contest of the truth of such affidavit shall be filed and heard within the ten \u2022days.\nAppeal from the County Court of Lamar. Tried below before Hon. John W. Roundtree.\nW. L. Hutchinson, for appellant.\nAppellant\u2019s affidavit in lieu of an appeal bond was filed in due time, and the County Court erred in dismissing the appeal. Const., art. 5, sec. 9; Rev. Stats., arts. 1401, 1638; Stewart v. Heidenheimer, 55 Texas, 644; 2 Willson\u2019s C. C., secs. 38, 39; Wooldridge v. Roller, 52 Texas, 447.\nE. D. Scales, for appellee."
+  },
+  "file_name": "0342-01",
+  "first_page_order": 368,
+  "last_page_order": 369
+}

@@ -1,0 +1,66 @@
+{
+  "id": 219209,
+  "name": "Martha Gregory v. Southern Pacific Railway Company",
+  "name_abbreviation": "Gregory v. Southern Pacific Railway Co.",
+  "decision_date": "1893-02-09",
+  "docket_number": "No. 74",
+  "first_page": "279",
+  "last_page": "280",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 279"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 243,
+    "char_count": 3486,
+    "ocr_confidence": 0.541,
+    "pagerank": {
+      "raw": 6.770845263994211e-08,
+      "percentile": 0.41459444160644116
+    },
+    "sha256": "09fd78d30d82f8ac8421e5e54b36aba7299a0ff31b4545046d5df2a2cc2bbe96",
+    "simhash": "1:b9b2f820a23f96eb",
+    "word_count": 592
+  },
+  "last_updated": "2023-07-14T16:01:39.065288+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Martha Gregory v. Southern Pacific Railway Company."
+    ],
+    "opinions": [
+      {
+        "text": "WILLIAMS, Associate Justice.\nSuit by appellant to recover damages for the alleged negligent killing of her son, Jack Goolsby, by appellee. The cause was tried by the judge, a jury having been waived, and judgment, upon conclusions of law and fact, was rendered for appellee.\nThere is no assignment of errors in the record, and unless there is fundamental error apparent the judgment must be affirmed.\nThe findings of fact by the court below are sustained by the evidence, and, briefly stated, are as follows: Deceased was lying asleep on appellee\u2019srailway track, and was run over and killed by one of its trains. Appellee\u2019s servants discovered him as soon as they could do so with reasonable care, and used all proper diligence to stop the train, but were so close to him that they could not do so until the cars had passed over his body. The conclusion of law, that appellee was not liable, resulted necessarily from these facts.\nAppellant sought a new trial on the ground of newly discovered evidence. It seems that one Simmons had misled appellant\u2019s attorney by statements, made before announcement for trial, which tended to show that the servants operating the train could have stopped it after discoving the body upon the track, and thus avoided injury to the deceased, and that they were guilty of negligence in not doing so; and that the witness on the stand testified to a different state of facts, admitting at the same time that he had made the statements imputed to him.\nWithout going into all the facts shown in the motion and the accompanying affidavits, it will suffice to say that appellant, when she discovered during the trial that the witness had deceived her attorney, should have applied for leave to withdraw her announcement, and to continue the case. Having proceeded with the trial and taken the chances of a judgment, she-ought not to be allowed to complain. Besides, we can not see from' the showing made that appellant was justified in relying so implicitly on one witness, when the facts were disputed, and when those shown by the affidavits made in connection with the motion for new trial were of a character to have been easily proven, if true.\nThere being no error apparent, the judgment is affirmed.\nAffirmed.\nDelivered February 9, 1893.",
+        "type": "majority",
+        "author": "WILLIAMS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "John H. Kirby, for appellant, cited:",
+      "Perryman & Gillaspie, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Martha Gregory v. Southern Pacific Railway Company.\nNo. 74.\n1. Contributory Negligence.\u2014Deceased was lying asleep on appellee\u2019s railway track, and was run over and killed by one of its trains. Appellee's servants discovered him as soon as they could do so with reasonable care, and used all proper diligence to stop the train, but could not do so until the cars had passed over his body. The conclusion of law, that appellee was not liable, resulted necessarily from these facts.\n2. Practice when Witness Misleads the Party Calling Him.\u2014A witness for plaintiff made statements to plaintiff before the trial tending to show a different state of facts than that testified to by him. When this was discovered, plaintiff should have applied for leave to withdraw her announcement of ready for trial, and to continue the case. Having proceeded with the trial and taken the chances of a judgment, she can not complain.\nAppeal from Tyler. Tried below before Hon. Robert A. Greer.\nJohn H. Kirby, for appellant, cited:\nHays v. Railway, 70 Texas, 602; Railway v. Sympkins, 54 Texas, 615; Railway v. Weisen, 65 Texas, 443; Railway v. Lowry, 61 Texas, 149; Railway v. Cocke, 64 Texas, 151.\nPerryman & Gillaspie, for appellee."
+  },
+  "file_name": "0279-01",
+  "first_page_order": 305,
+  "last_page_order": 306
+}

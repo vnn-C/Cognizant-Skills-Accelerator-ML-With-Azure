@@ -1,0 +1,104 @@
+{
+  "id": 216186,
+  "name": "Missouri, Kansas & Texas Railway Company v. Trinity County Lumber Company",
+  "name_abbreviation": "Missouri, Kansas & Texas Railway Co. v. Trinity County Lumber Co.",
+  "decision_date": "1892-12-15",
+  "docket_number": "No. 35",
+  "first_page": "553",
+  "last_page": "557",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Tex. Civ. App. 553"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Paige Ch., 390",
+      "category": "reporters:state",
+      "reporter": "Paige Ch.",
+      "case_ids": [
+        2179899
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/paige-ch/2/0390-01"
+      ]
+    },
+    {
+      "cite": "41 Fed. Rep., 592",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3731369
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/f/41/0592-01"
+      ]
+    },
+    {
+      "cite": "2 Paige Ch., 390",
+      "category": "reporters:state",
+      "reporter": "Paige Ch.",
+      "case_ids": [
+        2179899
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/paige-ch/2/0390-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 554,
+    "char_count": 13755,
+    "ocr_confidence": 0.57,
+    "pagerank": {
+      "raw": 1.8555258087202704e-07,
+      "percentile": 0.7241352681179481
+    },
+    "sha256": "108ce66f89ccd4e9023e941a0f0f187518937778be045c08a6252c8a19365c20",
+    "simhash": "1:07a9a4a094137cf6",
+    "word_count": 2326
+  },
+  "last_updated": "2024-02-27T16:44:05.763049+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Missouri, Kansas & Texas Railway Company v. Trinity County Lumber Company."
+    ],
+    "opinions": [
+      {
+        "text": "WILLIAMS, Associate Justice.\nThis suit was brought by appellant against appellee, to recover an amount alleged to be due as freight upon certain narrow guage cars transported over appellant\u2019s road for appellee, and alleged to have been taken by appellee from appellant\u2019s possession by force, without paying the charges for such transportation.\nThe machinery was shipped by the Lima Machine Works, of Lima, Ohio, consigned to appellant at Groveton, Texas, under a bill of lading issued by the Lake Erie & Western Railway Company, at the former place, in which the cars were described as \u201c narrow guage cars for use on steam railroad,\u201d and the charge for carriage was stipulated at 53 cents per 100 pounds.\nThere were joint tariff rates fixed between the Lake Erie & Western Railroad and appellant and connecting lines, regularly scheduled, posted, and filed with the Interstate Commerce Commission, in accordance with the act of Congress known as \u201c The Interstate Commerce Law,\u201d in which such freight was divided into two classes, one including \u201c narrow, guage cars for use upon steam railroads,\u201d upon which the charge for carriage was fixed at 53 cents per 100 pounds, and the other including k k cars, logging, narrow guage,\u201d on which the charge was 84 cents per 100 pounds.\nThe first class was intended to embrace such cars as were carried for steam railroads engaged in the carrying business, and the other was intended to describe the same kind of cars when they were to be used on tram roads operated in connection with saw mills. Appellee was not engaged in the carrying business, and was not operating a steam railroad further than that its cars were hauled over a tram, used in connection with its saw mill, by steam engines; and for this use the cars were intended. The. freight in this case, therefore, actually belonged to the last named class, while it was described in the bill of lading as belonging to the first. This came about through the action of the machine works from which appellee purchased, whose clerk had the property loaded upon a car of the receiving railroad at Lima, and presented to its agent a shipping order and a bill of lading for signature, with the property thus designated in both. The carrier\u2019s agent signed the bill of lading without seeing the property and supposing it to be correctly classed.\nThe machine company\u2019s agent knew of the different rates arising from the classification above stated, and represented to the carrying agent that the cars were for use on a narrow guage steam railway. The error was discovered while the car was in transit, by the authorities of an intermediate line, and a corrected way bill was issued to accompany it, stating the freight charges at 84 cents per 100 pounds; and the car, accompanied by this bill, reached appellant\u2019s line at Trinity, and its agent there paid the portion of the freight due the connecting lines according to the 84 cents rate, and forwarded the car to appellee at Groveton. Appellee then tendered to appellant the charges due, according to the bill of lading, and, upon its refusal to accept same, took the property from its possession without its consent. It cost as much to transport such cars for use upon railways as for use in connection with saw mills, and the difference in favor of the former was made because they were public carriers, created business and an interchange of traffic, only compensatory and not remunerative rates being fixed for them. There was no evidence that the higher rate was unreasonable, unless it consists in the difference between the two rates.\nThe finding of the court below, that appellant was restricted in its recovery to the amount stated in the bill of lading, under the facts of this case, was error. Such instruments, it is true, in general are contracts binding on the carrier, and fixing the remuneration which it is entitled to recover for its service. But here the rate was obtained by a misrepresentation of appellee\u2019s agent as to the class to which the freight belonged. There is no conflict of evidence on this point; and whether this was done innocently or not, on the part of the clerk of the machine works, the result is the same. It constitutes in law a fraud, of which appellee can not reap the benefit. There is no doubt, however, that the correspondence between appellee and the machine works discloses the use for which the former ordered the cars, and that the latter knew of the difference between the rates fixed for the two classes of matter, and designated the cars in the bill of lading so as to secure the lowest rate. The testimony of the clerk who made the shipment discloses these facts.\nThe act of Congress regulating commerce between the States requires carriers engaged in such traffic to establish and publish schedules of rates,fares, and charges; and makes it unlawful for any such carrier to charge, demand, collect, or receive any greater or less compensation for transportation than is specified in such schedules. Act 1887, sec. 6; amended Act 1889, sec. 6. Appellant and its connecting lines over which the property in question passed had complied with this law, and the classification and charges, about which this controversy arose, were contained in the joint tariff published by them and filed with the Interstate Commerce Commission. Had they, therefore, knowingly entered into the contract in question, whereby less compensation was charged than was specified in their schedules, they would have been guilty of a violation of that law, and would have incurred severe penalties. Id., sec. 10. And appellant, if it had knowingly collected different rates from those fixed in the schedule, would have been equally guilty as if it had originally made the contract. The same law also prohibits unjust discriminations and the making of unreasonable charges, and appellee contends that the difference between rates allowed carriers and those charged against other shippers constituted an unjust discrimination which would preclude the recovery of the higher rate. But the law does not provide that an unjust discrimination shall have the effect of limiting the carrier to the lowest rate charged. The effect of the different requirements seems to be, that the carrier is bound to schedule its rates, and to fix them at reasonable figures, without unjust discriminations. It is held to the rates established, and can discriminate or charge unreasonable compensation only at the peril of criminal prosecution. If it discriminates unjustly, or charges unreasonable rates, it can be punished by criminal proceedings, and the party injured has his remedy in the courts, by which the carrier can be restricted to such remuneration as is just, and can be held responsible for such damages as its wrongful conduct has occasioned. But the carrier, in dealing with shippers, is required to conform its charges against them to the rates fixed in the published tariff, and can not lawfully depart therefrom. If such charges are unreasonable, the shipper has his remedy. But the mere fact that a less rate is allowed to one class of shippers, for special reasons applicable only to them, than is applied to all others, is not made proof that the rate charged generally is unreasonable.\nDelivered December 15, 1892.\nThe only evidence in the case on the subject is furnished by appellants, and tends to show that the rate charged railways is less than should be charged shippers generally, and that the higher rate is reasonable. Whether or not it is lawful for carriers to make this difference we do not find it necessary to decide. For if it be unlawful, appellant would still be entitled to reasonable remuneration, and this, we have seen, according to the only evidence, is the higher rate. If there was unjust discrimination, and the contract with appellee was therefore unlawful, it is not seen how that can aid it. It claims under the contract, indeed procured it through misrepresentation made to the railway company, by those whose acts must be charged to it, and to permit it to establish the illegality of the contract, and at the same time receive the benefit of it, would be absurd.\nThe judgment of the court below will be reversed and judgment rendered in this court for appellant for the sum of 8282.65, with interest from July 1, 1889, the date when the goods were tendered to appellee at Groveton, and all costs of suit.\nReversed and rendered.",
+        "type": "majority",
+        "author": "WILLIAMS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Sam. T. Robb and James E. Hill, for appellant.",
+      "J. P. Stevenson and J. R. Burnett, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Missouri, Kansas & Texas Railway Company v. Trinity County Lumber Company.\nNo. 35.\n1. Shipper and Consignee. \u2014 If a shipper, acting as the agent of the consignee, fraudulently misclassifi.es freight, the carrier may recover of the consignee a rate of freight according to a correct classification.\n2. Classification of Freight \u2014 Misrepresentation in Procuring Bill of Lading. \u2014 The Lima Machine Works constructed and shipped to appellee cars described in the bill of lading as \u201c narrow gauge cars for use on steam railroad.\u201d In accordance with the interstate commerce law, joint tariff rates had been fixed between the road that issued the bill of lading and its connecting lines, in which such freight was divided into two classes, \u201cnarrow gauge cars for use on steam railroads,\u201d and \u201c cars, logging, narrow gauge.\u201d The first class embraced cars carried for roads engaged in the carrying business, and the rate of freight was 53 cents per 100 pounds. The second included cars for use on saw mill tram roads, and the rate of freight was 84 cents per 100 pounds. The clerk of the machine works presented to the receiving road a shipping order and bill of lading, in which the cars were designated as \u201c for use on steam railroads,\u201d and they were both signed. The machine company knew of the different rates arising from the classification. Upon arrival appellee tendered the freight charges according to his bill of lading, and upon appellant's refusal to receive it, took possession without consent. . Held, the rate of 53 cents was obtained by a misrepresentation of appellee\u2019s agent, and constitutes a fraud, of which appellees can not obtain the benefit, and payment of the 84 cents rate was enforced.\n3. Interstate Commerce. \u2014 The act of Congress regulating commerce between the States requires carriers engaged in such traffic to establish and publish a schedule of rates, and makes it unlawful for any carrier to charge, demand, or collect any greater or less compensation for transportation than specified. Had appellant and connecting lines knowingly entered into the contract in question, whereby less was charged than specified, they would have incurred severe penalties; and if appellant had collected different rates from those specified, it would have been as guilty as if it had made the contract.\n4. Discrimination in Freights. \u2014 The same law forbids discriminations, but does not provide that an unjust discrimination shall have the effect of limiting the carrier to the lowest rate charged. The carrier must schedule its rates, and can discriminate only at the peril of criminal prosecution, and the party injured may restrict the carrier to just remuneration, and hold it responsible for damages for its wrongful conduct: but the mere fact that a less rate is allowed to one class of shippers than to another is not proof that the rate charged is unreasonable.\n5. Reasonable Remuneration. \u2014 Whether or not it is lawful for carriers to make this difference we do not find it necessary to decide. If it be unlawful, appellant would still be entitled to reasonable remuneration, and this, according to the only evidence in this case, is the higher rate; and the judgment is reversed and rendered for appellant.\nAppeal from Trinity. Tried below before Hon. Norman G. Kittrell.\nThe letter of appellee to the shippers making the order required six cars to be put in one carload, and dir\u00e9cted- that the machine company should \u201c contract for the freight before shipment.\u201d\nSam. T. Robb and James E. Hill, for appellant.\n1. The shipper could not, by representing in his shipping order that he was shipping freight 'belonging to the 53 cents rate, bind the carrier to transport freight named in the classified rate as 84 cents freight for 53 cents. Interstate Commerce Act, secs. 2, 3, 6; Baird v. Railway, 41 Fed. Rep., 592.\n2. There being fraud or misrepresentation by the Lima Machine Works in procuring the bill of lading from the Lake Erie & Western Railway Company, as to the kind and class of freight shipped, neither that company nor any connecting line is bound by the bill of lading so obtained, as to the 53 cents rate of freight, and the consignee is liable for the regular rate. Sumner v. Ry. Assn., 9 Am. and Eng. Ry. Cases, 18; Baird v. Railway, 41 Fed. Rep., 592; 4 Wait\u2019s Act. and Def., 433; Livingston v. Iron Co., 2 Paige Ch., 390.\n3. If the bill of lading could be held binding, independent of interstate commerce law, the guarantee of rates shown in it only applies to the Lake Erie & Western Railway Company, and can not affect appellees or either of the other connecting lines. Hill v. Railway, 9 Am. and Eng. Ry. Cases, 21; Manf. Co. v. Railway, 42 Am. and Eng. Ry. Cases, 498; Railway v. Dwyer, 75 Texas, 573.\nJ. P. Stevenson and J. R. Burnett, for appellee.\nIt would be unjust and illegal discrimination, both under the laws of Texas and the interstate commerce act, to allow a carrier to collect a greater rate for the same kind of freight from one person or class of persons than from another person or class. Discrimination based upon the mere use to which freight is to be applied, or even for the private benefit of the carrier, is unjust and illegal. Railway v. Gallaher, 79 Texas, 685; Reynolds v. Railway, 1 Interstate Com. Rep., 393; Hurlburt v. Railway, 34 Am. and Eng. Ry. Cases, 596."
+  },
+  "file_name": "0553-01",
+  "first_page_order": 577,
+  "last_page_order": 581
+}

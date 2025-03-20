@@ -1,0 +1,109 @@
+{
+  "id": 221217,
+  "name": "Sallie J. Riggs et al. v. J. P. Pope et al.",
+  "name_abbreviation": "Riggs v. Pope",
+  "decision_date": "1893-04-05",
+  "docket_number": "No. 116",
+  "first_page": "179",
+  "last_page": "182",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 179"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "37 Barb., 350",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5089702
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/37/0350-01"
+      ]
+    },
+    {
+      "cite": "15 How. Pr., 358",
+      "category": "reporters:state",
+      "reporter": "How. Pr.",
+      "case_ids": [
+        2204413
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/how-pr/15/0358-01"
+      ]
+    },
+    {
+      "cite": "1 Mich., 14",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1173611
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich/1/0014-01"
+      ]
+    },
+    {
+      "cite": "13 Colo., 625",
+      "category": "reporters:state",
+      "reporter": "Colo.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 503,
+    "char_count": 10133,
+    "ocr_confidence": 0.528,
+    "pagerank": {
+      "raw": 1.7447599835856178e-07,
+      "percentile": 0.7076198264840923
+    },
+    "sha256": "4c322798b482680a14bfe0b7059147a7caa4f042f5a0b2dfdee2097d8898cc79",
+    "simhash": "1:69120833164ddcdb",
+    "word_count": 1746
+  },
+  "last_updated": "2024-02-27T16:31:46.217873+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Sallie J. Riggs et al. v. J. P. Pope et al."
+    ],
+    "opinions": [
+      {
+        "text": "KEY, Associate Justice.\nIn our opinion, the District Court erred in holding that plaintiffs\u2019 petition failed to state a cause of action, and in sustaining defendants' demurrers thereto and dismissing the cause.\nThe averments of the petition are sufficient, if true, to entitle plaintiffs to a judgment removing cloud from title. These averments, in so far as they relate to the action of defendants in asserting title to the property in controversy, are aided and confirmed by the defendants\u2019 answer filed herein, claiming title to the property under the very deeds in which, the plaintiffs charge, the calls for distance are incorrectly stated. In passing upon demurrers to a petition, the averments in the defendant\u2019s answer may also be considered. Day Land and Cattle Co. v. The State, 68 Texas, 536.\nIt is true that the first deed in which the alleged mistake in the length of lines occurred was executed and recorded more than thirty years before the institution of this suit; but the petition alleges that all persons claiming under said deed and other deeds containing the same mistake, including John M. Pope, the ancestor of defendants, and under whom they claim, admitted that said deeds only embraced ten acres of land, and did not include the land in controversy; that they acquiesced in the title and claim of plaintiffs and those under whom they claim to the land in controversy, as did also the defendants, until about one year before the institution of this suit.\nUnder these circumstances, we do not think the plaintiffs\u2019 right to maintain the suit is barred as a stale demand.\nThe vendees, to whom the several deeds were made containing mistakes in length of lines, had the right to place their deeds on record; and the mere facts of the mistake in the deeds and their registration (when considered in connection with the further fact that those holding under them conceded that they did not include the land in controversy and acquiesced in the claims of plaintiffs and those under whom they claim) did not constitute such a cloud on the title to the land in controversy as would have authorized a suit to remove it. But when, in connection with the registration of the deeds, those claiming under them began asserting title through said deeds to the land in controversy, a cause of action arose; and, according to the allegations in the petition, this was only about a year prior to the commencement of this suit.\nSuch being the case, loches is not imputable to the plaintiffs, and they are not precluded from maintaining the suit. If the averments of the petition be true, it can not be denied that the defendants, by placing a false, but apparently true, construction on the deeds spread upon the records of the county in which the land is situated, have prevented the plaintiffs from disposing of the land in the manner they desired, and for its full value.\nTo prevent a continuance of these wrongs and enable the plaintiffs to enjoy the full benefit of their property, if the facts be as alleged, they are entitled to a judgment which will satisfy persons desiring to purchase the land that the defendants\u2019 pretended and apparent title is in fact worthless, and that the plaintiffs are the true owners of the land.\nThe judgment\u2019 of the court below will be reversed and the cause remanded for further proceedings in accordance with the law announced in this opinion.\nReversed and remanded.\nDelivered April 5, 1893.",
+        "type": "majority",
+        "author": "KEY, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Montieth & Furman, for plaintiffs in error.",
+      "Harris & Saunders, for defendants in error."
+    ],
+    "corrections": "",
+    "head_matter": "THIRD DISTRICT,\nAPRIL, 1893.\nSallie J. Riggs et al. v. J. P. Pope et al.\nNo. 116.\n1. Pleadings \u2014 Practice \u2014 Demurrer. \u2014In passing upon demurrers to a petition, the averments in the answer may also be considered. In this case the defendants, in the answer, asserted title to the land alleged by the plaintiffs to be clouded by such assertion of title to it, under calls for course and distance in certain deeds; when the land had been sold and subsequently held by an actual survey enclosing less than such calls.\n2. Cause of Action, When\u2014Stale Demand.\u2014In a deed recorded for over thirty years were calls for course and distance in excess of the land actually surveyed and sold. After the execution of the deed, the vendees claimed to the limits of the actual survey until within a year before suit. Held, that a suit to remove the cloud made by the deed, and by the claim of ownership under it, was not a stale demand; right to sue did not exist until claim was asserted.\n3. Cause of Action.\u2014A petition alleging the execution of the deed with mistaken calls for course and distance, the recent assertion of claim according to such calls, when the land had been sold and held by actual survey, with alleged injury resulting from such claim beyond the actual survey, shows cause of action, and a demurrer was improperly sustained.\nError from Bell. Tried below before Hon. W. A. Blackburn.\nThis was a suit instituted by Sallie J. Riggs, joined by her husband, W. S. Riggs, against J. P. Pope and G-. I. Pope, to remove cloud from title and quiet the possession of Sallie J. Riggs in 10 acres of land in controversy.\nPlaintiffs alleged title in Sallie J. Riggs in fee simple, alleging that they held by limitations under the five and ten year statutes; also alleged the possession of the land for twenty years; alleged an error in description according to metes and bounds in deeds under which defendants claim the land, by which said field notes, giving the calls for metes and bounds preference, would embrace the land claimed by plaintiffs; but alleging, that said land was surveyed upon the ground, and lines and courses definitely established; that every conveyance down to the ancestor of defendants had been made with reference to said lines and corners as established upon the ground; and that the vendors and vendees, in all deeds, from the sovereignty of the soil, having reference to the lands claimed by defendants, had conveyed and received conveyances of the land conveyed to defendants\u2019 ancestor, giving special prominence to the survey of the same as made upon the grounds. That until a short period prior to the institution of this suit, defendants and their ancestor, and those under whom they claimed, admitted the title and possession of the land in controversy to be in the plaintiff Sallie J. Riggs and those under whom she claimed; but that recently defendants had set up a claim to the land in controversy, asserting that the same was embraced and described in the deeds to their ancestors and those under whom they claimed, and that the calls for course and distance should be given a preference in the description of their land to the boundaries thereof as established by the footprints of the surveyor and the lines and corners thereof as established and marked upon the ground; that said claim of title and possession of defendants under said deed, as recorded in records of deeds, had become notorious, and same, taken in connection with field notes of deed as recorded, had become a cloud upon the title of plaintiff Sallie J. Riggs; alleging that said lands of plaintiffs and in controversy had an exceptional value because of being adjacent to the city of Belton, and mapped and platted for sale as town lots, and the same could be sold for a high value were it not for the fact that defendants set up title thereto and brought their claims to the notice of those desiring to purchase, and that those desiring to purchase would not purchase the same, with the expectation of making valuable \"improvements thereon, when the title was questioned.\nDefendants demurred to plaintiffs\u2019 petition on the ground that it appeared from the face of plaintiffs\u2019 petition that they were guilty of loches in prosecuting their suit; on the ground also that plaintiff in her petition does not allege how or why her alleged title is clouded or she suffers injury; also on the ground that the real object of the suit was to correct an alleged mistake in deed or deeds made and recorded over thirty-three years; also alleging that defendants are the legal and equitable owners in fee of the land claimed; also claiming under the statute of limitations of three, five, and ten years; also claiming possession for more than thirty years, claiming to be heirs of a purchaser for a valuable consideration, without notice of any adverse claim or title.\nOn trial the demurrers and exceptions to plaintiffs\u2019 pleadings were sustained, and judgment rendered for defendants, and plaintiffs appealed to the Supreme Court, and removed the case by writ of error.\nMontieth & Furman, for plaintiffs in error.\nAs to relief that can be granted: Day Co. v. The State, 68 Texas, 536; The State v. Snyder, 66 Texas, 694; Thomson v. Locke, 66 Texas, 383, 388, 389; 3 Pome. Eq. Jur., secs. 1384, 1385.\nAgreement as to boundaries: Harrell v. Houston, 66 Texas, 278; Medlin v. Wilkins, 60 Texas, 409; Fordtran v. Ellis, 58 Texas, 245; Hefner v. Downing, 57 Texas, 576.\nRules applicable for construction of surveys: Booth v. Strippleman, 26 Texas, 441.\nAll pleadings in cause to be considered in acting upon exceptions: Day Co. v. The State, 68 Texas, 538.\nPlaintiffs were not guilty of laches: Telfener v. Dillard, 70 Texas, 139; House v. Brent, 69 Texas, 27.\nHarris & Saunders, for defendants in error.\nThe petition of plaintiffs does not amount to an action of trespass to try title, because plaintiffs are alleged to be in possession. In order to maintain the action at law where plaintiff is in possession, it must be alleged that defendant had ousted the plaintiff. Rev. Stats., arts. 4786, 4790; Klink v. Cohen, 13 Colo., 625; Lockwood v. Drake, 1 Mich., 14; Taylor v. Crane, 15 How. Pr., 358; Schuyler v. Marsh, 37 Barb., 350.\nThe petition shows that plaintiffs are not entitled to a decree removing cloud or to establish disputed boundary, because it alleges that the boundaries of defendants\u2019 land are well defined by natural and artificial objects now on the ground, and does not allege that there is any danger of then-being removed or destroyed. Nye v. Hawkins, 65 Texas, 600. And besides, the facts alleged show that plaintiffs have an adequate remedy at law for the recovery of title to the land."
+  },
+  "file_name": "0179-01",
+  "first_page_order": 205,
+  "last_page_order": 208
+}

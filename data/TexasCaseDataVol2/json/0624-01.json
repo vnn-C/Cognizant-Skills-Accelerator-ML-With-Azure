@@ -1,0 +1,66 @@
+{
+  "id": 219160,
+  "name": "The Western Union Telegraph Company v. O. W. Carter",
+  "name_abbreviation": "Western Union Telegraph Co. v. Carter",
+  "decision_date": "1893-03-09",
+  "docket_number": "No. 110",
+  "first_page": "624",
+  "last_page": "626",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 624"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 422,
+    "char_count": 7151,
+    "ocr_confidence": 0.544,
+    "pagerank": {
+      "raw": 1.41291438770685e-07,
+      "percentile": 0.6473139939818885
+    },
+    "sha256": "7a2b31bdcc04008ee6c7e20388df33bdc7c47314e5f24bc1b8ae6042e8f7254e",
+    "simhash": "1:21abd4760902514f",
+    "word_count": 1213
+  },
+  "last_updated": "2023-07-14T16:01:39.065288+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The Western Union Telegraph Company v. O. W. Carter."
+    ],
+    "opinions": [
+      {
+        "text": "TARLTON, Chief Justice.\nAppellant prosecutes this appeal from a judgment awarding to appellee the sum of $500 as damages on account of the failure of the appellant to deliver the telegram herein below set out.\nAppellee lived near Dexter, in Cooke County, Texas. His minor son, Ed. Carter, had been working at Marietta, in the Indian Territory, about fourteen miles west of Dexter, when he was taken sick, and after an illness of twenty-eight days, died on October 29, 1889, about 3:30 o\u2019clock p.m. About 4 p. m. of that day the appellee, in company with Dr. Applewhite, who, as a physician, had treated the son during his last illness, went to appellant\u2019s office, and Dr. Applewhite, for the appellee and at his request, caused to be prepared and sent the following message, for which appellee, through Dr. Applewhite, paid 25 cents:\n\u201cMarietta, I. T., October 29, 1889. \u2018\u25a0\u2018\u25a0Frank Morris, Gainesville, Texas:\n\u201cEd. is dead. Send coffin six feet four inches long on morning express.\n[Signed] \u201c B. L. Applewhite.\u201d\nThe object of this telegram was to procure a coffin in which to bury the corpse of the deceased son. It was appellee\u2019s desire to convey the body for interment near his home in Texas. He wished to leave wi*b the body early on the morning of October 30, so as to reach the graveyard in time for interment on the evening of that day. The message was received at appellant\u2019s office at Gainesville at 4:40 p. m. of October 30. Mr. Morris, the addressee, was the tax collector of Cooke County, his office being about 300 yards from appellant\u2019s office, and his residence being in the same town and conveniently accessible. By reasonable diligence the message could have been delivered to Mr. Morris by 5 p. m. on the day on which it was received. It was not delivered until after 9 o\u2019clock a. m. of the next day. The appellant was thus guilty of negligence. As a consequence, the coffin was not procured and sent (as it would have been) by the express train of the Gulf, Colorado & Santa Fe Railway which left Gainesville so as to reach Marietta at 7 o\u2019clock a. m. As a further consequence, Mr. Morris did not send the coffin so as to reach the appellee before 6 p. m. of October 30, too late to make the journey to the cemetery. The interment was thus delayed until 2 or 3 o\u2019clock p. m. of October 31\u2014a delay of twenty-four hours. In the meanwhile the body began to decompose and became very offensive, thus causing appellee great distress of mind. When the coffin failed to arrive in accordance with the telegram, appellee diligently sought to procure one at Marietta, but failed.\nAppellee testified, that at the time the message was sent and paid for he told the agent of appellant that he wanted the coffin for the corpse of his son. There was evidence of a negative character tending to contradict this statement.\nThe trial court, as indicated by its ruling upon the defendant\u2019s general demurrer, and by the charges which it gave and the requested instructions which it refused, was of opinion that the grief and mental anguish sustained by the plaintiff was an element of damage proper to be considered by the jury in passing upon the defendant\u2019s failure to comply with its. contract to deliver the telegram.\nAppellant\u2019s first, second, fifth, seventh, and eighth assignments of error complain of this view. The doctrine, that damage of this character may be considered the natural and direct consequences of a failure to transmit a telegraphic message such as the one in question, has become so firmly fixed in our jurisprudence that the action of the appellant seems scarcely to be justified in requiring us to reannounce it. Stuart v. Tel. Co., 66 Texas,, 581; Tel. Co. v. Broesche, 72 Texas, 654; Hale v. Bonner, 82 Texas, 33.,\nAppellant\u2019s petition contains certain averments (which we do not find: necessary to specifically set out) having reference to a conversation between the addressee, Morris, and appellant\u2019s agent at Gainesville, after the delivery of the telegram. Appellant, in its third assignment of error, complains of the action of the court in overruling a special exception addressed by it to these averments. As appellee introduced no evidence whatever in support of these allegations, it is impossible, in our opinion, that the action complained of could have been detrimental to the defendant. Tel. Co. v. Evans, decided by this court November 1, 1892 [1 Texas Civ. Apps., 297].\nThe testimony showed that appellee was the principal of Dr. Apple-white, who sent the message, and that he had a beneficial interest in it. The court therefore did not err in refusing appellant\u2019s special instruction, to the effect that appellee had no beneficial interest in the telegram.\nAppellant\u2019s third special instruction, of the refusal of which it complains in its sixth assignment of error, was given quite literally in that portion of the court\u2019s charge in which the jury were instructed, that unless they should find from the evidence \u201c that defendant\u2019s agent at Marietta knew at the time he accepted said message for transmission that it was sent for the benefit of plaintiff, the jury would find for the defendant.\u201d Indeed, this instruction might well have been complained of by the plaintiff, for it has been held in Telegraph Company v. Broesche, 72 Texas, 657, that such knowledge on the part of the agent is not necessary to the plaintiff\u2019s cause of action.\nThe judgment is affirmed.\nAffirmed.\nDelivered March 9, 1893.",
+        "type": "majority",
+        "author": "TARLTON, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "A. N. Field, for appellant.",
+      "Potter, Potter & Mathis, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "The Western Union Telegraph Company v. O. W. Carter.\nNo. 110.\n1. Telegraph Company \u2014 Damages for Mental Anguish.\u2014Where plaintiff sent by telegram an order for a coffin for the body of his minor son, and owing to negligence of the telegraph company in delivering the message the interment was delayed for twenty-four hours, during which the body began to decompose and became very offensive, plaintiff\u2019s grief and mental anguish in consequence was a direct and natural result of the company\u2019s negligence, and a proper element of damages.\n2. Same \u2014Message Sent by one Person for Another. \u2014 The court did not err in refusing to charge that plaintiff had no beneficial interest in the telegram, where the evidence showed that it was sent at his request and for his benefit by one A., although plaintiff\u2019s name was not signed thereto, and did not appear therein.\n3. Same \u2014 Notice to Telegraph Company of Sender\u2019s Agency not Necessary\u2014Case Followed.\u2014Where a telegram is signed and sent by one person, but at the request and for the benefit of another, it is not material to the rights of such other person that his interest or the sender\u2019s agency in the matter should be known to the telegraph company or its agent receiving the message for transmission. Following Telegraph Company v. Broesche, 72 Texas, 057.\n4. Practice \u2014 Harmless Error in Overruling Exceptions. \u2014The overruling of special exceptions to certain averments in plaintiff\u2019s petition could not have been detrimental to defendant where plaintiff at the trial introduced no evidence whatever in support of such allegations.\nAppeal from.Cooke. Tried below before Hon. D. E. Barrett.\nA. N. Field, for appellant.\nPotter, Potter & Mathis, for appellee."
+  },
+  "file_name": "0624-01",
+  "first_page_order": 650,
+  "last_page_order": 652
+}

@@ -1,0 +1,85 @@
+{
+  "id": 223769,
+  "name": "Western Brass Manufacturing Company v. Sam Maverick",
+  "name_abbreviation": "Western Brass Manufacturing Co. v. Maverick",
+  "decision_date": "1893-10-18",
+  "docket_number": "No. 44",
+  "first_page": "535",
+  "last_page": "536",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Tex. Civ. App. 535"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "43 Ohio St., 53",
+      "category": "reporters:state",
+      "reporter": "Ohio St.",
+      "case_ids": [
+        920659
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ohio-st/43/0053-01"
+      ]
+    },
+    {
+      "cite": "10 Wheat., 334",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 330,
+    "char_count": 5307,
+    "ocr_confidence": 0.592,
+    "pagerank": {
+      "raw": 2.447231661973324e-07,
+      "percentile": 0.8036850797092804
+    },
+    "sha256": "aca3bbb200a0d047295347da10f43b9287ff9bff3ec14962063ec11c850877d1",
+    "simhash": "1:ebfb3412770ef146",
+    "word_count": 953
+  },
+  "last_updated": "2024-02-27T18:01:03.208661+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Western Brass Manufacturing Company v. Sam Maverick."
+    ],
+    "opinions": [
+      {
+        "text": "FLY, Associate Justice.\nAppellant sued for $522.66, which it alleges was collected by appellee as a banker, in due course of business, from one David Kirkwood, on a draft drawn by appellant on Kirkwood, and placed in the hands of the Maverick Bank for collection.\nDefendant answered by general denial.\nThere was no controversy about the facts, which showed, that the appellant sent the draft, drawn by itself on Kirkwood in favor of the Maverick Bank, to the said bank for collection; that an agent or employe of the bank took the draft to Kirkwood, and the latter gave the employe a check on the Maverick Bank for the amount, the employe stamping \u201cpaid\u201d on the back of appellant\u2019s draft and turning it over to Kirk-wood. When the employe arrived at the bank, Kirkwood not having any funds in the bank, payment was not made, and the employe was instructed by Sam Maverick to return to Kirkwood\u2019s place of business and get the draft. When Kirkwood was seen he refused to surrender the draft. Appellee immediately informed appellant of the facts as above set out. The employe was the regular collector of the Maverick Bank. There was no agreement between the collector and Kirkwood that the check given by him was taken in payment of appellant\u2019s draft, except as might be implied from the circumstances. Appellee did not honor the check of Kirkwood, and did not pay the draft of appellant. The collector swore that he had no authority to accept anything but money in payment of drafts or like paper, but that he had often before taken checks-for drafts or other paper, and had received checks from Kirkwood before.\nDelivered October 18, 1893.\nWe conclude that an agent in collecting must act within the scope of his powers in order to bind the principal, and that if he is sent out to make collections, he would', in the absence of instructions, have no authority to receive anything but money. Robson v. Watts, 11 Texas, 764.\nWhatever is received by a creditor in satisfaction of his debt will be effective as a payment between the creditor and his debtor. But a trustee or agent, with power simply to collect, can not, in general, receive payment in anything but money. Nor will a payment to him in anything else be binding upon his principal, or operate to discharge the debt, unless made or received by authority of his principal, express or implied. Thus an agent can not bind his principal by taking a bill of exchange in payment, unless authorized so to do, or unless it was customary to settle by bill. Story on Agency, secs. 98, 181, 413, 430. While it was shown that the collector had often taken checks for debts, yet it was not often enough to establish a custom, \" and it was done in direct violation of orders.\nEven if Maverick had presented the draft himself, and had taken a check on a third party, it would not have been a payment unless he had received the check as a payment. McNeil v. McCamley, 6 Texas, 164; McGuire v. Bidwell, 64 Texas, 43; 2 Pars. on Con., 624; 2 Chitty on Con., 1135.\nIf the check was not accepted in payment of the debt due by Kirkwood to appellant, is he not in the same position that he would have been had the check not been taken ? He had the same recourse against Kirkwood after the presentation of the draft as before, and we are unable to see upon what ground, legal or moral, he expects to hold Maverick responsible. If there had been an acceptance of the check of Kirkwood in payment of the debt, appellant would then have been deprived of his right of action against Kirkwood, and could hold appellee liable for the resulting damages. But under the facts in this case, appellant had lost no right by the acts of appellee, and we can see no error in the judgment of the lower court.\nThe judgment is affirmed.\nAffirmed.",
+        "type": "majority",
+        "author": "FLY, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "George G. Altgelt, for appellant.",
+      "Perry J. Lewis, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Western Brass Manufacturing Company v. Sam Maverick.\nNo. 44.\nDrafts\u2014 Checks \u2014 Agency.\u2014Where a draft is delivered to a bank for collection, and the runner or collector for the hank accepts the drawee\u2019s check on said bank, and delivers to him the draft marked \u201c paid,\"\u2019 and the drawee had no funds in the bank to pay the check, held, that this was not a payment of the draft so as to make the bank liable to the drawer of the draft for money collected. The collector could not accept anything but money in payment of the draft unless authorized.\nAppeal from Bexar.\nTried below before Hon. G. H. Noonan.\nGeorge G. Altgelt, for appellant.\nAppellee, as a collecting banker, having surrendered appellant\u2019s bill of exchange, and taken therefor the check of the drawee upon his (appellee\u2019s) bank, thereby became absolutely liable to appellant for the amount of the bill, and the want of funds in his bank to satisfy the check does not relieve him. Robson v. Watts, 11 Texas, 768; Bank v. Bank, 10 Wheat., 334; 2 Greenl. on Ev., 516-520; Morse on Banks, 429, 399, 431, 446; Tied, on Com. Paper, sec. 456; Chitty on Bills, 415; Bank v. Bank, Kern (N. Y.), 203.\nPerry J. Lewis, for appellee.\nThe undisputed evidence showed that appellant\u2019s draft on Kirkwood, in the hands of appellee for collection, had not been paid. In the absence of express agreement the giving of a check is not payment, unless the check be paid, especially so when the check is drawn upon a bank in which the drawer had no funds. 2 Pars., 623; Fleig v. Sleet, 43 Ohio St., 53."
+  },
+  "file_name": "0535-01",
+  "first_page_order": 559,
+  "last_page_order": 560
+}

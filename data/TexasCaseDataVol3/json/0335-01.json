@@ -1,0 +1,175 @@
+{
+  "id": 221200,
+  "name": "The Southwestern Telegraph and Telephone Company v. B. A. Howard",
+  "name_abbreviation": "Southwestern Telegraph & Telephone Co. v. Howard",
+  "decision_date": "1893-05-12",
+  "docket_number": "No. 158",
+  "first_page": "335",
+  "last_page": "336",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 335"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "13 Wis., 348",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "case_ids": [
+        8708965
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wis/13/0348-01"
+      ]
+    },
+    {
+      "cite": "4 Johns. Ch., 53",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "case_ids": [
+        1978752
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns-ch/4/0053-01"
+      ]
+    },
+    {
+      "cite": "7 Johns. Ch., 315",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "case_ids": [
+        1984175
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns-ch/7/0315-01"
+      ]
+    },
+    {
+      "cite": "2 Pet., 566",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "case_ids": [
+        11339253
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/27/0566-01"
+      ]
+    },
+    {
+      "cite": "16 Johns. Ch., 497",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "19 Fed. Rep., 855",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        72882
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f/19/0855-01"
+      ]
+    },
+    {
+      "cite": "20 How., 108",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "case_ids": [
+        5680058
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/61/0108-01"
+      ]
+    },
+    {
+      "cite": "30 Ark., 594",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1881238
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/30/0594-01"
+      ]
+    },
+    {
+      "cite": "28 Ill., 81",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        5204868
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/28/0081-01"
+      ]
+    },
+    {
+      "cite": "19 Fed. Rep., 854",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 314,
+    "char_count": 4658,
+    "ocr_confidence": 0.544,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.00877638039901168
+    },
+    "sha256": "5a9fa27c23ccac843de17d3f12e92a92a097746eaa142a952408f20a24bde0a6",
+    "simhash": "1:ebc544af341331a4",
+    "word_count": 762
+  },
+  "last_updated": "2024-02-27T16:31:46.217873+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The Southwestern Telegraph and Telephone Company v. B. A. Howard."
+    ],
+    "opinions": [
+      {
+        "text": "TARLTON, Chief Justice.\nThis is an injunction proceeding, instituted by the plaintiff in error against the defendant in error. Several exceptions, denominated special exceptions, were addressed to the petition. They were really, however, but a general demurrer. They were sustained by the court, and judgment was rendered dissolving the injunction and assessing damages to the extent of 10 per cent of the judgment enjoined.\nThe sole question which we are called upon to consider as necessary to the disposition of the case here presented is, whether the plaintiff\u2019s petition is subject to general demurrer.\nThe petition, in brief, alleged, among other matters, that the defendant, Howard, claims to have obtained a judgment for about $60 before a Justice Court against the Erie Telegraph and Telephone Company, another and a different company from plaintiff; that the defendant, by virtue of this judgment, caused execution to be levied upon a portion of the plaintiff\u2019s property and line situated in Parker County, consisting of poles, wires, and electric apparatus and appliances; that the defendant had caused the portion so levied upon (worth about $1000) to be sold at sheriff\u2019s sale at the nominal price of $20 or $30; that the plaintiff and his agents claimed to own the property so sold; that they continuously and seriously threatened to take forcible possession of said property, and to prevent plaintiff from using and operating its line; that they intrude themselves into plaintiff\u2019s offices and demand the revenues of the line, and have torn down and removed plaintiff\u2019s signboard; that to satisfy the remainder of the judgment so claimed, defendant threatens to seize and sell other sections of the plaintiff\u2019s line, and that the damage which will result from having its lines so cut into sections will be incalculable and the injury irreparable. The plaintiff alleged, that it was the exclusive owner of the property referred to, and that it had no connection with the Erie line, the alleged judgment debtor.\nThese allegations reasonably show, that the \u2018 \u2018 acts of trespass done or threatened to be done to plaintiff\u2019s property would be ruinous or irreparable, or would impair the just enjoyment of the property in the future.\u201d\nUnder such circumstances an injunction will be granted. Story\u2019s Eq. Jur., sec. 928. The court should have overruled the demurrer.\nThe judgment is reversed and the cause is remanded.\nReversed and remanded.\nDelivered May 12, 1893.\nJustice Stephens did not sit in this case.",
+        "type": "majority",
+        "author": "TARLTON, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "Stanley, Spoonts & Meek, for plaintiff in error.",
+      "R. E. L. Robinson, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "The Southwestern Telegraph and Telephone Company v. B. A. Howard.\nNo. 158.\nInjunction Restraining' Sale Under Judgment \u2014 Petition Held Sufficient.\u2014Plaintiff\u2019s petition for an injunction alleged, that defendant, under a judgment against another and different company from plaintiff, had levied on a portion of plaintiff\u2019s property and line, consisting of poles, wires, and electrical apparatus, worth $1000, and had caused the same to be sold for a nominal sum; that defendant claimed to own the property so sold, and continuously threatened to take forcible possession of the same, and to prevent plaintiff from using and operating it, and also to seize and sell other sections of plaintiff\u2019s line to satisfy the remainder of the judgment, which would result in irreparable injury; that plaintiff was the exclusive owner of the property, and had no connection with the alleged judgment debtor company. Held, that under such circumstances an injunction should be granted, and the trial court erred in sustaining a demurrer to the petition.\nError from Parker. Tried below before Hon. J. W. Patterson.\nStanley, Spoonts & Meek, for plaintiff in error.\n1. Where a party is in quiet possession, equity will restrain others from dispossessing him by process to which he is not a party. Nichols v. Jones, 19 Fed. Rep., 854; Goodnough v. Shepard, 28 Ill., 81; Stewart v. Pace, 30 Ark., 594.\n2. Injunctions are granted to prevent trespass where mischief would be irreparable. Story\u2019s Eq. Juris., secs. 928, 929; High on Injunc., sec. 697; Bank v. Buckner, 20 How., 108; Nichols v. Jones, 19 Fed. Rep., 855; Livingston v. Livingston, 16 Johns. Ch., 497.\n3. Where the threatened trespass goes to the destruction of the use, it will be enjoined. High on Inj., sec. 714; Beatty v. Kurtz, 2 Pet., 566; Jerome v. Ross, 7 Johns. Ch., 315; Varick v. Mayer, 4 Johns. Ch., 53; Trustees v. Hoessli, 13 Wis., 348.\nR. E. L. Robinson, for defendant in error.\nAn injunction can not be granted in favor of a third person who may claim title to realty levied upon. Spencer v. Rosenthall, 58 Texas, 4; Purinton v. Davis, 66 Texas, 455; Whitman v. Willis, 51 Texas, 427."
+  },
+  "file_name": "0335-01",
+  "first_page_order": 361,
+  "last_page_order": 362
+}

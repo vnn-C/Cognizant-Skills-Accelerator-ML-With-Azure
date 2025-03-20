@@ -1,0 +1,62 @@
+{
+  "id": 216222,
+  "name": "Meade & Bomar v. Mahlon Bartlett et al.",
+  "name_abbreviation": "Meade & Bomar v. Bartlett",
+  "decision_date": "1892-11-15",
+  "docket_number": "No. 95",
+  "first_page": "342",
+  "last_page": "342",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Tex. Civ. App. 342"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 103,
+    "char_count": 1151,
+    "ocr_confidence": 0.536,
+    "sha256": "c5ad5e1ee867dbb917d3b845c10a5df5f6d16b7f64a76dad3842b79bef0c9f30",
+    "simhash": "1:40014d1f9ab20a8a",
+    "word_count": 204
+  },
+  "last_updated": "2023-07-14T14:31:22.177647+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Meade & Bomar v. Mahlon Bartlett et al."
+    ],
+    "opinions": [
+      {
+        "text": "STEPHENS, Associate Justice.\nThis writ of error is a companion case to H. T. Buse v. Mahlon Bartlett et al., No. 16, this day decided by us. The other section of land mentioned in the conclusions of fact in that case is the subject of controversy in this suit.' In this case the possession of the land in controversy was continued in plaintiffs in error up to the institution of the suit and the trial in the court below. In other respects the facts disclosed by the record in this, so far as they are important to the issues determined, are identical with those in said cause No. 16, and the conclusions of law and fact filed in that case are here referred to and adopted as our conclusions of law and fact in this case.\nThe judgment of the court below will therefore be reversed and judgment will be here rendered for plaintiffs in error.\nReversed and rendered.\nA motion for rehearing was overruled.",
+        "type": "majority",
+        "author": "STEPHENS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Bomar & Bomar, and Hunter, Stewart & Dunklin, for plaintiffs in error.",
+      "Barrett & Eustis, for defendants in error."
+    ],
+    "corrections": "",
+    "head_matter": "Meade & Bomar v. Mahlon Bartlett et al.\nNo. 95.\nDelivered November 15, 1892.\nError from Wichita. Tried below before -Hon. P. M. Stine.\nBomar & Bomar, and Hunter, Stewart & Dunklin, for plaintiffs in error.\nBarrett & Eustis, for defendants in error."
+  },
+  "file_name": "0342-01",
+  "first_page_order": 366,
+  "last_page_order": 366
+}

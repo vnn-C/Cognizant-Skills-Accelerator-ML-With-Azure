@@ -1,0 +1,66 @@
+{
+  "id": 219261,
+  "name": "J. C. League v. The Buena Ventura Stock Company",
+  "name_abbreviation": "League v. Buena Ventura Stock Co.",
+  "decision_date": "1893-02-15",
+  "docket_number": "No. 132",
+  "first_page": "448",
+  "last_page": "451",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 448"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 449,
+    "char_count": 8181,
+    "ocr_confidence": 0.534,
+    "pagerank": {
+      "raw": 1.194845636687761e-07,
+      "percentile": 0.59220749935614
+    },
+    "sha256": "a2f78566b73eed983f89511b05a9eee849852672d8b2dd67a7b369ea638b2baf",
+    "simhash": "1:0b070c0267444e06",
+    "word_count": 1450
+  },
+  "last_updated": "2023-07-14T16:01:39.065288+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "J. C. League v. The Buena Ventura Stock Company."
+    ],
+    "opinions": [
+      {
+        "text": "FISHER, Chief Justice.\nAppellant sued appellee in trespass to try title for certain lands. The case was tried by the court without a jury, and judgment rendered in favor of appellee.\nWe find the following to be the facts in this case as shown by the record:\nIt is agreed that plaintiff has title to the land under conveyance, by decree and commissioners\u2019 deed duly recorded February, 1889, executed September 4, 1888, and which conveys the title in A. Pope, M. J. Hall, and W. T. Scott, trustees; and defendant has title to the land by unrecorded deed from said Pope, Hall, and Scott, common source, executed January 12, 1863; and the question in the case as to title is, is the plaintiff an innocent purchaser without notice of said unrecorded deed?\nPlaintiff testified in his own behalf, by deposition: That he bought the land sued for and a large amount of other land for $20,000, cash paid by him on the approval of title by his attorneys, McLemore <& Campbell, of Galveston. That he was in Europe when he bought and paid for the land; that his attorneys examined and approved the title of record of the land sued for, and that he never was on the land, and neither personally nor by his attorneys made any inquiry as to whether there was any one in possession of said land, and he had no knowledge or information as to whether or not any one was on the land or claimed it at the time he bought and paid for said land.\nJ. W. Skinner, witness for defendant, testified: 1 i That he is and has been secretary of the defendant since 1882, and manager of defendant\u2019s ranch and pasture from 1882 to this time. That he is familiar with location of Southern Pacific survey number 205, sued for. It is within defendant\u2019s pasture, and the fence that divides defendant\u2019s pasture from one adjoining is on the line of the west side-of the said survey number 205. That this fence was built by one Butler, in 1885, who owned adjoining land, before defendant fenced its pasture, and defendant joined on and used this fence of Butler\u2019s as part of its enclosure fence when it fenced, in the spring of 1886. That defendant\u2019s pasture is well fenced with one smooth and three barbed wires, and the pasture contains about 28,000 acres, perhaps a little more, and there are no cross-fences, but is all one big pasture, except a small pasture around the ranch house. That part of west line fence belongs to Anson & Verner, whose lands are next-to defendant\u2019s, and encloses Anson & Verner\u2019s pasture also. That defendant claims all the land in the pasture fences aforesaid, as owner or lessee, except 800 acres, on which Cross has filed, and defendant has a contract with Cross to buy that land if he gets patent.\n<( There is also about 80 acres in this pasture owned by one Pruit, who lives on it, and defendant has no lease on it, and does not own or- claim to own it. That Pruit is postmaster of Yigo postoffice, which- he keeps on his said land; that Pruit has some milch cows, hogs, and two horses that run at large in the pasture, and defendant does not make any charge for Pruit so using the pasture; that witness thinks Pruit has a right to so use the pasture by reason of owning land thereon. That said pasture is about seven miles long by five or six miles wide.\n\u201c That defendant now and for many years has 'used this pasture exclusively for grazing cattle and horses, and has so used the same ever since said pasture fence was completed in the spring of 1886.\n\u201c Defendant owns and claims all the land enclosed in said pasture under deeds and leases, except Fruit\u2019s 80 acres tract, on which Pruit lives, and has so claimed said land ever since the pasture was enclosed in 1886. I have been in the employ of defendant on said ranch since the date of its incorporation in 1883, and in the employ of De Renne, from whom the defendant bought the land in suit, since 1882, and said tract of land has been used continuously as part of said ranch for grazing horses and cattle on it ever since I have been on the ranch, and ever since said pasture was enclosed as part of defendant\u2019s ranch and pasture. Defendant owns an interest in the fence built by Butler in 1885, on the west line of said tract of land as a division fence between Butler\u2019s land and defendant\u2019s land, and has owned an interest in said west line division fence since the pasture was enclosed in 1886. Defendant and De Renne have paid taxes on said land ever since 1883.\n\u20186 Neither plaintiff nor any agent for plaintiff has ever made any inquiry of me or of any one on the ranch about defendant\u2019s title or possession of said land.\u201d\nThe above constitutes the entire facts as shown by the record.\nFrom these facts we conclude that the appellee had such possession of the land in controversy as would put the appellant upon notice of its title.\nAn agreement in the statement of facts reduces the case to the one question of whether the defendant had such possession as to be constructive notice to appellant, as a subsequent purchaser, of the unrecorded deed under which appellee holds. Did the enclosure of the survey in question within the limits of the large pasture, and used by the appellee for pasturage purposes, constitute such possession as to confer constructive notice of the title under which it claimed ?\nUnder facts showing possession similar to this case, it has been held in the cases of Taliaferro v. Butler, 77 Texas, 580, and Church v. Waggoner, 78 Texas, 201, that the possession by the owner of a large pasture of a smaller tract included within its limits, using it for grazing purposes in common with his lands within his enclosure, is such possession as will protect him under the statutes of limitation; and other elements of the statute being shown, he is entitled to recover under his pleas of limitation The rule announced in those cases we think decisive of the question before us. If such possession under these circumstances is held to be actual, continuous, and adverse, which must be the case in asserting a possession under the statutes of limitations, we think it is certainly sufficient to put a subsequent purchaser upon notice of the rights of the possessor of the land. The possession sufficient to constitute notice must be open, actual, and visible. No greater degree of certainty or notoriety is required in cases of this kind than exists in cases where the possession is asserted under the statues of limitations.\nWe think the facts show such possession by appellee as was sufficient to put a subsequent purchaser upon inquiry as to its title.\nThe judgment of the court below is affirmed.\nAffirmed..\nDelivered February 15, 1893.",
+        "type": "majority",
+        "author": "FISHER, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "Charles F. Potter and G. E. Mann, for appellant.",
+      "R. H. Ward and Joseph Spence, Jr., for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "J. C. League v. The Buena Ventura Stock Company.\nNo. 132.\nPossession as Notice of Title by Tenant\u2014Inclosure of a smaller tract of land within a larger pasture, and the use of such pasture by the holder of an unrecorded deed for the smaller tract, constitute such possession as will charge a subsequent purchaser with notice of the unrecorded deed.\nAppeal from Tom Green. Tried below before Hon. J. W. Timmins.\nCharles F. Potter and G. E. Mann, for appellant.\nThe appellee did not have such possession of the land as would be constructive notice to a purchaser of an unrecorded deed. 2 Lead. Cases in Eq., part 1, pp. 180, 182.\nR. H. Ward and Joseph Spence, Jr., for appellee.\nAt the time of the purchase of the land in controversy by appellant, appellee had actual possession of the land in controversy, holding and claiming the same under a prior unrecorded deed. Appellant was therefore not an innocent purchaser of the land, and the court below did not err in rendering judgment for appellee.\nAs to what constitutes possession: Taliaferro v. Butler, 77 Texas, 583; Church v. Waggoner, 78 Texas, 201; Brownson v. Scanlan, 59 Texas, 226; Craig v. Cartwright, 65 Texas, 422; Cantagrel v. Von Lupin, 58 Texas, 577; Richards v. Smith, 67 Texas, 613.\nPossession equivalent to notice: Wethered v. Boone, 17 Texas, 143; Watkins v. Edwards, 23 Texas, 450; Hawley v. Bullock, 29 Texas, 218; Mullens v. Wimberly, 50 Texas, 465; Mainwarring v. Templeman, 51 Texas, 210; Wimberly v. Bailey, 58 Texas, 226; Eylar v. Eylar, 60 Texas, 319; Glendenning v. Bell, 70 Texas, 633."
+  },
+  "file_name": "0448-01",
+  "first_page_order": 474,
+  "last_page_order": 477
+}

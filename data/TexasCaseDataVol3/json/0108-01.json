@@ -1,0 +1,319 @@
+{
+  "id": 220962,
+  "name": "J. M. Hansbro v. Hyman Blum",
+  "name_abbreviation": "Hansbro v. Blum",
+  "decision_date": "1893-04-20",
+  "docket_number": "No. 139",
+  "first_page": "108",
+  "last_page": "113",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 108"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "19 N. E. Rep., 308",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "117 U. S., 180",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8299666
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/117/0180-01"
+      ]
+    },
+    {
+      "cite": "22 Barb., 167",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4983531
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/22/0167-01"
+      ]
+    },
+    {
+      "cite": "9 Port Rep., 679",
+      "category": "reporters:state",
+      "reporter": "Port.",
+      "case_ids": [
+        8496968
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/port/9/0679-01"
+      ]
+    },
+    {
+      "cite": "110 Ind., 400",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "27 N. J. Eq., 512",
+      "category": "reporters:state",
+      "reporter": "N.J. Eq.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "13 S. C., 128",
+      "category": "reporters:state",
+      "reporter": "S.C.",
+      "case_ids": [
+        4373850
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/sc/13/0128-01"
+      ]
+    },
+    {
+      "cite": "11 W. Va., 117",
+      "category": "reporters:state",
+      "reporter": "W. Va.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "21 Pac. Rep., 258",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Pa. Co. Ct. Rep., 431",
+      "category": "reporters:state",
+      "reporter": "Pa. C.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 N. J. Eq., 104",
+      "category": "reporters:state",
+      "reporter": "N.J. Eq.",
+      "case_ids": [
+        524001
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nj-eq/8/0104-01"
+      ]
+    },
+    {
+      "cite": "34 Am. Dec., 203",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "97 Ind., 360",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1328849
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/97/0360-01"
+      ]
+    },
+    {
+      "cite": "49 Mo., 302",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        982312
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mo/49/0302-01"
+      ]
+    },
+    {
+      "cite": "69 Am. Dec., 601",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "74 Ala., 44",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        5642167
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/74/0044-01"
+      ]
+    },
+    {
+      "cite": "5 S. W. Rep., 425",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 Pac. Rep., 369",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "13 Atl. Rep., 391",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "12 S. E. Rep., 716",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "26 How. Pr., 169",
+      "category": "reporters:state",
+      "reporter": "How. Pr.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "62 Barb., 288",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "34 Am. Dec., 202",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "36 Barb., 250",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2431419
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/36/0250-01"
+      ]
+    },
+    {
+      "cite": "36 N. Y., 680",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "26 N. J. Eq., 458",
+      "category": "reporters:state",
+      "reporter": "N.J. Eq.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "21 N. J. Eq., 461",
+      "category": "reporters:state",
+      "reporter": "N.J. Eq.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "36 Ill., 402",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        5216722
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/36/0402-01"
+      ]
+    },
+    {
+      "cite": "8 B. Mon., 519",
+      "category": "reporters:state",
+      "reporter": "B. Mon.",
+      "case_ids": [
+        4441212
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ky/47/0519-01"
+      ]
+    },
+    {
+      "cite": "21 N. J., 461",
+      "category": "reporters:state",
+      "reporter": "N.J.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "13 Atl. Rep., 392",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 731,
+    "char_count": 15316,
+    "ocr_confidence": 0.551,
+    "pagerank": {
+      "raw": 1.0525305407610633e-07,
+      "percentile": 0.5543023936916786
+    },
+    "sha256": "d295f0999a4c27c84e41863e4beeacf6c1452b4d75aaed3f553dd33d09ec8936",
+    "simhash": "1:fc08cfb72b066554",
+    "word_count": 2718
+  },
+  "last_updated": "2024-02-27T16:31:46.217873+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "J. M. Hansbro v. Hyman Blum."
+    ],
+    "opinions": [
+      {
+        "text": "WILLIAMS, Associate Justice.\nAppellee recovered a judgment in the District Court of Galveston County against S. H. Morrison for a sum of money and foreclosure of a lien on a tract of land, situated in San Jacinto County, given by Morrison to secure the debt. An order of sale was issued to San Jacinto County, directing the sheriff to sell the land. A sale followed, at which appellant bought the land for \u00a712.80. The order of sale was returned, and appellee instituted this proceeding, which was a motion, filed in the original cause of Blum v. Morrison, to set aside the sale on the ground of gross inadequacy of price, produced by irregularity and by fraud and collusion between the sheriff and Hansbro in the conduct of the sale. Notice of the motion was served on Morrison and Hansbro, both of whom resided in San Jacinto County.\nMorrison made no answer, but Hansbro filed a plea denying the jurisdiction of the court over his person, and claiming the privilege to be sued in the county of his residence. He also excepted to the motion upon the same ground; and subject to these pleas, he demurred and answered to the merits. The plea of privilege and exceptions to the motion were overruled. A trial was had, and verdict and judgment were rendered for appellee, setting aside the sale and ordering a resale of the property.\nThe ruling of the court upon the plea of privilege and upon the exceptions, so far as they present the same question, may be considered together.\nThe right of a judgment creditor to apply by motion to the court in which his judgment was obtained to set aside a sale which has, through irregularities in making it, resulted in a sacrifice of the property for an inadequate price, has been recognized by our Supreme Court in many cases. Miller v. Koertge, 70 Texas, 162; Owen v. Navasota, 44 Texas, 522; Cravens v. Wilson, 48 Texas, 324; Ayres v. Duprey, 27 Texas, 603.\nThe point was not, perhaps, directly involved in any of these cases, and the expressions in the opinions referred to were dicta, but they were dicta amply supported by authority, and which we are content to follow. Rorer on Jud. Sales, sec. 1081; Freem. on Ex., sec. 310; Voorhis v. Terliune, 13 Atl. Rep., 392.\nCourts of equity have always entertained such motions to set aside foreclosure sales made under their process. Bank v. Sprague, 21 N. J., 461, and authorities cited.\nThe reasons assigned in the cases for the exercise of such a power over a purchaser who is a stranger to the suit in which the sale took place is, that by a purchase under its process he submitted himself to the jurisdiction of the court over such process, and became subject to its power to revoke a sale which had been improperly made thereunder.\nIt was suggested, in argument, that it was the practice in courts of equity to confirm sales made under foreclosure proceedings, and that until this had been done no title passed to the purchaser, and that it was because of this that those courts exercised the power to review the sale and set it aside upon motion. But in the case of Bank v. Sprague, above cited, it is said: \u201cIn England, and also in the Court of Chancery that formerly existed in New York, confirmation of sales in chancery was required. But the jurisdiction did not depend on that. Sales were set aside upon application in the suit even after confirmation.\u201d\nIn none of the authorities which we have examined was there any question of venue involved or alluded to. They go merely to the establishment of the remedy and the principle upon which it is founded. And that principle, it seems to us, excludes the idea that the power of the court to administer this remedy is dependent upon the residence of the purchaser.\nThe jurisdiction is simply that which the court obtained over the subject matter and parties in the original action. By the rendition of judgment it was not exhausted, but continued in full force in order to secure to the plaintiff the fiuits of his recovery. It required the issuance and proper and lawful execution of process, and involved the power to control the sheriff in the performance of his duty, and to prevent not only him, but all other persons, from abusing the writ. A purchaser under its writ took such title as he thereby obtained, subject to this power in the court to see that the sale was properly and lawfully conducted, and to revoke it if it was not. We think the fact that the sale was made, and that the purchaser resided in another county than that in which the decree was rendered, can not affect this power. To hold that it does would cripple the power of the court to render complete relief to the party who had secured its judgment, and make its decrees dependent on the action of other tribunals for adequate enforcement. For if this proposition were admitted, the merest form of a sale, if made in another county, to a stranger to the suit, lacking all the qualities essential to carry out the substantial objects of the decree, would put an end to the power of the court over its process. The statutes regulating venue have reference to original actions, and not to such auxiliary proceedings as are involved in the exercise of jurisdiction in cases over which it has already vested.\nWe think the plea and the exceptions asserting a right in appellant to be sued in the county of his residence, and denying the jurisdiction of the District Court of Galveston County, were properly overruled.\nThe exception to the parts of the motion alleging injury to Morrison by the sale should have been sustained; but as the motion was amply sufficient without those allegations, and as the case was tried on the other issues, we think the error was harmless.\nThe other exceptions were properly overruled.\nThe charge of the court submitting to. the jury the question as to whether or not the sheriff conducted the sale fairly, and as to the inadequacy of the price paid by appellee, was warranted by evidence.\nThere was evidence from which the jury might properly conclude that the sheriff prevented Woodruff from bidding at the sale, and that he conducted it too hurriedly, and knocked off the land to appellee sooner than was consistent, under the circumstances, with a fair sale. It is the duty of a sheriff in selling property to make it bring as much as can be obtained, and to allow to persons desiring to purchase all reasonable opportunity to bid. It appears in this case that, in all probability, at least one person was prevented from bidding by unnecessary haste in closing the sale.\nWe conclude that the verdict is sustained by the evidence. The jury were warranted in concluding that the price paid was grossly inadequate, that this inadequacy was produced, in part at least, by failure of the sheriff to afford proper opportunities to others to buy, and that, in a proper legal sense, the sale was not fairly made.\nThe remarks of appellee\u2019s counsel were not probably calculated to have any improper influence. They were based upon evidence in the case, and the strongest complaint that could be urged against them would be that they stated a reason for setting aside the sale, of which appellee could not avail himself\u2014in other words, that they involved an unsound proposition. The court corrected that, and it can not be held that mistaken positions assumed by counsel in argument will of themselves afford ground for new trial.\nThe judgment is affirmed.\nAffirmed.\nDelivered April 20, 1893.",
+        "type": "majority",
+        "author": "WILLIAMS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "C. W. Robinson and Hume & Kleberg, for appellant.",
+      "Scott, Levi & Smith, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "J. M. Hansbro v. Hyman Blum.\nNo. 139.\n1. Motion to Set Aside Judgment Sale of Land.\u2014Appellee having a judgment foreclosing a lien against one Morrison, caused an order of sale to be issued to San Jacinto County for the sale of the land, and Hansbro became the purchaser at $12.80. Motion was made in Galveston to set aside the sale for inadequacy of price and irregularity and fraud in the sale, and for a resale of the property, and notice of the motion was served on Hansbro and Morrison. Held, the District Court of Galveston County had jurisdiction, and the sale was rightly set aside.\n2. Same\u2014Jurisdiction of Court over a Stranger to the Judgment.\u2014The right of a judgment creditor to apply by motion to the court in which his judgment was obtained to set aside a sale which, through irregularities in making it, has resulted in a sacrifice of the property, has been recognized by our Supreme Court in many cases. Courts of equity have .always entertained such motions. The reason for the exercise of such a power over a purchaser who is a stranger to the original suit is, that by a purchase under its process he submits himself to the jurisdiction of the court over such process, and becomes subject to its power to revoke an improper sale.\n3. Jurisdiction, How Obtained \u2014 Power of the Court. \u2014The jurisdiction is simply that which the court obtained over the subject matter in the original action. By the rendition of the judgment it was not exhausted, but continued in full force in order to secure to the plaintiff the fruits of his recovery. It required the issuance and lawful execution of process, and involved the power to control the sheriff in the performance of his duty, and to prevent not only him but all other persons from abusing the writ. A purchaser under its writ took such title as he thereby obtained, subject to the power in the court to see that the sale was properly and lawfully conducted, and to revoke it if it was not.\n4. Jurisdiction over Resident of Another County.\u2014The fact that the sale was made and the purchaser resided in another county, can not affect this power. To hold that it doeg, would cripple the power of the court to render complete relief to the party who had secured its judgment, and make its decrees dependent on the action of other tribunals for adequate enforcement. The statutes regulating venue have reference to original actions, and not to such auxiliary proceedings as are involved in the exercise of jurisdiction in cases over which it has already vested.\n5. Irregularities in Sheriff\u2019s Sale.\u2014It is the duty of the sheriff, in selling property, to make it bring as much as can be obtained, and to allow to persons desiring to purchase all reasonable opportunity to bid. It appears in this case that at least one person was prevented from bidding by unnecessary haste in closing the sale. The jury were warranted in concluding that the price paid was grossly inadequate; that this inadequacy was produced in part, at least, by failure of the sheriff to afford proper opportunities to others to buy, and that in a proper legal sense the sale was not fairly made.\n6. Remarks of Counsel.\u2014Blum\u2019s counsel, in his closing argument to the jury, said to them: -\u2018If you do not set aside this sale, old man Morrison will lose his land, and get a credit of only $3.50 on Blum\u2019s judgment against him for over $1700.\u201d These remarks were not probably calculated to have any improper influence. They were based upon evidence in the case, and the strongest complaint that could be urged against them would be, that they stated a reason for setting aside the sale of which appellee could not avail himself.\nAppeal from Galveston. Tried below before Hon. Wm. H. Stewart.\nC. W. Robinson and Hume & Kleberg, for appellant.\nIt appearing that the object of the motion was to divest Hansbro of title to land lying wholly in San Jacinto County, wherein, and not elsewhere, both Hansbro and Morrison resided; that the \u201c fraud\u201d was committed in that county; that Hansbro was never connected in any manner with the suit in which the motion was filed; and that no process sufficient in law to confer upon the court jurisdiction of his person was ever served on him, Hansbro\u2019s plea of privilege to be proceeded against in San Jacinto County should have been sustained. Cravens v. Wilson, 48 Texas, 324, discussing Owen v. Navasota, 44 Texas, 517; Cook v. Sparks, 47 Texas, 28.\nThe cases, Scott v. Allen, 1 Texas, 512; Bennett v. Gamble, Id., 132; Bryan v. Bridge, 6 Texas, 140; Martin v. Rice, 16 Texas, 160, do not reach the points in the case at bar.\nIn neither of them was there any question of privilege or jurisdiction on acount of residence of parties, or of the nonconnection of the party proceeded against with the original suit, or of the locus of the land. Cassiday v. McDaniel, 8 B. Mon., 519; Prather v. Hill, 36 Ill., 402.\nRorer on Judicial Sales, section 1081, refers to McLean County Bank v. Floyd, 31 Illinois, 290-294.\nScott, Levi & Smith, for appellee.\n1. The court did not err in overruling Hansbro\u2019s plea of privilege to be sued in San Jacinto County, for that the District Court of Galveston County had jurisdiction to enforce its own decrees by process issued thereunder, and had the right to see the same properly executed; and Hansbro having become the purchaser at said foreclosure sale, thereby submitted himself to the jurisdiction of the court whence the order of sale issued in respect of all matters connected with the sale or relating to him in the character of purchaser at such foreclosure sale. Wiltsie on Mort. Fore., sec. 549, and cases cited; Bank v. Sprague, 21 N. J. Eq., 461; Brashear v. Cortlandt, 1 N. Y. Chan. Rep., 466, and notes; Brown v. Ritter, 26 N. J. Eq., 458; Cazet v. Hubbell, 36 N. Y., 680; Miller v. Calyn, 36 Barb., 250; Casamajor v. Strode, 1 Sim. & S., 381; Requa v. Rhea, 2 N. Y. Chan. Rep., 934, and notes; Seaman v. Riggins, 34 Am. Dec., 202; Kellogg v. Howell, 62 Barb., 288; Gould v. Mortimer, 26 How. Pr., 169; Rorer on Jud. Sales, secs. 1081, 1093, 1099, 1133; Owen v. City of Navasota, 44 Texas, 522; Cravens v. Wilson, 48 Texas, 324; Ayres v. Duprey, 27 Texas, 603; Miller v. Koertge, 70 Texas, 162; Carter v. Rountree, 12 S. E. Rep., 716; Voorhis v. Terhune, 13 Atl. Rep., 391; Bank v. Huntoon, 11 Pac. Rep., 369; Bent v. Maupin, 5 S. W. Rep., 425; Cowen v. Sapp, 74 Ala., 44; Campbell v. Gardner, 69 Am. Dec., 601; Freem. on Ex., secs. 310, 306, 309; Herm. on Ex., sec. 406; Abbett v. Daling, 49 Mo., 302; 12 Am. and Eng. Encycl. of Law, 235, and notes; De Witt v. Monroe, 20 Texas, 292; McKinney & Williams v. Jones, 7 Texas, 598; Toler & Crosby v. Ayres, 1 Texas, 398.\n2. The misconduct of the sheriff, together with other irregularities practiced at the sale, coupled with the gross inadequacy of price, as set forth in plaintiff\u2019s motion, furnished sufficient ground for setting aside said sale and ordering a resale of said property.\nAs to misconduct of officers and irregularities: Johnson v. Crawl, 55 Texas, 571; Lynch v. Reese, 97 Ind., 360; Seaman v. Riggins, 34 Am. Dec., 203; Parker v. Pratt, 8 N. J. Eq., 104; Freem. on Ex., sec. 308; Rorer on Jud. Sales, secs. 1093-1099, 1101-1133; McEnroe v. McCoy, 7 Pa. Co. Ct. Rep., 431; Jones v. Carr, 21 Pac. Rep., 258; Hilleary v.Thompson, 11 W. Va., 117; Barrett v. Paper Co., 13 S. C., 128; Woodward v. Bullock, 27 N. J. Eq., 512; Fletcher v. McGill, 110 Ind., 400; Cotton Press v. Moore, 9 Port Rep., 679; Lefevre v. Laraway, 22 Barb., 167; Herm. on Ex., sec. 106; Freem. on Ex., sec. 342.\nAs to inadequacy of price: Weaver v. Nugent, 72 Texas, 279; Hughes v. Duncan, 60 Texas, 74; Taul v. Wright, 45 Texas, 394; Chamblee v. Tarbox, 27 Texas, 139; Kauffman & Runge v. Morriss, 60 Texas, 121; Graffam v. Burgess, 117 U. S., 180; Wright v. Dick, 19 N. E. Rep., 308; Freem. on Ex., sec. 309; Rorer on Jud. Sales, sec. 1087."
+  },
+  "file_name": "0108-01",
+  "first_page_order": 134,
+  "last_page_order": 139
+}

@@ -1,0 +1,98 @@
+{
+  "id": 223692,
+  "name": "Texas & Pacific Railway Company v. Mary A. Cumpston et al.",
+  "name_abbreviation": "Texas & Pacific Railway Co. v. Cumpston",
+  "decision_date": "1893-06-01",
+  "docket_number": "No. 236",
+  "first_page": "25",
+  "last_page": "28",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Tex. Civ. App. 25"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "52 Cal., 45",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        1937132
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal/52/0045-01"
+      ]
+    },
+    {
+      "cite": "13 N. Y., 533",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "86 Mo., 302",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        433911
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/mo/86/0302-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 506,
+    "char_count": 11427,
+    "ocr_confidence": 0.556,
+    "pagerank": {
+      "raw": 4.8172472706271035e-08,
+      "percentile": 0.3017809146401972
+    },
+    "sha256": "269de7546e429f10ca672ff61b1305c1aadf16ef24e25e7d51444d06f1454192",
+    "simhash": "1:fc8b3720ff031e77",
+    "word_count": 2081
+  },
+  "last_updated": "2024-02-27T18:01:03.208661+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Texas & Pacific Railway Company v. Mary A. Cumpston et al."
+    ],
+    "opinions": [
+      {
+        "text": "GARRETT, Chief Justice.\nCharles D. Cumpston, an employe of the Texas & Pacific Railway Company, was killed July 1, 1890, in the yard of the company at Marshall, while repairing a car on the \u201c table\u201d track in said yard, by being caught between the car upon which he was at work and another car upon the same track, propelled against it by a blow from a switch engine which was being run along another track called the \u201c lead\u201d track, the cause of the collision being that the car which was struck by the engine stood too near the junction of the lead track and the table track, which was a side track going out from the lead track. His surviving wife, Mary Cumpston, and her children and the father of deceased brought this suit against the railway company for damages. The defense is, that the deceased and his fellow workmen had moved the cars they were sent to repair, and placed them so near the lead track that one of them was struck by the passing engine and moved and knocked against the car upon which deceased was at work, and thereby caused the death of Cumpston.\nDefendant\u2019s yard at Marshall contained a number of tracks, four of which, including the table track, were used as storage tracks to place cars upon that were needing repairs, some of which were sent for repairs to the shops, while others were repaired as they stood on the tracks. These tracks were in charge of the foreman of the shops, who controlled the right of the switchmen to go upon them, and before putting cars upon them it was the business of the switchmen to see that there was no one upon them. The lead track belonged to the transportation department, \u25a0and was used to convey cars from one part of the yard to another, while the table track was used to convey cars from the lead track to the shop to be repaired. The switch engine would come in on the lead track, but did not go on the table track unless directed to do so by some one in the car department. The four tracks mentioned were constantly used for repairing.\nOn the morning of the accident the foreman of the shops sent Cumpston and two other men, named Burnett and Boyett, to repair some cars that were standing on' the table track. When the workmen got to the place they found the cars standing close together, and it was necessary to separate them in order to work on them. There were eight or nine cars on the track, which extended east and west. They moved two of the cars next to the lead track three or four feet to the east, and left them so that the car nearest to the lead track stood too close to it. Boyett went upon top of the cars to fix the brake, and Cumpston and Burnett pushed the cars. Boyett came down and put a piece of timber under the southeast corner of the car nearest the track, to keep it from moving, and looked to see if they were clear of the lead track, and thought they were.\nCumpston went to work on the east end of the third car, fixing the drawhead. The switch engine came up the lead track, and the tender struck the end of the car next to it on the table track with such force that it propelled the second car against the third and caught Cumpston between them and killed him. The engine was upon the lead track, and was not going upon the table track, but struck the car because it had been left too close to the lead track. Defendant had no rules for the protection of the men at work on the storage tracks, and there were no clearing posts at the junction of the tracks to indicate how close a car on one track might be placed to another.\nThere was evidence admitted on the trial of the case tending to show that the tender to the engine was wider than the engine, and that it was \u25a0owing to the negligence of the defendant in having a tender wider than the engine that the car was struck, but there was no such allegation of negligence in the petition, and the court correctly instructed the jury to disregard the evidence, and our consideration of the case here will be had without regard to the evidence that the tender was wider than the engine.\nDefendant requested a special instruction, which was refused by the court, that the undisputed evidence showed that the deceased and his fellow workmen were guilty of negligence in moving the car when the engine struck it and killed Cumpston, and to return a verdict for the defendant. It also requested instructions to present the proposition, that if the accident was the result of the act of Cumpston and his fellow servants in placing the car so close to the lead track that it was struck by the engine going along that track, the plaintiffs could not recover, although they may not have been negligent in leaving the car in such position, or whether or not Cumpston knew of the danger in leaving the cars where he and his fellow workmen placed them.\nDelivered June 1, 1893.\nThe evidence shows that the accident was the result of the negligence of Cumpston and his fellow servants in leaving the car too close to the lead track. This can not be excused on account of the absence of clearing posts, because when they moved the cars they knew the clearing posts were not there, and should have been careful not to.place the car too close to the track. The engineer of the switch engine was also a fellow servant, and if he was negligent in failing to avoid the collision the defendant would not be liable for the damage resulting therefrom any more than, it would be for the acts of the servants who helped Cumpston to move the cars. The evidence showed, however, that the deceased and his fellow servants were negligent in placing the car too near the lead track, and that the accident which resulted in the death of Cumpston was the direct and proximate result of such negligence. The first requested instruction should have been given; and failing in that, the court should have set aside the verdict of the jury and granted a new trial.\nThere is nothing in the evidence that no rule was adopted by the defendant for the protection of its employes at work upon the storage tracks, because it is not shown that any rule could have protected the deceased. The engine was not upon the table track, but was continuing along the lead track when it struck the car. A flag put upon the end of the car would have only been notice not to go in upon the track, and as there was no intention to go upon it, it would not have changed the result. But it seems that the defendant did have at least two rules in force, which were, that no switchman was allowed to go upon the storage tracks without permission of some one in the car department, and that it was the business of the switchman to see that no one was on these tracks before putting cars upon them.\nWe deem it unnecessary to discuss the second and third errors assigned.\nThe judgment will be reversed and the cause remanded.\nReversed and remanded,\nApplication for writ of error dismissed by Supreme Court October 12, 1893.",
+        "type": "majority",
+        "author": "GARRETT, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "F. JET. Frendergast, for appellant.",
+      "M. B. Geer, L. P. Wilson, and Pope & Lane, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Texas & Pacific Railway Company v. Mary A. Cumpston et al.\nNo. 236.\n1. Negligence of Fellow Servant\u2014Fact Case.\u2014Cumpston, a car repairer, was killed on the table track in the switch yard of the defendant, by being caught between the car upon which he was working and another car on the same track, propelled against it by a blow from a switch engine, which was being run along the lead track. The cause of the collision was, that the car which was struck by the engine stood too near the junction of the lead track and the table track, which was a side track going out from the lead track. Cumpston and two other employes, on the morning of the accident, in separating the cars upon which Cumpston intended to work, had placed the oars on the table track so that when the engine came by they were too near the lead track. Yerdict for Cumpston was reversed.\n2. Proper Instructions in Such Case.\u2014Defendant requested a special instruction, that the undisputed evidence showed that deceased and his fellow workmen were guilty of negligence in moving the car to where the engine struck it, and to return a verdict for the defendant. This instruction should have been given; or failing in that, the verdict should have been set aside.\n3. The Engineer a Fellow Servant. \u2014 The engineer of the switch engine was also a fellow servant; and if he was negligent in failing to avoid the collision, the defendant would not be liable for the damage resulting therefrom, any more than it would be for the acts of the servants who helped Cumpston to move the cars.\n4. Rules for Protection of Employes. \u2014 There is nothing in the evidence, that no rule was adopted by the defendant company for the protection of its employes at work upon the storage tracks, because it is not shown that any rule could have protected the\" deceased.\nAppeal from Harrison.\nTried below before Hon. W. J. Graham.\nF. JET. Frendergast, for appellant.\n1. The court erred in refusing special charge number 1. [See opinion for charge.] Railway v. Delahunty, 53 Texas, 212; Mitchell v. De Witt, 20 Texas, 299; Bowles v. Brice, 66 Texas, 731; Renfro v. Railway, 86 Mo., 302.\n2. The court erred in refusing special charge number 3, asked by the defendant, as follows: \u201cIf you believe that the moving of the car too near the lead track was the cause of Cumpston\u2019s death, then plaintiffs can not recover, whether or not Cumpston knew of the danger arising from leaving the cars where he and his fellow workmen placed them.\u201d On the proposition that Cumpstpn must have known of the danger of repairing the car where he was, we cite Railway v. Harrison, 62 Texas, 600. On the proposition that Cumpston assumed the risk of being injured, we cite Railway v. Bradford, 66 Texas, 736.\n3. The court erred in not granting a new trial, because the verdict was contrary to the evidence. Railway v. Bradford, 66 Texas, 736; Railway v. Harrington, 62 Texas, 600; Renfro v. Railway, 86 Mo., 302; Railway v. Williams, 75 Texas, 4.\n4. The court erred in charging the jury, that the company would be liable if they did not establish rules to protect employes. This was error, because there was no evidence showing what rule or regulation should have been established. Black\u2019s Proof and Plead, in Acc. Cases, sec. 3; Lovegrove v. Railway, 16 C. B. (N. S.), 669, 692.\nM. B. Geer, L. P. Wilson, and Pope & Lane, for appellees.\n1. The court did not err in refusing special charge number 1 asked by the defendant. Railway v. Porfert, 72 Texas, 351; Railway v. Murphy, 46 Texas, 366; Railway v. Greenlee, 70 Texas, 561; Jones v. George, 61 Texas, 353; Railway v. Ormand, 64 Texas, 489; Railway v. Gasscamp, 69 Texas, 547; Chatham v. Jones, 69 Texas, 746; Ireland v. Plank Road, 13 N. Y., 533; Fernandes v. Railway 52 Cal., 45; Railway v. Hall, 78 Texas, 660; Railway v. Hinzie, 82 Texas, 629; Railway v. Watts, 63 Texas, 552; Able v. Railway, 28 Am. and Eng. Ry. Cases, 497; Railway v. Fox, 15 Am. and Eng. Ry. Cases, 325.\n2. The court did not err in charging the jury, that the company would be liable if it failed, for the protection of their employes, to adopt reasonable rules, regulations, or methods for conducting their business, such as will, if properly pursued and carried into effect, afford a reasonable degree of safety to its employes while engaged in the discharge of their duties, against extraordinary or unnecessary dangers. Railway v. Watts, 63 Texas, 552; Railway v. Hall, 78 Texas, 660; Railway v. Hinzie, 82 Texas, 628; Railway v. Fox, 15 Am. and Eng. Ry. Cases, 325."
+  },
+  "file_name": "0025-01",
+  "first_page_order": 49,
+  "last_page_order": 52
+}

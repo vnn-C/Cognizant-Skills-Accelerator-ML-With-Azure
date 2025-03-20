@@ -1,0 +1,66 @@
+{
+  "id": 227500,
+  "name": "The Fort Worth & Denver City Railway Company v. A. S. Johnson",
+  "name_abbreviation": "Fort Worth & Denver City Railway Co. v. Johnson",
+  "decision_date": "1893-11-01",
+  "docket_number": "No. 901",
+  "first_page": "15",
+  "last_page": "16",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Tex. Civ. App. 15"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 219,
+    "char_count": 2593,
+    "ocr_confidence": 0.536,
+    "pagerank": {
+      "raw": 4.076306636737454e-08,
+      "percentile": 0.009005168084877734
+    },
+    "sha256": "2277ad622e03bb7f356625b012dedb59565602a5778ddc40074c65f492924a27",
+    "simhash": "1:8f5bb1834a43eeac",
+    "word_count": 439
+  },
+  "last_updated": "2023-07-14T18:07:14.925501+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The Fort Worth & Denver City Railway Company v. A. S. Johnson."
+    ],
+    "opinions": [
+      {
+        "text": "STEPHENS, Associate Justice.\nThe bills of exception 1 and 2 show such a flagrant and persistent violation of the rule on the part of counsel in the closing argument as to require that the judgment, by that means in part obtained, be reversed.\nThe language employed was not only calculated to arouse passion; but counsel made himself a witness before the jury as to matters foreign to the record, and of a damaging character. We are of opinion that the evidence thus imported into the jury box, and emphasized by the vigorous language of counsel, must have had some weight in the decision of the case.\nThe judgment will therefore be reversed and the cause remanded for a new trial.\nReversed and remanded.",
+        "type": "majority",
+        "author": "STEPHENS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Stanley, Spoonts & Meek and J. H. Davenport, for appellant.",
+      "No brief for appellee reached the Reporter."
+    ],
+    "corrections": "",
+    "head_matter": "The Fort Worth & Denver City Railway Company v. A. S. Johnson.\nNo. 901.\nPractice \u2014 Improper Argument of Counsel to Jury \u2014 Where counsel for plaintiff, in his closing argument, uses language calculated to arouse passion, and also makes himself a witness before the jury as to matters foreign to the record, and of a damaging character to the defendant, a judgment by such means in part obtained will be reversed.\nAppeal from the County Court of Wichita. Tried below before Hon. W. P. Skeen.\nAppellee brought this suit for a balance of salary and ticket commissions due him for services as railroad station agent. Defendant reconvened for loss caused by plaintiff\u2019s negligent management, and showed that he was short in his accounts in a large sum. The judgment was in favor of plaintiff for the amount of his claim.\nDelivered November 1, 1893.\nIn his closing argument to the jury, appellee\u2019s counsel used the following language: \u201c The Fort Worth & Denver City Railway Company is hounding and persecuting Johnson, and are determined to down him at all hazards. They have hounded and persecuted him continually since this thing occurred. It looks like there should be an end to these things. They have persecuted and hounded this man. This matter should be stopped. Plaintiff was tried'and acquitted by a jury of his country, yet they still keep hounding and following him up in the courts.\u201d\nStanley, Spoonts & Meek and J. H. Davenport, for appellant.\nThe court erred in permitting appellee\u2019s counsel to depart from the record in his argument, and indulge in the improper appeal to the passions and prejudices of the jury. Dist. Ct. rule 39, Sayles\u2019 Civ. Stats., App., 5; Railway v. Jarrel, 60 Texas, 268; Railway v. Garcia, 62 Texas, 285; Heidenheimer v. Thomas, 63 Texas, 287; Railway v. Irvin, 64 Texas, 259; Sinclair v. Stanley, 69 Texas, 727.\nNo brief for appellee reached the Reporter."
+  },
+  "file_name": "0015-01",
+  "first_page_order": 41,
+  "last_page_order": 42
+}

@@ -1,0 +1,91 @@
+{
+  "id": 227367,
+  "name": "A. Adler & Co. v. F. Kiber",
+  "name_abbreviation": "A. Adler & Co. v. Kiber",
+  "decision_date": "1893-12-07",
+  "docket_number": "No. 368",
+  "first_page": "415",
+  "last_page": "417",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Tex. Civ. App. 415"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "16 S. W. Rep., 642",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "16 S. W. Rep., 538",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "94 Ind., 49",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1340750
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/94/0049-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 316,
+    "char_count": 5659,
+    "ocr_confidence": 0.57,
+    "pagerank": {
+      "raw": 2.1709949919333285e-07,
+      "percentile": 0.7712127232128205
+    },
+    "sha256": "b4a897e81a534db8703ec30e880319d27d5ab584fa42498787eab4074367fa23",
+    "simhash": "1:46dd75e07e1b8049",
+    "word_count": 982
+  },
+  "last_updated": "2024-02-27T16:31:09.266747+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "A. Adler & Co. v. F. Kiber."
+    ],
+    "opinions": [
+      {
+        "text": "WILLIAMS, Associate Justice.\nThe parties made a contract by which the appellants agreed to sell and deliver to the appellee, at Brenham, at a day subsequent, 100 barrels of sugar of a specified quality and at a stipulated price.\nNo right was reserved by either party to countermand or recede from the agreement. Appellee, on same day, undertook to countermand his order for the sugar by so notifying the agent of appellants through whom the contract was made, and on the next day he wired a countermand to appellants at New Orleans. Both the agent and appellants declined to rescind or to recognize appellee\u2019s right to countermand; and at the time fixed for delivery appellants tendered to appellee, at Brenham, sugar such as the contract provided for, and upon appellee\u2019s refusal to receive it, sold it and sued for damages, claiming the difference between the contract price and the sum realized at the sale.\nAt the trial the court charged the jury, that the measure of damages was the difference between the contract price and the market value of the sugar at the time of the countermand; and as there had been no change in market value before the countermand, the jury found for the defendant. This charge was erroneous. The defendant had not the right to countermand the order and thereby break the contract. The agreement was clear and unambiguous, and when the minds of the parties met, both were bound by their agreement. The plaintiffs could not be deprived of the benefits to be derived from the contract by the act of the defendant. The contract was executory, no specific property being appropriated to it, and therefore no title ever passed; and upon a breach by the defendant, plaintiffs\u2019 remedy was simply an action for damages. The measure of their recovery was compensation for their loss resulting from the refusal of the defendant to perform. Such loss was plainly the difference between the market value of the sugar at Brenham at the time of delivery and the price fixed by the contract. Plaintiffs, by the contract, were allowed until the appointed time to perform their agreement, and were entitled to such benefit as could be derived from a decline in the market. They had the right to purchase sugar with which to comply with the agreement at any time before delivery.\nDelivered December 7, 1893.\nThe measure of damages in cases of this character has often been stated and recognized to be the difference between the market value at time and place of delivery and the contract price. Ullman, Lewis & Co. v. Babcock, 63 Te.xas, 68; Tumley Bros. v. Weiss & Trigg, 1 W. & W. C. C., sec. 1280; Heilbroner v. Douglass, 45 Texas, 406, 407.\nThere are some exceptional cases to which this measure can not be justly applied without losing sight of the fundamental principle of compensation, or of the important rule requiring good faith and prudent dealings on the part of the plaintiff after he has received knowledge of the breach; and such are the cases of Tufts v. Lawrence, 77 Texas, 526, and Sonka v. Chatham, 2 Texas Civ, App., 312, cited by appellee.\nThere is no reason why the ordinary rule should not apply to this case, as it affords exact compensation to plaintiffs and holds defendant to the results of his contract.\nThe judgment is reversed and the cause remanded.\nReversed and remanded.",
+        "type": "majority",
+        "author": "WILLIAMS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "O. L. Eddins and Win. P. Ewing, for appellants.",
+      "Searcy & Garrett, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "A. Adler & Co. v. F. Kiber.\nNo. 368.\n1. Measure of Damages \u2014Breach of Contract of Sale. \u2014 When appellants agreed to sell and deliver one hundred barrels of sugar to appellee at Brenham, at a stipulated price, and appellee, without right, countermanded the contract on the day it was made, the measure of damages for the breach was the difference between the contract price and the market value at the time and place of delivery.\n2. Same \u2014 Seller\u2019s Rights. \u2014 No right having been reserved by either party to countermand or recede from the contract, plaintiffs under it were allowed until the appointed time to perform their agreement, and were entitled to such benefit as could he derived from a decline in the market, and they had the right to buy the sugar with which to comply with the agreement, at any time before delivery.\nAppeal from Washington. Tried below before Hon. E. P. Curry, County Judge.\nO. L. Eddins and Win. P. Ewing, for appellants.\nThe court erred in that part of his charge wherein the jury were instructed, in substance, that if defendant, Kiber, gave plaintiffs a written order for 100 barrels of sugar, and afterwards countermanded said order, then the said Kiber breached the said contract at the time the said countermand was received by plaintiffs, A. Adler & Co., and the measure of plaintiffs\u2019 damages would be the difference in the contract price at the date of the order and the market price at the date of the countermand. Sedg. on Meas, of Dam., 5 ed., 298, 313; Turnley Bros. & Co. v. Weiss & Trigg, 1 W. & W. C. C., sec. 1280; Ullman, Lewis & Co. v. Babcock, 63 Texas, 68; Heilbroner v. Douglass, 45 Texas, 406; 5 Am. and Eng. Encycl. of Law, 30; Benj. on Sales, 2 ed., 617-619, 621, 649; Dwiggins v. Clark, 94 Ind., 49; Lewis v. Merchants, 16 S. W. Rep., 538; Seay v. Diller, 16 S. W. Rep., 642.\nSearcy & Garrett, for appellee.\nThe contract being in its nature executory, the appellee had the right to countermand the same at any time before said sugar was delivered, and the measure of damages, if any were sustained by the appellants, would be the difference between the contract price and the price of sugar at the time the countermand was made. Tufts v. Lawrence, 77 Texas, 526; Sonka v. Chatham & Co., 2 Texas Civ. App., 312; Gammage v. Alexander, 14 Texas, 415; Cleveland v. Williams, 29 Texas, 208."
+  },
+  "file_name": "0415-01",
+  "first_page_order": 441,
+  "last_page_order": 443
+}

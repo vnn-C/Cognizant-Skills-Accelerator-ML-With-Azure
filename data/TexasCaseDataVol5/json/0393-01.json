@@ -1,0 +1,333 @@
+{
+  "id": 227595,
+  "name": "J. P. Kellar v. A. L. Self",
+  "name_abbreviation": "Kellar v. Self",
+  "decision_date": "1893-11-22",
+  "docket_number": "No. 34",
+  "first_page": "393",
+  "last_page": "397",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Tex. Civ. App. 393"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "34 Barb., 422",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5070725
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/34/0422-01"
+      ]
+    },
+    {
+      "cite": "1 Daly, 83",
+      "category": "reporters:state",
+      "reporter": "Daly",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "28 How. Pr., 333",
+      "category": "reporters:state",
+      "reporter": "How. Pr.",
+      "case_ids": [
+        2222046
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/how-pr/28/0333-01"
+      ]
+    },
+    {
+      "cite": "24 Vt., 642",
+      "category": "reporters:state",
+      "reporter": "Vt.",
+      "case_ids": [
+        4426877
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/vt/24/0642-01"
+      ]
+    },
+    {
+      "cite": "28 Conn., 43",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        527861
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/conn/28/0035-01"
+      ]
+    },
+    {
+      "cite": "38 N. Y., 94",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        500821
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/38/0094-01"
+      ]
+    },
+    {
+      "cite": "36 Pa. St., 114",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        992202
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/36/0114-01"
+      ]
+    },
+    {
+      "cite": "47 N. H., 324",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        4469178
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nh/47/0324-01"
+      ]
+    },
+    {
+      "cite": "30 Ga., 691",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        259160
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ga/30/0691-01"
+      ]
+    },
+    {
+      "cite": "15 Cal., 321",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2259337
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal/15/0321-01"
+      ]
+    },
+    {
+      "cite": "18 Ill., 37",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        438645
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/18/0037-01"
+      ]
+    },
+    {
+      "cite": "6 Johns., 144",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2132742
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/6/0144-01"
+      ]
+    },
+    {
+      "cite": "15 How., 268",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "36 Hun, 327",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "43 Am. Rep., 122",
+      "category": "reporters:state_regional",
+      "reporter": "Am. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "15 Lea, 160",
+      "category": "reporters:state",
+      "reporter": "Lea.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Mo., 463",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        8854690
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mo/5/0463-01"
+      ]
+    },
+    {
+      "cite": "47 Md., 545",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        1819074
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/md/47/0545-01"
+      ]
+    },
+    {
+      "cite": "28 Barb., 593",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2424430
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/28/0593-01"
+      ]
+    },
+    {
+      "cite": "13 Minn., 412",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        746901
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/minn/13/0412-01"
+      ]
+    },
+    {
+      "cite": "34 Mo., 329",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        989490
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mo/34/0329-01"
+      ]
+    },
+    {
+      "cite": "17 Vt., 390",
+      "category": "reporters:state",
+      "reporter": "Vt.",
+      "case_ids": [
+        8545297
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/vt/17/0390-01"
+      ]
+    },
+    {
+      "cite": "30 N. Y., 344",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2040643
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/30/0344-01"
+      ]
+    },
+    {
+      "cite": "118 U. S., 7",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "24 N. Y., 570",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2029494
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/24/0570-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 625,
+    "char_count": 10843,
+    "ocr_confidence": 0.579,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.008883529503071414
+    },
+    "sha256": "6e344ba0bc336036be57b0526f9d7807bc14b39739cb42fa71e45f7d92b7e20e",
+    "simhash": "1:3b979424b2079c5c",
+    "word_count": 1928
+  },
+  "last_updated": "2024-02-27T16:31:09.266747+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "J. P. Kellar v. A. L. Self."
+    ],
+    "opinions": [
+      {
+        "text": "FINLEY, Associate Justice.\nThis suit was instituted against J. P. Kellar, sheriff of Kaufman County, and the sureties on his official bond, by A. L. Self, to recover damages for the seizure and conversion of a stock of goods, wares, and merchandise, which plaintiff claims by virtue of a deed of trust executed to him by F. M. Moore & Co. for the benefit of certain preferred creditors of the firm of F. M. Moore & Co. The sheriff and sureties answered, alleging, that the goods were seized under writs of attachment in favor of certain parties, naming them, and vouching them in upon their indemnity bonds, and that the goods were the property of F. M. Moore & Co., and subject to the levy, etc. They also attacked the validity of the deed of trust under which plaintiff claimed, upon several grounds. The case was tried by the court without a jury, and resulted in a judgment for plaintiff against the sheriff and his sureties for $2403.17, and in favor of the sheriff against the parties to the indemnity bonds.\nThe sheriff alone has perfected his appeal, the appeal of the other parties having been dismissed at a former day of this term, and his assignments of error are properly before us for consideration.\nThe first assignment of error assails the validity of the deed of trust upon the ground that it was executed by only one of the partners of the firm of F. M. Moore & Co.\nF. M. Moore, who executed the deed of trust in the name of the firm, was a partner, and the general and sole manager of the business, under a written partnership agreement. His other partners were J. D. Boydstun, who lived at Rockwall, Texas, and was engaged in business there; and Louis Boydstun, who lived at Baird, Texas, and was engaged in business at that point. On the day the deed of trust was executed, the telegraph wires between Kaufman and other points were down, and F. M. Moore was unable to get communication with his other partners. On that morning he learned that his partners had been attached at Rockwall. His firm was largely in debt and insolvent, and fearing a sacrifice of the firm property under attachment proceedings, he conveyed the same in trust to plaintiff for the benefit of certain preferred creditors of the firm.\n\u201c It is generally held that one partner can not, without the authority or consent of his copartner, make a general assignment. An exception is recognized when one partner has the entire management of the business,, or the other is absent, so as to be beyond the reach of prompt communication. * * * The power of one partner, however, to mortgage the-firm property, or to sell it for the payment of partnership debts, must be conceded. He can also transfer it directly to a partnership creditor in discharge of the obligation.\u201d Johnson v. Robinson, 68 Texas, 402.\nThe language quoted from the opinion of Associate Justice Gaines in the above case was used in reference to the same character of conveyance as the one now under consideration, and fully meets the objection raised by this assignment.\nThe second assignment or ground upon which the conveyance is attacked is, that the partnership had been previously dissolved by the act of John D. Boydstun, on the day before, in selling out his interest in the firm of F. M. Moore & Co. to the First National Bank of Rockwall. It is well settled that a sale by one partner of his interest in the firm business dissolves the partnership and severs the partnership relations. Carter v. Roland, 53 Texas, 540; Carroll v. Evans, 27 Texas, 262; Moore v. Steele, 67 Texas, 435; Watson v. McKinnon, 73 Texas, 210.\nSuch sale did not have the effect to make the vendee a partner in the business; it only conveyed the interest of the retiring partner in the firm assets which should remain after the satisfaction of all partnership obligations. It did not diminish the power of the other partners in the administration of the assets for the purpose of paying the partnership debts. \u201cNotwithstanding dissolution, a partner has implied authority to bind the firm so far as may be necessary to settle and liquidate existing demands, and to complete transactions begun, but unfinished, at the time of the dissolution.\u201d 1 Lind, on Part., 411, 412; 6 Cowen, 441; 24 N. Y., 570.\nThe third ground of attack is, that the preferences made rendered the deed of trust void. The position assumed is, that a partner of an insolvent firm, after dissolution resulting from the sale of one of the partner\u2019s interest, can not make a valid assignment of partnership assets for the benefit of the firm creditors, with preference to some of them. It has been seen that one partner, without the concurrence of the other partners, may, under certain conditions, make a valid common law assignment of firm property to pay partnership1 obligations, and that this right is not lost by a dissolution of the partnership relations. As with the concurrence of all the partners the joint property could have been sold or assigned for the benefit of preferred creditors of the firm, no good reason is perceived why the one partner, acting under the conditions which give authority to bind the firm, may not as effectually make such a conveyance. Emerson v. Senter, 118 U. S., 7; Burr, on Ass., 5 ed., 107-130, 1 ed., 36-56.\nDelivered November 22, 1893.\nThe deed is also objected to because it provides for attorney fees in the sum of $600. This assignment is not well taken. Rainwater-Boogher Hat Co. v. Weaver, 4 Texas Civ. App., 594, and cases there cited.\nThe remaining assignments of error can not be sustained, and do not raise such questions as are deemed necessary to be discussed in this opinion.\nThe conclusions of fact filed by the trial judge are here adopted.\nThe judgment of the lower court is affirmed.\nAffirmed.\nJustice Rainey did not sit in this case.",
+        "type": "majority",
+        "author": "FINLEY, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Manion & Huffmaster, for appellant.",
+      "J. D. Cunningham, and Woods & Gossett, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "J. P. Kellar v. A. L. Self.\nNo. 34.\n1. Deed of Trust \u2014 Partnership \u2014 Dissolution. \u2014 A partner has the power to mortgage the firm property to secure the payment of partnership debts. That a deed of trust, in such ease, provided for attorney fees, and was executed by one partner to secure certain preferred creditors after dissolution, resulting from the sale by another partner of his interest, does not render it void.\n2. Same \u2014 Power of Partner After Dissolution. \u2014 The sale by one partner of his interest in the firm business dissolved the partnership and conveyed to the vendee the interest of the retiring partner in the firm assets which should remain after the satisfaction of all partnership obligations. It did not diminish the power of the other partners in the administration of the assets for the purpose of paying the partnership debts.\nAppeal from Kaufman. Tried below before Hon. Anson Rainey.\nManion & Huffmaster, for appellant.\n1. It is not competent for one partner, without the assent or authority of the other partners, to assign all the partnership property to a trustee for the payment of debts, such power not being implied from the partnership relation, and is the exercise of power outside of the ordinary business of the partnership enterprise, and is subversive of the partnership itself. 1 Bates on Part., sec. 338; Bump on Fraud Con., 3 ed., 351; Welles v. March, 30 N. Y., 344; Dana v. Lull, 17 Vt., 390; Hook v. Stone, 34 Mo., 329; Stein v. La Daw, 13 Minn., 412; Sheldon v. Smith, 28 Barb., 593; Maughlin v. Tyler, 47 Md., 545; Hughes v. Ellison, 5 Mo., 463; 1 Lind, on Part., *126, *127.\n2. The firm of F. M. Moore & Co. having been dissolved, prior to the deed of trust, by the act of John D. Boydstun in selling out Ms interest in the firm business to the First National Bank of Rockwall, the stock of merchandise in controversy became the property of F. M. Moore, Lewis Boydstun, and the first National Bank of Rockwall, and they owned the same as tenants in common; and F. M. Moore could not by any conveyance of his pass the interest of his cotenant Lewis Boydstun in said property. Carter v. Rowland, 53 Texas, 547; Carroll v. Evans, 27 Texas, 262; Moore v. Steel, 67 Texas, 435; Watson v. Mckennon, 73 Texas, 210; White v. Tudor, 24 Texas, 639; Kendall v. Riley, 45 Texas, 20; Brown & Co. v. Chancellor, 61 Texas, 438.\n3. After a dissolution of a partnership, neither partner has the right to make an assignment of the partnership property, and make preferences among the firm creditors, unless such power is vested in him by the partnership agreement, or is otherwise authorized by his copartners, such power not being implied from the partnership relation, and being without the scope of partnership business. Burr. on Ass., secs. 76, 77, 86; Anderson v. Norton, 15 Lea, 160; 43 Am. Rep., 122; 5 Wait\u2019s Act. and Def., 133; Wells v. March, 30 N. Y., 344; Nelson v. Tenney, 36 Hun, 327; Lind. on Part., 535, 1300; 1 Bates on Part., sec. 340, note 1; Wetter v. Schlieper, 4 E. D. Smith, 707; 15 How., 268; Bates on Part., sec. 688.\n4. An insolvent firm can not give a mortgage to secure debt already existing, and also contract a new.indebtedness at the same time, and cover such debt by a lien on their property. Such mortgage is fraudulent as to other creditors. Gallagher & Co. v. Goldfrank Co., 75 Texas, 564; Wallis vs. Adoue & Lobit, 76 Texas, 119.\nJ. D. Cunningham, and Woods & Gossett, for appellee.\n1. The court did not err in finding as a conclusion of law that F. M. Moore, as general manager of the firm of F. M. Moore & Co.,had authority to execute the deed of trust in question, and in holding the same to be a valid conveyance of the property therein mentioned. Schneider & Davis v. Sansom, 62 Texas, 201; Johnson v. Robinson, 68 Texas, 402; Ketcham v. Clark, 6 Johns., 144; Page v. Brant, 18 Ill., 37; Williams v. Bowers, 15 Cal., 321; Ennis v. Williams, 30 Ga., 691; Zollar v. Janvrin, 47 N. H., 324; Little v. Clark, 36 Pa. St., 114; Davis v. Keys, 38 N. Y., 94; Martin v. Soorls, 28 Conn., 43; Simonds v. Strong, 24 Vt., 642.\n2. The property of F. M. Moore & Co. being in the possession of F. M. Moore, as general manager of F. M. Moore & Co., on the day the deed of trust was executed to A. L. Self, as trustee, it was the duty of said Moore, as general manager of the business, to see that said property was applied towards the satisfaction of the debts of F. M. Moore & Co., and it was his privilege to direct the order in which they should be paid. Harvey v. Crickett, 5 M. & Selw., 336; 1 Collyer on Part., ch. 2, sec. 3; 2 Collyer on Part., ch. 2, sec. 8; 4 Collyer on Part., ch. 1, 582; Bump on Fraud. Con., 213, 217, 336, 339.\n3. The fee of attorneys in such cases can be attacked only by showing that the amount agreed upon is unreasonable or unconscionable, and this fee is not attacked by appellants on that ground. Eyre v. Beebe, 28 How. Pr., 333; Butt v. Peck, 1 Daly, 83; Iselin v. Dalrymple, 2 Robt., 142; Halstead v. Gordon, 34 Barb., 422; Buth v. Peck, 1 Daly, 83."
+  },
+  "file_name": "0393-01",
+  "first_page_order": 419,
+  "last_page_order": 423
+}

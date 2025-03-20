@@ -1,0 +1,374 @@
+{
+  "id": 216191,
+  "name": "Edward Martin v. Western Union Telegraph Company",
+  "name_abbreviation": "Martin v. Western Union Telegraph Co.",
+  "decision_date": "1892-10-19",
+  "docket_number": "No. 1",
+  "first_page": "143",
+  "last_page": "151",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Tex. Civ. App. 143"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Daly, 547",
+      "category": "reporters:state",
+      "reporter": "Daly",
+      "opinion_index": -1
+    },
+    {
+      "cite": "64 Wis., 531",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "case_ids": [
+        11284607
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wis/64/0531-01"
+      ]
+    },
+    {
+      "cite": "19 Ill. App., 347",
+      "category": "reporters:state",
+      "reporter": "Ill. App.",
+      "case_ids": [
+        4898261
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill-app/19/0347-01"
+      ]
+    },
+    {
+      "cite": "15 Mich., 525",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1946778
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich/15/0525-01"
+      ]
+    },
+    {
+      "cite": "45 N. Y., 744",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2049807
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/45/0744-01"
+      ]
+    },
+    {
+      "cite": "41 N. Y., 544",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2045763
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/41/0544-01"
+      ]
+    },
+    {
+      "cite": "35 Pa. St., 298",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        990450
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/35/0298-01"
+      ]
+    },
+    {
+      "cite": "29 Md., 232",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        1766701
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/md/29/0232-01"
+      ]
+    },
+    {
+      "cite": "33 Wis., 558",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "case_ids": [
+        8708442
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wis/33/0558-01"
+      ]
+    },
+    {
+      "cite": "1 Col., 230",
+      "category": "reporters:state",
+      "reporter": "Col.,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "54 Barb., 505",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2249848
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/54/0505-01"
+      ]
+    },
+    {
+      "cite": "84 Ind., 176",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1316970
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/84/0176-01"
+      ]
+    },
+    {
+      "cite": "37 Iowa, 214",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        106397
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/iowa/37/0214-01"
+      ]
+    },
+    {
+      "cite": "52 Ind., 1",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1418928
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/52/0001-01"
+      ]
+    },
+    {
+      "cite": "32 Barb., 530",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5050482
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/32/0530-01"
+      ]
+    },
+    {
+      "cite": "1 Daly, 575",
+      "category": "reporters:state",
+      "reporter": "Daly",
+      "opinion_index": -1
+    },
+    {
+      "cite": "98 Mass., 232",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        710715
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/98/0232-01"
+      ]
+    },
+    {
+      "cite": "50 Ind., 181",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1415849
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/50/0181-01"
+      ]
+    },
+    {
+      "cite": "58 Ga., 433",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        584137
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ga/58/0433-01"
+      ]
+    },
+    {
+      "cite": "55 Pa., 262",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1470637
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/55/0262-01"
+      ]
+    },
+    {
+      "cite": "6 Daly, 200",
+      "category": "reporters:state",
+      "reporter": "Daly",
+      "opinion_index": -1
+    },
+    {
+      "cite": "18 Md., 341",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        1868549
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/md/18/0341-01"
+      ]
+    },
+    {
+      "cite": "34 Wis., 471",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "case_ids": [
+        8707884
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wis/34/0471-01"
+      ]
+    },
+    {
+      "cite": "77 Va., 173",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        4387960
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/va/77/0173-01"
+      ]
+    },
+    {
+      "cite": "21 Minn., 155",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        738400
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/minn/21/0155-01"
+      ]
+    },
+    {
+      "cite": "23 Ind., 377",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1472585
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/23/0377-01"
+      ]
+    },
+    {
+      "cite": "13 Cal., 423",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "13 Cal., 422",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2217587
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/13/0422-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 828,
+    "char_count": 21498,
+    "ocr_confidence": 0.535,
+    "pagerank": {
+      "raw": 9.102344511306331e-08,
+      "percentile": 0.5060152155588994
+    },
+    "sha256": "77c59f5de43e78979a906185961d7c39d434f188c6c1f1506542aad9285546b6",
+    "simhash": "1:353e06e3897f37a7",
+    "word_count": 3700
+  },
+  "last_updated": "2024-02-27T16:44:05.763049+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Edward Martin v. Western Union Telegraph Company."
+    ],
+    "opinions": [
+      {
+        "text": "KEY, Associate Justice.\nThe court below sustained a general demurrer to the plaintiff\u2019s petition; and he having declined to amend, judgment was rendered dismissing the suit, from which judgment this writ of error is prosecuted. There are three assignments of error, each raising the only question for this court to consider, which is the sufficiency of the plaintiff\u2019s petition as against a general demurrer.\nThis petition (omitting certain formal parts) is as follows:\n\u2018 \u2018 That plaintiff is a resident citizen of the city of St. Louis, State of Missouri, and that the Western Union Telegraph Company is a private corporation, duly incorporated under and by virtue of the laws of the State of New York, with Jay Gould as president thereof, and said Western Union Telegraph Company has for the last ten years continually held itself out as a telegraph company, and offered as such to receive and transmit messages from any point on its line to any other point thereon, which said points on its line do now and for ten years last past have embraced Belton and Austin in the State of Texas and St. Louis in the State of Missouri; which said business was carried on in consideration of the payment received therefor and the profits arising therefrom, and said defendant during said period of time has held itself as authorized and ready to do said business.\n\u201cPlaintiff further alleges, that on, to-wit, the 16th day of February, A. D. 1884, he was associated with John Martin in the mercantile business in the city of St. Louis in the State of Missouri, under the firm name and style of Edward Martin & Co., and that they then and there held a claim, which was just and equitable, against Samuel T. Woodworth, of Belton, Bell County, Texas, amounting to the sum of $1575.80, all of which was due and payable excepting $655.65, which would become due and payable on March 4, 1884. That said Samuel T. Woodworth was then in failing circumstances and was about to be attached by other creditors on the 16th day of February, A. D. 1884, when Montieth & Furman, attorneys at law, of Belton, Texas, and who then and there were acting for said firm of Edward Martin & Co. at their request and as under their employment, prepared a dispatch to James P. Maginn, attorney at law, at St. Louis, Missouri, and who was then and there the attorney of said firm of Edward Martin & Co. in St. Louis, Missouri, and delivered the same at 2 o\u2019clock and 45 minutes p. m. on February 16, A. D. 1884, to the Frontier Telegraph Company, and which was immediately received and transmitted by said Frontier Telegraph Company to the Western Union Telegraph Company, and by it received at 2 o\u2019clock and 45 minutes p. m. on February 16, A. D. 1884, as first written, and sent and transmitted by it to James P. Maginn at St. Louis, State of Missouri. Plaintiff alleges, that said dispatch read as follows, or substantially as follows, and so read at the time when it came into the hands of defendant herein for transmission:\n\u201c Belton, Texas, February 16, 1884.\n\u201c \u2018James P. Maginn, St. Louis, Mo.:\n\u201c \u2018 Martin & Co. hold note of Sam. Woodworth; will be attached tonight; your bank telegraph Miller Brothers, bankers, to make bond.\n\u201c \u2018 22 collect. 2:45 p. m. Monteith & Furman.\u2019\n\u201c Plaintiff alleges, that by the negligence and carelessness of defendant, its agents and employes, the message was not delivered on that day nor on the succeeding day, but was carelessly and negligently withheld from said James P. Maginn, and he had no notice of the matters referred to-until the 18th day of February, A. D. 1884. Plaintiff alleges, that if said message had been transmitted with proper skill and reasonable rapidity it would have come to the hands of James P. Maginn by 3 o\u2019clock p. m. of the 16th day of February, 1884, and then been by him communicated to Edward Martin & Co., and reply received by said James P. Maginn, and been by him or said Edward Martin & Co., or some good or solvent bank of St. Louis, Mo., answered, either by telegraphing Miller & Brothers or some one else who could have obtained the execution of a good and sufficient bond for attachment which would have been approved by the district clerk of Bell County, Texas, which said answer of said telegram should have been obtained and transmitted by said Western Union Telegraph Company and received by the person to whom the same was sent by 6 o\u2019clock p. m. on the 16th day of February, 1884; and plaintiff alleges, that by the use of reasonable promptness on the part of said Western Union Telegraph Company and by the use of reasonable promptness by James P. Maginn and said Edward Martin & Co., which would have been executed, and by reasonable promptness on the part of said Western Union Telegraph Company in transmitting said replying message from St. Louis, Mo., to Belton, Texas, such answer could and should have been returned by 6 o\u2019clock p. m., February 16, 1884; but plaintiff alleges, that if the same had been received by 8 or even 10 o\u2019clock p. in. of February 16, 1884, the same would have been in time for said Martin & Co. to have saved their indebtedness by obtaining a writ of attachment. And plaintiff alleges, that said Monteith & Furman had prepared a petition, which was\u00b0in due form, and an affidavit for attachment in blank, which could, upon getting a telegram, be quickly closed and completed, and Miller Brothers, bankers, of Belton, Texas, had promised upon obtaining an authorizing telegram from some good and solvent bank to go upon said attachment bond as security thereon, and A. M. Monteith stood ready to make affidavit such as is required by law upon which an attachment should issue; and arrangements had been made with the clerk of the District Court of Bell County to stand read)7 to issue writ of attachment and approve bond in legal form and with approved security, which could and would have been readily made if a proper answer had been made to said telegram which had been promptly returned to Belton. And plaintiff alleges, that he stood ready and willing to answer said telegram, and could readily and promptly have provided an attachment bond through a good and reliable bank in St. Louis, Mo., who would have telegrahed Miller Brothers to make bond for Edward Martin, and the said bank would save said Miller Brothers from all loss and damage whatever.\n\u201cAnd plaintiff alleges, that until 11 o\u2019clock p. m. on the 16tli day of February, A. D. 1884, there were sufficient goods, wares, and merchandise of Samuel T. Woodworth subject to attachment to satisfy the debt, interest, and cost of suit, which would have been recovered by judgment from Samuel T. Woodworth at the suit of Edward Martin & Co., and which would have been duly collected by such attachment and judgment of the court; and plaintiff further alleges, that suit would have been instituted, and the goods of Samuel T. Woodworth sufficient to satisfy said indebtedness of Edward Martin & Co. attached, and said indebtedness of Samuel T. Woodworth fully paid and discharged, and that there was good and legal grounds for the issuance of said writ of attachment for such purpose. And plaintiff further alleges, that the nature and purpose of such dispatch, as revealed upon the face thereof, were sufficient to put the said Western Union Telegraph Company upon notice of the importance of such dispatch being promptly and correctly forwarded to said James P. Maginn, in order that the indebtedness therein referred to might be saved or secured, but that defendant, although it had such knowledge by its officers and agents for receiving, transmitting, and delivering, did so carelessly and negligently, so that a mistake was made in the transmitting and delivery of such message, and said message was not delivered until two days after it should have been, to plaintiff\u2019s great damage, he now being the owner of such claim, in the sum of $3000.\n\u201cAnd plaintiff further alleges, that said Edward Martin & Co., in reply to said telegram to James P. Maginn, would also have telegraphed to Monteith & Furman a statement of the amount of their claim against Samuel T. Woodworth, and also a statement as to when the same would become due, for the instruction of said Monteith & Furman as to filling in their allegation in their petition of Edward Martin & Co. v. Samuel T. Woodworth, and affidavit for writ of attachment and bond for attachment to said cause. And plaintiff alleges, that said Sam. T. Woodworth since the 16tli day of February, A. D. 1884, has been insolvent and no sum of money could be made out of him by process of law, and said Samuel T. Woodworth would not willingly pay anything on such indebtedness.\n\u201c Plaintiff further alleges, that said firm of Edward Martin & Co. prior to the institution of this suit was dissolved, and the claim of Edward Martin & Co. against the Western Union Telegraph Company was duly assigned and transferred for a valuable consideration to plaintiff herein and is now his property, and he now sues upon the same in his own name. And plaintiff alleges, that answer to said dispatch ought to have been received at Belton, Texas, by 6 o\u2019clock p. m. of February 16, 1884. Plaintiff further alleges, that he gave due notice as required by law and regulations of the Western Union Telegraph Company of the loss and injury which was occasioned to said Edward Martin & Co., and within the time prescribed by the rules and regulations of said Western Union Telegraph Company, which company refused to pay and satisfy the same in whole or in part; and plaintiff alleges, that plaintiff paid toll for transmission of said message to St. Louis, Missouri, the sum of $1.35, which has not been returned to plaintiff.\n\u201c Wherefore, the premises considered, plaintiff prays that defendant be duly cited to appear and answer this petition, and that on final hearing plaintiff have judgment for said sum of $3000 damages caused to him, and for his toll paid $1.35, and for such other and further relief as plaintiff may in law and in equity be entitled to, and as in duty bound, and will ever pray,\u201d etc.\nIt is contended by defendant in error that the demurrer to the petition was properly sustained, because:\n1. The petition charged a breach of contract with the Frontier Telegraph Company, and seeks to hold defendant in error liable therefor.\n2. Unless there was a limitation to the contract by which the company restricted its liability to its line, or some statute controlled this, the Frontier Telegraph Company\u2019s contract will be construed to bind it to deliver the message to the addressee..\n3. Plaintiff in error was neither the sender nor addressee of the message.\n4. The petition showed too many contingencies to happen after a prompt delivery of the message before plaintiff could have secured his debt.\nAs to the first of these propositions, the petition alleges that Monteith <Jr Furman delivered the message to the Frontier Telegraph Company and that it immediately transmitted it to defendant in error; that the latter received it and sent and transmitted it to Maginn at St. Louis, etc. Whether the Frontier Telegraph Company is to be considered in delivering the message to defendant in error as its agent or as the agent of the senders is not material; but when the defendant received and undertook to transmit the message, it rested under the implied obligation to do so with the same diligence and expedition as if it had expressly agreed to transmit it. The facts alleged show an implied contract.\nConcerning the second proposition, if we are correct in holding that the allegations of the petition show an implied contract by the defendant in error to properly transmit the message, it follows necessarily that it is liable for any breach on its part of such contract.\nIt has been \u2019held in New York, that in the absence of a special agreement or arrangement either with the sender of the message or between the connecting lines, the company on whose line the default resulting in loss occurs is the proper party to be sued. Baldwin v. Tel. Co., 45 N. Y. (6 Hand), 744.\nWith reference to the third contention, it is true that the message was sent by Monteith & Furman, but the petition avers that they were acting for Edward Martin & Co., and the message itself shows that it was intended for their benefit. It discloses the fact that they held a claim against Woodworth that was in peril. It has been held in this State, that where one person, for a valuable consideration, agrees to pay a debt owing by the other party to the contract to a third person, that such third person, though not a party to the contract, can maintain an action thereon. Spann v. Cochran & Ewing, 63 Texas, 240.\nThe contract being for their benefit, we think Martin & Co. had a right to sue; and having transferred their cause of action to plaintiff in error, he can maintain an action thereon.\nNor do we concur with defendant in error in its fourth proposition, that the damages are too remote and contingent.\nThe message was sufficient on its face to indicate to defendant that Martin & Co. held a pecuniary claim against Woodworth, that there was danger of its loss through the insolvency of the debtor, and that prompt delivery of the message was necessary to avert such loss.\nSuch being the case, if defendant in error was guilty of negligence, as charged in the petition, in the transmission of the message, and if as a result of such negligence Martin & Co. lost their debt, then upon sound principles of law and justice plaintiff in error is entitled to recover from defendant in error the full amount of such debt. Tel. Co. v. Sheffield, 71 Texas, 570; Parks v. Tel. Co., 13 Cal., 422.\nOf course, before plaintiff in error can recover he must produce such testimony as will induce the court or jury trying the case to believe with reasonable certainty that if the message had been promptly transmitted and delivered to the addressee, Martin & Co. would have obtained an attachment against Woodworth, and thereby secured their debt. The petition alleges that they would have done so.\nDelivered October 19, 1892.\nOur conclusion is, that as against a general demurrer the petition is good, and the judgment must be reversed and cause remanded.\nReversed and remanded.",
+        "type": "majority",
+        "author": "KEY, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Montieth & Furman and J. P. Maginn, for plaintiff in error.",
+      "Stemmons & Field, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "THIRD DISTRICT, OCTOBER, 1892.\nEdward Martin v. Western Union Telegraph Company.\nNo. 1.\n1. Liability of Telegraph Company for Failure to Forward Dispatch. \u2014 A telegraph company receiving a dispatch from a connecting line is under the implied obligation to forward it with the same diligence and care as if it had expressly agreed to transmit it. So, whether the company delivering the message is agent of the sender or of the company receiving it.\n2. Same. \u2014 The telegraph company receiving a dispatch from a connecting line is liable for damages caused by its want of diligence and expedition in transmitting and delivering the message.\n3. Same \u2014 Liability of Connecting Telegraph Lines. \u2014 Where a message is sent over connecting telegraph lines, any one of such lines causing injury by its default is liable, and is the proper party to be sued.\n4. Message Sent by Agent \u2014 Principal may Sue. \u2014 Attorneys in interest of their client sent a message by telegraph. The client, being damaged by the negligent failure of the telegraph company to deliver the message with proper dispatch, has cause of action against the telegraph company guilty of the failure.\n5. Notice by Contents of Telegraph Message. \u2014 The dispatch following: \u201cBelton, Texas, Feb. 16,1884. James P. Maginn, St. Louis, Mo.: \u2014 Martin & Co. hold note of Sam. Woodworth; will be attached to-night; your bank telegraph Miller Bros., bankers, to make bond. [Signed] Monteitb & Furman,\u2019\u2019 on its face indicated to the telegraph company that Martin & Co. held a money obligation against Woodworth in danger of being lost through his insolvency: and of the necessity of the prompt delivery of the message to prevent the loss of the debt.\n6. Assignee of Claim for Damages may Sue. \u2014Claim for damages to a firm was assigned to a member; in such case the assignee could maintain suit for such damages.\n7. Cause of Action. \u2014 See petition held sufficient if sustained by testimony to support a claim against the telegraph company for failure to deliver a dispatch with due promptness, whereby a debt was lost ,by the plaintiff in whose behalf the message was sent.\nError from Bell. Tried below before Hon. W. A. Blackburn.\nMontieth & Furman and J. P. Maginn, for plaintiff in error.\n1. The demurrer should have been overruled, as plaintiff was entitled to nominal damages at least, the demurrer admitting the defendant\u2019s alleged negligence in failing to transmit and deliver the message within a reasonable time to the agent of plaintiff. \u201cA telegraph company, in.the performance of its contract, is under an obligation to communicate with reasonable speed to the person addressed the intelligence which it receives from its employer, and it is liable for a negligent delay, or, a fortiori, for a total failure in doing so.\u201d Gray on Com. by Tel., sec. 22, citing the following cases:\nOn negligent delay in placing the intelligence on the lines. Parks v. Tel. Co., 13 Cal., 423; Tel. Co. v. Ward, 23 Ind., 377; Beaume v. Tel. Co., 21 Minn., 155; Tel. Co. v. Reynolds, 77 Va., 173; Candee v. Tel. Co., 34 Wis., 471.\nOn negligent failure to place the intelligence on the lines. Birney v. Tel. Co., 18 Md., 341; Sprague v. Tel. Co., 6 Daly, 200; Shasburger v. Tel. Co., Allen\u2019s Tel. Cases, 661.\nOn negligent failure during transmission. Tel. Co. v. Wenger, 55 Pa., 262; Tel. Co. v. Fontaine, 58 Ga., 433; Tel. Co. v. Hamilton, 50 Ind., 181.\nOn negligent delay during transmission. McCall v. Tel. Co., 12 J. & Sp., 487.\nOn negligent delay in delivering the intelligence after transmission. Squire v. Tel. Co., 98 Mass., 232; Bryant v. Tel. Co., 1 Daly, 575; Laundsbuger v. Tel. Co., 32 Barb., 530. Caused by a change in the address during transmission. Tel. Co. v. Fenton, 52 Ind., 1; Manville v. Tel. Co., 37 Iowa, 214; Tel. Co. v. Gouyer, 84 Ind., 176; Railway v. Levy, 59 Texas, 542.\nOn negligent failure in delivering the intelligence after its transmission. Baldwin v. Tel. Co., 54 Barb., 505. In consequence of an alteration in the address during transmission. Tel. Co. v. Graham, 1 Col., 230; King-horn v. Tel. Co., 18 U. C. Q. B., 60; Hibburd v. Tel. Co., 33 Wis., 558; Tel. Co. v. Gildersleeve, 29 Md., 232; Lumber Co. v. Tel. Co., 58 Texas, 394.\nFor the breach of the contract the appellee was liable at all events for nominal damages. Stuart v. Tel. Co., 66 Texas, 583; Tel. Co. v. Drvburg, 35 Pa. St., 298; Daniel v. Tel. Co., 61 Texas, 456.\n2. Plaintiff had a right to sue the defendant, on whose line the negligence is alleged to have occurred, and was not restricted, as was the opinion of the District Court in this case, to the Frontier Telegraph Company, which first got the message, and promptly and correctly transmitted same to defendant, who undertook its further transmission and delivery. Stevenson v. Tel. Co., 16 U. C. Q. B., 530; Leonard v. Tel. Co., 41 N. Y., 544; Squire v. Tel. Co., 98 Mass., 232; Baldwin v. Tel. Co., 45 N. Y., 744; Tel. Co. v. Carew, 15 Mich., 525; Gray on Com. by Tel., secs. 58, 59.\nThe only case seemingly adverse to this proposition is Thurn v. Telegraph Company, 15 California, 472, and that arose under a penal statute, and was held therefore subject to a strict construction.\n3. Under the rule laid down in Hadley v. Baxindale, 9 Exchequer, 341, 354, approved by this court repeatedly, and notably in Telegraph Company v. Edsall, 63 Texas, 668; discussed and approved in Gray on Communication by Telegraph, section 80, and amplified and applied in Telegraph Company v. Bertram & Mueller, 1 Court of Appeals Civil Cases, 654, plaintiff is entitled to the amount of the claim lost through the defendant\u2019s negligence, the message notifying the company of the nature of the business to be done. \u2018 \u2018All that the law required to fix the company for actual damages resulting directly and proximately from the nondelivery of the message was notice to the company, in a general way, of the business to which the message related and the purpose to which it was intended to contribute.\u201d Tel. Co. v. McKinney, 2 Ct. App. C. C., 565; Gray on Com. by Tel., sec. 82, and cases cited.\nIn Parks v. Telegraph Company, 13 California, 422, there'was almost precisely a similar state of facts to those in this case, and the plaintiff's loss of his debt was adjudged the proximate and natural damage from the defendant\u2019s failure to transmit the message. Gray on Com. by Tel., sec. 84; Tel. Co. v. Harris, 19 Ill. App., 347; Thompson v. Tel. Co., 64 Wis., 531.\nStemmons & Field, for defendant in error.\n1. The petition alleged a breach of contract made with the Frontier Telegraph Company, and seeks to hold the defendant in error liable for its breach. De Rutte v. Tel. Co., 1 Daly, 547.\n2. Unless there was a limitation to the contract, by which the company restricts its liability to its line, or some statute controlled this; the Froritier Telegraph Company\u2019s contract will be construed to bind it to deliver the message to the addressee.\n3. The plaintiff in error was neither the sender nor addressee of the message, and can not recover. Railway v. Levy, 59 Texas, 569; 6 Wait\u2019s Act. and Def., 17; 2 Thomp. on Neg., 847.\n4. The plaintiff\u2019s pleading showed too many contingencies to happen after a prompt delivery of the message before plaintiff could have secured his debt."
+  },
+  "file_name": "0143-01",
+  "first_page_order": 167,
+  "last_page_order": 175
+}

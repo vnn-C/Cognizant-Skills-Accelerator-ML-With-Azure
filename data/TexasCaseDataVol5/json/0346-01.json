@@ -1,0 +1,66 @@
+{
+  "id": 227566,
+  "name": "D. L. Riley v. J. W. Pool",
+  "name_abbreviation": "Riley v. Pool",
+  "decision_date": "1893-11-15",
+  "docket_number": "No. 76",
+  "first_page": "346",
+  "last_page": "348",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Tex. Civ. App. 346"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 399,
+    "char_count": 8025,
+    "ocr_confidence": 0.572,
+    "pagerank": {
+      "raw": 6.267022623599536e-08,
+      "percentile": 0.38674918885232307
+    },
+    "sha256": "79fb1689ae3b7f8a6015daf89c694650934e599d161fed7823085396a71d1c02",
+    "simhash": "1:34a07cf6660a72ee",
+    "word_count": 1428
+  },
+  "last_updated": "2023-07-14T18:07:14.925501+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "D. L. Riley v. J. W. Pool."
+    ],
+    "opinions": [
+      {
+        "text": "RAINEY, Associate Justice.\nThis is an action of trespass to try title, brought by appellee against appellant, to recover lot 12 in block number 1, in the town of Canton. Defendant pleaded not guilty, and limitation of three, five, and ten years. Appellee recovered judgment, from which this appeal is taken.\nOver objection of defendant, plaintiff was allowed to introduce in evidence a deed from John Lytle to John D. Merchant, conveying the land certificate granted to the heirs of Jesse Stockwell for one league and labor of land. The recitals in said deed stated that John Lytle made the sale as administrator of the estate of Jesse Stockwell, by order of the Probate Court. No such order was produced, and that was one ground of objection. No rule is better settled, than that the acts of one who fills a fiduciary station must be based upon authority before they become binding, and such authority must be shown before any right can be enforced by reason thereof. The validity of John Lytle\u2019s act in executing the deed depended upon the power granted him by the Probate Court, and the failure to produce same, or account for its absence and prove its having existed, rendered such deed useless for any purpose. Terrell v. Martin, 64 Texas, 121; McNally v. Haynes, 59 Texas, 583.\nThe acknowledgment to said deed was totally defective. The certificate of the officer was, that \u201c G-. W. Scott, one of the subscribing witnesses, who, being sworn, saith, that he either saw John Lytle subscribe his name to the within instrument and acknowledged the same to be his act and deed, or that the said John Lytle requested him to witness the same after he had executed it, and acknowledged that he signed, sealed, and delivered the same,\u201d etc. This acknowledgment being in the alternative, fails to comply with the statute, and is of no effect. Harvey v. Cummings, 68 Texas, 599. The court erred in permitting said deed to be introduced in evidence.\nThere is another error raised by appellant that is fatal to a recovery by appellee. The proof fails to show that the lot in controversy is a part of the Stockwell survey. The patent to the league and labor survey was introduced, and also a deed to Van Zandt County for 160 acres out of said league and labor, described by metes and bounds. The other muniments' of title introduced after that described the land as lot number 12, block number 1, in the town of Canton. There is nothing in the record to show that said town is situated on said survey, or that said lot is a part thereof. This court can not presume that said town is on said survey. For aught it knows or can presume, said town is upon some other survey. To connect appellee\u2019s chain of title to this land, this lot should have been identified in some way as a part of the Stockwell survey; and the evidence failing in this, it was error on the part of the court to render judgment for appellee. Jones v. Fancher, 61 Texas, 699.\nDelivered November 15, 1893.\nThe Commissioners Court of Van Zandt County, by order entered upon the minutes, authorized one Henderson to sell the town lots in Canton, leaving the manner and mode of sale to his discretion, but restricted his power to such only as the Commissioners Court itself had to convey real estate belonging to the county. A sale was made by Henderson of the lot in controversy, and the deed forms a link in appellee\u2019s chain of title. Appellant objected to the introduction in evidence of said order, which was overruled, and of which ruling he complains. Article 681, Revised Statutes, authorizes the Commissioners Court to sell land belonging to the county at public auction. The order made does not in express terms direct the commissioner to sell at public auction, but it only gives such powers as were possessed by said court, and that was to sell at public auction. The deed made by said commissioner is silent as to the manner of making the sale. The deed was executed in 1859, and as far as the record shows, Van Zandt County has acquiesced ever since. This is a collateral attack, and after such a long lapse of time the presumption will prevail that the power granted to the commissioner was properly exercised. Perry v. Blakey, decided this term, and authorities there cited. [Ante, p. 331.]\nOne other point remains to be noticed. Appellant offered to prove by one Towles the contents of a deed alleged to be lost. Objections were made and sustained by the court, because the proper predicate had not been made. We think this ruling of the court was correct. No affidavit was made showing that such a deed ever existed. Towles himself says in his affidavit that he has no recollection of ever seeing said deed. As he never saw the deed, or rather has no recollection of ever having seen it, his testimony would not be competent as to its contents. The ruling of the court was correct.\nFor the errors pointed out, the cause is reversed and remanded for a new trial.\nReversed and remanded.",
+        "type": "majority",
+        "author": "RAINEY, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Alex. Burge and T. B. Yantis, for appellant.",
+      "No brief for appellee reached the Reporter."
+    ],
+    "corrections": "",
+    "head_matter": "D. L. Riley v. J. W. Pool.\nNo. 76.\n1. Administrator\u2019s Deed \u2014 Evidence. \u2014 In an action of trespass to try-title, it is error to admit in evidence a deed purporting to be made by an administrator under an order of the court, conveying a land certificate, when the order of the court was not produced, or its absence accounted for and its existence proved.\n2. Same \u2014Proof of Instrument by Witness. \u2014 The certificate of the officer was: \u201c G. W. Scott, one of the subscribing witnesses, who being sworn, saith that he either saw John Lytle subscribe his name to the within instrument and acknowledged the same to be his act and deed, or that the said John Lytle requested him to witness the same after he had executed it and acknowledged that he signed, sealed, and delivered the same,\u201d etc. Held: Being in the alternative, the acknowledgment fails to comply with the statute, and is of no effect. It was error to admit the deed in evidence.\n3. Trespass to Try Title \u2014 Evidence.\u2014The patent to a league and labor survey, and also a deed to 160 acres out of the league and labor, were introduced in evidence; the other muniments of title introduced after that described the land in litigation as lot number 12 in block number 1 in the town of Canton. To connect appellee\u2019s chain of title to said surveys the lot should have been identified as a part thereof; and the evidence failing in this, it was error to render judgment for appellee.\n4. Agent to Sell County Lands \u2014Power.\u2014A deed made in 1859 by a commissioner appointed by the Commissioners Court to sell lots belonging to the county, was silent as to the manner of making the sale, but the order appointing the commissioner restricted his power to such only as the court itself had to convey real estate belonging to the county. In a collateral attack, and after such long lapse of time, it will be presumed that the power granted was properly exercised, and the lot sold at public auction.\n5. Lost Deed \u2014 Contents \u2014 Evidence.\u2014The testimony of a witness who has no recollection of ever having seen the lost deed is incompetent as to its contents.\nAppeal from Van Zandt. Tried below before Hon. Felix J. McCord.\nAlex. Burge and T. B. Yantis, for appellant.\n1. The certificate of the officer taking the proof of a subscribing witness to a deed must be absolute, either that the witness saw the grantor sign the deed, or that the grantor acknowledged in his presence that he signed it. Rev. Stats., arts. 4314, 4316; Harvey v. Cummings, 68 Texas, 599.\n2. An administrator\u2019s deed is not evidence of title without proof of the facts which conferred on the administrator the power to sell. Rev. Stats., art. 2059; Terrell v. Martin, 64 Texas, 121; McNally v. Haynes, 59 Texas, 583.\n3. Before the court would be warranted in finding for plaintiff, the plaintiff must prove that the lot sued for is a part of the Jesse Stockwell survey of land, and a part of the tract sold to the county upon which the county seat or the town of Canton is located. Jones v. Fancher, 61 Texas, 699.\nNo brief for appellee reached the Reporter."
+  },
+  "file_name": "0346-01",
+  "first_page_order": 372,
+  "last_page_order": 374
+}

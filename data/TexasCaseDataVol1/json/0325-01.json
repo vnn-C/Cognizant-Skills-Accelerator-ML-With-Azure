@@ -1,0 +1,91 @@
+{
+  "id": 216277,
+  "name": "Jot Gunter v. S. A. Lillard & Co.",
+  "name_abbreviation": "Gunter v. S. A. Lillard & Co.",
+  "decision_date": "1892-11-15",
+  "docket_number": "No. 29",
+  "first_page": "325",
+  "last_page": "327",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Tex. Civ. App. 325"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "32 Iowa, 22",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        2298281
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/iowa/32/0022-01"
+      ]
+    },
+    {
+      "cite": "32 Iowa, 22",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        2298281
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/iowa/32/0022-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 355,
+    "char_count": 6459,
+    "ocr_confidence": 0.562,
+    "pagerank": {
+      "raw": 8.776539203851108e-08,
+      "percentile": 0.49568121539132204
+    },
+    "sha256": "6c114ea2b035bd85ae2d63cf154d1fca774c59f8777087c05722ddb7cce460a9",
+    "simhash": "1:900f6cd14bd01c00",
+    "word_count": 1142
+  },
+  "last_updated": "2024-02-27T16:44:05.763049+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jot Gunter v. S. A. Lillard & Co."
+    ],
+    "opinions": [
+      {
+        "text": "STEPHENS, Associate Justice.\nAppellees, S. A. Lillard & Co., brought this suit in the District Court of Wise County, upon a promissory note in the sum of $100, against W. H. Cox, as maker of said note, and sought to foreclose an alleged vendor\u2019s lien on 80 acres of land situated in said county, against appellant, Jot Gunter, and his tenant, J. E. Cook. At the February Term, 1890, of said court, a judgment was rendered in favor of appellees for the amount of the note against Cox, and against the other defendants, foreclosing the lien on said land; the defendant Cox having made default and Cook having filed a disclaimer. The cause was tried without a jury, and is brought here by appellant, without any statement of facts, upon the trial court\u2019s conclusions of law and fact.\nIt appears from the bill of exceptions in the record that plaintiffs below read in evidence, over the objection of appellant on the ground of a variance, the note upon which the suit was founded, which by its terms was made payable as follows, \u201c to bearer E. I-I. or W. D. Wheeler.\u201d This note had been attached to the first amended original petition, to which it was at that time still attached. The suit was tried upon a second amended original petition, which is the only petition of appellees in the record; and in that petition the note was described as being payable to the \u201c bearer or E. H. & W. D. Wheeler.\u201d The note in this second amended petition was otherwise accurately and fully described, and was referred to as being thereto attached. Besides assigning error upon the admission of this evidence, appellant made the following assignment: \u20181 The court erred in holding that the notes sued on are secured by a vendor\u2019s lien upon the land in controversy.\u201d No other assignments are contained in appellant\u2019s brief.\nWe here refer to and adopt the conclusions of fact filed in the court below as our conclusions of fact.\nAppellant insists that the court erred in overruling his objection to the introduction in evidence of the note sued upon, on the ground of a variance between it and the description of it in the petition, and cites us to the case of Warren v. Scott, 32 Iowa, 22. In that case the promise was, to \u201c pay to the bearer, M. C. Murdough,\u201d and it was held that its legal effect was the same as though the word \u201c bearer \u201d had been omitted. It seems to us that there is a difference in the effect of the language employed in that note and the one herein sued upon. As we construe this note, it is equivalent to a promise to pay to E. H. Wheeler or W. D. Wheeler or bearer, and is a negotiable note. The one described in the petition is correctly interpreted by appellant to read to E. H. Wheeler and W. D. Wheeler or bearer. The note as described and the note as introduced in evidence are alike negotiable and payable to bearer, and are substantially the same. Certain it is, that there is no such difference between them as to mislead or surprise appellant, which is the test laid down by our Supreme Court. Patterson v. Taylor, 64 Texas, 55. As bearing upon this question of surprise, we think that the fact of its being filed as an exhibit to the pleading, superseded by the second amendment, and again referred to in the said second amendment as attached thereto, might be properly considered without violating any of the rules of pleading prescribed for the District Court.\nDelivered November 15, 1892.\nThe appellees object to our considering the propositions submitted by appellant under the assignment quoted above. We are of opinion that this assignment is too general. The matter in litigation in the trial court involved the validity of the alleged lien on the land in controversy. Nothing else was controverted. We think this assignment is equivalent to an assertion that the court erred in rendering judgment against appellant. He caused the court to file conclusions of law and fact, in which were set forth the different grounds upon which the judgment foreclosing said lien was rested. We think if appellant desired us to review, any of these several grounds or propositions he should have designated by his assignment the ground or grounds of error relied upon; otherwise, conclusions of law and fact would be useless. We have, however, examined the record sufficiently to satisfy us that no material error was committed by the court below in foreclosing said lien.\nIt'is concluded that the judgment appealed from should in all things be affirmed.\nAffirmed.",
+        "type": "majority",
+        "author": "STEPHENS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Robertson & Coke, for appellant.",
+      "Carswell, Fuller & Terrell and A. M. Jackson, Jr., for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Jot Gunter v. S. A. Lillard & Co.\nNo. 29.\n1. Pleading Note \u2014 Variance. \u2014 The note sued on was described in the pleading as payable to \u201cthe bearer or E. IT. & W. D. Wheeler.\u201d As offered in evidence it was payable \u201cto bearer E. EL or W. D. Wheeler.\u201d Held, there was no material variance.\n2. Same \u2014 Exhibit\u2014Surprise.\u2014Where the note sued on was attached to the original petition, and in an amended petition, on which the case was tried, was referred to as \u201c attached thereto,\u201d though not in fact attached, the mistake in describing the note as above stated could not be a ground of surprise to the defendant.\n3. Assignment of Error. \u2014That \u201cthe court erred in holding that the notes sued on are secured by a vendor\u2019s lien upon the land in controversy,\u201d is an assignment of error too general to be entitled to consideration.\nAppeal from Wise. Tried below before Hon. J. W. Patterson.\nRobertson & Coke, for appellant.\n1. There was variance between the note as pleaded and that as proved. 1 Greenl. on Ev., sec. 66; Dist. Ct. Rule No. 14; Warren v. Scott, 32 Iowa, 22; 1 Rand. on Com. Paper, sec. 160.\n2. The note in evidence was not a sufficient memorandum of the sale of the land by the Wheelers to Cox under the statute of frauds. Bradley v. Owsley, 74 Texas, 69.\nCarswell, Fuller & Terrell and A. M. Jackson, Jr., for appellees.\n1. There was no variance, the legal effect of the note as described in the pleading and as proved in evidence being the- same. The note was attached to the pleadings in the case, and the court found as a matter of fact that appellant knew of the execution of the note when he acquired his claim to the land. Wiebusch v. Taylor, 64 Texas, 55, 56.\n2. Appellant having purchased from Vernon by quitclaim deed, after the repossession by the Wheelers, and the abrogation of Vernon\u2019s title, and after the sale of the land to Cox, with full knowledge of all these matters, acquired no right or claim whatever to the land. Crutchfield v. Donathon, 49 Texas, 696, 697."
+  },
+  "file_name": "0325-01",
+  "first_page_order": 349,
+  "last_page_order": 351
+}

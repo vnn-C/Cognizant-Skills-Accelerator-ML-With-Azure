@@ -1,0 +1,115 @@
+{
+  "id": 216216,
+  "name": "Hugh McGuffin et al. v. P. S. Sowell",
+  "name_abbreviation": "McGuffin v. Sowell",
+  "decision_date": "1892-10-26",
+  "docket_number": "No. 27",
+  "first_page": "187",
+  "last_page": "191",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Tex. Civ. App. 187"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "19 Abb. Pr., 32",
+      "category": "reporters:state",
+      "reporter": "Abb. Pr.",
+      "case_ids": [
+        4637276
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/abb-pr/19/0032-01"
+      ]
+    },
+    {
+      "cite": "30 N. Y., 344",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2040643
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/30/0344-01"
+      ]
+    },
+    {
+      "cite": "16 B. Mon., 230",
+      "category": "reporters:state",
+      "reporter": "B. Mon.",
+      "case_ids": [
+        2339372
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ky/55/0230-01"
+      ]
+    },
+    {
+      "cite": "29 Fed. Rep., 725",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3766647
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f/29/0725-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 522,
+    "char_count": 10478,
+    "ocr_confidence": 0.545,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.008564978112623554
+    },
+    "sha256": "970a53cba606d520a3e0294ed4f3f6f5b7a2bcee8db1e1ce2018b974d2eb55a7",
+    "simhash": "1:04a39876c881fad4",
+    "word_count": 1831
+  },
+  "last_updated": "2024-02-27T16:44:05.763049+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hugh McGuffin et al. v. P. S. Sowell."
+    ],
+    "opinions": [
+      {
+        "text": "KEY, Associate Justice.\nThis suit was brought by appellee, P. S. Sowell, as assignee of the firm of Roby & Nichols, to recover the value of certain personal property alleged to belong to him as such assignee and to have been seized and converted by appellant McGuffin as sheriff of Guadalupe County, etc. Appellee\u2019s title to said property and right to recover for its conversion depends upon the validity of a deed of assignment, which reads as follows:\n\u201c The State of Texas, Guadalupe County. \u2014 Know all men by these presents, that whereas the firm of Roby & Nichols, which said firm is composed of W. S. Roby and M. R. Nichols, residents of said State and county, are justly indebted in divers sums of money, which the said Roby & Nichols are unable to pay in full, to different creditors whose names are stated in the annexed list; and whereas the said Roby & Nichols desire to make a fair distribution of their property and assets among such of their creditors as will consent to accept their proportional share of their estate and discharge them from their respective claims in accordance with the provisions of the statutes;\n\u201c Now, therefore, in consideration of the premises, and the sum of Si to us in hand paid by P. S. Sowell, of said State and county, the said Roby & Nichols doth by these presents bargain, sell, release, and set over unto the said P. S. Sowell all their real and personal estate, other than that which is by law exempted from execution.\n\u201c To have and to hold unto him, the said P. S. Sowell, and his successors, in trust, for the benefit of creditors of the said Roby & Nichols aforesaid; and the said P. S. Sowell on his part agrees faithfully to perform his duties as assignee in accordance with the statute concerning assignments for the benefit of creditors.\n\u201c In testimony whereof we have hereunto set our hands, this the 11th\nday of November, 1886. \u00ab Eoby & Nichols,\n\u201c W. S. Roby.\n\u201c The State oj Texas, Guadalupe County. \u2014 Before me, C. L. Arbuckle, county clerk of Guadalupe County, on this day personally appeared M. R. Nichols, a member of the firm of Roby & Nichols, known to me to be the person whose name is subscribed to the foregoing instrument, and acknowledged to me that he executed the same for the purposes and consideration therein expressed.\n\u201c Given under my hand and seal of office, this 11th day of November,\nA. D. 1886.\n[Seal] \u201c C. L. Arbuckle.\n\u201cThe Stale of Texas, Guadalupe County. \u2014 Before me, C. L. Arbuckle, county clerk of Guadalupe County, on this day personally appeared W. S. Roby, known to me to be the person whose name is subscribed to the foregoing instrument, and acknowledged to me that he executed the same for the purposes and consideration therein expressed.\n\u201c Given under my hand and seal of office, this 12th day of November,\nA. D. 1886.\n[Seal] \u201c C. L. Arbuckle,\n\u201c County Clerk Guadalupe County.\n\u201c Filed for record at 4 o\u2019clock p. m. on November 11,1886. Recorded\nNovember 27, 1886. <\u00abC. L. Arbuckle,\n\u201c County Clerk Guadalupe County.\u201d\nTo this instrument was attached a list of creditors of Roby & Nichols, with the amounts due each.\nNovember 11, 1886, M. R. Nichols, one of the two partners composing the firm of Roby & Nichols, executed this assignment by signing the firm name thereto and acknowledging it, as shown by the officer\u2019s certificate.\nAppellee accepted the trust and qualified as assignee on the same day, November 11,1886. On the following morning, November 12, 1886, the firm of Meyer & Bulte, defendants in the court below and appellants in this court, sued out an attachment against Roby & Nichols and had the same levied on the stock of merchandise, which appellee had taken possession of under the above deed of assignment. Appellee recovered judgment in the District Court for the value of these goods, and from that judgment this appeal is prosecuted.\nAfter the levy of the attachment, and on the same day, W. S. Roby signed and acknowledged the assignment.\nPrevious to the execution of the assignment by Nichols, Roby verbally gave his consent for Nichols to make the assignment.\nIt was not shown whether or not the firm owned any real estate, nor what, if any, individual property not exempt from forced sale was owned by either member thereof.\nAppellants contend:\n1. That the deed of assignment does not upon its face purport to convey all the property other than exempt property belonging to each individual composing the firm of Roby & Nichols, as well as the property of said firm, and that for that reason the court erred in construing it to be a valid assignment.\n2. That one partner can not make a valid assignment by virtue of the Act of 1879 for the benefit of accepting creditors for a firm without the written authority of all the members not signing the deed of assignment.\nUpon the authority of Coffin v.' Douglass, 61 Texas, 406, and cases there . cited, we think the deed of assignment, if executed in a manner to bind both partners, conveyed all the property belonging to either, as well as. the partnership property, not exempt from forced sale.\nIt may be conceded that the terms of the instrument in this regard are ambiguous and susceptible of two constructions; but such being the case, the rule is well settled that the construction which will sustain its validity and render it operative should be adopted. Burr, on Ass.. 480.\nAs to appellants\u2019 other proposition, it is true that in so far as Nichols was acting for Roby in executing the assignment he was Roby\u2019s agent; and it is also true that an agent can not convey his principal\u2019s real estate unless he has written authority so to do (.Revised Statutes, article 548); but it does not follow from this that every assignment executed by an agent without written authority is void.\nAn assignment under the statute for the benefit of accepting creditors must convey all the property not exempt from forced sale, whether individual or partnership, belonging to the person or persons making such assignment; but when the assignor owns no real estate subject to forced sale, we see no reason why an assignment made by an agent acting under verbal authority only should not be held valid.\nDelivered October 26, 1892.\nIn Kittrell v. Blum, 77 Texas, 336, it is stated in the opinion that such an assignment would be valid, though such statement was not necessary to a decision of that case.\nApplying this rule to the assignment before us, our opinion is that the court below erred, in the absence of testimony showing that Roby owned no real estate subject to forced sale at the time the same was executed by Nichols, in holding it to be a valid assignment. It purports to convey real as well as personal property, and this we think is sufficient to place upon those claiming under it the burden of showing the facts which will render it certain that it did pass title to all the property owned by each member of the firm not exempt from forced sale, as well as that belonging to the partnership.\nIf upon another trial it is made to appear that Roby owned no real estate subject to forced sale at the time the assignment was executed by Nichols, then it should be sustained and held valid; otherwise it should be held void.\nThe judgment is reversed and the cause remanded.\nReversed and remanded.",
+        "type": "majority",
+        "author": "KEY, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Burges & Dibrel, for appellants.",
+      "W. M. Rust, W. R. Neal and James Greenwood, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Hugh McGuffin et al. v. P. S. Sowell.\nNo. 27.\n1. Assignment \u2014 Construction of Deed. \u2014 A deed of assignment by a firm owning no real estate, executed by one of its members, conveying to a trustee for the benefit of the firm creditors \u201c all their (the partners) real and personal estate other than that which is by law exempted from execution,\u201d conveys all the property belonging to either member of the firm, as well as the partnership property not exempt from forced sale.\n2. Assignment Executed by one Member of Firm. \u2014 An assignment executed by one member of a firm, purporting to convey the firm property, and made under parol authority from the other member or members of the firm, is valid if the assets were personal property, but not if real estate was owned subject to execution.\n3. Assignment Construed. \u2014 An assignment executed by one member of a firm having parol authority from the other member, and purporting to convey both real and personal property, maybe sustained by proving that no real estate was owned by the firm or by the other member of the firm. In absence of such proof the assignment would be held invalid.\nAppeal from Guadalupe. Tried below before Hon. Geo. McCormick.\nBurges & Dibrel, for appellants.\n1. Where one partner makes the assignment for the firm, the partner making such assignment must have the written authority of his copartner. Say les\u2019 Civ. Stats., art. 65a; Rev. Stats., art. 548.\n2. A valid assignment for the benefit of creditors under the Act of 1879 must convey all the property of the debtor, both real and personal, except that which may be exempt by law from forced sale; and if the assignment be by copartners, it must convey the firm property as well as the individual property of each member of said firm. If an assignment fails in this respect, it is void and passes no title against objecting creditors. Donoho v. Fish Bros. & Co., 58 Texas, 164; Still v. Focke & Wilkens, 66 Texas, 715; Baylor County v. Craig, 69 Texas, 330; Story on Part., secs. 94-101; Coffin v. Douglass, 61 Texas, 406.\nW. M. Rust, W. R. Neal and James Greenwood, for appellee.\n1. An assignment for the benefit of creditors may be made in the name of the firm by a single partner, by the authority or with the consent of his co-partners, with the same effect as if made by all; and where neither the firm nor the individuals composing it own any real estate which should pass by the assignment, it is wholly unnecessary that the partner executing the assignment should have written authority for so doing. Graves v. Hall, 32 Texas, 665; McKee v. Coffin, 66 Texas, 307; Osborne v. Barge, 29 Fed. Rep., 725; Ely v. Hair, 16 B. Mon., 230; Weiles v. March, 30 N. Y., 344; Baldwin v. Tyne, 19 Abb. Pr., 32; 1 Am. and Eng. Encyc. of Law, 847, and authorities cited; Burr, on Ass., sec. 67, and authorities cited.\n2. The language used in the deed of assignment is, \u201cAll their real and personal estate other than that which is by law exempted from execution;\u201d and the words are broad enough to include the separate property of each of the partners, as well as the common property of both of them. Rev. Stats., art. 65; Coffin v. Douglass, 61 Texas, 410; Windham v. Patty & Matthews, 62 Texas, 490."
+  },
+  "file_name": "0187-01",
+  "first_page_order": 211,
+  "last_page_order": 215
+}

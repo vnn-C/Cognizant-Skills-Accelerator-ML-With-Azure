@@ -1,0 +1,73 @@
+{
+  "id": 221049,
+  "name": "G. T. Walton v. M. L. Cope",
+  "name_abbreviation": "Walton v. Cope",
+  "decision_date": "1893-06-02",
+  "docket_number": "No. 171",
+  "first_page": "499",
+  "last_page": "501",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 499"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "14 Pet., 326",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 395,
+    "char_count": 7118,
+    "ocr_confidence": 0.557,
+    "pagerank": {
+      "raw": 5.5010065683055904e-08,
+      "percentile": 0.3441428438491974
+    },
+    "sha256": "52314a773ac8cce1afa31ed1f5be9c42d8a98916f622758a64fa09ff3f951b2b",
+    "simhash": "1:c82740ed21c6829f",
+    "word_count": 1254
+  },
+  "last_updated": "2024-02-27T16:31:46.217873+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "G. T. Walton v. M. L. Cope."
+    ],
+    "opinions": [
+      {
+        "text": "TARLTON, Chief Justice.\nThis suit, in which the appellee Cope was plaintiff below, and the appellant Walton was defendant, involves the title to certain real estate lying in Wise and Denton counties, and formerly owned by R. J. Paden, from whom, as a common source, both parties claim. The appellee\u2019s title depends upon a sheriff\u2019s sale had by virtue of a decree against Paden foreclosing an attachment lien on the property; the appellant\u2019s title is founded upon deeds emanating directly from Paden. The character of these claims respectively is more fully indicated by the conclusions of fact found by the trial court, and adopted. by us, as follows:\nMay 9, 1888, Russel & Co. brought suit in the County Court of Dallas County against M. L. Cope and R. J. Paden upon two promissory notes, maturing respectively on December 1,.1887, and December 1, 1888. In instituting the suit, plaintiffs procured a writ of attachment in all respects valid, which, on May 13, 1888, was regularly levied upon the land in controversy as the property of R. J. Paden.\nJune 24, 1889, Russel & Co. recovered judgment by default against Cope and Paden, defendants, for the amount of the notes sued upon. The judgment recited the issuance and levy of the writ of attachment, and foreclosed the attachment lien on the land as it existed on May 13, 1888. On August 3, 1889, an order of sale and writ of fieri facias was regularly issued upon the judgment, and on September 4, 1889, the sheriff of Wise County, to whom the writ was directed, sold the land thereunder. J. W. McClaymond purchased the land, taking deed therefor from the sheriff. On November 24, 1889, McClaymond conveyed to the plaintiff and appellee in this cause.\nJune 11, 1888, R. J. Paden conveyed the land by deed of gift to his wife, E. A. Paden, and on August 16, 1888, R. J. Paden and his wife conveyed it to S. L. Gano, who, in September, 1888, conveyed to the defendant and appellant herein.\nThe defendant paid to S. L. Gano a valuable consideration for the land, without actual knowledge that Russel & Co. had instituted the suit against Cope and Paden, or that the writ of attachment had been issued or levied.\nAt the date of the levy of the attachment, and of the execution of the deeds above referred to, R. J. Paden was a resident of the State of California, and had been since the latter part of 1887. During that period, M. L. Cope and G-. T. Walton, the parties herein, lived in Denton County,. Texas.\nIn the suit brought by Russel & Co. personal service was had upon M, L. Cope, but R. J. Paden was cited only by publication to answer therein. The citation to Paden was issued February 11, 1889; it was published as the law requires, and service thereof was complete before the rendition of the judgment in favor of Russel & Co.\nUpon the foregoing facts the trial court concluded, that \u201c the levy of the writ of attachment created a lien upon the land from the date of the levy, and that the title of the defendant, acquired by purchase subsequent to the levy, is subordinate to the lien.\u201d In this conclusion we concur.\nArticle 179 of the Revised Statutes provides, in effect, that a valid attachment levy upon land shall create a lien from the date of the levy. When the levy in question was effected, the statute of 1889 (article 167a, Say les\u2019 Statutes), prescribing a method of registration by which notice of an attachment levy should be given to third parties, had not been enacted. According to the law then in force, the bare fact of a valid levy of an attachment writ upon land begot a lien, of the existence of which all parties were required, pending attachment, to take notice. Tuttle v. Turner, 28 Texas, 759; Hancock v. Henderson, 45 Texas, 479.\nAppellant, controverting this conclusion, relies upon the case of Smith v. Cassidy, 73 Texas, 165, in which the doctrine is announced, that \u201c lis pendens\u201d begins, not with the filing of the petition, but only from the date of the service of the citation upon the defendant, and that consequently, as the appellant in this case or his vendor purchased for value, and before the original defendant Paden had been served with citation, he should be protected as a purchaser without notice. In the case thus relied upon, no attachment was issued or levied. The latter feature, we think, clearly differentiates it from the case under consideration.\nThe fact that Paden was the resident of another State reconciles the delay of a few months in securing service upon him with the exercise of reasonable diligence by Russel & Co., plaintiffs in the attachment suit.\nThe judgment is in all things affirmed.\nDelivered June 2, 1893.\nAffirmed.",
+        "type": "majority",
+        "author": "TARLTON, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "Smith & Bell and H. C. Ferguson, for appellant.",
+      "Jagoe & Ponder, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "SECOND DISTRICT,\nJUNE, 1893.\nG. T. Walton v. M. L. Cope.\nNo. 171.\n1. Attachment Lien not Lost by Delay in Service of Citation,,. when.\u2014Under the law in force May 13,1888, the hare fact of a valid levy of an attachment upon land created a lien, of the existence of which all parties were required, pending attachment, to take notice; and such lien was not lost by reason of the delay of a few months in securing service of citation by publication on the defendant in attachment.\n2. Lis Pendens\u2014Case Distinguished.\u2014The case of Smith v. Cassidy, 73 Texas, 165, announcing the doctrine that lis pendens begins, not with the \u2022 filing of the petition, but only from the date of the service of the citation, is distinguished from the present case by the fact that no attachment was issued or / levied in that case.\nAppeal from Denton. Tried below before Hon. D. E. Barrett-\nSmith & Bell and H. C. Ferguson, for appellant.\nThe court erred in his findings on the law of the cause, that the levy of the writ of attachment-on the land in controversy created a lien upon the same from the date of said levy, and that the defendant having purchased since the date of said levy, his title was subordinate to said attachment lien, and that the lien-acquired by the levy of said writ of attachment was not lost by reason of the delay in perfecting the service of citation on R. J. Paden. Smith v. Cassidy, 73 Texas, 165; Gaines v. Styles, 14 Pet., 326; Freem. on. Judg., sec. 195; Wade on Notice, sec. 348.\nJagoe & Ponder, for appellee.\nA writ of attachment, legally sued out- and levied upon land according to law, creates a lien thereon, to which the rights of subsequent purchasers of the land so levied upon, with op without actual notice of the levy, are subordinate; and one claiming through a deed made by a sheriff under proper proceedings to enforce such lien acquires a title to the land superior to that of subsequent purchasers. The filing of a petition, the institution of proceedings for attachment, and the issuance and levy of a writ of attachment pursuant thereto, constitute lis pendens as to the property levied upon, and a person purchasing during the pendency thereof is a purchaser pendente lite, although no citation had been served upon the defendant. Rev. Stats., arts. 154, 179, 1181; Board v. Railway, 46 Texas, 316, 327; 13 Am. and Eng. Encycl. of Law, 887, and notes 1, 2, 904, note 4; 28 Texas, 959; 67 Texas, 96; Am. and Eng. Encycl. of Law, 870, 871."
+  },
+  "file_name": "0499-01",
+  "first_page_order": 525,
+  "last_page_order": 527
+}

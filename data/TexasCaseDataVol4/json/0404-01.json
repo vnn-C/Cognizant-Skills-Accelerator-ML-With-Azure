@@ -1,0 +1,108 @@
+{
+  "id": 223704,
+  "name": "Flint & Flint v. Van Hall et al.",
+  "name_abbreviation": "Flint & Flint v. Hall",
+  "decision_date": "1893-10-18",
+  "docket_number": "No. 321",
+  "first_page": "404",
+  "last_page": "406",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Tex. Civ. App. 404"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Scam., 499",
+      "category": "reporters:state",
+      "reporter": "Scam.",
+      "case_ids": [
+        2485544
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/2/0499-01"
+      ]
+    },
+    {
+      "cite": "3 Humph., 566",
+      "category": "reporters:state",
+      "reporter": "Hum.",
+      "case_ids": [
+        8543866
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/tenn/22/0566-01"
+      ]
+    },
+    {
+      "cite": "28 Ind., 26",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1507646
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/28/0026-01"
+      ]
+    },
+    {
+      "cite": "9 Ala., 684",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 367,
+    "char_count": 6359,
+    "ocr_confidence": 0.566,
+    "pagerank": {
+      "raw": 8.279831300250183e-08,
+      "percentile": 0.4789078436619278
+    },
+    "sha256": "4c29de234a73b813087a56e52b914c5e330085df6e3a1fad40c9c51fd1047723",
+    "simhash": "1:546ba73bf1a64155",
+    "word_count": 1151
+  },
+  "last_updated": "2024-02-27T18:01:03.208661+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Flint & Flint v. Van Hall et al."
+    ],
+    "opinions": [
+      {
+        "text": "KEY, Associate Justice.\nThere is error in that portion of the charge of the court below wherein the jury were told, that if McNally procured the money in question from Mrs. Cummings by any fraudulent representations by which he deceived and overreached her, the title to the money did not vest in him. The issues raised by the pleadings did not call for such a charge, and it was misleading.\nWhen analyzed, Mrs. Cummings\u2019 plea of intervention does not charge that McNally induced her to lend him the money through any fraud or misrepresentations. In fact, it does not aver that she loaned him the money. It alleges that she entrusted him with it as her agent, to be by him invested in a business enterprise for her. It also charges that she was induced to so entrust her money to him by his false and fraudulent representations that he would invest it according to her wishes. But this latter averment was wholly unnecessary, and should have been treated as surplusage.\nIf Mrs. Cummings placed the money in his hands as her agent, to be used for her benefit, it remained her money; and this is so regardless of her reasons for so entrusting it to him. On the other hand, if she loaned him the money, and he did not obtain it with intent not to repay it, and did not misrepresent existing facts relating to his ability to repay it, then it was McNally\u2019s money, and his order on Hall in favor of appellants for it vested title in them, and entitled them to it. This is all there is in the case. No issue of fraud should have been submitted to the jury, because, in legal contemplation, none was raised by the pleadings.\nDelivered October 18, 1893.\nUnder the charge given, the jury may have concluded, that if Mrs. Cummings loaned McNally the money, but was induced to do so by his false representations as to the purposes for which he intended to use it, title thereto did not pass to him.\nBut such is not the law. If in fact the transaction was a loan, and McNally misrepresented no fact concerning his ability to repay it, then it became his money, although he may have deceived Mrs. Cummings as to the manner in which he intended to use it for his own benefit. And under such circumstances, unless he borrowed the money with the design never to repay it, there was no fraud against which the law affords relief.\nThe judgment of the court below is reversed and the cause remanded.\nReversed and remanded.",
+        "type": "majority",
+        "author": "KEY, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "D. II. Hardy, for appellants."
+    ],
+    "corrections": "",
+    "head_matter": "Flint & Flint v. Van Hall et al.\nNo. 321.\n1. Charge Upon Issue not in Pleadings.\u2014Where a charge submits an issue not made by the pleadings, and thus is misleading, and there is testimony showing that the jury were misled thereby, the judgment should be reversed.\n2. Bailment\u2014Loan.\u2014Intervener claimed money, the fund in contention, as having been placed in the hands of an agent to invest for her. The plaintiffs claimed the money under an order from McNally, the alleged agent, insisting that intervener had loaned the money to McNally. Held:\n1. If she placed the money in McNally\u2019s hands for investment, it was her money.\n2. If she loaned McNally the money, and he did not obtain it with intent not to repay it, and did not misrepresent the facts relating to his ability to repay it. then it was his money, and his order for it vested title.\n3. These being the issues, it was error to charge upon fraud by McNally in obtaining the money from her, as to the manner of investment.\nAppeal from the County Court of McLennan.\nTried, below before Hon. W. H. Jenkins.\nFlint & Flint sued Van Hall, defendant below, on a conditional acceptance for 8314.75, by petition filed May 20, 1890.\nThe petition alleges, that the money was by force and fraud taken from one H. A. McNally, and put in the hands of Van Hall; that on May 10, 1890, McNally executed and delivered to plaintiffs an order on Van Hall for the money. Hall accepted the order May 10, 1890, on condition the money proved to be McNally\u2019s money. That plaintiffs made demand, but Hall refused to deliver up the money. Hall filed general denial.\nOn July 7, 1890, Mrs. Frankie Cummings, joined by her husband, W. K. Cummings, filed plea of intervention, setting up that the $314.75 sued for was the separate money of said Mrs. Cummings; that on May 5, 1890, her said husband gave her $500 to be her separate property; that on same day said H. A. McNally got the money from her by falsely and fraudulently representing to her that he would use it to fit up and run for Mrs. Cummings a saloon and restaurant, and that said McNally received the $500 from her, fraudulently appropriated the same to his own use, ran away; she made affidavit against him, placed warrant in'the hands of Van Hall, who had him arrested, and found $314.75 of the money on his person; that plaintiffs knew these facts when the transfer was made.\nPlaintiffs replied to intervenors\u2019 plea, that McNally did not obtain the money through any fraud, but she openly loaned him the money for him to open a business for himself on; that the accusation she made against him was false and malicious, by reason of which he was confined in jail on her charge of felony, and he transferred the money to plaintiffs as a fee to defend him on the criminal charge.\nThe evidence developed that Mrs. Cummings and her husband, W. It. Cummings, had separated and agreed to divide their property before May 5, 1890, and the 8500 given her by her husband was in pursuance of the agreement.\nTrial before jury, January 19 and 20, 1891, resulting in verdict and judgment for intervenors. Motion for new trial, on the ground that the verdict was against the preponderance of the testimony, and for errors of the charge. The motion was overruled, and plaintiffs bring this cause here on appeal.\nD. II. Hardy, for appellants.\nThe charge did not instruct the jury as to the law of fraud applied to the case, but on the contrary, misled them. If a party obtains a loan of money from another by making misrepresentations as to what he wants with the money, the lender taking no interest in the alleged investment, the deceit or fraud does not vitiate the title to the money. Bigham v. Bigham, 57 Texas, 240; Jackson v. Stockbridge, 29 Texas, 395; Wintz v. Morrison, 17 Texas, 372; Jazon v. Taulmin, 9 Ala., 684; 2 Willson\u2019s C. C., 394; Ferret v. Hill, 15 B. C., 207; Hitcher v. Irwin, 28 Ind., 26; Farrar v. Bridges, 3 Humph., 566; Miller v. Howell, 1 Scam., 499."
+  },
+  "file_name": "0404-01",
+  "first_page_order": 428,
+  "last_page_order": 430
+}

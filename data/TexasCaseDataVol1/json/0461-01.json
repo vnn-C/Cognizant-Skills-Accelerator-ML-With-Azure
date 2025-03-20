@@ -1,0 +1,178 @@
+{
+  "id": 216229,
+  "name": "H. C. Cross and George A. Eddy v. McFaden & Logan",
+  "name_abbreviation": "Cross v. McFaden & Logan",
+  "decision_date": "1892-11-09",
+  "docket_number": "No. 656",
+  "first_page": "461",
+  "last_page": "465",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Tex. Civ. App. 461"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "9 Wall., 161",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.,",
+      "case_ids": [
+        3441557
+      ],
+      "pin_cites": [
+        {
+          "page": "175"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/76/0161-01"
+      ]
+    },
+    {
+      "cite": "31 Am. Dec., 140",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "47 N. Y., 33",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Allen, 116",
+      "category": "reporters:state",
+      "reporter": "Allen",
+      "opinion_index": -1
+    },
+    {
+      "cite": "45 Ill., 52",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "pin_cites": [
+        {
+          "page": "53"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "74 Mo., 370",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "pin_cites": [
+        {
+          "page": "371"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "64 Miss., 604",
+      "category": "reporters:state",
+      "reporter": "Miss.",
+      "case_ids": [
+        8837314
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/miss/64/0604-01"
+      ]
+    },
+    {
+      "cite": "46 Miss., 458",
+      "category": "reporters:state",
+      "reporter": "Miss.",
+      "case_ids": [
+        9514960
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/miss/46/0458-01"
+      ]
+    },
+    {
+      "cite": "65 Ind., 189",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "20 Wis., 594",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "case_ids": [
+        8710015
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wis/20/0594-01"
+      ]
+    },
+    {
+      "cite": "18 Ill., 488",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        438554
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/18/0488-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 514,
+    "char_count": 11014,
+    "ocr_confidence": 0.593,
+    "pagerank": {
+      "raw": 5.298132930532853e-08,
+      "percentile": 0.33164346647236964
+    },
+    "sha256": "4244129cb7c4a26f798455bd831b39c9bd952d512d14f0d1dd0379b6a3989a36",
+    "simhash": "1:903f4372721409a0",
+    "word_count": 1946
+  },
+  "last_updated": "2024-02-27T16:44:05.763049+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "H. C. Cross and George A. Eddy v. McFaden & Logan."
+    ],
+    "opinions": [
+      {
+        "text": "FISHER, Chief Justice.\nThe following agreement, entered into by the parties to this appeal, presents the questions involved in this cause:\n\u201c 1. On May 26, 1890, J. N. McFaden and G-. W. Logan, who composed the copartnership of McFaden & Logan, applied to the local station agent of H. C. Cross and George A. Eddy, receivers of the Missouri, Kansas & Texas Railway, at Taylor Station, in Williamson County, Texas, for cars to be in readiness at that place on May 30, 1890, in which to ship on that date 85 head of beef cattle to the Chicago market. The said station agent received the application, and promis* if cars could be gotten, to have them in readiness at said station on said date for the shipment of said cattle.\n\u201c 2. Between 10 a. m. and 12 m. of said May 30, McFaden & Logan tendered to the said receivers\u2019 agent at said Taylor Station the said 85 head of cattle to be received and transported by them to Chicago, and at that time the said cars, which had been ordered on said May 26, were in the yards at said station and in readiness to be used for such purpose. The agent refused to receive said cattle for shipment, when tendered as aforesaid, until other cattle in the pens and yard awaiting shipment could be loaded out.\n\u201c 3. Late in the evening the cattle were penned, and thereafter kept in the \u00a1lens for about twenty-four hours before being shipped out, whereby, and by reason of injuries received en route, and a decline in the market, the cattle were damaged in the amount of the judgment \u2014 $343.\n\u201c 4, The reason the said cattle were not received by said agent on said May 30th, and shipped out on that date, was an unusual and unprecedented rush of transit and local cattle at said Taylor Station on said day, which transit cattle had been received from connecting lines and local cattle from shippers at a date subsequent to May 26, the day when the cars were ordered as aforesaid. The said receivers had, on the occasion of the unprecedented rush, ample facilities for handling the ordinary cattle traffic at said station, and plaintiffs\u2019 cattle could have been shipped out when tendered had they been given precedence over the other cattle.\n\u201cIt is agreed between the parties hereto, acting through their respective counsel, that the only question for decision is:\n\u201cIs a common carrier, who agrees to furnish at a certain time and place, if they can be gotten, cars for the transportation of live stock, and who has on hand at the time and place specified the cars applied for, relieved from liability for damage from delay in the shipment of the live stock after tender of same by the party making application, because of an unusual and unprecedented accumulation of live stock at said time and place, received in transitu from connecting carriers and local shippers; all of said live stock being received after the day upon which the application for cars was made, and some after the live stock of the party so applying had been tendered for shipment ? In other words, has the common carrier the legal right to give precedence of shipment to the live stock received as aforesaid from connecting carriers and local shippers over the stock tendered by the shipper who has applied for cars to take his stock out on a day certain, without being liable to such shipper for resulting damage ?\u201d\nThese facts show a contract between the parties, wherein the carrier agreed to furnish cars, if they could be procured, at a certain time and place, to be used by the shipper in transporting his cattle to the Chicago market. The shipper ajfeed to deliver the cattle for shipment at the time and place agreed oh.\nThe facts show that the cattle were delivered and presented for shipment at the time and place agreed on, and that cars were on hand that could have been used for the purpose of shipping said cattle; but the agent of appellants refused to receive and ship the'cattle at the time agreed on, because the cars were being used for the purpose of shipping other live stock.\nDelivered November 9, 1892.\nWe know of no law that prohibits the making of contracts such as this; and when entered into they are to be governed by the ordinary and general rules of construction that relate to contracts and the breaches thereof.\nIn the absence of this contract the defense and excuse presented by appellants for failing to promptly ship the cattle would ordinarily excuse the carrier from liability. But such is not the case here, as the rights of the parties rest upon the contract. And for a breach of the contract by the carrier, it is as much liable as for other violated engagements that it is permitted to enter into.\nThe cars being on hand, the carrier should have performed its engagement; and for its refusal to so do, it is liable for the damages resulting from such breach of the contract. Railway v. Nicholson, 61 Texas, 495; Railway v. McCorquodale, 71 Texas, 46.\nThe judgment of the court below is affirmed.\nAffirmed.",
+        "type": "majority",
+        "author": "FISHER, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "Fisher & Townes, for appellants.",
+      "J. W. Parker, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "H. C. Cross and George A. Eddy v. McFaden & Logan.\nNo. 656.\n1. Contract by Railway Company to Furnish Cattle Cars. \u2014 We know of no law prohibiting a railway company from contracting with cattle owners to furnish cars at an agreed time and place on the line of the road to be used by the owners of the cattle in theirtshipment. The refusal to permit shippers to use cars so furnished, and resulting in damage, gives cause of action.\n2. Same \u2014 Excuse.\u2014In absence of.such contract to furnish cars, the defense would be allowed that the delay was caused by an unusual and unprecedented accumulation of live stock for shipment at the time and place.\n3. Case in Judgment. \u2014 Contract by railway company to furnish stock cars at a given time and place. The cars wero at the place, and on the day specified the shippers tendered the cattle for shipment on the cars. The use of the cars was refused, on alleged ground that other cattle had priority in time. Held, the refusal was a breach of the contract, and for delay resulting, action would lie.\nAppeal from the County Court of Williamson. Tried below before Hon. D. S. Chesher.\nFisher & Townes, for appellants.\n1. Under the agreed facts appellants\u2019 delay in receiving and delivering appellees\u2019 cattle was excused, and they were relieved from all liability for damages resulting therefrom. Rev. Stats., art. 4251; Railway v. Smith, 63 Texas, 323, 326, 327; Railway v. Levi, 76 Texas, 337; Railway v. Tisdale, 74 Texas, 8, 17; Hutch, on Carr., secs. 292, 296, 329, 330; 2 Beach on Rys., sec. 935; Railway v. Rea, 18 Ill., 488; Peet v. Railway, 20 Wis., 594; Railway v. Hallowell, 65 Ind., 189; Railway v. Ragsdale, 46 Miss., 458; Railway v. Haynes, 64 Miss., 604.\n2. The law distinguishes between causes sufficient to relieve a common carrier against loss or total failure to deliver, and those that will excuse the carrier from delay in delivery. In the one case, the loss can not be relieved against unless it result from the act of God or the public enemy; and in the other, the cause, although not inevitable or produced by the act of God, may be sufficient to excuse the delay. The reason for the distinction is, the law binds the carrier to deliver absolutely, unless prevented by the act of God or the public enemy, but only requires delivery to be made within a reasonable time; the question what is a reasonable time to be tested by the facts and surroundings of each particular case.\n3. That the cattle in the yards and pens at Taylor, when appellees\u2019 cattle were tendered for shipment, were received for shipment after the day on which appellees applied for cars to be at the station on the 30th of May, did not under the facts give appellees the right to priority or precedence of shipment over the other cattle. Rev. Stats., art. 4251; 63 Texas, 323, 326, 327; Hutch, on Carr., secs. 297, 298, 327.\n*4. A common carrier of live stock or other freight must receive and transport same in the order in which it is received, even if cars, applied for by a shipper to be in readiness on a day certain to carry his cattle, are on hand, if other cattle are received for carriage before such shipper\u2019s cattle are tendered. Rev. Stats., art. 4251; Railway v. Smith, 63 Texas, 323, 326, 327; Hutch, on Carr., secs. 297, 298, 327.\n5. The mere fact that cars applied for to be on hand on a day certain are on hand, gives the applicant, who tenders on that day cattle for shipment, no priority of right of shipment over the other shippers whose cattle are received in advance of his.\nJ. W. Parker, for appellees.\n1. It is lawful for a common carrier, in good faith and without any purpose of discriminating against other shippers, to contract in advance for the receipt and transportation of freight on its line on a certain day, and to give such freight precedence; and especially is this true with reference to live stock, which, from its very nature, requires a fixed time to be agreed upon for its tender by the shipper and receipt by the carrier; and appellees\u2019 cattle could have been shipped out when tendered if they had been given precedence. The authorities cited by appellants in support of said propositions all apply to the transportation of freight tendered in regular course, without any prior agreement or understanding between the shipper and carrier. Acts 20th Leg., 133.\n2. The law which requires railway carriers to receive the cars and freight from connecting lines and to transport the same, does not intend that preference shall be given to such cars or freight over freight which the carrier has already legally bound itself to receive and transport on a day certain. To do this would be to subordinate the business of the carrier to that of its connecting lines, which can not be the purpose of the law. Rev. Stats., art. 4251.\n' 3. The promise of appellants\u2019 agent to have cars for the transportation of appellees\u2019 cattle at Taylor Station on May 30, provided the cars could be gotten, was equivalent to promising to receive and transport appellees\u2019 cattle at said station on said date, provided the cars could be gotten; and appellants having gotten the cars, they can not excuse their refusal to receive and transport the said cattle when tendered by appellees, upon the ground of an unforeseen and unexpected contingency, such as an unusual and unprecedented rush of business. In other words, appellants having charged themselves with the duty of receiving and transporting appellees\u2019 cattle, provided they could get the necessary cars, and having gotten them, they were bound to make their promise good or respond in damages, which it is agreed in this case equals the amount of the judgment. Railway v. McCorquodale, 71 Texas, 47, 48; Ford v. Cotesworth, L. R., 4 Q. B., 134; Bish. on Con., sec. 1364; Harrison v. Railway, 74 Mo., 370, 371; Bacon v. Cobb, 45 Ill., 52, 53; Bank v. Burt, 5 Allen, 116; Harmony v. Bingham, 2 Kernan, 107; Ward v. Railway, 47 N. Y., 33; Adams v. Nichols, 31 Am. Dec., 140, and note; Jones v. United States, 6 Otto, 24, 30; The Harriman v. Emerick, 9 Wall., 161, 175."
+  },
+  "file_name": "0461-01",
+  "first_page_order": 485,
+  "last_page_order": 489
+}

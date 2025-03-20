@@ -1,0 +1,121 @@
+{
+  "id": 221212,
+  "name": "D. K. McCarthy et al. v. N. W. Burtis",
+  "name_abbreviation": "McCarthy v. Burtis",
+  "decision_date": "1893-05-17",
+  "docket_number": "No. 148",
+  "first_page": "439",
+  "last_page": "444",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 439"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "14 Wis., 28",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "case_ids": [
+        8708032
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wis/14/0028-01"
+      ]
+    },
+    {
+      "cite": "103 Pa. St., 175",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "34 Cal., 391",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2284576
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal/34/0391-01"
+      ]
+    },
+    {
+      "cite": "80 Ill., 513",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        2682553
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/80/0513-01"
+      ]
+    },
+    {
+      "cite": "69 Ill., 332",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        2634418
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/69/0332-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 647,
+    "char_count": 13400,
+    "ocr_confidence": 0.566,
+    "pagerank": {
+      "raw": 4.719567370958748e-08,
+      "percentile": 0.295495413053039
+    },
+    "sha256": "e71e13bd0adf5c124860763b4ceb46e9c4db049ad4a4fd7eb0d35ae52ab0e701",
+    "simhash": "1:16a379f03fc1ee53",
+    "word_count": 2317
+  },
+  "last_updated": "2024-02-27T16:31:46.217873+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "D. K. McCarthy et al. v. N. W. Burtis."
+    ],
+    "opinions": [
+      {
+        "text": "KEY, Associate Justice.\nThis is an ordinary action of trespass to try title, instituted by appellee, Burtis, against appellant McCarthy. The latter impleaded on his warranty Joseph Harrell, who is now coappellantAppellee recovered the land in the District Court, and McCarthy obtained judgment against Harrell on his warranty.\n1. There was no error in the ruling of the court sustaining appellee\u2019s \u2022exceptions to that part of appellant Harrell\u2019s answer wherein he sought a recovery against appellee for an alleged debt. This claim was in nowise connected with or incidental to the subject matter of this suit; and the mere fact of appellee being a nonresident of the State affords no sufficient reason for departing from the well settled rules which will not allow Harrell to litigate his claim of debt in this case. It is not alleged that appellee is insolvent, or that there is any danger of Harrell losing his debt if his claim is not adjudicated in this suit; and the courts of the State of New York, in which appellee resides, are open to Harrell, and we must presume that they will, if applied to, afford him all the redress he may be entitled to. Besides, by an attachment suit, which is a proceeding in rem, he can sue appellee in the courts of this State and subject whatever interest he may have in the land in controversy to the payment of any just debt, certain in amount, that he may have against him.\n2. It was shown that the land in question was granted and patented by the State to appellee. To defeat his right to it, appellants offered in evidence a certified copy of a judgment rendered by the District Court of Atascosa County in favor of appellant Joseph Harrell against appellee for $1317.40, on the 15tli day of October, 1875; regular execution sale of this land under an execution issued on said judgment; deed from the purchaser at said sale to Harrell, and from the latter to appellant McCarthy. Appellee attacked said judgment, claiming that it was void, because there was no valid service of citation on him; the citation being served, as he contends, only by publication. To sustain this contention, appellee tendered in evidence alleged certified copies of the following papers in said cause, viz.:\nThe plaintiff\u2019s original petition, in which it is alleged that the defendant therein, N. W. Burtis, is a nonresident of the State of Texas, and prays that he be cited by publication; affidavit made by the attorney of record for Harrell, stating that said defendant is a nonresident of the State; citation issued by the clerk of said court, directing the sheriff of Atascosa County to summon said defendant by publication; the sheriff\u2019s return showing service by publication; the affidavit of E. Johnson showing that said citation had been published for four successive weeks in the Western Stock Journal.\nThese papers appear in the order above stated, and immediately after them is the following certificate:\n\u201cState of Texas, County of Atascosa.\u2014I, A. G-. Martin, clerk of the District Court in and for said county and State, do hereby certify, that the foregoing nine pages, including this page, contain a true and correct copy of the petition and affidavit of publisher in case number 217, in the District Court of said county, wherein Joseph Harrell is plaintiff and N. W. Burtis is defendant, as the same appears of file in my office.\n\u201c Given under my hand and seal of said court, at Pleasanton, the 9th day of April, A. D. 1889.\n[Seal] \u201cA. G. Martin,\n\u201c Clerk District Court Atascosa County, Texas.\u201d\nImmediately succeeding this certificate is a copy of the judgment in said cause, and then another certificate, as follows:\n\u201c State of Texas, County of Atascosa.\u2014I, A. G. Martin, clerk of the District Court of Atascosa County, Texas, do hereby certify, the above and foregoing ten written pages contain a true and correct copy of all papers filed and proceedings had in the above cause of Joseph Harrell v. N. W. Burtis, number 217, as shown by the records of my office, except the depositions of plaintiff and accompanying exhibits, and also executions and sheriff\u2019s return.\n\u201c Given under my hand and the seal of said court, in Pleasanton, the 24th day of May, 1890.\n\u201cA. G. Martin,\n\u201c Clerk District Court Atascosa County.\u201d\nAppellants objected to the introduction of these papers in evidence:\n(1) Because the first certificate of the clerk does not include and authenticate the sheriff\u2019s return on the citation.\n(2) Because there is no seal attached to the second certificate.\nThese objections were overruled, and this ruling is assigned as error.\nThe second certificate is not under seal. A district clerk\u2019s certificate must be authenticated by the seal of the District Court. Rev. Stats., art. 1131. The second certificate must therefore be disregarded. It can not be treated as the official act of the clerk.\nThe first certificate does not embrace and authenticate the affidavit showing that the defendant was a nonresident of the State, the citation, and the sheriff\u2019s return thereon.\nThe objection, however, was confined to the sheriff\u2019s return, and did not include the other papers in the same condition. But it was good as far as it went, and should to that extent have been sustained and the return excluded.\nThere was no j ury in the case, and it is contended by appellee, that if the sheriff\u2019s return and the second certificate were improperly admitted, the error was harmless, as the remainder of the transcript in said cause of Harrell v. Burtis establishes the fact that the judgment in that case was rendered solely upon service by publication.\nWe can not yield assent to this proposition. The application for and issuance of citation to be served by publication upon a nonresident of the State, in the absence of the sheriffs return and of information as to what else the record may contain, the judgment being silent as to notice (as in this case), does not constitute that clear and affirmative proof that the judgment was rendered upon notice by publication alone, which ought to be adduced to overcome the presumption that a domestic court of general jurisdiction, acting upon a subject matter within the ordinary scope of its power, has jurisdiction of the person against whom its judgment is rendered. Treadway v. Eastburn, 57 Texas, 211, and cases hereafter cited.\nWe do not concur with appellants in the assertion, that the judgment in the case of Harrell v. Burtis can not be attacked and held void in this case. As before stated, it is silent upon the subject of notice; and such being the case, if it is made to appear from the record that the defendant was a nonresident of the State, and that citation was issued and served by publication, and the record does not show an acceptance or waiver of notice, it should be held, void, though this be a collateral proceeding. Taliaferro v. Butler, 77 Texas, 579; Wilkerson v. Schoonmaker, 77 Texas, 615,and cases cited; Martin v. Burns, Walker & Co., 80 Texas, 676; Hardy v. Beaty, 84 Texas, 562; Treadway v. Eastburn, 57 Texas, 211.\nFor the error pointed out, the judgment is reversed and the cause remanded.\nReversed and remanded.\nDelivered May 17, 1893.",
+        "type": "majority",
+        "author": "KEY, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "J. T. Thompson and West & McGown, for appellants.",
+      "Fisher & Townes and Wingate & Guion, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "D. K. McCarthy et al. v. N. W. Burtis.\nNo. 148.\n1. Practice\u2014Purchaser at Execution Sale.\u2014Sheriff sale under execution. Purchaser sold the land with general warranty. The defendant in execution brought suit for the land. The defendant vouched his warrantor, who in defense set up his judgment against the plaintiff, under which the land had been sold; asking relief in case the sheriff sale should be held invalid. The plaintiff was a nonresident, and appears to have been such at the rendition of the judgment under which the land was sold. Held, that exceptions to this answer were properly sustained.\n2. Certificate of Clerk\u2014Absence of Seal.\u2014A certificate of a district, clerk to a copy of a record of his office must be authenticated by the seal of the court. Without the seal it can not be considered as the official act of the clerk.\n3. Judgment on Citation by Publication.\u2014A judgment not reciting service of citation can not be avoided in a collateral proceeding by producing a. certified copy of an application for and the issuance of citation by publication, in absence of the sheriff\u2019s return, and of information as to what else the record may contain.\n4. Collateral Attack upon Judgment on Citation by Publication.\u2014In a ease where the judgment is silent as to notice, and if it be made to appear from the record that the defendant was a nonresident of the State, and that citation was served by publication, and the record does not show an acceptance or waiver of notice, such judgment will be held void in a collateral proceeding.\nAppeal from Bunnels. Tried below before Hon. J. W. Timmins.\nJ. T. Thompson and West & McGown, for appellants.\n1. This being in effect a suit for the ownership of land between Harrell, the creditor, and Burtis, the debtor, brought by the latter, a nonresident of Texas, in a forum of that State, Harrell, under the liberal system of procedure and pleading in this State, would be permitted in this suit to set up and enforce any equitable or legal claim or right he might have on the premises, in dispute. In other words, in this action he would be entitled to set up his debt, and in case title was vested in Burtis, inasmuch as he is a nonresident of Texas, have the land subjected to the payment of the debt. Milliken v. Callahan County, 69 Texas, 206; Thomson v. Locke, 66 Texas, 389; The State v. Snyder, 66 Texas, 687; Beckham v. Hunter, 37 Texas, 551; Coleman v. Bunce, 37 Texas, 171; Castro v. Gentiley, 11 Texas, 28; Sterrett v. Houston, 14 Texas, 153; Walcott v. Hendrick, 6 Texas, 409; Egery v. Power, 5 Texas, 504; Sayles\u2019 Civ. Stats., art. 650, and notes.\n2. The certificate of the clerk, not authenticated by the seal, can not be considered as the official act of the clerk. And the other certificate which enumerates the documents authenticated will only extend to those so enumerated.\n3. A domestic judgment of a court of general jurisdiction upon a subject matter within the ordinary scope of its power, is entitled to such absolute verity, that in a collateral action, even when the judgment is silent, as to notice, the presumption that the court had jurisdiction of the person also is so conclusive that evidence will not be heard to contradict it. So in this case, the judgment of the District Court of Atascosa County in favor of Harrell against Burtis, can not in this action be contradicted by other parts of the record, and said judgment is conclusive. Williams v. Haynes, 77 Texas, 283; Heck v. Martin, 75 Texas, 469; Davis v. Robinson, 70 Texas, 395; Treadway v. Eastburn, 57 Texas, 209; Tennell v. Breedlove, 54 Texas, 543; Fitch v. Boyer, 51 Texas, 344; Freem. on Judg., sec. 130, et seq.\nFisher & Townes and Wingate & Guion, for appellee.\n1. The plaintiff\u2019s action being one of trespass to try title against McCarthy, the party in possession, appellant Harrell could not, by making himself a party or by being brought in by McCarthy on his warranty, acquire the right to sue the plaintiff on demand for money in no way connected with the plaintiff\u2019s suit for the land. To sustain his cross-bill under equity practice, he must show that the matters therein set out grew out of the matter involved in the original bill, or were directly connected therewith; to sustain it under the statute, he must show that the counter-claim was founded on a cause of action arising out of, incident to, or connected with the demand upon which the plaintiff sues. Rev. Stats., arts. 645, 650; Story on Eq. Pl., sec. 289; Dan. Ch.Prac., 1742; Sayles\u2019 Pl., sec. 138.\n2. The \u201c record\u201d which is to be looked to in determining the validity of the judgment is not confined to the final judgment solely, but extends to and includes all the papers on file in the case, and which at common law would be entered upon the judgment roll, among which are the pleadings and process. Black on Judg., sec. 124; Freem. on Judg., sec. 78; Vail v. Iglehart, 69 Ill., 332; Stevison v. Earnest, 80 Ill., 513.\n3. The record thus constituted is of such absolute verity that its recitals can not be contradicted by evidence aliunde; all presumptions consistent therewith are indulged in its favor, and none can ever be allowed which contradict it, either for the purpose of supporting or avoiding it. In the record under consideration in this case it is affirmatively shown that the defendant in the cause was a nonresident of the State, and that citation by publication was prayed for and obtained against him; the judgment is silent as to service of any kind, and affirmatively declares that he made no appearance. It would be presuming against the record to hold that process of a different kind was sued out and served, or that the defendant appeared and answered. Fitch v. Boyer, 51 Texas, 344; Tennell v. Breedlove, 54 Texas, 543; Treadway v. Eastburn, 57 Texas, 209; Davis v. Robinson, 70 Texas, 395; Heck & Baker v. Martin, 75 Texas, 469; Williams v. Haynes, 77 Texas, 283; Murchison v. White, 54 Texas, 82; Stegall v. Huff, 54 Texas, 193; Stewart v. Anderson, 70 Texas, 588; Masterson v. Little, 75 Texas, 699; York v. The State, 73 Texas, 651; Freem. on Judg., sec. 125; Black on Judg., secs. 273-278; Hahn v. Kelley, 34 Cal., 391; Herring v. Chambers, 103 Pa. St., 175; Ely v. Tallman, 14 Wis., 28."
+  },
+  "file_name": "0439-01",
+  "first_page_order": 465,
+  "last_page_order": 470
+}

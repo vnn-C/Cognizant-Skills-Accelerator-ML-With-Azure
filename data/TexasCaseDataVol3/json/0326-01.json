@@ -1,0 +1,66 @@
+{
+  "id": 221206,
+  "name": "Joseph Strickland et al. v. S. P. Hardwicke et al.",
+  "name_abbreviation": "Strickland v. Hardwicke",
+  "decision_date": "1893-05-03",
+  "docket_number": "No. 159",
+  "first_page": "326",
+  "last_page": "327",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 326"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 263,
+    "char_count": 3778,
+    "ocr_confidence": 0.545,
+    "pagerank": {
+      "raw": 4.076306636737454e-08,
+      "percentile": 0.008897898572670699
+    },
+    "sha256": "85f16b56da0a2ffe84ea50e8e16fd62b7597b2c0b129328a558acb13b2105d3d",
+    "simhash": "1:0d7cfcc08f867a47",
+    "word_count": 650
+  },
+  "last_updated": "2023-07-14T18:08:23.206239+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joseph Strickland et al. v. S. P. Hardwicke et al."
+    ],
+    "opinions": [
+      {
+        "text": "TARLTON, Chief Justice.\nThis suit was brought by Joseph Strickland against S. P. Hardwicke and others claiming under the latter, to cancel a sheriff\u2019s deed executed to Hardwicke, conveying certain real estate, and in pursuance of a purchase by him at execution sale.\nThe relief prayed for was on the alleged ground, that the sale was fraudulent, in that the purchaser was an attorney buying at an execution sale had in the interest of his clients, and that the price paid by him was grossly inadequate to the value of the land.\nThe defendants, among other matters, pleaded an outstanding title in one Elizabeth Strickland. In support of this plea they relied upon a deed, made before the institution of the suit, by Joseph Strickland and his wife to Elizabeth Strickland, for the recited consideration of $1500 paid. To this plea Joseph Strickland replied, that the deed to Elizabeth Strickland was executed without consideration; that she held as a mere naked trustee, and that the entire beneficial interest was in him. He prayed that she be made a party plaintiff in the suit. Accordingly, by leave of the court, Elizabeth appeared as a coplaintiff. She filed a plea in which she adopted the prayer of Joseph Strickland, admitting all his allegations with reference to the character in which she held.\nThe court ignored the question as to the character of title acquired by the defendant Hardwicke at sheriff\u2019s sale, and held that the plea of outstanding title must prevail. From the judgment accordingly entered, Joseph Strickland and Elizabeth Strickland appeal.\nWe think that the court erred in its conclusion.\nHad Elizabeth Strickland, before the trial of the suit, executed a deed of relinquishment or reconveyance to Joseph, such deed could unquestionably have been used to meet the plea of outstanding title. Ballard v. Perry, 28 Texas, 347. We do not think that the solemn repudiation by Elizabeth, made in open court by her unquestioned authority, in effect disclaiming all title or interest in the land, should be less binding or effective than would be such a relinquishment.\nThe judgment is therefore reversed and the cause is remanded.\nReversed and remanded.\nDelivered May 3, 1893.",
+        "type": "majority",
+        "author": "TARLTON, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "H. A. Porter and D. G. Hill, for appellants.",
+      "G. A. Kirkland and S. P. Hardwicke, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Joseph Strickland et al. v. S. P. Hardwicke et al.\nNo. 159.\nDisclaimer of Title by Admission of Record\u2014Putstanding Title. To a plea of outstanding title in one E., plaintiff replied that E. held the title as a mere naked trustee, and that the entire beneficial interest was in himself; and E. being thereafter joined as a coplaintiff, filed a plea adopting plaintiff\u2019s prayer, and admitting all his allegations with reference to the character in which she held title. Held, that this was in effect a disclaimer by E. of all title and interest in the land, not less effectual than a deed of relinquishment, and the trial court erred in adjudging that the plea of outstanding title must prevail.\nAppeal from Taylor. Tried below before Hon. T. H. Conner.\nH. A. Porter and D. G. Hill, for appellants.\npleading of E. Strickland, disclaiming all equitable interest in the land, was as effectual as a deed could have been to bar her claim. Bige. on Estop., 719, 720; Whart. on Ev., secs. 237, 1086, 1110; 7 Encycl. of Law, 84; 9 Encycl. of Law, 352; Johnson v. Timmons, 50 Texas, 537.\nG. A. Kirkland and S. P. Hardwicke, for appellees.\n1. Admissions of a party to a suit are admissible in evidence as a substitute for proof only when offered in evidence by the adverse party. Willis v. Gay, 48 Texas, 463; Sayles\u2019 Civ. Stats., 712, rule 33; Steph. on Ev., art. 15; 1 Greenl. on Ev., see. 171.\n2. The admissions of a trustee may be competent evidence against himself, or against his cestui que trust, but not in his or their favor. Abb. Trial Ev., 710, sec. 30; Whart. on Ev., sec. 1207."
+  },
+  "file_name": "0326-01",
+  "first_page_order": 352,
+  "last_page_order": 353
+}

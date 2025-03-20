@@ -1,0 +1,133 @@
+{
+  "id": 221188,
+  "name": "C. H. Fisher v. Marion Hoover",
+  "name_abbreviation": "Fisher v. Hoover",
+  "decision_date": "1893-03-29",
+  "docket_number": "No. 78",
+  "first_page": "81",
+  "last_page": "86",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 81"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "4 S. W. Rep., 305",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "12 Miss., 631",
+      "category": "reporters:state",
+      "reporter": "Miss.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "21 Ind., 129",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1477512
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ind/21/0129-01"
+      ]
+    },
+    {
+      "cite": "15 Ind., 54",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "11 Ind., 258",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1486862
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ind/11/0258-01"
+      ]
+    },
+    {
+      "cite": "75 Ga., 739",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        57015
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ga/75/0739-01"
+      ]
+    },
+    {
+      "cite": "52 Ga., 69",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        868929
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ga/52/0069-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 652,
+    "char_count": 14921,
+    "ocr_confidence": 0.549,
+    "pagerank": {
+      "raw": 2.1846701778868985e-07,
+      "percentile": 0.7730742217017286
+    },
+    "sha256": "176f04d852bcb54a55ebfd14dba4884fd19eed8e3186e03ffd5fda767cf45bd4",
+    "simhash": "1:db48299024506d1a",
+    "word_count": 2706
+  },
+  "last_updated": "2024-02-27T16:31:46.217873+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "C. H. Fisher v. Marion Hoover."
+    ],
+    "opinions": [
+      {
+        "text": "KEY, Associate Justice.\nThis suit, in form of trespass to try title, was brought by appellee as testamentary trustee of the estate of E. Parr, to recover of appellant a certain lot and the improvements thereon in the city of'Waco, Texas. Appellant pleaded not guilty, and specially, that he purchased the property sued for from E. Parr and wife for $650.59; that he executed four notes for said purchase money, and that they were so prepared and worded as rendered them usurious; that said notes reserved a lien on the land; that he had already paid on them $706.98, being* $56.39 more than the principal; and he prayed for judgment against appellee for said sum, for the cancellation of the notes, and that his title to the property be quieted.\nAppellee demurred generally and specially to appellant\u2019s answer, denied its averments, and offered to surrender the notes mentioned in appellant\u2019s answer upon obtaining the relief sought in his original petition.\nA trial before a jury resulted in a verdict to the effect that appellant still owed $180.43 on the four notes; upon which judgment was rendered for appellee for the land sued for, provided appellant did not pay said sum within sixty days; but in the event it was so paid, appellant was to be quieted in his title and possession of the land.\nUpon the evidence in the record this court finds:\n1. July 1, 1883, E. Parr and wife conveyed the property in controversy to appellant by a deed in usual form, with general covenants of warranty, but which recited the execution and retained a lien on the property to secure the payment of the notes herein after mentioned.\n2. The consideration for said deed was as follows: Appellant, Fisher, was to pay about $650 for the property and 12 per cent interest per annum on said sum. At Parr\u2019s instance, the notes were prepared and executed as follows:\n\u201c $240.70. Waco, Texas, July 1, 1883.\n\u201c On or before the 1st day of July, A. D. 1884,1 promise to pay to \u2022 E. Parr, or order, in Waco, Texas, $240.70. This note is to be paid in monthly installments of $20.05 each month, commencing with the date hereof, and in default of any monthly payment the same is to bear 12 per cent per annum interest from the date of said default until paid. This note being executed for the first payment of a lot of land this day conveyed to me by deed from said E. Parr and wife, and vendor\u2019s lien is retained by them on said lot to secure the payment hereof. Value received.\n\u201c C. H. Fisher.\u201d\n\u201c$221.25. Waco, Texas, July 1, 1883.\n\u201c On or before the 1st day of July, A. D. 1885, I promise to pay toE. Parr, or order, in Waco, Texas, $221.25. This note is to be paid in monthly installments of $18.43 each, commencing on the 1st day of July, A. D. 1884, and in default of any monthly payment the same is to bear 12 per cent per annum interest from the date of said default until paid. This note being executed for the second payment of a lot of land this day conveyed to me by deed from said E. Parr and wife, and the vendor\u2019s lien is retained by them on said lot to secure the payment hereof. Value received.\n\u201c C. H. Fisher.\u201d\n\u201c $201.70 Waco, Texas, July 1, 1883.\n\u201cOn or before the 1st day of July, A. D. 1886, I promise to pay E. Parr, or order, in Waco, Texas, $201.70. This note is to be paid in monthly installments of $16.80 each, commencing on the 1st day of July, A. D. 1885, and in default of any monthly payment the same is to bear 12 per cent per annum interest from the date of said default until paid. This note being executed for the third payment of a lot of land this day conveyed to me by deed from said E. Parr and wife, and the vendor\u2019s lien is retained on said lot to secure the payment hereof. Value received.\n\u201c C. H. Fisher.\u201d'\n\u201c$182.14. Waco, Texas, July 1, 1883..\n\u201c On or before the 1st day of July, A. D. 1887,1 promise to pay E'. . Parr, or order, in Waco, Texas, $182.14. This note is to be paid in - monthly installments of $15.17, commencing July 1, A. D. 1886, and in \u25a0 default of any of said monthly payments the same is to bear 12 per cent per annum interest from the date of said default until paid. This note being executed for the fourth and last payment of a lot of land this day conveyed to me by deed from said E. Parr and wife, and the vendor\u2019s - lien is retained by them on said lot to secure the payment hereof. Value - received.\n\u201c C. H. Fisher.\u201d\n3. The apparent principal of these notes was obtained in this manner: For the first note, 12 per cent of the $650 was added to one-fourth of said sum; for the second, 12 per cent of three-fourths of $650 was added to the one-fourth; for the third, 12 per cent of one-half of $650 was added to one-fourth; and for the fourth, 12 per cent of one-fourth of $650 was added to one-fourth of said sum.\n4. An account, admitted to be in the handwriting of E. Parr, was put in evidence. It was headed, C. H. Fisher in account with E. Parr. It extends from June 9 to July 21, 1883, and charges Fisher with one lot in Waco $125, and with divers items of materials suitable for building a house, including $203.50 for cash paid Cameron & Co. for lumber, $3 writing deed and notes, $4 for insurance, $1.50 for surveying, and 75 cents for recording the deed. This account is on pages 27, 28, and 20 of the record, and which is referred to as part of this finding. This account shows a total indebtedness of a little over $650; and also shows that $195.20 was added to this principal as interest in executing the notes.\n5. The $195 thus added to the price of the property was to compensate Parr for selling it on time.\nAppellant, who was defendant in the court below, claims that there is error in the judgment against him for $180.43; his contention being, that the uncontroverted testimony shows that the notes executed by him for the purchase money of the property were usurious, and he had already overpaid the amount he was legally bound to pay for the property. Appellee controverts this contention, and asserts, that if in the sale of land the vendee agrees to pay as part of the purchase price a rate of interest on the deferred payments exceeding the rate allowed by law, such interest to be paid at or before maturity of the principal, the contract is not usurious.\nThere is a line of decisions holding, that in sales of property, or in contracts for the performance of certain undertakings, such as building houses, either a cash price may be agreed upon or the parties may, as part of the consideration, agree upon such cash price together with any other sum, or per cent, to be paid at a given time in the future, and the contract, though, as part of the price, it calls for interest in excess of the rate allowed by law, will not be usurious. Graem v. Adams, 23 Grattan, 225, is one of the leading cases supporting this doctrine.\nMany, if not all, of this class of cases involve statutes which prohibit interest in excess of a given rate \u2018 \u2018 upon a loan or forbearance of any money,\u201d etc.; and these cases generally hold that there can be no usury unless there is a loan, express or implied.\n\u2022Another line of authorities holds, that in sales of property, if the price be agreed upon, but time be given the vendee to pay part or all the purchase money, and to compensate the vendor for waiting for his money, a rate of interest is agreed upon in excess of the rate allowed by law, though such excessive interest may be added to and appear in the written obligation as principal, or be designated rent, the contract will be usurious. Scofield v. McNaught, 52 Ga., 69; Irvin v. Mathews, 75 Ga., 739; Crawford v. Johnson, 11 Ind., 258; Brown v. Fouts, 15 Ind., 54; Newkirk v. Bunson, 21 Ind., 129; Torrey v. Grant, 10 S. &M. (Miss.), 89; Porchman v. McKinney, 12 Miss., 631; Evans v. Negly, 13 S. R. (Pa.), 281.\nOur State Constitution declares, that all interest in excess of 12 per cent per annum shall be deemed usurious; and statutory provisions in force at the time the notes in question were executed were as follows:\n\u201cArticle 2-972. \u2018 Interest \u2019 is the compensation allowed by law or fixed by the parties to a contract for the use or forbearance or detention of money.\u201d\nArticles 2973, 2974, and 2975 define and distinguish legal and conventional interest. Article 2976 fixes the rate of interest on written contracts, when no rate is agreed on by the parties; while article 2977, in the absence of an agreed rate, fixes the rate on all open accounts. Article 2978 permits parties to any written contract to stipulate for \u201c any rate of interest not exceeding 12 per cent on the amount or value of the contract.\u201d\n\u201cArticle 2979. All written contracts whatsoever which may in any way, directly or indirectly, violate the preceding article by stipulating for a greater rate of interest than 12 per cent per annum, shall be void and of no effect for the whole rate of interest only, but the principal sum of money or the value of the contract may be received and recovered.\u201d\nWe have italicised certain parts of the statute which indicate its wide scope.\nConsidering all the constitutional and statutory provisions of this State relating to interest, and the fact that the word \u201cloan\u201d is not used in any of them, we are not disposed to follow the cases in other jurisdictions which hold that usury can be predicated only upon a loan. We do not deny that a man can lawfully have two prices for his property\u2014one for a cash sale, and as much larger one as he chooses for a sale on time. But, in our opinion, every written agreement to pay interest on a debt in excess of the rate allowed by law (however well the unlawful interest may be disguised) as compensation for the creditor, agreeing that the time of payment be fixed at a day in the future, or for forbearance to enforce its payment after maturity, is in violation of article 2979, above quoted, whether the transaction involves the loan of money or the sale of property, or any other agreement by which a debt is created.\nThe statute under consideration is remedial, and with a view to execute the legislative purpose and promote justice, it should be liberally construed. Bev. Stats., Gen. Prov., see. 3.\nConstruing the law as we do, appellant\u2019s contention must be sustained.\nThe uncontroverted testimony shows that the agreed price of the property was about $650, and that $195, or about 30 per cent of the $650, was added as interest, though it appears as principal in the notes. Dr. Moore, the only witness who testified as to the agreement between the parties, said Parr told him that the price of the property was six hundred and fifty odd dollars, and that he wanted to help appellant to a home, and had agreed to let him have time to pay for it, with 12 per cent on the money. The account, in Parr\u2019s handwriting, charges appellee with the lot, material for house, cash, etc., amounting to a little over $650, and interest $195.20, making a total of about the aggregate amount of the four notes. Dr. Moore explains how, at Parr\u2019s instance, he obtained the .face of the four notes by dividing the \u00a7650 into four parts and adding 12 per cent of the \u00a7650 to one-fourth for the first note, 12 per cent of three-fourths of the \u00a7650 to another fourth for the second note, 12 per cent of one-half of \u00a7650 to another fourth of the third note, and 12 per cent of the last fourth of \u00a7650 to said fourth for the last note. The total amount (\u00a7195) in this manner added to the price of the property, Parr himself designated as interest, and in our opinion it should be so considered in determining appellant\u2019s liability on the notes.\nThe method adopted to obtain the face of the notes, while indicating considerable ingenuity, also suggests that it was not resorted to to ascertain the price to be paid for the property, but to disguise a conscious violation of the statute prohibiting usury.\nIt appearing from the undisputed testimony that appellant has paid $55 more than he legally owed for the property, and as he pleaded in reconvention therefor, the judgment of the District Court will be reversed, and judgment here rendered for appellant for that amount and all costs, and that appellee take nothing by his suit.\nReversed and rendered.\nDelivered March 29, 1893.",
+        "type": "majority",
+        "author": "KEY, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Pearre & Boynton, for appellant,",
+      "Scarborough & Rogers, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "C. H. Fisher v. Marion Hoover.\nNo. 78.\n1. Usury in Purchase Money for Sale of Land.\u2014In sales of property, if the price be agreed upon but time be given the vendee to pay part or all the purchase money, and to compensate the vendor for .waiting for his money a rate of interest is agreed upon in excess of the rate allowed by law, though such excessive interest may be added to and appear in the obligation as principal, or be designated as rent, the contract will be usurious.\n2. Same\u2014Interest Statutes Construed.\u2014Interest is the compensation allowed by law or fixed by the parties to a contract for the use or forbearance or detention of money. This applies to the agreed purchase money in a sale of land. Eev. Stats., arts. 2992-2997.\nAppear from McLennan. Tried below before Hon. J. R. Dickinson.\nPearre & Boynton, for appellant,\ncited: Cook v. Dennis, 61 Texas, 246; 2 Pars. on Con., 6 ed., 492; Watson v. Aiken, 55 Texas, 536; Hooper v. Hall, 35 Texas, 83; Jackson v. Cassidy, 68 Texas, 282; Barnes v. Pilgrim, 24 Texas, 385.\nScarborough & Rogers, for appellee.\nAppellant\u2019s whole fight and appeal is based upon a misconception of the law of interest and usury.\n\u201cInterest\u201d in the law of Texas has not that broad meaning given it in the common use of the word, and does not include the accretions of immature purchase money notes given for land. Such accretions, commonly called interest, are a part of the consideration, the principal, for which the land is sold, and not what the law calls interest, for the Revised Statutes, article 2972, defines \u201cinterest\u201d to be the compensation allowed by law or fixed by the parties to a contract for the use or forbearance or detention of money.\nArticle 2978 provides: \u201cThe parties to any written contract may agree to and stipulate for any rate of interest not exceeding 12 per cent per annum on the amount or value of the contract.\u201d And article 2979 reads: \u201cAll written contracts whatever which may in any way, directly or indirectly, violate the preceding article by stipulating for a greater rate of interest than 12 per cent per annum, shall be void and of no effect for the whole rate of interest only; but the principal sum of money or the value of the contract may be received and recovered.\u2019 \u2019 See, also, Carlisle v. Sommer, 61 Texas, 127.\nWhere, upon the purchase of land, the vendee agrees to pay as part of the purchase price a rate of interest on the deferred payments exceeding the legal rate, the contract can not be considered as usurious until after maturity of the deferred payments. Askin v. Lebus, 4 S. W. Rep., 305. Warton v. Warton, 17 Cent. L. J., 437. A full report of the case of War-ton v. Warton, last above cited, is found only in 5 Kentucky Law Reporter and Journal, 302."
+  },
+  "file_name": "0081-01",
+  "first_page_order": 107,
+  "last_page_order": 112
+}

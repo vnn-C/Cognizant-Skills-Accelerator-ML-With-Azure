@@ -1,0 +1,72 @@
+{
+  "id": 219178,
+  "name": "J. M. Curtis et al. v. W. H. Wilson et al.",
+  "name_abbreviation": "Curtis v. Wilson",
+  "decision_date": "1892-12-06",
+  "docket_number": "No. 27",
+  "first_page": "646",
+  "last_page": "650",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 646"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 551,
+    "char_count": 11635,
+    "ocr_confidence": 0.56,
+    "pagerank": {
+      "raw": 4.7492960360752035e-08,
+      "percentile": 0.2988687757471575
+    },
+    "sha256": "36b4c9e09013af9f6839d81d3af5e116727200a5be59b156602b574e09e96100",
+    "simhash": "1:7dbc972fbfb63e55",
+    "word_count": 1986
+  },
+  "last_updated": "2023-07-14T16:01:39.065288+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "J. M. Curtis et al. v. W. H. Wilson et al."
+    ],
+    "opinions": [
+      {
+        "text": "TARLTON, Chief Justice.\nJ. M.Curtis and Dortha E. Swain, appellants, brought this suit of trespass to try title, January 13, 1886, in the District Court of Parker County, to recover certain realty, together with the improvements thereon, situated in the city of Weatherford. At the time of the trial, W. H. Wilson, George A. McCall, L. W. Christian, Jennie Christian, and Jim L. McCall, a minor, through his guardian ad litem, George A. McCall, were defendants.\nAmong other matters, the defendants relied upon the pleas of not guilty, of the statute of ten years limitation, and of improvements in good faith. A trial by jury on May 22, 1889, resulted in a verdict for the defendants, and a judgment accordingly, from which this appeal is-prosecuted.\nAs a counter-proposition to all the assignments of error, appellees contend that they were entitled to a verdict under their plea .of not guilty. They assert, that the plaintiffs failed to show title from the State, and that it nowhere appears that the parties claimed under a common source. The appellants do not deraign title from the sovereignty The source of their title is a deed from William M. Green to John W. Curtis, executed in 1857. It is undisputed that the appellants are the children and heirs at law of said Curtis.\nIn their plea setting up improvements in good faith, appellees alleged, that they claim under one Jane L. Sikes, and that in the year 1859 John W. Curtis died and willed to Jane L. Sikes the property in controversy. It is thus apparent that both appellants and appellees claim under Curtis, and consequently under the deed from Green, and that this contention of appellees can not be sustained.\nA very material, perhaps\u201d the controlling, issue in the case arose out of the plea of limitation. It was proved by numerous witnesses for the appellees that Mi'S. Jane L. Sikes, under whom they claim, occupied continuously and enjoyed the property in controversy, claiming it in her own separate right, for a period beginning as early as 1859, and ending at the date of her death in August, 1885. Such being the state of the evidence for the defendants, the plaintiff J. M. Curtis offered to prove by his own deposition that he was in Weatherford in 1877, and then had frequent conversations about the property in controversy, in which conversations Mrs. Sikes stated, that \u201c the property was purchased by John W. Curtis, plaintiff\u2019s father, and with his own money; that she had been advised by attorneys that she could hold it during her lifetime, but that at her death she would as soon the plaintiffs would have it as any one; that she only claimed a life-estate in the property.\u201d To the statements made by Mrs. Sikes in these conversations, appellees objected, \u201c because the declarations purported to have been made by her through whom defendants claim, and the witness was a party to the suit brought against a part of the defendants, who were the legatees of Jane L. Sikes.\u201d\nAppellants assign as error the action of the court in sustaining this objection and excluding the evidence. The objection is predicated upon article 2248 of the Revised Statutes, which reads as follows: \u201c In actions by or against executors, administrators, or guardians, in which judgment may be rendered for or against them as such, neither party shall be allowed to testify against the others as to any transaction with or statement by the testator, intestate, or ward, unless called to testify thereto by the opposite party; and the provisions of this article shall extend to and include all actions by or against the heirs or legal representatives of a decedent arising out of any transaction with such decedent.\u201d\nIt has been held that the language of this article can not be so interpreted as to include \u201clegatees.\u201d Persons of this character do not come within the designation \u201c executors, administrators, guardians, heirs, or legal representatives.\u201d The language of the statute will not by implication be extended to include persons of a class not designated therein. Newton v. Newton, 77 Texas, 511; Mitchell v. Mitchell, 80 Texas, 111. The specific objection, not referring to any of the persons named in the statute, but to legatees, was erroneously sustained, and bearing as it did upon a material issue in this case, requires a reversal of the judgment.\nThe plaintiffs having dismissed their suit against Jim L. McCall and Jennie Christian, the court did not err in permitting the remaining defendants, on such dismissal, to make the parties named defendants in the cause. This action was in the discretion of the court, as the additional parties claimed an interest in the property. Rev. Stats., art. 1209.\nNor did the court err in admitting the declarations of Jane L. Sikes showing the character of her claim, and that her possession was adverse. These declarations, contemporaneous with her possession and explanatory thereof, were admitted, with the limitations by the court, that they were not to be considered as evidence of title, but solely for the purpose stated. For this purpose they were clearly competent. Harnage v. Berry, 43 Texas, 567.\nThe paper purporting to be the will of Mrs. Turner, formerly Mrs. Sikes, having been stricken from the record by an order of our Supreme Court, the questions relating thereto and stated in appellants\u2019 brief will not be considered by us. We find no merit in the remaining assignments of appellants, save in so far as the questions arising out of them may be affected by the error already pointed out, and on account of which the judgment is reversed and the cause remanded.\nReversed and remanded.\nDelivered December 6, 1892.",
+        "type": "majority",
+        "author": "TARLTON, Chief Justice."
+      },
+      {
+        "text": "ON MOTION FOR REHEARING.\nTARLTON, Chief Justice.\nIn addition to the grounds stated in our original opinion for holding appellees to a deraignment of title from a common source, as the record appears to us, we state:\n1. It appears from the testimony of a witness, Mr. I. N. Roach, that Mrs. Jane L. Sikes, formerly known as Mrs. Jane L. Curtis, \u201c claimed the property in suit as surviving wife of John W. Curtis.\u201d\n2. It appears from a bill of exceptions, that at the instance of the appellees an objection was sustained to certain testimony offered by the appellants, on the ground, among others, that appellees claimed the property as legatees of Mrs. Jane L. Sikes.\nIt thus appears that the appellants, children of John W. Curtis, and the appellees both claim from John W. Curtis.\nThus, if xve were in error in holding on this point as in our original opinion and for the reason therein stated, we are nevertheless constrained to overrule the motion for a rehearing.\nIt is so ordered.\nOverruled.\nDelivered March 22, 1893.\nJustice Stephens did not sit in this case.",
+        "type": "rehearing",
+        "author": "TARLTON, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "John T. Harcourt, for appellants.",
+      "G. A. McCall and Hood, Lanham & Stephens, for appellees.",
+      "G. A. McCall, for appellees, on the motion for rehearing."
+    ],
+    "corrections": "",
+    "head_matter": "J. M. Curtis et al. v. W. H. Wilson et al.\nNo. 27.\n1. Trespass to Try Title \u2014 Common Source. \u2014 Where plaintiffs in trespass to try title prove a deed from G. to 0., and that they are the heirs of 0., and the defendants, in a plea of improvements in good faith, allege that they claim under one S., to whom 0. had willed the property, it is thus apparent that both parties claim under 0., and under the deed from G., and plaintiffs need not deraign title from the sovereignty of the soil.\n2. Evidence of Transaction with Decedent \u2014 Statute does not Include Actions Against Legatees.\u2014Article 2248 of the Revised Statutes, which inhibits a party to a suit by or against the heirs or legal representatives of a decedent from testifying therein against the other party as to transactions with or statements by such decedent, does not extend to actions by or against legatees.\n3. Practice\u2014Parties Made Defendants on Motion, When.\u2014Where plaintiffs dismissed as to certain defendants who claimed an interest in the property in controversy, it was within the discretion of the court to permit the parties so dismissed to be made defendants upon application of the remaining defendants.\n4. Evidence\u2014Res Gestae\u2014Declarations as to Character of Possession.\u2014Where defendants in trespass to try title pleaded title by limitation in one S., then deceased, it was competent for them to prove the declarations of S. made while in possession and explanatory thereof, as showing that such possession was under adverse claim.\nON REHEARING.\n5. Common Source of Title Shown, How.\u2014Where plaintiffs claimed as the heirs of C., and it appeared from the record on appeal that a witness testified on the trial that one S. claimed the property as surviving wife of C., and it further appeared that at the instance of the defendants an objection was sustained to certain evidence offered by plaintiffs, on the ground that defendants claimed the property as legatees of S., held, that it was thus apparent that both parties claimed under 0.\nAppeal from Parker. Tried below before Hon. J. W. Patterson.\nJohn T. Harcourt, for appellants.\n1. The court erred in permitting Jim L. McCall and Jennie Christian to be made defendants after plaintiffs had dismissed as to them. Rev. Stats., arts. 1188, 1209; Norvell v. Phillips, 46 Texas, 161.\n2. The evidence of plaintiff J. M. Curtis as to statements made to him by Jane L. Sikes, deceased, should have been admitted, and the court erred in excluding it. Rev. Stats., arts. 1211, 2248, 3198; Harris v. Seinsheimer, 57 Texas, 356; Brooks v. Evetts, 33 Texas, 732.\n3. The court erred in admitting the evidence of H. S. Sisk and others as to declarations made by Jane L. Sikes. The rule that admits such declarations for the purpose of showing the character of the possession is always understood as impeaching evidence, to show the possession was not adverse, by an admission against interest Rev. Stats., art. 2245; 1 Sayles\u2019 Civ. Stats., 713, note 168; McDow v. Rabb, 56 Texas, 154; Bradshaw v. Mayfield, 18 Texas, 21; Carter v. La Grange, 60 Texas, 636.\nG. A. McCall and Hood, Lanham & Stephens, for appellees.\n1. This suit being in the ordinary form of trespass to try title, and defendants being in possession and having pleaded not guilty, and appellants having failed to deraign title from the State, or to show that both parties claimed from a common source of title, no other verdict and judgment could have been rendered than were rendered.\n2. The court did not err in permitting Jim L. McCall and Jennie Christian to be made parties defendant at the time plaintiffs entered a dismissal as to them. 2 Sayles\u2019 Civ. Stats., art. 4789; Moser v. Hussey, 67 Texas, 456.\n3. The evidence of J. M. Curtis was properly excluded, it being a conversation between plaintiffs and Jane L. Sikes, deceased, under whose will 0 defendants claim, and against whom this suit is prosecuted as the legal representatives of Jane L. Sikes. Parks v. Caudle, 58 Texas, 216.\n4. The declarations of Jane L. Sikes were clearly admissible to show that her possession was adverse. Mooring v. McBride, 62 Texas, 309; Harnage v. Berry, 43 Texas, 567; 1 Greenl. Ev., 109.\nG. A. McCall, for appellees, on the motion for rehearing.\nInconsistent pleas may be separately pleaded by the defendant; and the allegations in one plea are never admissible in evidence to support any other issue than the issue tendered in that plea. But even if the allegations in the \u00a1ilea of improvements in good faith were admissible in evidence to prove a common source, they were never offered in evidence to the jury; and hence-there is no evidence in the record that appellants and appellees claim under a common source. 1 Sayles\u2019 Civ. Stats., art. 1263; Fowler v. Davenport, 21 Texas, 627; Railway v. Whitley, 77 Texas, 126; Duncan v. Magette, 25 Texas, 255; Smith v. Sublett, 28 Texas, 163; Printing Co. v. Copeland, 64 Texas, 357; Gould\u2019s Plead., 431."
+  },
+  "file_name": "0646-01",
+  "first_page_order": 672,
+  "last_page_order": 676
+}

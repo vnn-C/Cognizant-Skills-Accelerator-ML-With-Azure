@@ -1,0 +1,115 @@
+{
+  "id": 219069,
+  "name": "V. C. Holland, Executor, et al. v. A. J. Farthing",
+  "name_abbreviation": "Holland v. Farthing",
+  "decision_date": "1893-01-24",
+  "docket_number": "No. 77",
+  "first_page": "155",
+  "last_page": "157",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 155"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "101 U. S., 1044",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Johns. Ch., 582",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "case_ids": [
+        1975615
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns-ch/1/0582-01"
+      ]
+    },
+    {
+      "cite": "71 Am. Dec., 371",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 Am. St. Rep., 836",
+      "category": "reporters:state",
+      "reporter": "Am. St. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Am. St. Rep., 641",
+      "category": "reporters:state",
+      "reporter": "Am. St. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "16 Minn., 512",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        546428
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/minn/16/0512-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 454,
+    "char_count": 6207,
+    "ocr_confidence": 0.622,
+    "pagerank": {
+      "raw": 1.4279765551227057e-07,
+      "percentile": 0.6503139758341123
+    },
+    "sha256": "e11407d8bdaa65e4c2d112e00efe6043691b9337b9c96bc96baeadb724e99e49",
+    "simhash": "1:023d3c445c7ba9f8",
+    "word_count": 1107
+  },
+  "last_updated": "2024-02-27T19:43:33.086404+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "V. C. Holland, Executor, et al. v. A. J. Farthing."
+    ],
+    "opinions": [
+      {
+        "text": "HEAD, Associate Justice.\nThis case having been tried in the court-below by the judge without a jury, his conclusions of fact, which we find sustained by the evidence, may be briefly stated as follows:\nOn October 2,1873, J. A. Truelove, then an unmarried man, purchased the lot in controversy from J. M. Lindsay, paying therefor the sum of $37.50. The deed was first made to said Truelove, but on the same day he had Lindsay to erase his own initials and insert those of his maiden sister, E.'J. Truelove. The deed when so changed appeared upon its face to convey to the grantee, E. J. Truelove, for a cash consideration, the title to said lot in fee simple. At the time of the making of this deed, however, it was expressly agreed between J. A. Truelove and his sisters-E. J. Truelove, and N. J. Townsend (the last named being a widow), that the said E. J. Truelove should hold said lot in trust upon the following terms, to-wit: That she and her said sister should have the right to live thereon as their home during their lives, or such less time as they might see proper to occupy it, but upon their death or abandonment of' the same as a home, it was to be the property of the said J. A. Truelove.\nIn 1887 E. J. Truelove died, leaving a will bequeathing said lot, one-half to J. A. Truelove and the remainder to appellant Holland, as her executrix, to be used in improving a lot in the Gainesville cemetery. Upon such death, however (the said N. G. Townsend having long previously abandoned the lot), the said J. A. Truelove took possession of same, asserting his right thereto under the terms of the trust herein before set forth, and conveyed it to appellee Farthing.\nAppellants claim title under the will and as heirs of said E. J. Truelove. The court found the trust in favor of J. A. Truelove sufficiently established by the evidence, and rendered judgment in favor of appellee claiming thereunder.\nThat an express trust is not within our statute of frauds, and can therefore be established -by paroi evidence, has long been settled by repeated decisions in this State. Mead v. Randolph, 8 Texas, 191; Bailey v. Harris, 19 Texas, 109; Leakey v. Gunter, 25 Texas, 400; Vandever v. Freeman, 20 Texas, 334; Clark v. Haney, 62 Texas, 511; Norfleet v. McCall, 80 Texas, 236; Brotherton v. Weathersby, 73 Texas, 471; Neyland v. Bendy, 69 Texas, 711.\nWhile we have been unable to find any case in this State in which the agreement creating a trust contemplated the occupation of the land by the trustee during his life, we are unable to distinguish such an agreement, in principle, from that recognized as valid in a number of cases-cited above.\nIn the case of Johnson v. Johnson, 16 Minnesota, 512, the facts were \u25a0quite similar to those developed by this record, and in that case the court found against the trust; but we think the reasons given for the decision under the statute of that State would go far to maintain its validity in this. The statute of that State provides, \u201c that no trust or power over or concerning lands, or in any manner relating thereto, shall hereafter be created, granted, assigned, surrendered, or declared, unless by act or -operation of law, or by deed or conveyance in writing, subscribed by the parties,\u201d etc. Brown on Statute of Frauds, fourth edition, 606; and in the case above referred to, the court, after stating the facts, says: \u201c This state of facts does not give rise to any express trust in favor of the plaintiff, because there is no writing declaring the same; and there is no implied or resulting trust, because the statute declares, that when a grant for a valuable consideration shall be made to one person and the consideration therefor shall be paid by another, no use or trust shall result in favor of the person by whom such payment shall be made; but the title shall vest in the person named as the alienee in such conveyance, subject only to the provisions of the next section.\u201d As we have no statute similar to that in Minnesota, this case, so much relied upon by appellants, we think instead of being an authority in their favor is strongly against them.\nBy reference to our conclusions of fact, it will be seen that we are of opinion that the evidence of the trust in this case was sufficient to sustain the finding of the court below in its favor. Baylor v. Hopf, 81 Texas, 637.\nWhat we have said sufficiently indicates our views upon the other questions raised in the assignments of appellants.\nLet the judgment of the court below be in all things affirmed.\nAffirmed.\nDelivered January 24, 1893.",
+        "type": "majority",
+        "author": "HEAD, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Garnett & Eldridge, and Davis & Harris, for appellants.",
+      "Bell & Green, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "V. C. Holland, Executor, et al. v. A. J. Farthing.\nNo. 77.\nStatute of Frauds\u2014Express Trust\u2014Parol Evidence.\u2014An express trust in relation to land is not within the Texas statute o\u00ed frauds, and may therefore be established by paroi evidence and engrafted upon a deed absolute in terms; and the agreement creating the trust is valid, although it contemplates the occupation of the land by the trustee during his life.\nAppeal from Cooke. Tried below before Hon. D. E. Barrett.\nGarnett & Eldridge, and Davis & Harris, for appellants.\nA deed absolute in form, as the deed from J. M. Lindsay to E. J. Truelove, can not be shown by paroi evidence, in the absence of fraud, accident, or mistake, not to express the real intention of the parties, but that a life-estate to the grantee was intended, with remainder to some one else. Perry on Trusts, secs. 75, 162; 2 Dev. on Deeds, secs. 1170, 1185; Johnson v. Johnson, 16 Minn., 512; Moore v. Jordan, 7 Am. St. Rep., 641; Heffron v. Cunningham, 76 Texas, 319; Rev. Stats., art. 551; Finlayson v. Finlayson, 11 Am. St. Rep., 836; Sturtevant v. Sturtevant, 71 Am. Dec., 371.\nBell & Green, for appellee.\nIn States where the seventh section of the statute of frauds and perjuries of 29 Charles II has not been adopted, it has been determined that express trusts in land could be proved by paroi evidence. Mead v. Randolph, 8 Texas, 191; Leakey v. Gunter, 25 Texas, 400; Brotherton v. Weathersby, 73 Texas, 473; Guest v. Guest, 74 Texas, 666; Cook v. Cook, 77 Texas, 85; Grooms v. Rust, 27 Texas, 231; 1 Johns. Ch., 582; Young v. Bradley, 101 U. S., 1044; 1 Perry on. Trusts, sec. 75, et seq.; 2 Story\u2019s Eq., 120."
+  },
+  "file_name": "0155-01",
+  "first_page_order": 181,
+  "last_page_order": 183
+}

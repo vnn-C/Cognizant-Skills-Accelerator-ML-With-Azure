@@ -1,0 +1,66 @@
+{
+  "id": 223649,
+  "name": "J. A. Smith et al. v. Pat Huckaby et al.",
+  "name_abbreviation": "Smith v. Huckaby",
+  "decision_date": "1893-09-20",
+  "docket_number": "No. 229",
+  "first_page": "80",
+  "last_page": "81",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Tex. Civ. App. 80"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 225,
+    "char_count": 2897,
+    "ocr_confidence": 0.555,
+    "pagerank": {
+      "raw": 7.71082645234123e-08,
+      "percentile": 0.45379749939089115
+    },
+    "sha256": "6eed0b3069cbb3f45fbfa4330f576687edc0677d8ea5e38b5d9ede3bee5aecb4",
+    "simhash": "1:5744e18e401cfaae",
+    "word_count": 495
+  },
+  "last_updated": "2023-07-14T14:53:58.701798+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "J. A. Smith et al. v. Pat Huckaby et al."
+    ],
+    "opinions": [
+      {
+        "text": "HEAD, Associate Justice.\nWe adopt the conclusions of fact filed by the court below as being correct.\nThe only assignment of error relied on in appellants\u2019 brief is as follows: \u201c The court erred in its conclusions of law, in refusing to foreclose appellants\u2019 mechanic\u2019s lien.\u201d That such an assignment is too general to admit of consideration, has been repeatedly decided by the Supreme Court (Legion of Honor v. Rowell, 78 Texas, 677), and followed by us. Gunter v. Lillard & Co., 1 Texas Civ. App., 325.\nWe believe, however, the court below did not erf in concluding that appellants showed no right to foreclose the mechanic\u2019s lien claimed by them against the defendant Bailey. This lien was claimed under a contract made by appellants with defendant Huckaby to repair some houses already on the lot. Huckaby\u2019s only claim to the lot was under a verbal contract with Bailey to pay him S600 in monthly installments, none of which had been paid, for which failure the trade was cancelled. Appellants do not seek to comply with Huckaby\u2019s contract by paying Bailey for the lot and have their lien foreclosed against Huckaby\u2019s interest, but they ask that they be given priority over Bailey. This they were not entitled to have. Exhibition Assn. v. Perkins, 80 Texas. 62; Phil, on Mech. Liens, 72.\nWe find in the record no sufficient evidence of estoppel against Bailey to deny appellants\u2019 lien. It is only shown that he knew appellants were making the repairs for Huckaby, but not that he knew they were in ignorance of the nature of his title. That this was not sufficient as an estoppel, we think clear from the authorities above cited. The petition did not seek a personal judgment against Bailey upon his promise to Mrs. Huckaby to pay appellants. Spann v. Cochran & Ewing, 63 Texas, 240.\nDelivered September 20, 1893.\nThe judgment of the court below must in all things be affirmed.\nAffirmed.",
+        "type": "majority",
+        "author": "HEAD, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Jasper N. Haney, for appellants.",
+      "No brief for appellees reached the Reporter."
+    ],
+    "corrections": "",
+    "head_matter": "J. A. Smith et al. v. Pat Huckaby et al.\nNo. 229.\n1. Assignment of Error.\u2014An assignment of error that \u201cthe court erred in its conclusions of law,in refusing to foreclose appellants\u2019 mechanic\u2019s lien,\u201d is too general.\n2. Mechanic\u2019s Lien \u2014 Lot held under Parol Contract. \u2014 Where buildings are erected on premises for one in possession under a paroi contract of purchase only, a mechanic\u2019s lien for such improvements does not attach as against the real owner.\n3. Same\u2014Estoppel.\u2014That the true owner knew that improvements were being made on his land for one in possession under a paroi contract of purchase, does not estop him from denying a mechanic\u2019s lien thereon, where it does not appear that he knew the mechanic was ignorant of the condition of the title.\nAppeal from Parker.\nTried below before Hon. J. W. Pattebson.\nJasper N. Haney, for appellants.\nThe court erred in refusing to foreclose appellants\u2019 mechanic\u2019s lien. Phil, on Mech. Liens, secs. 69, 72, 75.\nNo brief for appellees reached the Reporter."
+  },
+  "file_name": "0080-01",
+  "first_page_order": 104,
+  "last_page_order": 105
+}

@@ -1,0 +1,66 @@
+{
+  "id": 221175,
+  "name": "W. S. Jones and Wife v. Dan Robbins",
+  "name_abbreviation": "Jones v. Robbins",
+  "decision_date": "1893-04-19",
+  "docket_number": "No. 153",
+  "first_page": "200",
+  "last_page": "202",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 200"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 462,
+    "char_count": 7416,
+    "ocr_confidence": 0.551,
+    "pagerank": {
+      "raw": 5.741652474972953e-08,
+      "percentile": 0.35954084581765194
+    },
+    "sha256": "af86d822132a584c82d9f2d839375bd77b4ce96a634bacdec0c576d9562f64fb",
+    "simhash": "1:c521369550cc7a56",
+    "word_count": 1310
+  },
+  "last_updated": "2023-07-14T18:08:23.206239+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "W. S. Jones and Wife v. Dan Robbins."
+    ],
+    "opinions": [
+      {
+        "text": "KEY, Associate Justice.\nConclusions of Fact.\u20141. H. N. Beckwith was common source of title.\n2. June 16, 1883, H. N. Beckwith and his wife, by warranty deed in due form, conveyed the land in controversy to W. S. Jones.\n3. At the time W. S. Jones acquired the land, and continuously thereafter to the time of trial in the court below, W. S. Jones was a married man and the head of a family.\n4. In July, 1883, the property in question was the homestead of W. S. Jones and his wife, Bosa Jones, and they occupied it as such.\n5. In July or August, 1883, W. S. Jones and his wife and children left the property in controversy, and went to the city of Houston, Texas; and about the last of November, same year, they went to the State of Florida, where they were at the time of trial.\n6. Appellee introduced in evidence the following power of attorney r\n\u201c State of Texas, County of Harris.\u2014Know all men by these presents, that we, William S. Jones and Bose, his wife, being about to remove from said county and State, having full confidence and reposing all trust in W. W. Jones, do hereby authorize and empower him, for good and sufficient consideration, to sell and dispose of 40 acres of land in the county of Bell, being part of a survey made for one league of land for Lewis Walker, and conveyed to said W. S. Jones by one Beckwith and wife, of said county of Bell, by deed recorded in the clerk\u2019s office of the County Court thereof. Hereby making this power irrevocable, and our said attorney being hereby empowered to make the purchaser the same title as rests in us by virtue of the conveyance before referred to above, as though we were personally present, to sign for us our names and convey the same; hereby ratifying and confirming all the acts of our said attorney in the premises.\n\u201c Witness our hands and seals, this 29th day of November, 1883.\n\u201cW. S. Jones. [Seal.]\n\u201c B. I. Jones. [Seal.]\n\u201c Signed, sealed, and acknowledged in presence of\nWalter C. Jones.\nElizabeth Jones.\n\u201c The State of Texas, County of Galveston.\u2014Before me, William B. Johnson, a notary public in and for the above State and county, on this day personally appeared Elizabeth Jones, known to me to be the person whose name is subscribed as a witness to the within power of attorney, and being by me duly sworn, on oath declares, that William S. Jones and Bosa Jones, his wife, signed and acknowledged the said power of attorney in her presence for the purposes and considerations therein set forth; and that the said Bosa Jones, wife of said William J. Jones, did so willingly, and of her own free will and accord, without any fear or compulsion on the part of her husband, William S. Jones, and for the best interest of herself and children.\n\u2018 \u2018 Elizabeth Jones.\n\u201c Sworn to and subscribed before me, this 20th day of December, 1883, by said Elizabeth Jones, as witness my hand and official seal.\n[Seal] \u201c Wm. B. Johnson,\n\u201c Notary Public for Galveston County, Texas.\u201d\n7. Appellee also introduced in evidence a general warranty deed, dated January 1, 1884, signed \u201c W. S. Jones, Rosa Jones, by their attorney in fact, William J. Jones,\u201d and purporting to convey the land in controversy to appellee Dan Robbins, which deed was duly acknowledged by William J. Jones as agent before a notary public. It recites a consideration of $500 cash and the execution of a promissory note by Robbins for $500, and retains a lien to secure the payment of the note. The testimony shows that this note has been paid.\n8. The controlling issue of fact in the case is whether or not the property in question was the homestead of appellants, W. S. and Rosa Jones, January 1, 1884, when the last above named deed was executed. The verdict of the jury involves a finding that it had been abandoned, and was not at that time their homestead; and we conclude that there is testimony supporting this finding.\nOpinion.\u2014The questions of law involved in this case were settled on the former appeal (74 Texas, 615), and need not now be discussed.\nThe charge of the court is not subject to the objection urged against it; and there was no error in refusing the special charges asked.\nThe case hinged upon a question of fact, namely: Had appellants, by abandonment, lost their homestead rights in the property involved when the deed of January 1, 1884, was executed, and which passed the title to appellee if the property was not then appellants'\" homestead ?\nOn this issue there is conflict in the testimonjr. They were not occupying the property as a home when the deed was executed; there is testimony tending to show that they left it with the avowed purpose never to return to it, and other evidence tending to show that they only contemplated a temporary absence, and intended to return and use it as a home. The power of attorney under which the agent acted in making the sale recites, that they are about to remove from the State, and although appellants must have known their own intentions better than any one else, neither of them testified at the trial.\nAfter a careful consideration of the record, we think the verdict of the jury finds support in the testimony; and finding no grounds for reversal, the judgment is affirmed.\nAffirmed.\nDelivered April 19, 1893.",
+        "type": "majority",
+        "author": "KEY, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Harris & Saunders, for appellants.",
+      "Monteith & Furman, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "W. S. Jones and Wife v. Dan Robbins.\nNo. 153.\n1. Case Adhered to.\u2014Jones v. Robbins, 74 Texas, 615, adhered to, touching sale of homestead by an agent under power of attorney not acknowledged by the wife.\n2. Abandonment of Homestead.\u2014See facts held sufficient to sustain a verdict against the homestead, on ground of abandonment.\n3. Same\u2014Evidence\u2014Recitals.\u2014In a power of attorney signed by husband and wife, but not acknowledged by privy acknowledgment of the wife, was the recital, \u201cbeing about to remove from said county and State.\u201d The parties were not then residing upon the land. Held, that such recital was competent hr show intent, as neither made explanation or denial upon the trial.\nAppeal from Bell. Tried below before Hon. W. A. Blackburn.\nHarris & Saunders, for appellants.\nAn instrument which purports to be the power of attorney conferring on an agent authority to sell and convey the homestead, signed by the husband and wife, which is not authenticated by the certificate of the proper officer, showing that the wife was examined privily and apart from her husband and that the instrument was explained to her, confers no authority on said agent to transfer the land, and a deed made by virtue of such a power of attorney is absolutely void. Jones v. Robbins, 74 Texas, 615; Johnson v. Bryan, 62 Texas, 624; Langton v. Marshall, 59 Texas, 296; Ruleman v. Pritchett, 56 Texas, 483; Mills v. Von Boskirk, 32 Texas, 362; Berry v. Donley, 26 Texas, 744; Smith v. Elliott, 39 Texas, 210.\nMonteith & Furman, for appellee.\nThe question of abandonment was a question of fact for the jury, who were judges of the weight of the evidence and credibility of the witnesses; and the evidence showing that before leaving the place, both W. S. and Rosa Jones expressed an intention never to return, and their continued and subsequent action following corroborates said statements. Clarke v. Pearce, 80 Texas, 146; Moore v. Rogers, 84 Texas, 1; Hardware Co. v. Kaufman & Runge, 77 Texas, 131; Krohn v. Heyn, 77 Texas, 319; Bell v. Boyd, 76 Texas, 133; Prescott v. Linney, 75 Texas, 615; De Cordova v. Bahn, 74 Texas, 643; Wolf v. Brass, 72 Texas, 133; Jacobs, Bernheim & Co. v. Hawkins, 63 Texas, 1."
+  },
+  "file_name": "0200-01",
+  "first_page_order": 226,
+  "last_page_order": 228
+}

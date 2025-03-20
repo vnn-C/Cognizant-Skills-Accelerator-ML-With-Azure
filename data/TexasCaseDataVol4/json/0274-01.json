@@ -1,0 +1,103 @@
+{
+  "id": 223773,
+  "name": "A. J. Ward et al. v. Thomas Goggan & Brother",
+  "name_abbreviation": "Ward v. Goggan",
+  "decision_date": "1893-10-12",
+  "docket_number": "No. 301",
+  "first_page": "274",
+  "last_page": "276",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Tex. Civ. App. 274"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "54 N. H., 125",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        475444
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nh/54/0125-01"
+      ]
+    },
+    {
+      "cite": "65 Barb., 524",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2267459
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/65/0524-01"
+      ]
+    },
+    {
+      "cite": "50 Cal., 101",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2318098
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal/50/0101-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 332,
+    "char_count": 5518,
+    "ocr_confidence": 0.557,
+    "pagerank": {
+      "raw": 2.91465846699543e-07,
+      "percentile": 0.8460620677112836
+    },
+    "sha256": "966c15ca072cced2463d3d08933d2d5c75816c0407c36b2e0f0223e02570456b",
+    "simhash": "1:4364b0d38a3b4993",
+    "word_count": 965
+  },
+  "last_updated": "2024-02-27T18:01:03.208661+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "A. J. Ward et al. v. Thomas Goggan & Brother."
+    ],
+    "opinions": [
+      {
+        "text": "PLEASANTS, Associate Justice.\nThis is an appeal from the County Court of Galveston County. The appellees, creditors of the appellant A. J. Ward, instituted garnishment proceedings against the Phoenix Insurance Company, as the debtor of Ward, and the latter, with John N. Gilbert and L. R. Levy as his sureties, replevied the debt due him from the insurance company, and in defense to appellees\u2019 garnishment answered, that the money due him was the insurance upon household furniture and other exempt property insured by him in said company, and which property had been accidentally destroyed by fire, and that said money was exempt from garnishment.\nUpon trial of the case, judgment was rendered for appellees, against Ward and his sureties upon his replevy bond, for their debt. The piano was insured with the household furniture, and it is admitted that appellees held a valid lien on it for the payment of their debt; and the sole question submitted by counsel for our decision is, Does the law protect from garnishment, at the suit of a creditor, money due his debtor for loss of personal property, upon policy of insurance against fire taken by the debtor, the property itself being exempt by law from execution ?' While this precise question has never, we believe, been decided by the Supreme Court of this State, we have no hesitation in saying that the question must be answered in the affirmative. It is well established law, that money due for loss by fire of the dwelling upon a homestead is protected from the claims of creditors, and even from the claim of a creditor who held a mechanic\u2019s lien upon the dwelling. Cameron v. Fay, 55 Texas, 59. The general rule is, that when exempt property is involununtarily exchanged, the newly acquired article becomes exempt, whether it were so or not prior to such exchange. The creditor can lose nothing by the exchange, unless he have a lien upon the property, and if he fail to insure himself against loss, it is his, and not the debtor\u2019s, fault; and we can see no reason why the law should permit him to reap benefit from the prudence of his debtor, to the loss and injury of the latter. The debtor in this case was under no obligation to his creditor to insure the property.\nIf it be the policy of the law to protect from the claims of creditors money due as insurance upon the dwelling house of a family, it logically follows that like protection should be given to money due upon insurance taken upon personal property situate in the dwelling, and necessary for the comfort of the family, and which is itself exempt from forced sale. It is not our province to sit in judgment upon the wisdom or justice of our exemption laws. That is a matter foreign to the question presented for our consideration. In reaching our conclusion we have, we think, followed the judicial trend not only of this State, but of a great majority of the States in which this subject has been considered and decided. The only decision we have found which is not in harmony with the one we make in this case is that cited by the appellees from the Supreme Court of New Hampshire. The courts of that and of several other of the New England States have construed strictly laws exempting property from execution; while in this, as well as in most of the States of the Union, such laws have, received a liberal interpretation. In the language of Ex-Chief Justice Willie (Schneider & Bro. v. Bray), in cases of involuntary exchange of property, the newly acquired article becomes exempt, whether it is of a class originally protected from execution or not; as when exempt property is destroyed by Are, insurance money due for the loss of property is exempt; and in such cases it makes no difference whether the article destroyed .be a piece of personal property or the dwelling house upon the homestead.\nDelivered October 12, 1893.\nThe judgment of the lower court is reversed, and judgment is here rendered for appellants; that appellees take nothing by their garnisment, and that appellants recover their costs in this and the County Court.\nReversed and rendered.",
+        "type": "majority",
+        "author": "PLEASANTS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "James B. & Qharles J. Stubbs, for appellants,",
+      "Labatt & Labatt, for appellees,"
+    ],
+    "corrections": "",
+    "head_matter": "A. J. Ward et al. v. Thomas Goggan & Brother.\nNo. 301.\n1. Insurance Money on Exempt Property Protected from Gar- \u25a0 nishment.\u2014The law protects from garnishment at the suit of a creditor money due his debtor for loss of personal property upon policy of insurance against fire, taken out by the debtor, when the property itself was exempt from execution.\n2. The Insurance Money is Exempt, Though Creditor had a. Lien upon it.\u2014It is admitted that appellees had a valid lien upon the piano \u25a0 insured, but this does not alter the rule. We can see no reason why the law should permit the creditor to reap a benefit from the prudence of his debtor, to \u25a0 the loss and injury of the latter.\nAppeal from Galveston.\nTried below before Hon. War. B. Lockhart, . County Judge.\nJames B. & Qharles J. Stubbs, for appellants,\ncited and commented on Watkins v. Davis, 61 Texas, 414; Cameron v. Fay, 55 Texas, 59; Porter v. Porter, 2 Willson\u2019s C. C., secs. 434, 435; Robinson v. Robertson, 2 Willson\u2019s C. C., sec. 253, and cases cited; Kingsland v. McGowan, 3 Willson\u2019s C. C., sec. 32; Schneider v. Bray, 59 Texas, 672; Rev. Stats., art. 2335; Howard v. Tandy, 79 Texas, 450; Thomp. on Home, and Exemp., secs. 750, 784; Houghton v. Lee, 50 Cal., 101; Cooney v. Cooney, 65 Barb., 524.\nLabatt & Labatt, for appellees,\ncited Wooster v. Page, 54 N. H., 125; Mason v. Bumpass, 1 W. & W. C. C., sec. 1339; Bigger v. Jones, 3 Willson\u2019s C. C., sec. 227."
+  },
+  "file_name": "0274-01",
+  "first_page_order": 298,
+  "last_page_order": 300
+}

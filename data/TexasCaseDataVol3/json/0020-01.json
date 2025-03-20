@@ -1,0 +1,66 @@
+{
+  "id": 221184,
+  "name": "The International & Great Northern Railway Company v. H. W. Hynes et al.",
+  "name_abbreviation": "International & Great Northern Railway Co. v. Hynes",
+  "decision_date": "1893-03-08",
+  "docket_number": "No. 91",
+  "first_page": "20",
+  "last_page": "22",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 20"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 337,
+    "char_count": 5813,
+    "ocr_confidence": 0.534,
+    "pagerank": {
+      "raw": 1.3323663764053648e-07,
+      "percentile": 0.629182241899045
+    },
+    "sha256": "816ec757e8c1f4cd20cd9f35bb661197adff56b02b944e86f20e1eeaff321f42",
+    "simhash": "1:27e407beaaf65591",
+    "word_count": 962
+  },
+  "last_updated": "2023-07-14T18:08:23.206239+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The International & Great Northern Railway Company v. H. W. Hynes et al."
+    ],
+    "opinions": [
+      {
+        "text": "KEY, Associate Justice.\nThis is a suit by appellees to recover damages from appellant for injuries to 79 head of horses, alleged to have been shipped from San Antonio, Texas, to Tuscaloosa, Alabama.\nThe petition charges, among other grounds for recovery, that there was unreasonable delay on the part of appellant in the transportation of the horses.\nThe testimony shows that the principal delay occurred at Waverly, Louisiana. Appellant pleaded, and there was testimony tending to show, that said delay was caused by atmospheric influences on the telegraph wires, beyond appellant\u2019s control, rendering it impossible for its train master to communicate with its employes at Waverly in charge of the train upon which the horses were loaded. The testimony of the witness Bond tended to support this theory.\nWhile the court, in general terms, instructed the jury in reference to acts of God and inevitable accidents, it did not affirmatively submit to the jury the question presented by that part of appellant\u2019s answer seeking to excuse the delay because of its inability to communicate with and direct its employes in charge of the train; and appellant asked the court to give the following special instruction, which was refused:\n\u201cThe defendant asks the court to instruct the jury, that if they find from the evidence that the plaintiffs\u2019 horses were damaged by reason of a delay of a train upon which the said horses were being carried, and if they further believe that the said delay was caused by reason of the inability of the servants of the railway company to send telegraphic directions to the conductor in charge of the train upon which plaintiffs\u2019 horses-were being carried, and if they further believe the telegraph wires were in good order, but that the atmospheric disturbances then existing prevented the sending of such messages, then you will find your verdict against the plaintiffs and for the defendant upon the question of the damages arising from such delay.\u201d\nThis action of the court is assigned as error.\nThe pleadings and evidence called for a charge submitting this question affirmatively to the jury; and while the special charge asked may have been defective, in that it omitted to inform the jury, that if the-delay occurred as therein recited, to be excusable appellant must have exercised due care to protect the property against injury, still it was sufficient to direct the attention of the court to an omission in the main charge.\nWhile the rule is, that a common carrier is an insurer of property when received for shipment, and will not be excused for its nondelivery unless-it be shown that its loss was occasioned by an act of God or the public-enemy, or resulted from inherent vice in the property, the rule is different when the property is transported and delivered, and it is sought to-hold the carrier liable for injury resulting from delay. Where the property is actually transported and delivered, but the time of delivery was delayed, such delay, if resulting from causes beyond the control of the carrier, may be excused. If under such circumstances the carrier exercises due care for the protection and preservation of the property, he will not be liable. Railway v. Levi, 76 Texas, 337.\nIt is a matter of common knowledge, that the telegraph is an important factor in railway business. Through its instrumentality the movements of many trains are directed by one person; and it can readily be understood, that when a train reaches a station at which it is to receive orders to govern its further movements, if such orders are not received, it might be gross negligence for the train to proceed on its journey and incur the obvious risk of collision with another train. Delay under such circumstances might be absolutely necessary for the protection of human life; and if the failure to receive orders for the movement of the train is caused by atmospheric or other influences beyond the carrier\u2019s control, rendering unavailable the telegraph wires, such delay would be excused upon the same principle that excuses delay beyond the control of the carrier when caused by strikes or mobs, as announced in the case just cited. And it is immaterial whether such unavoidable failure of the telegraph wires be attributed to the act of God or not. If beyond the carrier\u2019s control, it excuses, regardless of the agency producing such failure.\nNearly all other assignments of error relate to certain written contracts pleaded by appellant, but which do not appear to have been introduced in evidence, and for this reason such assignments will not be considered.\nBecause the court failed to correctly instruct the jury as pointed out above, the judgment will be reversed and the cause remanded.\nReversed and remanded.\nDelivered March 8, 1893.",
+        "type": "majority",
+        "author": "KEY, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Barnard & Green, for appellant,",
+      "Denman & Franklin, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "The International & Great Northern Railway Company v. H. W. Hynes et al.\nNo. 91.\n1. Common Carrier \u2014 Atmospheric Influences Excusing Delay. If the failure to receive orders for the movement of the train, on which were shipped a number of horses injured by delay in the shipment, is caused by atmospheric or other influences beyond the carrier\u2019s control, rendering unavailable the telegraph wires, such delay would be excused. If the delay was induced by causes beyond the carrier\u2019s control, it is excused, regardless of the agency producing such failure or delay.\n2. Material Issue.\u2014There being testimony tending to show that the delay complained of in the shipment of the horses was caused by atmospheric influences, it was error to refuse to charge the jury upon such issue. To render such delay excusable the carrier must have exercised due care to protect the property against injury pending the delay.\nAppeal from Medina. Tried below before Hon. Thos. M. Paschal.\nBarnard & Green, for appellant,\nDenman & Franklin, for appellees."
+  },
+  "file_name": "0020-01",
+  "first_page_order": 46,
+  "last_page_order": 48
+}

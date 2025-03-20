@@ -1,0 +1,66 @@
+{
+  "id": 219164,
+  "name": "A. D. Moores & Wife v. John Linney et al.",
+  "name_abbreviation": "Moores v. Linney",
+  "decision_date": "1893-02-16",
+  "docket_number": "No. 66",
+  "first_page": "293",
+  "last_page": "295",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 293"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 434,
+    "char_count": 7597,
+    "ocr_confidence": 0.566,
+    "pagerank": {
+      "raw": 6.095130193347235e-08,
+      "percentile": 0.38050268567781365
+    },
+    "sha256": "1611db3385f5239ec319bdc68fa6b8f86667a16df6767902076de1674965c787",
+    "simhash": "1:922bae0905919f08",
+    "word_count": 1306
+  },
+  "last_updated": "2023-07-14T16:01:39.065288+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "A. D. Moores & Wife v. John Linney et al."
+    ],
+    "opinions": [
+      {
+        "text": "GARRETT, Chief Justice.\nThis case turns upon the sufficiency of the certificate of acknowledgment to a power of attorney, which appears to have been executed by Isabella Moores and her husband, A. D. Moores, to one John R. Peterson, authorizing him to make conveyance of the land in controversy, which was the separate property of Mrs. Moores by inheritance from her father and mother, James and Susan Philips. The certificate is as follows:\n\u201c The State of Texas, Nueces County.\u2014Before me, Cornelius Cahill, a justice of the peace and ex officio notary public in and for said county, personally came Albert D. Moores, to me well known, and to me acknowledged that he executed the foregoing instrument of writing, dated October 25, 1877, and that he signed, sealed, and delivered the same for the purposes and considerations therein stated.' Also personally came Mrs. Isabella Moores, wife of the said Albert D. Moores, parties to the foregoing power of attorney or.instrument of writing, dated the day and year above written, who having been examined by me privily and apart from her said husband, and the said instrument having been fully to her, acknowledged the same to be her own act and deed, and that she willingly signed, sealed, and delivered the same for the purposes, uses, and considerations therein stated, and that she wished not to retract.\n11 In testimony whereof, I hereunto sign my name and affix my notarial seal, this October 25, 1877.\n[Seal] \u201c C. Cahill,\n\u201cJustice of the Peace and Ex Officio Notary Public.\u201d\nThe objections urged to the certificate are:\n1. It does not appear that Mrs. Isabella Moores was known to the officer who took the acknowledgment to be the person who executed the instrument.\n2. It does not appear from the certificate of the notary that the contents of the instrument were fully explained to the said Isabella Moores.\n3. It does not appear from the certificate that Mrs. Moores stated to the officer that she wished not to retract said instrument.\nWe are of the opinion that the certificate of acknowledgment was fatally defective on account of the omission of the word \u201c explained \u201d in the certificate of the officer. McKie v. Anderson, 78 Texas, 210; Huff v. Webb, 64 Texas, 284.\nThe third objection is not well taken. About the first we express no opinion.\nDefendants in their answer set up the payment of the purchase money by them and the receipt thereof by Mrs. Moores, and prayed that she be compelled to return it, with interest, before she should be allowed to recover the land. An exception to this portion of the answer was overruled; and the court admitted testimony, over the objections of appellants, that Peterson, the attorney in fact, received the sum of \u00a72434.50 as the purchase money of the land in controversy, and paid the same to the heirs of James Philips, deceased; and that A. D. Moores received for his wife from Peterson \u00a7350 on account of all lands sold by him in Refugio and Goliad Counties.\nNeither the allegations in the answer nor the proof admitted by the court presented any defense to a recovery of the land by Mrs. Moores.\nThe case was tried below without a jury, and it appears from the evidence that the interest of Mrs. Moores in the land is seven-twenty-fourths, and that its rental value is 5 cents per acre.\nJudgment of the court below will be reversed as to the appellants and here rendered in favor of Mrs. Moores for an undivided interest in seven-twenty-fourths of the land in controversy, and all costs except her proportional share of costs of partition; and that the cause be remanded for partition and setting apart to Mrs. Moores of the seven-twenty-fourths of said land here decreed to her; and the District Court will ascertain and adjust the rents and improvements in accordance with the statute.\nReversed, and reformed, and remanded for partition.\nDelivered February 16, 1893.\nJustice Pleasants did not sit in this case.",
+        "type": "majority",
+        "author": "GARRETT, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "G. E. Pope and D. D. Claiborne, for appellants.",
+      "T. P. Holliday, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "A. D. Moores & Wife v. John Linney et al.\nNo. 66.\n1. Certificate of Acknowledgment of a married woman being objected to, upon the ground that it did not appear therefrom that the wife was known to the officer who took the acknowledgment to be the person who executed the instrument, no opinion is expressed, the certificate being held invalid on another ground.\n2. Same\u2014Fully Explained.\u2014The officer having failed to certify that the instrument was fully explained to the wife, the acknowledgment is held defective for that reason. Following McKie v. Anderson, 78 Texas, 210.\n3. Same\u2014Wished not to Retract.\u2014The language of the closing part of the certificate being \u201cand that she wished not to retract,\u201d the absence of the word \u201c it\u201d does not invalidate the certificate.\n4. Return of Purchase Money.\u2014Suit being by Mrs. Moores, as heir of the former owner, for her interest in the lands in controversy, and the power of attorney given by her and her husband to Peterson being invalid, the fact that Peterson received the purchase money of the land in controversy, and that A. D. Moores received for his wife from Peterson \u00a7350 on account of all lands sold by him in Refugio and Goliad counties, does not make it necessary that the wife should be compelled to return her proportion of the purchase money, with interest, before she could recover her interest in the land.\n5. Reversed and Rendered.\u2014The interest of Mrs. Moores fixed, and case reversed and rendered in her favor.\nAppeal from Goliad. Tried below before Hon. H. Cl at Pleasants.\nG. E. Pope and D. D. Claiborne, for appellants.\n1. On October 25, 1877, the law required that the officer taking an acknowledgment should note in his certificate that the person making such acknowledgment was known to him, or that he had satisfactory evidence of her identity, which evidence should be stated in his certificate. Rev. Stats., arts. 4309, 4316; Pasch. Dig., art. 5010; Hayden v. Moffatt, 74 Texas, 647; McKie v. Anderson, 78 Texas, 210; Schramm v. Gentry, 63 Texas, 583.\n2. A deed or other instrument conveying or granting power to convey land, the separate property of a married woman, is inoperative as a conveyance, and not entitled to record, unless acknowledged by her after privy examination and a full explanation of the instrument to her, as required by statute. O. & W. Dig., art. 207; Pasch. Dig., art. 1003; Murphy v. Scarborough, 59 Texas, 495; Jones v. Robbins, 74 Texas, 615; Huff v. Webb, 64 Texas, 284; Rev. Stats., arts. 4310, 4313; Langton v. Marshall, 59 Texas, 296; Johnson v. Bryan, 62 Texas, 623.\n3. An instrument which conveys or authorizes the conveyance of the separate property of a married woman, if defectively acknowledged, is void, and can not be the basis of an equity, unless she is guilty of some positive act of fraud or concealment, which must be proven by the party asserting it. Johnson v. Bryan, 62 Texas, 623; Berry v. Donley, 26 Texas, 738; Fitzgerald v. Turner, 43 Texas, 79; Williams v. Ellingsworth, 75 Texas, 480.\n4. When there is no dispute as to the facts, the Supreme Court may render the judgment which should have been entered by the court below. Wells v. Littlefield, 62 Texas, 28; McKinney v. Moore, 73 Texas, 470.\nT. P. Holliday, for appellees.\nThe court did not err in admitting in evidence the power of attorney from Moores and wife and others to Peterson, of date October 25, 1877, to sell land in this State, because it sufficiently authorized Peterson to sell and convey land, and was sufficiently and properly acknowledged for record. Belcher v. Weaver, 46 Texas, 293; Durst v. Daugherty, 81 Texas, 650; Watkins v. Hall, 57 Texas, 1; Gray v. Kauffman, 82 Texas, 65."
+  },
+  "file_name": "0293-01",
+  "first_page_order": 319,
+  "last_page_order": 321
+}

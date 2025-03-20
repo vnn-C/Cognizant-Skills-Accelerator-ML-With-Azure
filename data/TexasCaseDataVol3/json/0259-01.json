@@ -1,0 +1,73 @@
+{
+  "id": 220972,
+  "name": "Morris Newberger & Sons v. August Heintze & Co.",
+  "name_abbreviation": "Morris Newberger & Sons v. August Heintze & Co.",
+  "decision_date": "1893-05-04",
+  "docket_number": "No. 158",
+  "first_page": "259",
+  "last_page": "261",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 259"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "31 N. W. Rep., 513",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 366,
+    "char_count": 7447,
+    "ocr_confidence": 0.516,
+    "pagerank": {
+      "raw": 1.0678041250728425e-07,
+      "percentile": 0.5590003509857139
+    },
+    "sha256": "7ab2e76a032791e7def63192a06675298a5007afa5592399d0fa14ec6ba807fe",
+    "simhash": "1:3b633fa00357825e",
+    "word_count": 1283
+  },
+  "last_updated": "2024-02-27T16:31:46.217873+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Morris Newberger & Sons v. August Heintze & Co."
+    ],
+    "opinions": [
+      {
+        "text": "WILLIAMS, Associate Justice.\nAppellants, a mercantile firm of Philadelphia, sued the firm of August Heintze & Co. for a balance due on an open account of $1440. It was alleged by appellants, that the firm of August Heintze & Co. was composed, when the debt was contracted, of August Heintze, H. W. Speckles, and R. Aschen, Sr. Heintze and Aschen made default, but H. W. Speckles filed an answer under oath, denying the partnership, and denying that he was ever a member of such partnership. Upon this issue the case was tried, and after the evidence was closed the court directed a verdict for defendant Speckles, which was returned, and judgment was rendered for plaintiffs for the amount \u00f3f the account against Heintze and Aschen, and in favor of Speckles.\nAfter a careful consideration of the points raised, the court is of the opinion that the judgment ought to be reversed for the following reasons:\n1. The court erred in excluding that part of the testimony of the witness Lovis in which he stated, that he had been introduced to Speckles as one of the partners of the firm of August Heintze & Co. It is true the witness gave this statement as his best recollection only, and could not state the time, place, and circumstances of the introduction, nor the name of the party who introduced him, nor the language used; but these facts all affected the credibility of the witness and the weight to be attached to his statements, and not the admissibility of the testimony.\n2. There was error in the refusal of the court to allow the plaintiffs\u2019 counsel to show to Heintze, while testifying as a witness, and denying that Speckles was a partner, written statements, previously made by the witness, naming Speckles as a member of the firm; and to ask him if such statements were true or false, and to examine him fully concerning the conflict between those statements and his testimony given on the stand. Though the plaintiffs introduced the witness, his relations to Speckles and the other circumstances of the case, considering the difference between Ms evidence and previous statements, was such as to make it proper for the court to allow plaintiffs to interrogate him fully on the subject, and to call for such explanation of his previous statements as he might be able to give. Of course Ms statements made before the trial were not evideuce against Speckles, but plaintiffs had the right to use them in the examination of the witness.\n3. The court erred in instructing a verdict for defendant. There was some evidence tending to show a partnership, which should have been left to the jury. The court can properly give such an instruction only when there is no evidence tending to establish the fact in issue. The evidence may have been weak, but there was some evidence of a partnership. The explanations made of such circumstances as plaintiffs relied on came from the alleged partners themselves, and the jury should have been left to weigh them in connection with the other evidence.\nThe evidence of the witnesses Ehlinger, Willrich, Tracy, Gorse, and Newberger, and the petition, citation, and judgment in the case of Heintze & Co. v. Western Union Telegraph Company, were properly excluded. This evidence either consisted of or was based upon statements of Heintze and his agent, Seibrecht.\nSpeckles was not shown to have had any knowledge of the statements thus made, that he was a member of the firm. It is well settled, that the fact of partnership can not be proved against one by the statements of other members, made without his knowledge or concurrence.\nThe assignment as to the overruling of the motion for new trial based upon newly discovered evidence will not arise on another trial.\nReversed and remanded.\nDelivered May 4, 1893.",
+        "type": "majority",
+        "author": "WILLIAMS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "John T. Duncan and W. S. Robson, for appellants.",
+      "Brown, Lane & Jackson, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Morris Newberger & Sons v. August Heintze & Co.\nNo. 158.\n1. Proof of Partnership. \u2014 Issue being whether S. was a partner of the firm of H. & Co., evidence of a witness who stated that he had been introduced! to S. as one of the partners of the firm of H. & Co., was admissible, although he could not state the time, place, and circumstances of the introduction, and only gave the statement as his best recollection. These facts affected the credibility of the witness, and the weight to be given his statements, but not the admissibility of the testimony.\n2. Cross-Examination by Party of His Own Witness. \u2014 Though plaintiffs introduced H., one of the partners, as a witness, who testified that S . was not a partner, he could be shown statements in writing made by him in which he had named S. as a partner, and be asked if they were true or false, and fully examined concerning the conflict between those statements and his testimony on the stand. His statements made before the trial were not evidence against S... but plaintiffs had the right to use them in the examination of the witness.\n3. Verdict, When Court may Instruct one for Defendant. \u2014The court erred in instructing a verdict for the defendant. There was some evidence to show a partnership. The explanation of such circumstances as plaintiffs relied on came from the alleged partners themselves, and the jury should have been left to weigh them in connection with the other evidence. The court can properly give such instruction only when there is no evidence tending to establish the fact in issue.\n4. Partnership not Proved by the Statements of Members of.\u2014 The record papers in a suit of H. & Co. v. Telegraph Co., and statements of H. and his agent, of which statements S', is not shown to have had any knowledge, to the effect that S. was a member of the firm of H. & Co., were properly excluded. It is well settled that the fact of partnership can not be proved against one, by the statements of the other members, made without his knowledge or concurrence.\nAppeal from Fayette. Tried below before Hon. H. Teichmullerv\nJohn T. Duncan and W. S. Robson, for appellants.\n1. The court erred in instructing the jury to find a verdict in favor of the defendant. H. W,. Speckles, because the evidence tending to establish a partnership was sufficient so far as third parties are concerned, and the court erred in withdrawing that issue from the jury. If a person avows a partnership op holds himself out as a partner, though in point of fact no partnership exists, he is liable to a creditor who contracts with the firm. Crozier v. Kirker, 4 Texas, 258; 3 Kent, Lect. 43, pp. 32, 33; Am. Dig. 1887, 966, sec. 20; Cirkel v. Ellis, 31 N. W. Rep., 513.\n2. The plaintiffs offered to read in evidence petition, citation, and judgment in the case of August Heintze & Co. v. Western Union Telegraph Company, filed in Justice Court July 2, 1890. The petition begins, \u201c The plaintiffs, August Heintze, R. Aschen, and H. W. Speckles, complaining of the Western Union Telegraph Company, say that the plaintiffs are a copartnership doing business at La Grange, Texas, in the firm name of August Heintze & Co.\u2019 \u2019 It having been shown that appellee had avowed and published himself as a partner in the firm, in one of the ways that the law would hold him as a partner, then it was not necessary to show that he expressly authorized said declarations or acts. This authority in law will be presumed from his antecedent acts and declarations. When the partnership or agency is once established, the declaration of any authorized agent within the scope of his authority is admissible. Pars, on Part., 140.\nBrown, Lane & Jackson, for appellees."
+  },
+  "file_name": "0259-01",
+  "first_page_order": 285,
+  "last_page_order": 287
+}

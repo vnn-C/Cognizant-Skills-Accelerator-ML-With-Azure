@@ -1,0 +1,66 @@
+{
+  "id": 227361,
+  "name": "Percy Franklin v. Alexander Campbell et al.",
+  "name_abbreviation": "Franklin v. Campbell",
+  "decision_date": "1893-11-22",
+  "docket_number": "No. 428",
+  "first_page": "174",
+  "last_page": "175",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Tex. Civ. App. 174"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 246,
+    "char_count": 3913,
+    "ocr_confidence": 0.555,
+    "pagerank": {
+      "raw": 4.076306636737454e-08,
+      "percentile": 0.008996375501909945
+    },
+    "sha256": "e221aaa86ebbabc2be8aaa611b4ea29e70136d06308bc9e6326bc9590a7e8e07",
+    "simhash": "1:8c4c95129054e43b",
+    "word_count": 654
+  },
+  "last_updated": "2023-07-14T18:07:14.925501+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Percy Franklin v. Alexander Campbell et al."
+    ],
+    "opinions": [
+      {
+        "text": "KEY, Associate Justice.\nPlaintiffs sued appellant, defendant below, August 22, 1889, in the District Court of Llano County, in trespass to try title for a third of a league of land in said county, granted to James. Campbell as a headright, and patented to James Campbell on July 23, 1847. They claim title as heirs of James Campbell. They alleged the value of the use and occupation of the land to be $500 annually, and asked judgment for that sum from January 1, 1888, the alleged time of eviction.\nDefendant answered, by plea in abatement, that plaintiffs claimed as. heirs of James Campbell, and that administration was pending on his estate; not guilty, and statute of limitation of five years, and improvements in good faith.\nPlaintiffs, by supplemental petition, denied the pendency of administration and that James Campbell\u2019s estate was unsettled.\nDefendant\u2019s plea in abatement was overruled, to which he excepted.\nAfter trial on the merits, judgment was rendered in favor of plaintiffs for the land, and in favor of defendant for $829.40 for his improvements, that being their value after deducting the value of the use and occupation for a period from two years before suit to date of judgment.\nDefendant assigned errors and appeals. Plaintiffs filed cross-assignments of error.\nConclusions of Fact. \u2014 1. The land in question was granted and patented by the State of Texas to James Campbell, on July 3, 1847.\n2. James Campbell, the grantee in the patent above referred to, was. killed by the Indians in 1840 or 1841, and the plaintiffs in this suit are. his only heirs.\nDelivered November 22, 1893.\n3. Administration was opened on said Campbell\u2019s estate in Gonzales County, where he resided at the time of his death; but said administration had been closed long before, and was not pending when this suit was brought.\n4. The judgment appealed from contains the findings of the court below on the defendant\u2019s claim for the value of improvements, except that it does not specifically find that he was a possessor in good faith when he made the improvements. However, the judgment rendered involves such a finding, and we can not say that it is not supported by testimony. We adopt the findings embraced in the judgment.\nConclusions of Law. \u2014 1. The administration on James Campbell\u2019s estate having terminated before this suit was begun, the court below correctly overruled appellant\u2019s plea in abatement.\n2. Appellees having shown that they were the heirs of the James Campbell to whom the land was patented, and there being no evidence to show that Campbell ever parted with his title to the land, the judgment awarding it to appellees is correct.\n3. Appellees\u2019 cross-assignment can not be sustained. The finding of the trial court, that appellant was a possessor in good faith when he made his improvements, is not without testimony to support it. The case cited in 69 Texas, 614 (Parish v. Jackson), is not entirely similar. In that case the defendant\u2019s grantor had no pretense of title from any one who ever-owned the land. In this ease appellant\u2019s grantor held a deed from the tax collector, purporting to convey the land for taxes due thereon by the unknown owner.\nWe find no error assigned, and affirm the judgment.\nAffirmed.",
+        "type": "majority",
+        "author": "KEY, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Miller & Lauderdale, for appellant.",
+      "Harwood & Harwood, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Percy Franklin v. Alexander Campbell et al.\nNo. 428.\n1. Practice \u2014 Overruling Plea in Abatement. \u2014 Where on trial upon the merits facts pleaded in abatement were negatived, it is not material that the plea was overruled.\n2. Tax Deed may Support Possession in Good Faith. \u2014 A defendant's grantor held a deed from the tax collector, purporting to convey the land for taxes due thereon by the unknown heirs. Such holding, with evidence of actual good faith, would support a finding for value of improvements in favor of the defendant in possession.\nAppeal from Llano. Tried below before Hon. W. M. Allison.\nMiller & Lauderdale, for appellant.\nHarwood & Harwood, for appellees."
+  },
+  "file_name": "0174-01",
+  "first_page_order": 200,
+  "last_page_order": 201
+}

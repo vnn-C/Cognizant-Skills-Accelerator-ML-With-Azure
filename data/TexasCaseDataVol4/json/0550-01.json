@@ -1,0 +1,158 @@
+{
+  "id": 223722,
+  "name": "The Gulf, Colorado & Santa Fe Railway Company v. H. N. Haskell",
+  "name_abbreviation": "Gulf, Colorado & Santa Fe Railway Co. v. Haskell",
+  "decision_date": "1893-10-06",
+  "docket_number": "No. 30",
+  "first_page": "550",
+  "last_page": "559",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Tex. Civ. App. 550"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "35 Ark., 622",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1873852
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/35/0622-01"
+      ]
+    },
+    {
+      "cite": "42 Iowa, 314",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "opinion_index": -1
+    },
+    {
+      "cite": "117 Mass., 122",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2136532
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/117/0122-01"
+      ]
+    },
+    {
+      "cite": "27 Iowa, 434",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "opinion_index": -1
+    },
+    {
+      "cite": "49 Iowa, 627",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        2327956
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/iowa/49/0627-01"
+      ]
+    },
+    {
+      "cite": "30 Minn., 465",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        8876627
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/minn/30/0465-01"
+      ]
+    },
+    {
+      "cite": "42 Iowa, 314",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "opinion_index": 0
+    },
+    {
+      "cite": "117 Mass., 122",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2136532
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/117/0122-01"
+      ]
+    },
+    {
+      "cite": "30 Minn., 465",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        8876627
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/minn/30/0465-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 938,
+    "char_count": 25993,
+    "ocr_confidence": 0.575,
+    "pagerank": {
+      "raw": 1.982087985968649e-07,
+      "percentile": 0.7407115241081623
+    },
+    "sha256": "1c23f49e8b8311db0c02b2c0cc96d51d74422c2a604a62e55641969fd8041566",
+    "simhash": "1:a079f0110f05db60",
+    "word_count": 4530
+  },
+  "last_updated": "2024-02-27T18:01:03.208661+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The Gulf, Colorado & Santa Fe Railway Company v. H. N. Haskell."
+    ],
+    "opinions": [
+      {
+        "text": "LIGHTFOOT, Chief Justice.\nThe appellee brought suit in the District Court of Dallas County to recover of appellant damages, upon the following cause of action, as stated in his petition:\n1 \u2018 That appellee is the owner of a tract of land lying in Dallas County, about three miles northeast of the court house, being a part of the John Grigsby league. That on the 1st day of January, 1887, the defendant company constructed its roadbed and track in a northeasterly direction through the county of Dallas, and threw up and graded its roadbed over and across a part of the John Grigsby league and over and across a branch known as Peak\u2019s Branch, a short distance below and to the southeast of appellee\u2019s tract of land, and erected and made an embankment across said Peak\u2019s Branch to the height of twelve feet, extending said embankment for a long distance on each side of said branch. That said defendant company left a small opening in said embankment at the crossing of said branch, of only about twenty feet in width, as an outlet for th\u00e9 surface water for a large scope of territory lying on the northwest of its said roadbed and for the water flowing off through said branch; that said opening was and is wholly insufficient to permit the water to flow off; that the said embankment dams up the natural flow of water and causes the same to overflow and damage plaintiff\u2019s land. That defendant company so \u25a0constructed its said roadbed for a long distance northeast of said Peak\u2019s Branch as to cause the surface water which was accustomed to flow soutlieastwardly in channels lying to the east of said Peak\u2019s Branch, and forced the same to flow over a part of plaintiff\u2019s land and into said Peak\u2019s Branch, thereby injuring plaintiff\u2019s land and increasing the volume of water to be borne off through said Peak\u2019s Branch; that defendant company, by reason of the diversion and obstruction of the natural flow of water as aforesaid, overflowed, washed away, and destroyed ninety panels of plaintiff\u2019s fence, of the value of $100; four hundred blackberry vines, with the fruit thereon, of the value of $400; one-half acre of general garden vegetables, of the value of $100; one-half dozen fruit trees, \u25a0of the value of $20; one acre of millet, of the value of $25; one acre of corn, of the value of $20; one-fourth acre of potatoes, of the value of $50; and injured and damaged plaintiff\u2019s said lands permanently in the \u25a0sum of $2500; the total damage of plaintiff in the sum of $3200.\u201d\nThere was a verdict of a jury and judgment against the defendant \u25a0company, from which it has taken this appeal.\nThe first assignment of error by appellant is as follows:\n\u201c The court erred in allowing the plaintiff\u2019s witnesses Jeff Haskell and \u2022J. M. Browder to state to the jury, over defendant\u2019s objection, that defendant enlarged its trestle and made a wider opening for Peak\u2019s Branch \u25a0after the overflow of 1888, because said evidence was irrelevant and not \u25a0competent, and was calculated to have an undue influence on the jury in arriving at the cause of the overflow; the same being likely to be considered by the jury as an admission on the part of the defendant that the opening was not sufficient, and was the cause of the plaintiff\u2019s land being \u25a0overflowed.\u201d\nThis point was properly raised by objection to the testimony, as shown by defendant\u2019s bill of exceptions. In the case of Gulf, Colorado & Santa Fe Railway Company v. McGowan, reported in 73 Texas, 363, Judge Henry held that such testimony was not admissible. He says: \u201c In this court, in the case of Texas & Pacific Railway Company v. Burns, it was held that such evidence was improper, Judge Watts saying: \u2018As a general rule, upon principle as well as matter of public policy, such evidence ought not to be admitted. It is a matter of common knowledge, that railway tracks and machinery, as well as other instrumentalities used in operating trains, are continually undergoing repairs and being improved. Undoubtedly the public is greatly interested in the continuance of such improvements. Where accidents have directed the attention of the company to a particular portion of the roadbed or other instrumentality that by additional safeguards would be rendered more safe, to hold as a general rule that if the desired improvement is made that the company thereby admits that it has been negligent, would result in deterring the company from ever making an improvement. Indeed, it'would be a harsh rule if every change for the better was to be considered as evidence showing former negligence.\u2019 4 Texas Law Rev., 54, 56; Morse v. Railway, 30 Minn., 465.\u201d\nThe point raised in the second assignment of error is, that \u201c The court erred in permitting plaintiff to prove by himself and his witnesses Jeff Haskell, T. J. Kerr, and W. F. Clark, over defendant\u2019s objection, that 1 in their opinion defendant\u2019s embankment caused the overflow of plaintiff\u2019s land;\u2019 and erred in refusing to rule out their said testimony after allowing them to testify; because said witnesses were not experts, and it bad not been shown by their testimony that they were in position to know the facts such as would justify the court in permitting them to give their said opinions to the jury.\u2019 \u201d\nWe do not think the court erred in admitting this testimony. \u201cAll witnesses must state facts only, except in certain cases in which persons of skill and learning may give their opinion. There are cases, however, in which unskilled witnesses may give their opinions; and there is still another class of cases in which they may do so when they give along with the opinions the facts on which they are founded.\u201d * * *\n\u201c The case of Porter v. Manufacturing Company, 17 Connecticut, 249, resembles very much the one before us. In that case a witness who had long been familiar with a particular region, its streams and the rainfall, was permitted to give his opinion upon the question of whether a dam across a stream had not been raised so high as to be unsafe. The court said: \u2018 The opinions of such persons upon a question of this description, although-possessing no peculiar skill on the subject, would ordinarily be more satisfactory to the minds of the triers than those of scientific men who were personally unfamiliar with the facts of the case. And to preclude them from giving their opinions on the subject, in connection with the facts testified to by them, would be to close an ordinary and important avenue to the truth. * * * On such a question, the judgment of ordinary persons having an opportunity of personal observation, and testifying to the facts derived from that observation, was equally admissible, whatever comparative weight their opinions might be entitled to, of which it would be for the jury to judge.\u2019 \u201d Railway v. Klaus, 64 Texas, 294, 295; Railway v. Hadnot, 67 Texas, 503; Commonwealth v. Sturtivant, 117 Mass., 122.\nThere are a number of other assignments of error in the cause, raising the question in different forms as to what would be the true measure of damages in causes like this, all of which may be considered under one head.\nThe appellee seeks to recover, first, for the value of the products of his land which were destroyed by the overflow; and second, for. what he alleges to be the permanent damages to liis land. The third, seventh, and eighth assignments of error are as follows, and may be considered together:\n\u201c 3. The court erred in permitting the plaintiff Haskell to testify to the value of his fruit trees, blackberries, fence, etc., because plaintiff having sued for permanent injuiy to his land, the measure of damages was the value of his land before and after the overflow, and not the value of the products and things destroyed and the injury to the land.\u201d\n\u201c 7. The court erred in its charge to the jury stating the measure of damages to be \u201c the damages, if any, he (plaintiff) sustained by reason of said overflow, the reasonable value at the time of his garden, fruit trees, growing crops, and vines; and if you are further satifled that the plaintiff\u2019s land was permanently damaged thereby, then you may, in addition, compensate him for such damages, and in estimating this you will look to the evidence before you as to the value of the land thus overflowed or submerged just before and after such overflow, and the difference, if any, will be the amount of his recovery;\u201d because the plaintiff, by his petition, alleges and seeks pecuniary compensation for permanent damage's to the land overflowed, and the proper measure of damages is not the value of the products and things destroyed thereon and the difference in the value of the land before and after the overflow.\n\u201c 8. The court erred in refusing to give to the jury the second special instruction requested by defendant, as follows, viz.: 1 You are instructed by the court, that if you find from the evidence that defendant\u2019s embankment is defective, and that thereby plaintiff\u2019s said land is liable to overflow from occasional heavy rains, but is not permanently injured, nor taken or destroyed, then in this event plaintiff is entitled to recover the damages or injury which his land and other property sustains from the successive overflows when they occur; and in this event plaintiff can only recover in this suit for the damage or injury his said land and property thereon specified in his petition sustained by said overflow of April 27, 1888.\u2019\u201d\nThe testimony of the witness Haskell was properly objected to by appellant, and a bill of exceptions taken. The testimony does not properly set out the value of the crops destroyed.\nWe do not think the measure of damages was properly submitted to the jury. The plaintiff alone testified as to the value of his crops destroyed. He said: u I had about one-half acre in garden vegetables of all kinds; the one-half acre of vegetables was worth $100. I had an acre of com destroyed, which was worth $20; I had about an acre of millet destroyed, worth $25. I estimate my corn at what I expected to make; I expected to make about 75 bushels per acre; I think corn is worth now about 30 cents per bushel. I do not know what millet was grown; I can not guess. I had a pretty stand of corn; I had already plowed it out with double shovels. I believe I was using from my garden onions and radishes. I think I had everything else growing nicely. I have made $100 off my garden every year I have raised a garden. On April 27, 1888, I could not have gotten any millet. I estimate this millet at what I sold for last year, which was $12 per ton. I put the corn at 75 bushels per acre, because I have raised that much on the land.\u201d\nThe testimony of the witness Haskell was properly objected to by appellant, and a bill of exceptions taken. The testimony does not properly set out the value of the crops destroyed. He should have given their value at the time of the destruction, and should have been held to this rule in estimating the damages. It is clearly held by our Supreme Court, in Gulf, Colorado & Santa Fe Railway v. McGowan, 73 Texas, 362, as follows: \u201cThe only correct criterion for ascertaining the value of a growing crop at any period of its existence is to prove what that character of crop was worth at or near the place where it was grown, when you are to make proper estimates and allowances from ascertained or ascertainable facts for the contingencies and expenses attending this from cultivation and care.\u201d See, also, Railway v. Helsley, 62 Texas, 596.\nThe charge of the court upon the measure of damages is correctly set out above in the seventh assignment of error. This charge is not correct, and does not properly present the measure of damage for permanent injury to the land, as applied to this case. The charge asked by appellant called the court\u2019s attention to the question. The plaintiff in his petition alleges, that the defendant \u201cinjured and damaged plaintiff\u2019s said land permanently in the sum of $2500;\u201d but said petition does not show in what such permanent injury consists, but it may be inferred that it consists in the construction of the embankment with insufficient culverts to allow the water to escape. If the damage to a party\u2019s land should consist in washing away the soil, or in washing away his house, or in leaving such deposits upon the land as to render it unfit for cultivation, or the like, this would be such injury as could be recovered for in an action; but where such damages consist in rendering the land liable to overflow in the future, it is such as may or may not occur, and the liability is such as may or may not be removed by the construction of additional culverts and outlets for the water; so that this character of damage is in its nature uncertain, and can not be recovered until the injury actually occurs; and each separate injury renders the party at fault liable for such injury as may then occur.\nIn the case of Gulf, Colorado & Santa Fe Railway Company v. Helsley, 62 Texas, 596, the facts were very similar to the facts in this caes; and Justice Stayton, in commenting upon the charge in that case, says: \u201c The-charge, however, in reference to the measure of damages was incorrect. The charge was as follows: \u2018 If you find for the plaintiff, you will find, for him such a sum of money as the evidence shows he has been damaged, not exceeding the amount of damages alleged. In estimating the damages you find for plaintiff, if any, you will do so by estimating the market value of the land at and just before the time of building the railway and the market value of the same after the injury was done, if any be shown by the evidence to have been done.\u2019 Of this charge we may say, as was said of a similar charge by the Supreme Court of Iowa: \u2018 The rule announced by the court is a proper one when the act complained of takes a part of or effects a change in the realty itself which is the subject of the controversy. In this case no part of the land was taken, nor was any change wrought upon it. The only detriment which the land sustains is its liability to overflow from unusually heavy rains. The true measure of damages is the injury which the land and other property of plaintiff sustains from the successive overflows when they occur/ Van Pelt v. City of Davenport, 42 Iowa, 314.\n\u201c If the appellee\u2019s crops have been destroyed or damaged by the negligence or wrong of the appellant in the matters complained of, then he is-entitled to recover their value; and if his land has been rendered less productive, or otherwise injured, then he is entitled to recover such damage as will be a fair compensation to him for the loss thus sustained; and from time to time, if injury results to him from the negligence or wrong continuing, he will be entitled to relief by a proper action or actions.\u2019 \u2019\nIn the case of Gulf, Colorado & Santa Fe Railway Company v. Tate, 63 Texas, 226, the court, in passing upon a similar charge, says: \u201cNeither the charge given nor the evidence offered were such as to enable the jury to ascertain the true amount of damages the appellant would be entitled to recover. The evidence was based on the idea that the facts out of which the injuries grew were to continue, and the land practically taken for the use of the railway company. It went to show the value of the entire tract before the water was thrown upon it, and its value after-wards. The petition sought damages for injuries already received, and sought relief through which the continuance of the causes which had produced the injuries would be prevented; but the charge of the court and the evidence looked to a case in which the causes of injury were to continue.\u201d And that cause was reversed on that ground.\nIn the case of Sabine & East Texas Railway v. Johnson, 65 Texas, 393, Judge Robertson says: \u201c The measure of damage for negligently damaging the land of another, without permanently taking it, is the value of the products, including the fruit trees destroyed and injury done to the land; but not the difference between the value of the land before and after the overflow.\u201d\nDelivered October 6, 1893.\nThe fourth assignment of error is as follows:\n\u201c The court erred in allowing the plaintiff, as a witness for himself, to-testify, over defendant\u2019s objection, that one Crockett, an engineer, had charge of the construction of\" defendant\u2019s trestle (in 1887) at Peak\u2019s Branch, and that said engineer boarded with plaintiff; and that in a conversation he had with said Crockett while engaged in such construction, that Crockett then told him that said opening was insufficient as an outlet for the water of Peak\u2019s Branch, but that he could not make it wider; that his superior engineer would not let him put in a wider trestle; because said testimony was hearsay and inadmissible, and it was not shown that said Crockett or his superior were the employes and agents of this defendant.\u201d\nWe think the objection to this testimony was well taken, and it should have been excluded. It was not admissible as a part of the res gestee, nor does it come within any exception allowing the admission of hearsay testimony.\nThe points above mentioned dispose of the material questions in the case.\nFor the errors named, the judgment is reversed and the cause remanded.\nReversed, and remanded.",
+        "type": "majority",
+        "author": "LIGHTFOOT, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "Alexander & Clark and J. W. Terry, for appellant.",
+      "Coombs & Cano, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "The Gulf, Colorado & Santa Fe Railway Company v. H. N. Haskell.\nNo. 30.\n1. Evidence \u2014 Public Policy. \u2014 In a suit against a railway company for damages for overflow of land occasioned by the erection of an embankment which diverted the natural flow of surface water, and caused it to overflow and damage plaintiff\u2019s land, where it is alleged that defendant huilt said embankment across a branch, and left an insufficient opening in said embankment at the crossing of said branch, it was held error to admit testimony that the defendant, after the overflow, enlarged its trestle and opening through said embankment. Upon principle, as well as public policy, such evidence ought not to be admitted. See opinion for reasons.\n2. Evidence \u2014 Opinions of Witnesses not Experts.\u2014In such case a witness, not an expert, having testified to facts derived from personal observatian, may testify that in his opinion defendant\u2019s embankment caused the overflow \u25a0of plaintiff\u2019s land. See authorities.\n3. Overflow \u2014 Measure of Damages \u2014 Growing Crops. \u2014 The only correct criterion for ascertaining the value of a growing crop at any period of its existence, is to prove what that character of crop was worth at or near the place where it was grown, when there is to be made proper estimates and allowances. from ascertained or ascertainable facts, for the contingencies and expenses attending this from care and cultivation.\n4. Same\u2014Permanent Injury.\u2014When the act complained of takes a part of or affects a change in the realty itself, the measure of damages to the land is the difference between the market value of the land at and just before the time \u2022of building the railway, and the market value of the same after the injury is done; but where the damages consist in rendering the land liable to overflow in the future, it is such as may or may not occur, and the liability is such as may or may not be removed by the construction of additional culverts for the water, then the character of damage is in its nature uncertain, and can not be recovered until the injury actually occurs; and each separate injury renders the party at fault liable for such injury as may then occur.\n5. Hearsay Evidence. \u2014 The testimony of plaintiff, that the engineer in \u25a0charge at the time of the construction of the trestle told him that the opening was insufficient as an outlet for the water, but that he could make it no larger because his superior engineer would not let him put in a wider trestle, was inadmissible, because it was not a part of the res gestas, and does not come within spy exception allowing the admission of hearsay testimony.\nAppeal from Dallas.\nTried below before Hon. R. E. Bukke.\nAlexander & Clark and J. W. Terry, for appellant.\n1. In the determination of a question of negligence, the evidence should be confined to facts existing at the time or prior to the matter complained of. In the \u25a0construction of its railway and in providing trestles in the same, the appellant could only take into consideration the' experience of the past; and it being one of the issues in the case as to whether the overflow was of such an extraordinary character that appellant ought not reasonably to have expected it, and to have provided against it, evidence only of previous overflows, frequency of their occurrence, etc., should have been admitted. The admission of such evidence is against public policy, because if the rule be established that such evidence is admissible, it will have the tendency to deter the owners of public works from making improvements or alterations in the same, which have been suggested by actual occurrences and experiences, when they know that if the same are made they will be admissible in evidence against them as confessions of previous negligence. Railway v. McGowan, 73 Texas, 355; Railway v. Burns, 4 Texas Law Rev., 54-56; Eli v. Railway, 16 Am. and Eng. Ry. Cases, 342; Hudson v. Railway, 8 Am. and Eng. Ry. Cases, 464; Morse v. Railway, 30 Minn., 465; Cramer v. Burlington, 49 Iowa, 627; Sweetland v. Tel. Co., 27 Iowa, 434.\n2. The statements of these witnesses [see second assignment copied in opinion] were inadmissible, because they were mere guesses, without, foundation in fact. Neither of said witnesses was in possession of any information upon which their opinion could have been founded. They were not experts, and did not pretend to base their opinion on a statement of facts detailed by other witnesses. Such guesses, given under the-sanction of the court as testimony, necessarily created a false impression upon the jury and wrongfully influenced their verdict. Railway v. Seun, 27 Am. and Eng. Ry. Cases, 304; Railway v. Miller, 35 Am. and Eng. Ry. Cases, 190; Half, Wiess & Co. v. Curtis, 68 Texas, 640; Railway v. Klaus, 64 Texas, 293; Rogers on Exp. Test., 7; 1 Green 1. on Ev., sec. 440; Commonwealth v. Sturtivant, 117 Mass., 122; 1 Whart. on Ev., sec. 512, note 10.\n3. When the act complained of takes no part of nor effects a change in the realty itself, and when the only detriment which the land sustains is its liability to overflow from unusually heavy rains, the true measure of damage is the injury which the land and other property sustains from the successive overflows when they occur, and not the difference in the value of the land before and after the overflow and the value of the products destroyed on the land at the time and place of destruction. Railway v. Helsley, 62 Texas, 593; Railway v. Harrington, 62 Texas, 597; Railway v. Tait, 63 Texas, 223; Railway v. Johnson, 65 Texas, 389; Railway v. Pool, 70 Texas, 713; Railway v. Schofield, 72 Texas, 496; Van Pelt v. City of Davenport, 42 Iowa, 314; Railway v. Morris, 35 Ark., 622.\n4. The court erred in allowing the plaintiff, as a witness for himself, to-testify, over defendant\u2019s objection, that one Crockett, an engineer, bad charge of the construction of defendant\u2019s trestle (in 1887) at Peak\u2019s Branch, and that said engineer boarded with plaintiff, and that in a conversation he bad with said Crockett, while engaged in such construction, that Crockett then told him that said opening was insufficient as an outlet for the waters of Peak\u2019s Branch, but that he could not make it wider; that his superior engineer would not let him put in a wider trestle; because said testimony was hearsay and inadmissible, and it was not shown that said Crockett or his superior were the employes and agents of this defendant. Railway v. May, 27 Am. and Eng. Ry. Cases, 151; Railway v. Sulphur, etc., District, 2 Am. and Eng. Ry. Cases, 166.\n5. The measure of damage for destruction of a crop caused by the defective construction of a railway embankment is the value of the crop as it stood on the ground at the time and place of destruction, and not the value of what the crop might have produced if it had not been destroyed. Norvell v. Phillips, 46 Texas, 162; Blanton v. Mays, 58 Texas, 422; Cook v. Dennis, 61 Texas, 246; Railway v. Rider, 62 Texas, 267; Railway v. Bayliss, 62 Texas, 570; Railway v. Holliday, 65 Texas, 521; Railway v. Smith, 73 Texas, 1; Railway v. McGowan, 73 Texas, 355; Railway v. Pape, 73 Texas, 501.\nCoombs & Cano, for appellee.\n\u2014 1. Common observers, nonexperts, may testify to conclusions of facts, when the subject matter can not be described to the jury precisely as it appears to the witness. The court\u2019s discretion in such matters will rarely be revised. Railway v. Hadnot, 67 Texas, 503; Railway v. Klaus, 64 Texas, 294; Commonwealth v. Sturtivant, 117 Mass., 122.\n2. Where the land is permanently injured by the wrongful act of another, the owner is entitled to receive the difference between its value just preceding the injury and its value just after the injury, with interest.\n3. Where the cause of the injury is to continue, the measure of damages is the difference between the value of the land just before and just after the wrongful act, with interest. It is not necessary that the land should be taken, nor that the realty itself should be changed.\n4. Where the value of the crops, fruit trees, vines, etc., and the depreciation in the value of the land, are estimated separately and distinctly by the witnesses, the court should submit such value and depreciation separately. Otherwise the charge would not be applicable to the evidence. Railway v. Schofield, 72 Texas, 498; Railway v. Tait, 63 Texas, 226; Railway v. Pomeroy, 67 Texas, 498; Railway v. Eddins, 60 Texas, 656.\n5. When a statement is admissible for any purpose, it can not be excluded. This statement of an agent of the appellant, made with reference to the work he was then engaged in and at the time he was doing the work, was material as showing notice to himself, and consequently to his. principal, that the embankment would obstruct the waters."
+  },
+  "file_name": "0550-01",
+  "first_page_order": 574,
+  "last_page_order": 583
+}

@@ -1,0 +1,104 @@
+{
+  "id": 227402,
+  "name": "The Western Union Telegraph Company v. S. M. and S. D. Karr",
+  "name_abbreviation": "Western Union Telegraph Co. v. Karr",
+  "decision_date": "1893-11-22",
+  "docket_number": "No. 857",
+  "first_page": "60",
+  "last_page": "63",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Tex. Civ. App. 60"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "10 Wis., 388",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "case_ids": [
+        8709042
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wis/10/0388-01"
+      ]
+    },
+    {
+      "cite": "3 R. I., 88",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        8518770
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ri/3/0088-01"
+      ]
+    },
+    {
+      "cite": "7 Cal., 118",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2236673
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal/7/0118-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 531,
+    "char_count": 9968,
+    "ocr_confidence": 0.553,
+    "pagerank": {
+      "raw": 5.99351890452814e-08,
+      "percentile": 0.3724190097569395
+    },
+    "sha256": "55c0e8367c5678a84d8265ac1b9dd8819bced7af5aebd6a7ea48d99752850f16",
+    "simhash": "1:ae9bdc76a8bdf35c",
+    "word_count": 1722
+  },
+  "last_updated": "2024-02-27T16:31:09.266747+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The Western Union Telegraph Company v. S. M. and S. D. Karr."
+    ],
+    "opinions": [
+      {
+        "text": "HEAD, Associate Justice.\nThe institution of this suit, by filing the original petition and the issuance and service of the citation, within sixty days after the messages were sent, was a substantial compliance with that clause of the contract which provides, that \u201c the company will not be liable for damages in any case where the claim is not presented in writing within sixty-days after sending the message.\u201d Thomp. on Elec., sec. 256; Tel. Co. v. McKinney, 2 Willson\u2019s C. C., sec. 647.\nIn the case last cited, it is held to be necessary to file an amended petition in cases where the institution of the suit is relied upon to show a compliance with this part of the contract, this requirement being treated as a condition precedent, a compliance with which is necessary to be alleged and proven by the plaintiff in order to make out his case. We believe a noncompliance with this provision has generally been regarded in the light of a defense, to be interposed and established by the one relying thereon, and if this be correct, there could be no necessity for filing an amendment, as required by the Court of Appeals, in order to make plaintiff\u2019s cause of action complete. But be this as it may, in this case the amendment was filed and the trial had upon the pleading as so amended.\nWe find no error in the action of the court in permitting S. H. Purcell, the addressee of one of the messages, to testify that if he had received it in time, he would have met Mrs. Karr at the train and assisted her to his house. This was entirely proper, if not necessary, to show that injury had been sustained by the nondelivery.\nThe court did not err in refusing to give the charge requested by appellant, to the effect, that if the messenger boy 11 made numerous and repeated inquiries in Midland * * * as to the whereabouts of S. H. Purcell, and that said inquiries were prosecuted from day to day until said telegrams were delivered to him; and if they further believe that said inquiries were made of the merchants in Midland, and of such other persons who were likely to be cognizant of the whereabouts of said Purcell,\u201d etc.\nThis charge directed the attention of the jury too pointedly to the particular acts of diligence therein relied upon, and we think would have been a charge upon the weight of the evidence. It should have been so framed as to leave the jury to decide, upon a consideration of all the evidence, whether or not appellant had used ordinary diligence to make delivery of the message. In this case the evidence was undisputed, that the addressee was well acquainted, and for three years had resided, in Midland, and it is not pretended that the messenger boy looked for him at his house; and we believe a wrong impression would have been conveyed to the jury had they been told they could find appellant free from negligence under the circumstances detailed in the requested charge as applied to the facts developed by this record.\nThe court, in the charge given the jury, perhaps, required of appellant a higher degree of diligence than is imposed upon it by the law, and appellant seeks to take advantage of this in its proposition under the assignment of error to the refusal of the requested charge above set forth; but this assignment only challenges the refusal of a charge requested by appellant, and not the correctness of a charge already given by the court.\nWe think the court should have either required appellees to remit the exemplary damages found by the jury, or should have granted appellant a new trial, because there was no evidence to sustain a verdict against it for such damage. It is conceded by appellees that in this State the principal is not liable in exemplary damages for the negligence of his agent, unless authorized or ratified by him; and it is only sought to hold appellant in this case for its own alleged negligence in employing the agents who caused the injury.\nThe allegations of appellant\u2019s negligence in this respect are certainly very general, but we have not found it necessary to decide as to whether or not the court erred in refusing to sustain exceptions thereto for that reason, because a careful examination of the record fails to disclose any evidence to sustain such allegations, if held to have been properly made. There is no evidence that either the operator or messenger boy had ever been negligent before or since their employment by appellant, except in this particular instance, much less that appellant either had or should have had notice of such negligence at the time it engaged them. Under these circumstances, we think it clear no case was made for exemplary damages.\nDelivered November 22, 1893.\nWe think the negligence of appellant\u2019s servants in failing to deliver these messages was amply proven, and that it is legally liable for whatever actual damage resulted to appellees therefrom. As a result of the failure to deliver the first message, Mrs. Karr, with her 4-year-old child and a heavy valise, was compelled to find her way on foot from the depot to her friend\u2019s house, a quarter of a mile distant, at 12 o\u2019clock at night, in company with a strange gentleman whom she had requested to assist her, instead of being met at the train by her friend, as would have been the case had appellant performed its duty; and by the failure to deliver the second message, she was exposed to severely cold weather from Midland to Marienfield. Under these circumstances, we are unable to say that a verdict for 8100 actual damage found by the jury is excessive, although no actual sickness resulted from appellant\u2019s acts.\nThe judgment of the court below will be reversed and cause remanded for a new trial, unless appellees, within twenty days, shall file in this court a remittitur of the exemplary damages allowed, in which case it will be affirmed as to the actual damage.\nAffirmed, remittitur having been filed.",
+        "type": "majority",
+        "author": "HEAD, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Gage & Walthall, for appellant.",
+      "Walton, Hill & Walton, also for appellant.",
+      "Thurmond & Yantis, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "The Western Union Telegraph Company v. S. M. and S. D. Karr.\nNo. 857.\n1. Telegraph Company \u2014Stipulated Notice of Claim for Damages \u2014 Filing Suit. \u2014 Filing suit within sixty days against a telegraph company for damages for nondelivery of a message, and service of citation therein, is a sufficient compliance with the stipulation requiring a written claim for damages to be presented within sixty days.\n2. Charge of Court on Weight of Evidence \u2014 Diligence.\u2014A charge giving in detail the efforts of the messenger boy to find the addressee of a telegram, and instructing the jury that if they believe these efforts constituted such diligence as a reasonably prudent man would have exercised, they should find for defendant, is on the weight of evidence. The charge should leave it to the jury to determine, under all the evidence, whether the defendant had exercised ordinary diligence.\n3. Telegraph Company \u2014 Liability for Exemplary Damages.\u2014 Mere failure of the agents of a telegraph company to find the addressee of a telegram will not render the company liable for exemplary damages, where it is not shown that incompetency on the part of such agents was known to the company when they were employed, or that they were retained after it was known.\nAppeal from the County Court of Martin. Tried below before Hon. Ethan Allen.\nGage & Walthall, for appellant.\n1. Judgment can not be rendered for exemplary damages in an action against a telegraph company for failure to promptly deliver a message, when the petition contains no allegation of the acts and circumstances which indicate gross negligence on the part of the company, and also fails to allege the acts of its servants constituting gross negligence, committed by direction of the company, or ratified by it, or that the company has been guilty of gross negligence in the selection and employment of servants whose acts constitute the gross negligence. Railway v. Garcia, 70 Texas, 207; Pilkinton v. Railway, 70 Texas, 226.\n2. The limitations of liability contained in the printed conditions on defendant\u2019s blank forms, requiring presentation of claim for damages in sixty days, are in the nature of contracts and agreements, which are held to violate no rule based on public policy, and are reasonable and obligatory. Tel. Co. v. Rains, 63 Texas, 27; Tel. Co. v. Pells, 2 Texas Law Rep., 247; 2 Willson\u2019s C. C., secs. 44, 647; 3 Willson\u2019s C. C., sec. 220.\nWalton, Hill & Walton, also for appellant.\n1. The court erred in overruling the special exception of defendant to so much of plaintiff\u2019s petition as charged \u201cgross negligence\u201d on defendant\u2019s part in employing Elza White and J. M. Frame, who plaintiffs allege to be wholly unfit to perform the duties of their respective positions, \u201c because of their manner of discharging their duties,\u201d for the reason that plaintiffs failed to allege that the incompetency of either of said employes in their lack of attention to business was known to defendant at the time of, or was ever brought to its attention during the continuance of, said employment. Railway v. Self, 2 Willson\u2019s C. C., sec. 441; Tel. Co. v. Brown, 58 Texas, 170; Railway v. Wint, 74 Texas, 32; Smith v. Tel. Co., 76 Texas, 253; Wardrobe v. Stage Co., 7 Cal., 118; Hagen v. Railway, 3 R. I., 88; Railway v. Finney, 10 Wis., 388.\n2. Filing this suit was not a compliance with the contract stipulation requiring a written notice of the claim of damages to be given within sixty days. Teh Co. v. McKinney, 2 Willson\u2019s C. C., sec. 647; Tel. Co. v. Groslin, 3 Willson\u2019s C. C., sec. 221; Tel. Co. v. Rains, 63 Texas, 27; Tel. Co. v. Culbertson, 79 Texas, 65.\nThurmond & Yantis, for appellees.\n1. Appellant was liable to exemplary damages for gross negligence in the employment of White and Frame, and such negligence was sufficiently averred by appellees. Railway v. Self, 2 Willson\u2019s C. C., sec. 441; Railway v. Wint, 74 Texas, 32; Hays v. Railway, 46 Texas, 272.\n2. Filing suit and service of citation was a compliance with the stipulation for written notice of appellee\u2019s claim. 1 Texas, 326; 28 Texas, 518."
+  },
+  "file_name": "0060-01",
+  "first_page_order": 86,
+  "last_page_order": 89
+}

@@ -1,0 +1,66 @@
+{
+  "id": 221196,
+  "name": "The City of Stephenville v. C. F. Overby",
+  "name_abbreviation": "City of Stephenville v. Overby",
+  "decision_date": "1893-04-26",
+  "docket_number": "No. 756",
+  "first_page": "173",
+  "last_page": "174",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 173"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 185,
+    "char_count": 2569,
+    "ocr_confidence": 0.57,
+    "pagerank": {
+      "raw": 4.076306636737454e-08,
+      "percentile": 0.008897312400472845
+    },
+    "sha256": "cb97fa511a66106a7a11fddf51c2d80b355d33b824657eed86ad1bad74771d86",
+    "simhash": "1:5a48bf2f05bd29d6",
+    "word_count": 451
+  },
+  "last_updated": "2023-07-14T18:08:23.206239+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The City of Stephenville v. C. F. Overby."
+    ],
+    "opinions": [
+      {
+        "text": "HEAD, Associate Justice.\nThis is a proceeding to condemn land for use as a street in an incorporated city, under article 478, Revised Statutes, as amended by the Act of July 13, 1883. The only question presented in the brief is as to the sufficiency of the description of the property sought to be condemned in the condemnation proceedings. In the application to the county judge for the appointment of commissioners, the land is described as \u201c a portion of Race Street, to-wit, about fifty feet on the west side of lot number 104, block number 68, in the city of Stephen-ville, county of Erath, and State of Texas.\u201d In the report of the commissioners the land is described as \u201cfifty feet on the west side of lot-number 104, block number 68, in the city of Stephenville, county of Erath, and State of Texas, being a continuation of Race Street in said, city, running across the west side of said lot.\u201d In the court below appellee demurred to the application of the city for the condemnation of this land, because the description of it was not sufficiently specific, which the court sustained. We believe the court erred in this. We agree with our Court of Appeals in the case of Railway v. Irrigation Company, 1 White & Willson\u2019s Civil Cases, 395, wherein it is said: \u2018 \u2018 The certainty required in such descriptions is of the same nature as that required in conveyances of land, so that a surveyor could go upon the land and mark out the land designated. The taking of the land is in the nature of a conveyance from the owner, and he is entitled to know how much land is. taken from him, and the exact boundaries of what remains.\u201d That the description above referred to would be sufficient in a conveyance, we think there can be but little question. Davenport v. Chilton, 25 Texas, 518; Berry v. Wright, 14 Texas, 270; Cleveland v. Sims, 69 Texas, 153.\nLet the judgment of the court below.be reversed and the cause remanded.\nReversed and remanded.\nDelivered April 26, 1893.",
+        "type": "majority",
+        "author": "HEAD, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Frank & Devine, for appellant.",
+      "No brief for appellee reached the Reporter."
+    ],
+    "corrections": "",
+    "head_matter": "The City of Stephenville v. C. F. Overby.\nNo. 756.\nCondemnation Proceeding \u2014Street\u2014Description of Land.\u2014In a proceeding by a city to condemn land for use as a street, a description in the application, of the property sought to be condemned as \u201c a portion of Race Street, to-wit, about fifty feet on the west side of lot number 104, block number 68, in the city of Stephenville, county of Erath, and State of Texas,\u201d is sufficiently specific.\nAppeal from the County Court of Erath. Tried below before Hon. H. H. Harding.\nFrank & Devine, for appellant.\nNo brief for appellee reached the Reporter."
+  },
+  "file_name": "0173-01",
+  "first_page_order": 199,
+  "last_page_order": 200
+}

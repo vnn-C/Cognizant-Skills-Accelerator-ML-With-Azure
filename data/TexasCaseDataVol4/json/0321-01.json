@@ -1,0 +1,62 @@
+{
+  "id": 223721,
+  "name": "G. B. Harris v. Joe Crabtree",
+  "name_abbreviation": "Harris v. Crabtree",
+  "decision_date": "1893-10-11",
+  "docket_number": "No. 1572",
+  "first_page": "321",
+  "last_page": "321",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Tex. Civ. App. 321"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 149,
+    "char_count": 1560,
+    "ocr_confidence": 0.576,
+    "sha256": "28f8747ebbbda502cb927b2099151721c4a443b8c1b849bd550685df09718d22",
+    "simhash": "1:936f83acb22a595e",
+    "word_count": 272
+  },
+  "last_updated": "2023-07-14T14:53:58.701798+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "G. B. Harris v. Joe Crabtree."
+    ],
+    "opinions": [
+      {
+        "text": "HEAD, Associate Justice.\nThis suit was instituted by appellant, as plaintiff in the court below, against appellees, as defendants, to recover 1180 acres of the Calvin Stockbridge headright. The trial resulted in a judgment in favor of all the defendants, from which this appeal is prosecuted. Numerous errors have been assigned by appellant, but none of them have been copied in his brief, as required by amended Rul\u00e9 29 of the Supreme Court, which was in force at the time of the filing of this record therein, and they can not therefore be considered by us. Chappell v. Railway, 75 Texas, 82; Cooper v. Lee, 1 Texas Civ. App., 9.\nThis\" is also one of the rules adopted by the Supreme Court for this court, and we have no right to disregard it, especially when its enforcement is insisted upon by appellees, as in this case. Rule 29 for Cts. Civ. App., 84 Texas, 701.\nAs we find no error apparent of record which we would be authorized to consider in the absence of an assignment, the judgment rendered by the court below must be affirmed.\nAffirmed.",
+        "type": "majority",
+        "author": "HEAD, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Felix H. Robertson, for appellant.",
+      "S. H. LumpJcin, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "G. B. Harris v. Joe Crabtree.\nNo. 1572.\nAssignments of Error must be Copied in Appellant\u2019s Brief.\u2014 Rule 29, adopted by the Supreme Court for the Courts of Civil Appeals, requires that the assignments of error not waived by appellant shall be copied in his brief, and this rule will not be disregarded, especially where the appellee insists on its enforcement.\nAppeal from Bosque.\nTried below before Hon. J. M. Hall.\nFelix H. Robertson, for appellant.\nS. H. LumpJcin, for appellee.\nDelivered October 11, 1893."
+  },
+  "file_name": "0321-01",
+  "first_page_order": 345,
+  "last_page_order": 345
+}

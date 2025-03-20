@@ -1,0 +1,163 @@
+{
+  "id": 219112,
+  "name": "J. F. Henry et al. v. D. F. Sansom et al.",
+  "name_abbreviation": "Henry v. Sansom",
+  "decision_date": "1893-01-24",
+  "docket_number": "No. 45",
+  "first_page": "150",
+  "last_page": "155",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 150"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "56 Texas 325",
+      "category": "reporters:state",
+      "reporter": "Tex.",
+      "case_ids": [
+        2179561
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/tex/56/0325-01"
+      ]
+    },
+    {
+      "cite": "24 N. J. Eq., 124",
+      "category": "reporters:state",
+      "reporter": "N.J. Eq.",
+      "case_ids": [
+        531107
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nj-eq/24/0124-01"
+      ]
+    },
+    {
+      "cite": "11 Am. Rep., 4",
+      "category": "reporters:state_regional",
+      "reporter": "Am. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "32 Iowa, 543",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "opinion_index": 0
+    },
+    {
+      "cite": "37 Iowa, 325",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        106268
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/iowa/37/0325-01"
+      ]
+    },
+    {
+      "cite": "9 Iowa, 201",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        8664280
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/iowa/9/0201-01"
+      ]
+    },
+    {
+      "cite": "20 Wis., 320",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "case_ids": [
+        8708858
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis/20/0320-01"
+      ]
+    },
+    {
+      "cite": "25 Iowa, 289",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        118868
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/iowa/25/0289-01"
+      ]
+    },
+    {
+      "cite": "116 U. S., 98",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3516089
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/116/0098-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 632,
+    "char_count": 14055,
+    "ocr_confidence": 0.571,
+    "pagerank": {
+      "raw": 2.0145871453474058e-07,
+      "percentile": 0.7446372356071724
+    },
+    "sha256": "72b2dcd8006c5c631ad7453b84084fe6a6027716506a1f86ac8ceb4303ff9a22",
+    "simhash": "1:fbd75e1f6a587f1f",
+    "word_count": 2515
+  },
+  "last_updated": "2024-02-27T19:43:33.086404+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "J. F. Henry et al. v. D. F. Sansom et al."
+    ],
+    "opinions": [
+      {
+        "text": "TARLTON, Chief Justice.\nOctober 11, 1888, the appellants, J. F. Henry, Jim Langston, and S. C. Padelford, as executors of the will of F. M. Sansom, deceased, brought this suit in the District Court of Johnson County, against the appellees, D. F. Sansom, J. G-. D. Boyd, M. Sansom, and A. J. Brown. The plaintiffs sought to recover the amount of a promissory note for the sum of $6347.43, with interest at 12 per cent per annum from date, executed by appellees to F. M. Sansom, since deceased, dated August 23, 1886, and maturing August 23, 1888. The plaintiffs prosecute this appeal from a verdict and judgment dated December 28, 1889, reducing the amount of the note to $5594.70, with 12 per cent interest from date of the judgment.\nOur conclusions of fact are as follows:\n1. August 23, 1886, D. F. Sansom executed and delivered to his uncle, F. M. Sansom, two certain promissory notes; one for $6391.02, with interest at 12 per cent, due one year from date; the other for the sum of $6347.43, with interest at 12 per cent, due two years from date. The former note was executed by D. F. Sansom, J. G-. D. Boyd, M. Sansom, and G-. W. Cotter The latter, which is the note sued on, was made by D. F. Sansom, J. Gr. D. Boyd, M. Sansom, and A. J. Brown. D. F. Sansom was the principal on these notes; the remaining persons were sureties.\n2. F. M. Sansom, payee in these notes, died in the fall of 1886, and the appellants herein were duly appointed executors of his will.\n3. The true and valid consideration for the foregoing two notes, as contended by appellees, was a pre-existing indebtedness aggregating at the date of their execution about the sum of $10,476. This indebtedness was evidenced, as they contend, by two promissory notes; one for the sum of $8778, dated March 1, 1885, and due March 1, 1886, with 12 per cent interest from date; the other for $150, with similar interest, dated January 1, 1886, due October 1, 1886. Appellees introduced evidence in support of this contention.\n4. The consideration for the two notes first referred to, as appellants contend, was a pre-existing indebtedness evidenced by the note for $8778, already mentioned, and by an account for the sum of $3400, with 12 per cent interest, due by D. F. Sansom to F. M. Sansom on a contract and as purchase money for certain stock sold by the latter to the former. The note for $150, referred to by appellees, entered, as appellants contend, in no way into the transaction. Appellants introduced evidence in support of this contention.\n5. According to appellees, the two notes executed exceeded the true indebtedness by about $2262.32. According to appellants, the true indebtedness exceeded the amount of the notes by $1494.20.\n6. October 6, 1887, in the District Court of Johnson County, the appellants herein as plaintiffs, and as executors of F. M. Sansom, deceased,, brought suit against D. F. Sansom, J. G. D. Boyd, M. Sansom, and G. W. Cotter, to recover the amount of the note first maturing for the sum of $6391.02, with interest as therein stipulated. The defendants named appeared in that suit, and filed an agreement in writing, consenting that the court should render judgment against them for the entire amount of the note, principal and interest. June 11, 1888, judgment was rendered embodying this agreement, and reciting that since the institution of the-suit the defendants had paid on the note the sum of $7000, and it decreed a recovery against the defendants for the remainder, $337.09, with interest at 12 per cent per annum from the date of judgment. The remainder thus adjudged was subsequently paid by the defendant D. F.. Sansom.\n7. After the note for $150 matured, the executors of F. M. Sansom. brought suit thereon and recovered judgment. In that suit the defendant D. F. Sansom pleaded in writing that the note sued on had been merged into the two notes executed August 23, 1886, and had been thereby settled, and evidenced no indebtedness against him.\nThe defendant D. F. Sansom urged two special defenses, by both of which he sought, and by one of which, at least, he obtained, a reduction of the note sued upon. These defenses were:\n1. That the notes executed August 23, 1886, including the note in controversy, were in excess of the indebtedness which constituted the consideration for them, and that this excess was due to the mutual mistake of himself and of the payee, F. M. Sansom.\n2. The plea of usury.\nIn response to the first special plea, the court instructed the jury as follows: \u201c If you believe from the evidence that the note sued on and the note for the sum of $6391.02 heretofore sued on and paid, off, as shown by the evidence, was given in settlement of an indebtedness due by defendant D. F. Sansom to F. M. Sansom, deceased, and that by mutual mistake said two notes were executed for a greater sum than D. F. Sansom owed F. M. Sansom, then you will find what sum D. F. Sansom did owe F. M. Sansom, and you will calculate interest at 12 per cent per annum thereon from the date of the execution of said two notes up to the present time, and add said interest to the sum you find D. F. Sansom owed F. M. Sansom; and you will calculate interest at 12 per cent per annum upon the note sued on up to the present time, add the same to the face value of the said note, and add the amount of the sum paid on the note of $6391.02, upon which there was a judgment, and from the amount so obtained deduct the amount from the sum you shall find, if any, due by D. F. Sansom to F. M. Sansom, and render your verdict for the remainder, if any.\u201d\nWe are constrained to hold that this instruction, the giving of which appellants assign as error, fails to meet the purpose of .every charge, namely, to afford the jury the means of applying the law pertinent to the facts about which they are to deliberate and which it is their exclusive province to weigh.\nIn the process of subtraction directed in the concluding clause of the instruction, it is difficult, if not impossible, to infer from the language used what sum was to be regarded as the subtrahend within the meaning of the charge. This confusion doubtless arises on account of a clerical mistake in framing the instruction. The effect, however, is not thereby changed. The jury were left without guidance in their deliberations with reference to this plea of mutual mistake, and if they sought to interpret the charge they were probably misled thereby. We are unable to say, so great was the conflict in the testimony with reference to the main transaction out of which this controversy grows, that this error was not prejudicial to the plaintiffs.\nOn the defendant\u2019s plea of usury, the court instructed the jury as follows: \u201c If you believe that defendants were charged on said note (sued on), or that there was included in said note, interest at a greater rate than 12 per cent per annum, then you will ascertain from the evidence what rate of interest was charged per annum or included in the note sued on; and if you find from the evidence that any interest greater than 12 per cent per annum was included in said note sued on, you will in such event, if you so find, deduct from the amount of the face of the notes the amount of interest over 12 per cent per annum so included, if any, and find for plaintiffs the remainder, without interest.\u201d\nAppellants complain of this instruction for the reason, in effect, that it was not justified by the plea of the defendants seeking to set up the defense of usury; that while said plea purported in name to be a plea of usury, it in fact was not such a plea, because the facts therein alleged indicate that F. M. Sansom was not a party to the contract to pay usury. The allegations of the plea are, substantially, that at the time of the execution of the two notes of $6347.43 and $6391.02, the calculation of the amount of the indebtedness for which they were substituted was entrusted by F. M. Sansom, who was then very ill, to another person; that the interest charged as usurious was inserted in the notes by the person thus entrusted; that when F. M. Sansom was informed of the excessive interest inserted he \u201c declared the same to be wrong, and stated that when said notes for $6347.43 and $6391.02 came to be paid and settled, he desired them to be corrected and settled by reference to the notes of defendant for which they were given, and which were at that time inaccessible because sealed up and deposited in a bank at Alvarado, and that defendants should be charged only 12 per cent interest per annum on what was at that time actually due him, as shown by said notes then in said bank;\u201d and that relying solely on said assurance, the defendant D. F. Sansom signed the two notes.\nIt has been held, \u201c that in construing the usury laws the uniform construction in England has been, and it is equally applicable here, that to constitute usury within the prohibitions of the law there must be an intention knowingly to contract for or to take usurious interest.\u201d Call v. Palmer, 116 U. S., 98; Jones v. Berryhill, 25 Iowa, 289. The allegations of the plea, as we interpret them, exclude the idea that F. M. Sansom was a party to a contract of usury. To state that he should be deemed guilty of violating the law with reference to usury in the face of a repudiation by him of the insertion in the notes of illegal interest, and a positive instruction by him that the maker of the notes should not be held liable for such interest, is, in our opinion, to state a contradiction. A contract, legal or illegal, can not exist in the absence of assent by both parties thereto.\nAppellants\u2019 brief requires that we consider a remaining question, viz.: Will appellees be permitted to ded\u00faet from the note sued on such usurious interest as entered into the note for the sum of $6391.02 first maturing? As we have already seen, the latter note, principal and interest, was reduced to judgment against the appellee D. F. Sansom and others by and with their consent, and this judgment was by him discharged and paid off.\nIt is settled in this State, that usurious interest voluntarily paid may be recovered, and that it may become the subject matter of a counterclaim in a subsequent proceeding on a different indebtedness against the party paying it. Building & Loan Assn. v. Robinson, 78 Texas, 163; Smith v. Stevens, 81 Texas, 461. Where, however, such usurious interest has been collected by virtue of a legal proceeding, in which the defense of usury might have been but was not urged, it must be deemed to have been forever placed beyond the pale of litigation. The judgment is conclusive against a subsequent plea of usury. Moseley v. Smith, 21 Texas, 441; Black on Judg., 759; Herm. on Estop., 47; Heath v. Frackelton, 20 Wis., 320; Traxel v. Clark, 9 Iowa, 201; Miller v. Clark, 37 Iowa, 325; Togood v. Elliott, 32 Iowa, 543.\nWe find no error in the action of the court complained of in appellants\u2019 brief with reference to the admission and exclusion of evidence. We deem it unnecessary to discuss other assignments relied upon by appellants.\nFor the errors pointed out, the judgment is reversed and the cause is remanded.\nReversed cmd remanded.\nDelivered January 24, 1893.",
+        "type": "majority",
+        "author": "TARLTON, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "W. Poindexter, for appellants.",
+      "Crane & Ramsey, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "J. F. Henry et al. v. D. F. Sansom et al.\nNo. 45.\n1. Charge of Court.\u2014The purpose of the charge of the court is to afford the jury the means of applying the law pertinent to the facts about which they are to deliberate, and which it is their exclusive province to weigh. A charge which is confusing and leaves the jury without guidance in their deliberations with reference to a material and disputed issue in the case constitutes reversible error.\n2. Usury\u2014Insufficient Plea.\u2014To constitute usury within the prohibition of the law there must be an intention knowingly to contract for or to take usurious interest. A plea of usury is not good which alleges that the payee of the note sued on requested a third person to calculate the indebtedness due him by the maker, and draw up anote therefor, and that such third person included usurious interest therein without the knowledge or assent of the payee, who, when informed of it after the note was signed, declared it was wrong, and that he desired the note settled for the true amount due him, with lawful interest only.\n3. Usury\u2014Judgment Conclusive Against Subsequent Plea of.\u2014 Usurious interest voluntarily paid may be recovered, or may be offset against another debt between the parties. But when it has been collected by virtue of a legal proceeding in which the defense of usury might have been but was not urged, the judgment in such case is conclusive against a subsequent plea setting \u25a0up such usury in offset against another debt due the judgment creditor.\nAppeal from Johnson. Tried below before Hon. J. M. Hall.\nW. Poindexter, for appellants.\n1. Usury included in the judgment on the former note could not be pleaded in this suit, and the court erred in its charge on this point. Frank v. Morris, 11 Am. Rep., 4; Hannas v. Hawk, 24 N. J. Eq., 124; Warner v. Shed, 10 Johns. (N. Y.), 137; Beach v. Fulton Bank, 3 Wend. (N. Y.), 573; Smith v. Brush, 8 Johns. (N.Y.), 83.\n2. The judgment on the former note is an estoppel against any claim for usurious interest included therein. Crane v. Blum, 56 Texas 325; Foster v. Wells, 4 Texas, 101; Roberts v. Johnson, 48 Texas, 133.\nCrane & Ramsey, for appellees.\n1. The two notes having been executed for the same consideration and at the same time, the usury pleaded was common to both, and could be set up in this suit. Day v. Stone, 59 Texas, 612; Johnson v. Blount, 48 Texas, 38; Hardy v. DeLeon, 5 Texas, 211.\n2. The charge of the court fairly submitted the issue of mistake to the jury, and contained all proper and necessary directions to the jury, in the event they found there was a material mistake, to enable them to find a correct verdict; and the verdict found is correct and meets the justice of the case. Merriwether v. Dixon, 28 Texas, 15; Bowles v. Brice, 66 Texas, 724; Williams v. Conger, 49 Texas, 602; Erwin v. Bowman, 51 Texas, 514."
+  },
+  "file_name": "0150-01",
+  "first_page_order": 176,
+  "last_page_order": 181
+}

@@ -1,0 +1,65 @@
+{
+  "id": 216219,
+  "name": "The Missouri Pacific Railway Company v. A. M. Shipman",
+  "name_abbreviation": "Missouri Pacific Railway Co. v. Shipman",
+  "decision_date": "1892-11-29",
+  "docket_number": "No. 719",
+  "first_page": "407",
+  "last_page": "407",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Tex. Civ. App. 407"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 171,
+    "char_count": 2210,
+    "ocr_confidence": 0.569,
+    "pagerank": {
+      "raw": 1.1850200046748689e-07,
+      "percentile": 0.589805814933612
+    },
+    "sha256": "47ffae2b79eb798d092b5de91519f8523f14d2bb3d11928380df419f8147a536",
+    "simhash": "1:9e4ccc202a617caf",
+    "word_count": 388
+  },
+  "last_updated": "2023-07-14T14:31:22.177647+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The Missouri Pacific Railway Company v. A. M. Shipman."
+    ],
+    "opinions": [
+      {
+        "text": "HEAD, Associate Justice.\nThis suit was instituted by appellee in the Justice Court for Precinct No. 1, Denton County, Texas, to recover of appellant $145 damages, alleged to have been caused him by the killing by appellant of one mare of the value of $75 and one horse of the value of $70. Judgment was rendered in favor of appellee in the Justice Court for the sum of $125, and the case was taken by appellant by appeal to the County Court, and in that court judgment was rendered in favor of appellee for the sum of $145.\nThere is nothing in the transcript showing what the pleadings of the parties were either in the Justice or County Court.\nArticle 1573 of the Revised Statutes provides that, \u201cThe pleadings in the Justice Court shall be oral, except where otherwise specially provided, but a brief statement thereof shall be noted on the docket.\u201d Without something in the record to apprise us what the issues between the parties were, as contained in their pleadings, whether they be oral or written, it is impossible for us to pass upon errors assigned to charges given and refused, or to the admission or rejection of evidence, and we will not undertake to do so. This has long been the practice in this State. Maass v. Solingsky, 67 Texas, 290; Moore v. Jordan, 67 Texas, 394; Silberberg v. Trilling, 82 Texas, 523.\nAs we are unable to see from the record that appellant suffered any injury from the action of the court in the several matters complained of in its assignment of errors, the judgment of the court below must be affirmed.\nAffirmed.",
+        "type": "majority",
+        "author": "HEAD, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "I. D. Ferguson, for appellant."
+    ],
+    "corrections": "",
+    "head_matter": "The Missouri Pacific Railway Company v. A. M. Shipman.\nNo. 719.\nDelivered November 29, 1892.\nPractice in Appellate Court \u2014 Pleadings Necessary in Cases Appealed from Justice Court, when. \u2014 This case was appealed from the Justice to the County Court; but as there is nothing in the transcript showing what were the pleadings, oral or written, or the issues tried, in either court below, it is impossible to pass upon errors assigned to charges given or refused, or to the admission or rejection of evidence at the trial had in the County Court.\nAppeal from tlie County Court of Denton. Tried below before Hon. F. M. Davidson.\nI. D. Ferguson, for appellant."
+  },
+  "file_name": "0407-01",
+  "first_page_order": 431,
+  "last_page_order": 431
+}

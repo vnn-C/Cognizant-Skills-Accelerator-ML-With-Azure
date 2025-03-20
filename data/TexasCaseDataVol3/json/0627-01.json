@@ -1,0 +1,66 @@
+{
+  "id": 221126,
+  "name": "Joseph Spence v. J. W. Johnson",
+  "name_abbreviation": "Spence v. Johnson",
+  "decision_date": "1893-06-28",
+  "docket_number": "No. 254",
+  "first_page": "627",
+  "last_page": "629",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 627"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 270,
+    "char_count": 4264,
+    "ocr_confidence": 0.54,
+    "pagerank": {
+      "raw": 1.3687333544357372e-07,
+      "percentile": 0.6378692348472826
+    },
+    "sha256": "88bcceda7d5ffd8db68d155eacbcf77a2a414a90d6ac84e937b097d9c7576d21",
+    "simhash": "1:2a266d8e852745ce",
+    "word_count": 798
+  },
+  "last_updated": "2023-07-14T18:08:23.206239+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joseph Spence v. J. W. Johnson."
+    ],
+    "opinions": [
+      {
+        "text": "L. J. STOREY, Sr., Special Judge.\nAppellee brought this suit in the District Court of Tom Green County against appellant, as an ordinary action of trespass to try the title to a strip of land off of the east side \u25a0of lot number 17, block number 1, in the town of San Angelo, Texas, said strip of land being 2)- feet wide and 91)- feet long.\nThe appellant, who was defendant in the court below, pleaded a general denial, the statute of limitations of three and five years, and permanent and valuable improvements.\nA jury was waived, and the case submitted to the court, and judgment was rendered for appellee for the land in controversy, valued at $50, and \u25a0for appellant for improvements, $10.\nThe facts are: 1. It is admitted that plaintiff (appellee) has title, duly registered, to lot number 17, in block number 1, in the city of San Angelo, and that the land in suit is a part of said lot.\n2. That the defendant has title, duly registered for more than five yeaz-s next befoz\u2019e the filing of this suit, to the following described tract of land, viz.: Beginning at the northeast corner of lot 13, block number 1, at the intersection of Oak Street and Twohig Avenue; thence west along south line of Twohig Avenue 52) feet; thence south, parallel with Oak Street, 91) feet; thence east, parallel with Twohig Avenue, 52) feet to west line of Oak Street; thence north along west line of Oak Street to place of beginning.\n3. That the defendant, Spence, has had actual, continuous, adverse possession of the land described in his deeds for a sufficient period of time to support the plea of five years limitation.\n4. That said defendant, Spence, has paid all taxes assessed against lot number 13, block number 1, for more than five years next before the filing of this suit, and that the land in suit is no part of lot number 13.\n5. That lots numbers 17 and 13, according to the map of the city of San Angelo, lie contiguous, and are each 50 feet wide by 190 deep.\n6. That the land in suit is included in defendant\u2019s deed, under which he has had possession for the period of five years limitation.\n7. That appellee has paid all taxes on lot 17, block number 1.\n8. That lot number 13 is the corner lot, fronting Twohig Avenue on tize north and Oak Street on the east, lot number 17 being immediately west of and adjoining lot number 13.\nIt will be seen, that as lot number 13 is but 50 feet wide, and that the field notes in defendant\u2019s deed call for a width of 52) feet, that therefore there is a conflict in the claims of the parties to this suit of 2) feet wide \u00a1and 91) feet long; and as the defendant in the court below showed that he had been in peaceable adverse possession of the land sued for, under his deed duly registered, for more than five years before the suit began, the only question presented for our consideration is, did the payment of taxes on lot number 13 for the five years satisfy the demands of the statute requiring the payment of the taxes for five years on the land described in the deed before the rightful owner would be barred of Ms right to recover. And upon this point we hold, that the evidence fails to show that-the defendant paid the taxes on any part of the land in controversy in lot number 17, but only on lot number 13, of which this land is no part..\nThe judgment of the court below is affirmed.\nAffirmed.\nDelivered June 28, 1893.\nChief Justice Fisher did not sit in this case. Court\u2014Judges Collar\u00bb and Key, and Special Judge L. J. Storey, Sr.",
+        "type": "majority",
+        "author": "L. J. STOREY, Sr., Special Judge."
+      }
+    ],
+    "attorneys": [
+      "H. C. Fisher, for appellant.",
+      "Otto Lerch and D. D. Wallace, for appellee,"
+    ],
+    "corrections": "",
+    "head_matter": "Joseph Spence v. J. W. Johnson.\nNo. 254.\nLimitation of Five Tears \u2014Payment of Taxes.\u2014Spence bought lot 13, a corner lot, by deed calling for 52% feet width. Adjoining was lot 17. The maps of the lots called for lots 50 feet wide. He occupied the lots to the extent of 52% feet, and paid taxes for five years on lot 13. In action for lot 17, held, that payment of taxes on lot 13 was not a payment upon the 2% feet occupied of lot 17, and the defense of limitation of five years failed for nonpayment of taxes.\nAppeal from Tom Green. Tried below before Hon. J. W. Timmins\u00bb\nH. C. Fisher, for appellant.\nOtto Lerch and D. D. Wallace, for appellee,\ncited: Rev. Stats., art. 3193; Arambula v. Sullivan, 80 Texas, 615; Woodson v. Allen, 54 Texas, 555; Brokel v. McKechnie, 69 Texas, 33."
+  },
+  "file_name": "0627-01",
+  "first_page_order": 653,
+  "last_page_order": 655
+}

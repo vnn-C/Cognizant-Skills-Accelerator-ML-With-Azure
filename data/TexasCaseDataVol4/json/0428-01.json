@@ -1,0 +1,73 @@
+{
+  "id": 223698,
+  "name": "Llano Improvement Company v. G. M. Watkins",
+  "name_abbreviation": "Llano Improvement Co. v. Watkins",
+  "decision_date": "1893-10-25",
+  "docket_number": "No. 431",
+  "first_page": "428",
+  "last_page": "429",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Tex. Civ. App. 428"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "13 Pet., 119",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 259,
+    "char_count": 3688,
+    "ocr_confidence": 0.572,
+    "pagerank": {
+      "raw": 1.9642724699024828e-07,
+      "percentile": 0.7384907382631188
+    },
+    "sha256": "eb7e319cb6ff50b29d4ebf827e6511ac812fea00f4225f136fafe3b64da9321f",
+    "simhash": "1:aa162b563840d667",
+    "word_count": 664
+  },
+  "last_updated": "2024-02-27T18:01:03.208661+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Llano Improvement Company v. G. M. Watkins."
+    ],
+    "opinions": [
+      {
+        "text": "COLLAR!), Associate Justice.\nThis appeal is from a judgment by default against appellant upon service as shown by the return of the officer:\n\u201c Came to hand the 24th day of September, A. D. 1891, at 12 o\u2019clock a. m., and executed the 24th day of-, A. D. 189\u2014, by delivering to S. Duncan, secretary of the Llano Improvement and Furnace Company, the within named defendant, in person, a true copy of this writ.\u201d\nThe date of sevice is impossible. The return is fatally defective, and can not support the judgment. Rev. Stats., art. 1225.\nThere was no appearance by defendant. Defendant excepted to the judgment, and gave notice of appeal, but this can not be held to be appearance or waiver of service.\nThe court, upon such return, had no authority to render the judgment; and for this error it must be reversed.\nThe note sued on called for 12 per cent interest, and 10 per cent on principal and interest as attorney fees if placed in the hands of an attorney for collection. The court gave judgment for amount due on the note, principal and interest, and 10 per cent thereon as attorney fees, the whole judgment to bear 12 per cent interest from date.\nIt was not eror to allow the contract rate of interest on the whole amount of the judgment. Rev. Stats., art. 2980; Washington v. Bank, 64 Texas, 4.\nIt is ordered, that the judgment of the court below be reversed and the cause remanded.\nReversed and remanded.",
+        "type": "majority",
+        "author": "COLLAR!), Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Miller & Landreth, for appellant.",
+      "Slator & McLean, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Llano Improvement Company v. G. M. Watkins.\nNo. 431.\n1. Impossible Date \u2014 Return on Citation. \u2014 Citation was returned, Came to hand the 24th day of September, A. D. 1891, at 12 o'clock a. m., and executed the 24th day of-, 189\u2014, by delivering to,\u201d etc. (regular in other respects). Held, the date of service is impossible. The return is fatally defective, and on appeal can not support the judgment.\n2. Interest on Stipulated Attorney Fee.\u2014Where a stipulated rate of interest is contained in a note providing for an attorney fee in case if placed in hands of an attorney for collection, it is not error to allow the contract interest upon the entire judgment, including the stipulated attorney fee.\nAppeal from the County Court of Llano.\nTried below before Hon. W. S. Maxwell, County Judge.\nMiller & Landreth, for appellant.\nAny judgment is erroneous which is rendered by default on service of a citation the return on which shows that it was served on the 24th day of the year 189\u2014. Scott & Sparrow v. Watts, 1 W. & W. C. C., 89; Underhill v. Lockett, 20 Texas, 130.\nSlator & McLean, for appellee.\n1. If citation is merely defective, and defendant does not take his exceptions at the proper time, he can not be heard to urge it as error in appellate court. Cave v. City of Houston, 65 Texas, 622; Crain v. Griffis, 14 Texas, 358. The general rule is, a party will not be heard in the appellate court until he has exhausted his remedies in the lower court. Morris v. Gordon, 36 Texas, 72; Allen v. Traylor, 31 Texas, 125; Hopkins v. Donahoe, 4 Texas, 336, 338; Bank v. Lee, 13 Pet., 119; Buckley\u2019s Admr. v. Howard, 35 Texas, 566; Pierson v. Burney, 15 Texas, 274. Where there was a mere clerical error in the writ, which might have been amended, but the defendant was silent in the court below, suffering judgment to go against Mm by default, he can not make the objection avail him in the appellate court. The State v. Franklin, 35 Texas, 499.\n2. The judgment of the court bearing interest at the rate of 12 per cent per annum from date thereof on the gross amount of the principal, inter-\u00abst, and attorney fees found to be due at date of judgment, is correct. Rev. Stats., art. 2980; Washington v. Bank, 64 Texas, 4; Hagood v. Aikin, 57 Texas, 511.\nDelivered October 25, 1893."
+  },
+  "file_name": "0428-01",
+  "first_page_order": 452,
+  "last_page_order": 453
+}

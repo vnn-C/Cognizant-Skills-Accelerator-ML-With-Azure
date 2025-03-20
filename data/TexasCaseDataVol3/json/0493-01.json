@@ -1,0 +1,66 @@
+{
+  "id": 221216,
+  "name": "The Gulf, Colorado & Santa Fe Railway Company v. J. W. Matthews",
+  "name_abbreviation": "Gulf, Colorado & Santa Fe Railway Co. v. Matthews",
+  "decision_date": "1893-06-22",
+  "docket_number": "No. 261",
+  "first_page": "493",
+  "last_page": "494",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 493"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 180,
+    "char_count": 3423,
+    "ocr_confidence": 0.569,
+    "pagerank": {
+      "raw": 1.7261666488375576e-07,
+      "percentile": 0.7046937871667421
+    },
+    "sha256": "c02f9f1ee5c390112f4617f529678225130ef14f0a5cdb0f9a365bfb56e4869b",
+    "simhash": "1:8a7c609e0a0273aa",
+    "word_count": 618
+  },
+  "last_updated": "2023-07-14T18:08:23.206239+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The Gulf, Colorado & Santa Fe Railway Company v. J. W. Matthews."
+    ],
+    "opinions": [
+      {
+        "text": "WILLIAMS, Associate Justice.\nThe court erred in the portion of the charge defining the measure of damages. The correct measure was not the difference in the value of the land caused by the burning of the grass, because that was temporary. Railway v. Horne, 69 Texas, 644.\nThe measure of damages is the value of the posts and of the grass-destroyed and the injury caused to the value of the land by the destruction of the turf.\nEvidence of the value of the grass as hay as well as for pasturage purposes should be admitted for the consideration of the jury, and from a-showing of all the purposes for which plaintiff\u2019s grass was useful and valuable, the jury should determine what its value was at the time at which and state in which it stood when burned. If the grass possessed a market value, that should be the criterion. But if, as is probable, there was no market value, considering it as useful for pasturage, its value when thus used should be taken.\nAny evidence tending to show what the grass was worth when put to any of the uses for which it was valuable should be admitted.\nEvidence as to any temporary diminution of the value of the land resulting from the burning of the grass should be excluded.\nReversed and remcmded.\nDelivered June 22, 1893.",
+        "type": "majority",
+        "author": "WILLIAMS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "J. W. Terry, for appellant.",
+      "No brief for appellee came to the Reporter."
+    ],
+    "corrections": "",
+    "head_matter": "The Gulf, Colorado & Santa Fe Railway Company v. J. W. Matthews.\nNo. 261.\nMeasure of Damages for Burning Grass.\u2014The measure of damages is the value of the posts and grass destroyed and the injury caused to the value of the land by the destruction of the turf. Evidence of the value of the grass as hay, as well as for pasturage purposes, should be admitted for the consideration of the jury, and from a showing of all the purposes for which plaintiff\u2019s grass was useful and valuable, the jury should determine what its value was at the time at which and state in which it stood when burned.\nAppeal from Burleson. Tried below before Hon. John Alexander, County Judge.\nThis is a suit instituted in the Justice Court for $194.50 for burning 32-| acres of grass, of the value of $150, 75 posts of the value of $4.50, and injury to the turf by burning of said 32-J- acres, $40. Defendant filed answer in the Justice Court, where the case was tried, and judgment was rendered for the appellee for $194.50. Appeal was perfected to the County Court, where the case was tried before a jury, and verdict was rendered for appellee for the sum of $194.50. Before the entry of judgment in the County Court, plaintiff in open court remitted the sum of $37 from the amount of the verdict, whereupon judgment was rendered for the appellee for the sum of $157.50 and all costs.\nThe court charged the jury as follows: \u201cIf you find for the plaintiff, the measure of damages will be the difference between the value of the land alleged to have been injured immediately preceding the time of the burning and immediately after the time of burning, and you will so consider this matter from the evidence before you upon this trial.\u201d\nDefendant was not permitted to prove the reasonable market value of grass land when used for hay or pasturage purposes.\nJ. W. Terry, for appellant.\nWhere growing grass is destroyed by fire, the measure of damages as to the grass destroyed is not the difference between the value of the land before and after the fire, but the market value of the grass as it stood on the land. Railway v. Horne, 69 Texas, 644.\nNo brief for appellee came to the Reporter."
+  },
+  "file_name": "0493-01",
+  "first_page_order": 519,
+  "last_page_order": 520
+}

@@ -1,0 +1,66 @@
+{
+  "id": 219140,
+  "name": "Missouri Pacific Railway Company v. M. L. Weisman",
+  "name_abbreviation": "Missouri Pacific Railway Co. v. Weisman",
+  "decision_date": "1893-01-26",
+  "docket_number": "No. 207",
+  "first_page": "86",
+  "last_page": "88",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 86"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 334,
+    "char_count": 6624,
+    "ocr_confidence": 0.556,
+    "pagerank": {
+      "raw": 5.574266493056857e-08,
+      "percentile": 0.3501852810723714
+    },
+    "sha256": "88b3fb9c4df9ea0e98e422df5d2587421c1d095a073cf8aeee9c9e76c2a5b9f2",
+    "simhash": "1:1fedc31c46333c84",
+    "word_count": 1144
+  },
+  "last_updated": "2023-07-14T16:01:39.065288+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Missouri Pacific Railway Company v. M. L. Weisman."
+    ],
+    "opinions": [
+      {
+        "text": "WILLIAMS, Associate Justice.\nAppellant can not be held liable for delay which was caused by its connecting lines, in the absence of proof of negligence on its own part. No partnership between it and such other lines, nor any other facts, were shown under which it would be responsible for delay on the part of other carriers. The case of Railway v. Baird, 75 Texas, 256, is conclusive upon this point. Every fact upon which joint liability with connecting lines for their negligence was sought to be fixed upon the last carrier in this case was present in that; and in addition there was in that case an undertaking of the railway carrier to transport the stock over the whole route, while here the bill of lading was only to East St. Louis. We must hold, therefore, that if delay did not result from appellant\u2019s own wrong, it is not liable. On the other hand, if appellant wrongfully refused to receive and forward appellee\u2019s goods on to their destination when they were tendered to it at St. Louis, thus causing the delay, it would be liable.\nThe uncontradicted evidence shows, that a shipment of goods, including those of appellee, was tendered to appellant by the agents of the Wabash line, over which it had arrived at East St. Louis, and was rejected by appellant because a part of the goods had been damaged. The case containing the goods of appellee was erroneously \u201c billed\u201d (by which we understand the witnesses to mean the designation of the property upon the way bills), not to appellee, but to another person, to whom also the damaged goods were consigned. The case belonging to appellee was not separately tendered to appellant, but the tender was of all the goods in one lot, including those that were damaged. Appellant had adopted a regulation that it would not receive goods that had been damaged while in the hands of other roads unless it was indemnified against liability for such damage. Upon its refusal, on this ground, to accept the freight, it was returned to the warehouse of the Wabash line, and remained there until the agents of that line were instructed to deliver to appellant the undamaged part of the shipment, and this was the occasion of the delay.\nThe rule which appellant thus enforced was a reasonable one. When goods are delivered at their destination in a damaged condition, the presumption arises that they received such damages while in the hands of the last carrier, and this regulation was an appropriate and legitimate means by which appellant might protect itself against danger of liability for a wrong which it had not committed.\nThe record shows, that in the discussion between the agents of the Wabash line and those of appellant, the former expressed the opinion that -the damage to the package was only trifling, but the amount was not assessed, and the indemnity demanded by appellant was refused. The extent of the damage is not otherwise shown. The carrier in whose hands the injury had occurred could not force appellant to receive the goods and take the risk of a suit by the consignor. There being no connection or relation by which appellant was bound by the contract of the carriers through whose hands the goods had passed, the agents of the Wabash, in-seeking to ship over its road, were bound to comply with its reasonable regulations. Appellee\u2019s loss from this delay thus arose through the fault of other lines, for whose acts and omissions appellant is not responsible.. It follows that appellant, when the goods reached Marshall, had the right to hold them until the freight charges were paid, and that appellee can not recover for the detention of the property resulting from his refusal to pay such charges when it was tendered to him.\nThe judgment will therefore be reversed and rendered for appellant.\nReversed and rendered..\nDelivered January 26, 1893.",
+        "type": "majority",
+        "author": "WILLIAMS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "F. H. Prendergast, for appellant.",
+      "James Turner, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Missouri Pacific Railway Company v. M. L. Weisman.\nNo. 207.\n1. Delay Caused by Connecting Lines. \u2014 Appellant can not be held liable for delay which was caused by its connecting lines, in the absence of proof of negligence on its own part. But if appellant wrongfully refused to receive and forward appellee\u2019s goods to their destination when they were tendered to it at St. Louis, thus causing the delay, it would be liable.\n2. Regulation as to Receiving Freight\u2014Appellant had adopted a regulation that it would not receive goods that had been damaged while in the hands of other roads, unless it was indemnified against liability for such damages. Appellee\u2019s freight was damaged when tendered to appellant by the Wabash road. That road could n'ot force appellant to receive the goods and take the risk of suit by the consignee. The regulation was reasonable, and appellee\u2019s loss by delay arose through the fault of the other lines, for whose acts and omissions appellant is not responsible, and appellee can not recover.\n3. Refusal to Pay Charges.\u2014When the goods arrived at Marshall, appellee refused to pay the charges. Appellant had the right to hold them until the charges were paid, and appellee can not recover for the detention resulting from his refusal to pay charges.\nAppeal from Harrison. Tried below before Hon. A. H. Coopee.\nF. H. Prendergast, for appellant.\n1. The court erred in holding the defendant liable for the $157 damage, because the delay and damage occurred on a road other than defendant\u2019s line, and the goods were not shipped on a through bill of lading, and the bill of lading did not extend over defendant\u2019s line. Railway v. Adams, 78 Texas, 374; Railway v. Baird, 75 Texas, 256; Railway v. Dwyer, 75 Texas, 572; Railway v. Williams, 77 Texas, 125.\n2. The court erred in finding against the defendant for $157 damages, which occurred after the goods were first tendered to plaintiff on January 20, 1886, because the defendant had a right to retain the goods until the freight charges were paid. Hutch, on Carr., sec. 775; Edw. on Bail., sec. 610; Field on Dam., sec. 383.\nJames Turner, for appellee.\nThe court did not err in finding that the Missouri Pacific Railway Company was liable for the damages ($157) on the goods at the time when they arrived at their destination, because it clearly appeared from the evidence, that the Missouri Pacific Railway Company was one of a line of carriers who were engaged in the transportation of goods from New York to Marshall, Texas, and held themselves out to the public as such line of carriers, and had been engaged for more than two years in such transportation, either with or without through bills of lading. 1 W. & W. C. C., secs. 205, 332, 942; Railway v. Ryan, 2 Willson\u2019s C. C., sec. 430; 3 Willson\u2019s C. C., secs. 7, 84."
+  },
+  "file_name": "0086-01",
+  "first_page_order": 112,
+  "last_page_order": 114
+}

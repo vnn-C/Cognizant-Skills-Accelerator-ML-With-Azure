@@ -1,0 +1,66 @@
+{
+  "id": 223657,
+  "name": "A. Schloss v. The Atchison, Topeka & Santa Fe Railway Company",
+  "name_abbreviation": "Schloss v. Atchison, Topeka & Santa Fe Railway Co.",
+  "decision_date": "1893-09-13",
+  "docket_number": "No. 2",
+  "first_page": "177",
+  "last_page": "178",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Tex. Civ. App. 177"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 160,
+    "char_count": 2583,
+    "ocr_confidence": 0.556,
+    "pagerank": {
+      "raw": 4.076306636737454e-08,
+      "percentile": 0.008946160083627233
+    },
+    "sha256": "147c04dc1f957861c788b2b07613329a9e4bfb47f6da9d5151a84a99a543bbba",
+    "simhash": "1:b917a7c827c6a6eb",
+    "word_count": 435
+  },
+  "last_updated": "2023-07-14T14:53:58.701798+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "A. Schloss v. The Atchison, Topeka & Santa Fe Railway Company."
+    ],
+    "opinions": [
+      {
+        "text": "NEILL, Associate Justice.\nThe certificate of the district clerk upon which affirmance is asked shows that the judgment was rendered on the 13th day of October, 1892, and that appellant gave notice of appeal on the 15th day of November, 1892. It does not show that a judgment overruling a motion for a new trial was rendered. It discloses that the bond filed as an appeal bond is conditioned, \u201c that appellant shall prosecute his appeal with effect, and shall pay all costs which have accrued in the court below, or which may accrue in the Court of Civil Appeals.\u201d\nTo give this court jurisdiction to affirm a case on certificate, the certificate of the clerk must show that an appeal was perfected. An appeal to this court is perfected by the appellant giving notice of appeal in open court within two days after final judgment overruling motion for new trial, and filing with the clerk an appeal bond. Art. 1387, p. 43, called sess. 22nd Leg. The condition of the bond provided is, \u201c that appellant shall prosecute his appeal with effect, and shall pay all costs which have accrued in the court below and which may accrue in the Court of Civil Appeals and the Supreme Court (article 1400, page 44, called session Twenty-second Legislature), unless appellant desires to suspend the execution of the judgment, in which case the condition of the bond is prescribed in the succeeding article.\nAs the notice of appeal was not given within two days after final judgment, and the bond is not such as is provided, the appeal was not perfected to this court, and it has no jurisdiction to grant appellee\u2019s motion.\nDelivered September 13, 1893.\nWherefore the motion is overruled, and the certificate dismissed at appellee\u2019s costs.\nDismissed.",
+        "type": "majority",
+        "author": "NEILL, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Hague, Falvey & Davis, for motion.",
+      "Merchant & Wilcox, resisting motion,"
+    ],
+    "corrections": "",
+    "head_matter": "A. Schloss v. The Atchison, Topeka & Santa Fe Railway Company.\nNo. 2.\nAffirmance on Certificate \u2014 Jurisdiction of Court of Appeals.\u2014 'To give the Court of Civil Appeals jurisdiction to affirm a case on certificate, the \u2022certificate of the clerk must show that an appeal was perfected, by the appellant giving notice of appeal in open court within two days after final judgment overruling motion for new trial, and filing with the clerk an appeal bond conditioned \u2022as required by law.\nAppeal from El Paso.\nTried below before Hon. C. N. Buckler.\nThe appellant failed to file the transcript and briefs within the time required by law, and appellee filed motion to affirm on certificate.\nHague, Falvey & Davis, for motion.\nMerchant & Wilcox, resisting motion,\ncited: Amended art. 1400, p. 44, called sess. Leg., 1892; Thompson v. Anderson, 82 Texas, 237."
+  },
+  "file_name": "0177-01",
+  "first_page_order": 201,
+  "last_page_order": 202
+}

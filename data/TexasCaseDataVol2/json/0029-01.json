@@ -1,0 +1,218 @@
+{
+  "id": 219199,
+  "name": "S. W. Fordyce and A. H. Swanson, Receivers, v. C. H. Beecher",
+  "name_abbreviation": "Fordyce v. Beecher",
+  "decision_date": "1893-01-12",
+  "docket_number": "No. 50",
+  "first_page": "29",
+  "last_page": "35",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 29"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "15 Gray, 20",
+      "category": "reporters:state",
+      "reporter": "Gray",
+      "case_ids": [
+        2089372
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/81/0020-01"
+      ]
+    },
+    {
+      "cite": "19 N. W. Rep., 828",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "40 La. Ann., 87",
+      "category": "reporters:state",
+      "reporter": "La. Ann.",
+      "case_ids": [
+        5295786
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/la-ann/40/0087-01"
+      ]
+    },
+    {
+      "cite": "17 S. W. Rep., 47",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "17 S. W. Rep., 521",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Fed. Rep., 537",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3749264
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f/7/0537-01"
+      ]
+    },
+    {
+      "cite": "17 Fed. Rep., 477",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Wheat., 51",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1434761
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/23/0051-01"
+      ]
+    },
+    {
+      "cite": "12 How., 168",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "case_ids": [
+        3365203
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/53/0168-01"
+      ]
+    },
+    {
+      "cite": "6 Pet., 658",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "9 Pet., 359",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "10 Wheat., 1",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1434775
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/23/0001-01"
+      ]
+    },
+    {
+      "cite": "6 Wall., 195",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "7 Wall., 425",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.,",
+      "case_ids": [
+        3449678
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/74/0425-01"
+      ]
+    },
+    {
+      "cite": "20 How., 175",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "23 How., 105",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "15 Gray, 20",
+      "category": "reporters:state",
+      "reporter": "Gray",
+      "case_ids": [
+        2089372
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/81/0020-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 774,
+    "char_count": 19544,
+    "ocr_confidence": 0.546,
+    "pagerank": {
+      "raw": 7.99013631929501e-08,
+      "percentile": 0.46383572941897383
+    },
+    "sha256": "ca2b807a9a02972147313a08dfbdb59d92f014131fe67defa8eb1920b71f473f",
+    "simhash": "1:26a24f020c04250e",
+    "word_count": 3402
+  },
+  "last_updated": "2024-02-27T19:43:33.086404+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "S. W. Fordyce and A. H. Swanson, Receivers, v. C. H. Beecher."
+    ],
+    "opinions": [
+      {
+        "text": "WILLIAMS, Associate Justice.\nPrior to July, 1889, appellants were, appointed by the Circuit Court of the United States for the Eastern District of Texas, receivers of the properties belonging to the St. Louis, Arkansas & Texas Railway Company in Texas, and were operating its roads.\nIn August, 1889, appellee, claiming to be a passenger on one of the-trains thus controlled by appellants, was assaulted and injured by their servants employed to manage it. He brought this suit to recover damages resulting from such injuries.\nOn the 11th day of May, 1891, while this suit was still pending, appellants were finally discharged from the receivership by the court which appointed them, and thereafter duly pleaded in this suit such discharge in bar of further proceedings against them. In the trial below the fact of the final discharge was admitted, and appropriate charges were presented to the court, declaring the law to be that such discharge constituted a complete bar to any judgment against appellants as receivers. The charges were refused, and verdict and judgment were rendered against appellants as receivers, and in this appeal this action of the court below is assigned as error.\nThe Act of the Legislature of March 19, 1889, concerning receivers, was not in force when appellants were appointed, but had taken effect when the cause of action accrued to appellee, and was in full operation when this suit was brought and when appellants were discharged. It provides, that the discharge of a receiver shall not have the effect of abating any pending suit upon a cause of action which accrued against him as such receiver, but that such suit may be prosecuted to judgment, notwithstanding the discharge.\nOne of the questions which arises as to the operation of those provisions upon this case is, do they apply to and control a discharge by a Federal court of a receiver appointed by it; and involved in this is the inquiry as to the power of a State Legislature to thus limit the effect of a decree of such a court.\nThe receivers were appointed in the exercise of the chancery jurisdiction which belongs to all of the Circuit Courts of the United States. That jurisdiction was conferred upon such courts when they were first organized, and in cases in which it is properly called into exercise, it is determinable solely by the National legislation. Neither the substantive powers thus conferred, nor the rules of practice and procedure through which they are exercised, are subject to limitation or modification by the States. This equity jurisdiction, practice, and procedure of the courts is uniform throughout the Union, is the same in all of the States, and is beyond the control of State Legislatures.\nThese principles have long been settled by the adjudications of the Supreme Court of the United States. Green v. Creighton, 23 How., 105; Hyde v. Stone, 20 How., 175; Payne v. Hook, 7 Wall., 425; United States v. Howland, 4 Cond. Rep., 406.\nA judgment or decree is the end for which the jurisdiction of a court is exercised. It is only through its judgments and their execution that the power of a court is made efficacious. A law which restricts their power to render a judgment is therefore a limitation upon the exercise of their jurisdiction; and a law which destroys or impairs the effect which their judgments without such law would have, is equally so.\nIt is to be presumed that the Federal court properly acquired jurisdiction of the cause in which these receivers were appointed. That jurisdiction embraced power to dispose fully of all interests properly involved in the litigation, and to render all such judgments and decrees as were made appropriate to that end, by the principles of equity jurisprudence \u25a0as they existed when such courts were organized, with such modifications as have been made from time to time by Congress, and the rules of those courts adopted in accordance therewith. That power could be controlled by Congress alone. By the principles governing the effect of judgments of courts of equity discharging their receivers, in the absence of the statute under consideration, such a judgment was made a bar to any further \u25a0suit against such receiver for liability incurred solely by virtue of his office, and constituted, when pleaded in pending suits, a complete defense. Ryan v. Hays, 62 Texas, 47; Brown v. Gay, 76 Texas, 444.\nIf, therefore, the discharge of appellants, when pleaded in this suit, was not a bar to further proceedings, it was because the act of the Legislature took from it the effect given to it by the law that created and governed the court that pronounced the decree.\nIt is true, the statute does not in terms attempt to legislate directly upon the effect of the judgments of the courts of the United States, and we will advert to that presently. But if its operation should be what is claimed for it, the result would be much the same as if it had declared directly that no court of the Union should discharge a receiver while suits were pending in the State courts against him; or that a decree discharging such receiver pending such suits should not bar or abate the actions against him. A State Legislature can not so prescribe, because the National courts are not subject to State authority.\nIt may be said that the statute only prescribes a rule for the guidance of State courts in suits pending before them against receivers, in the conduct of further proceedings after the discharge. But a State court must recognize a defen\u00e1e of a party litigant before it, whether it arise through the operation of a decree of another court or not; and the scope of the decree must be determined by the law under which it was pronounced.\nIt may also be said, that inasmuch as the receiver, when appointed, is in a certain sense the representative of the owner of the property committed to his charge, it is competent for the Legislature to provide that he shall continue, after his discharge, to be such representative in suits brought before his discharge. The answer is, that receivers appointed by Federal courts, when they act within the proper limits of their jurisdiction, derive their authority from National laws, under which the court proceeds. It is only through the operation of such appointment, if at all, that the receiver is placed in the attitude of a representative. How long his authority as such may continue is a question committed to the judgment of the court whose authority he represents; and the operation of its order determining his relation to the property is derived and must be ascertained from the law under which that court has proceeded. The judgment of the Federal court must be recognized as having such effect, notwithstanding State statutes, not because of any paramount authority in those courts, but because they are independent of the control of the State, as are the courts of the State, except in respect of a few subjects, independent of National legislation. Riggs v. Johnson County, 6 Wall., 195.\nIf this statute should be held to apply to the discharge by United States courts of receivers appointed by them, it seems plain to us, that the effect would be to impair the operation given to such discharge by the rules of equity jurisprudence governing such courts. A State can not do this, \u2022either directly or indirectly. Wayman v. Southard, 10 Wheat., 1.\nState laws are made the rule of decision for Federal courts, but can not control or affect their jurisdiction or procedure unless adopted by Congress or rule of court. Wayman v. Southard, 10 Wheat., 1; Beers v. Houghton, 9 Pet., 359; Bayle v. Lachani, 6 Pet., 658; Bein v. Heath, 12 How., 168.\nIt must therefore be held, that the provision of the statute which we have cited does not apply to the judgments of courts of the United States discharging receivers appointed by them. Indeed, it is by no means clear that such application was intended. The. Act of 1889 is an amendment to the Act of 1887 on the same subject, two sections of the last named act being substituted by the former. The Act of 1887 thus amended is entitled, \u201cAn act to provide for the appointment of receivers, and to define their powers and duties, and to regulate proceedings under such appointment of receivers.\u201d Its first section begins: \u201cThat a receiver may be appointed by any judge of a court of competent jurisdiction in this State, in the following cases.\u201d Many provisions follow, nearly all of which plainly apply only to proceedings in our own courts. In a few of the provisions, as in that we have considered, the language is broad enough to embrace all receivers, wherever appointed; but no mention is made of any others than those whose appointment is provided for by our own courts. It ought not to be presumed that it was intended by any general terms used to regulate that over which the Legislature had no authority. Bank of the United States v. Halstead, 10 Wheat., 51.\nThe court below should therefore have given the charge requested by appellants, which instructed the jury to find in their favor. We intimate no opinion, however, as to the operation of the provisions of the statute creating a lien on property of the railway company, and authorizing other parties to be brought into the litigation, as they present questions differing from that which we have discussed. It will not therefore be determined whether or not, with proper parties before the court, a judgment, such as that rendered in this case, establishing a lien on the property, would be proper. The cases referred to by appellants are not like the present. In them it was held erroneous to declare and foreclose a, lien on property which was in the custody of the receiver of another court, pending the receivership. Here the receivers had been discharged and the court had relinquished its control over the property.\nHew parties may be made in the court below, or a different state of facts may be developed, which will require another trial on the merits, and we therefore will proceed to examine the other points raised in the appeal.\nThe court committed an error when it instructed the jury to allow damages for value of time lost by appellee, and expenses incurred by him for treatment of his injuries. There was some evidence tending, quite indefinitely, to show that some loss of time resulted to appellee from his-wounds, and it was shown that he was treated by physicians, but there was no evidence of the value of either.\nThere was no error in the charge complained of in the fifth assignment. It was applicable to the evidence and expressed the law correctly.\nThe refusal of special charges numbers 2,3, and 4 was not error. The evidence upon which these charges were predicated tended to show, that appellant, at Pollock, got on the platform of the baggage car, next to the tender, and rode there, without the knowledge of the conductor, until the train reached Baker\u2019s Mill; that there he was discovered by the conductor, and then went into the smoking car. This was done openly and without concealment, and he was sitting quietly in the car, when he was approached by the conductor and assaulted, without any demand having been made for his fare, or any opportunity having been afforded him after he entered the car to pay it. After the conductor had struck him several blows, he demanded the fare, and appellee either paid or was in the act of paying it, when the assault was continued, and he was beaten, cut with a knife, and thrown from the train while it was in full motion. This is the state of facts shown by the record, and the rules of law relied on by appellants, and expressed in the special charges, have no application. It is not the case of a passenger who refuses to pay his fare when demanded, until the conductor has commenced his expulsion from the car, and who is then put off lawfully and with the exertion of no unnecessary force. In that kind of case, the authorities referred to hold that the passenger can not, after the expulsion has commenced, tender his fare and require the carrier\u2019s servants to accept it and permit-him to remain on the cars. And he can not, at least at a place other than a station for receiving passengers, re-enter the same train, after he has been rightfully expelled, and become a passenger thereon. O\u2019Brien v. Railway, 15 Gray, 20; Pease v. Railway, 26 Am. and Eng. Ry. Cases, 185.\nAppellee went in the car at Baker\u2019s Mill, a regular passenger station, it is to be inferred from the evidence, and was assaulted before his fare had been demanded. , It is not shown that his fare for riding on the platform of the car had been demanded and refused, and, for all the record discloses, he may have been ready to pay his fare from Pollock to his destination. We can not hold that the mere fact that he rode from Pollock to Baker\u2019s Mill on'the platform of the car, to escape paying his fare, if such be the case, would deprive him of the right to become a passenger at a regular station, when no demand had been made for his fare, and no disturbance or breach of the peace had been committed by him. In all of these respects the case differs from those cited. Besides, the uncontradicted evidence shows, that the conductor began his expulson with an assault; followed that with a demand for his fare from appellee, and upon that being paid or offered, continued the use of violence, striking and cutting appellee, and finally threw him from the cars and left him dangerously wounded and senseless. In this he was exercising his functions as conductor, and acted as the servant of appellants; and whether the relation of carrier and passenger existed or not, the master would be liable. Cool, on Torts, 536.\nThe charges asked were therefore not applicable to the facts, and would have tended to confuse the jury.\nThe portion of the charge complained of in the fifteenth assignment, whether correct or not, presents a hypothesis in appellants\u2019 favor which we think the evidence did not raise. No view of the case more favorable to them could arise out of this evidence, and they can not complain of the charge.\nBecause of errors indicated, the judgment is re /ersed and the cau\u00b0e remanded. ^\nReversed and remanded.\nDelivered January 12, 1893.",
+        "type": "majority",
+        "author": "WILLIAMS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Finlay, Marsh & Butler, for appellants.",
+      "Mantooth & Townsend, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "S. W. Fordyce and A. H. Swanson, Receivers, v. C. H. Beecher.\nNo. 50.\n1. Discharge of Federal Court Receiver Abates Suit.\u2014The act of the State Legislature of March 19,18S9, providing that the discharge of a receiver shall not have the effect of abating any pending suit upon a cause of action against him as such receiver, but that such suit may be prosecuted to judgment notwithstanding the discharge, does not apply to judgments of courts of the United States discharging receivers appointed by them.\n2. Same.\u2014A judgment or decree is the end for which the jurisdiction of a court is exercised; it is only through its judgments and the execution of them that the power of the court is made efficacious. A law which restricts their power to render a judgment is therefore a limitation upon the exercise of their jurisdiction.\n3. Federal Court Receivers.\u2014Receivers appointed by the Federal court -derive their authority from National laws, under which the court proceeds. It is only through the operation of such appointment that the receiver is placed in the attitude of a representative of the owner of the property, and how long his authority as such may continue, is a question committed to the judgment of that court.\n4. Scope and Intent of State Statute of 1889.\u2014It is by no means \u25a0clear that the Legislature intended the act to apply to Federal court receivers. Nearly all its provisions plainly apply only to proceedings in our own courts. In a few of its provisions, as in that we have considered, the language is broad enough to embrace all receivers, but no mention is made of any others than those whose appointment is provided for by our own courts, and it ought not to be presumed that it was intended by any general terms used to regulate that over which the Legislature had no authority.\n5. Damages \u2014 Value of Time, and Expenses. \u2014 The jury should not have been instructed to allow damages for lost time or expenses incurred by plaintiff for treatment of his injuries, because there was no evidence of the value of either.\n6. Assault of Passenger by Conductor.\u2014Plaintiff got on the platform of the baggage car, and rode there without the knowledge of the conductor until the train reached Baker\u2019s Mill. There he was discovered by the conductor, and went into the smoker, and was sitting quietly there when, he was assaulted by the conductor, without any demand having been made for his fare, or any opportunity afforded him, after entering the car, to pay it. Fare was then demanded, and plaintiff paid, or was in the act of paying it, when the assault was continued, and he was beaten, cut with a knife, thrown from the train, and left, dangerously wounded and senseless. The conductor was acting as the servant of appellants in the discharge of his functions as such, and charges predicated upon the theory that plaintiff got on the car, not intending to pay fare, but with the intention of defrauding the company, and getting a free ride, and upon the theory that the assault was not made by the conductor in the course of his employment, have no application and were properly refused.\n7. Erroneous Charge.\u2014A charge in this case upon the hypothesis that plaintiff was a trespasser upon the train, and engaged in a personal difficulty with the conductor, in a dispute about the payment of fare, presents a view of the case not raised by the evidence.\nAppeal from Angelina. Tried below before Hon. L. B. Hightower.\nThe character of special charges 2, 3, and 4, asked by appellants, are indicated in head notes.\nFinlay, Marsh & Butler, for appellants.\n1. The appellants having been finally discharged as receivers, and the property which came into their possession having been turned over by them to the persons specified in the order of the court providing for their discharge, no judgment could be rendered against them. Brown v. Gay, 76 Texas, 444; Ryan v. Hays, 62 Texas, 47; Davis v. Duncan, 17 Fed. Rep., 477; Trust Co. v. Railway, 7 Fed. Rep., 537; Act, 1st sess. 50th Cong., chap. 866, sec. 3, p. 436; Barton v. Barbour, 104 U. S.; Hall v. Duncan, 7 Cent. Law Jour., 146.\nThat suits could not be maintained against receivers, though State law so provided: Kennedy v. Railway, 11 Cent. Law Jour., 89.\n2. There being no evidence of the value of the time lost and amount of expenses incurred in the treatment of the injuries, the court should not have submitted these elements of damages to the jury. Railway v. Thornsberry, 17 S. W. Rep., 521; Railway v. Simcock, 17 S. W. Rep., 47; Railway v. Curry, 64 Texas, 87.\n3. While it is the duty of a carrier to protect its passengers from the violence and insults of its servants, it owes no such duty to trespassers, and can only be held liable to such persons for the acts of its servants when committed by the servant in the course of his employment. Thomp. on Car. of Pass., sec. 3, p. 43; Patt. Ry. Acc. Law, 186; Williams v. Palace Car Co., 40 La. Ann., 87; Way v. Railway, 19 N. W. Rep., 828; O\u2019Brien v. Railway, 15 Gray, 20; Pease v. Railway, 26 Am. and Eng. Ry. Cases,. 185.\nMantooth & Townsend, for appellee.\nNeither the receivers nor those-whose interests are involved can avoid their obligations by any act of their own in discharging their receivers, or having it done. Gen. Laws 21st Leg. 1889, p. 55; Railway v. Johnson, 76 Texas, 421."
+  },
+  "file_name": "0029-01",
+  "first_page_order": 55,
+  "last_page_order": 61
+}

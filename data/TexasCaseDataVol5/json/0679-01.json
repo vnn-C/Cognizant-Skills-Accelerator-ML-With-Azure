@@ -1,0 +1,139 @@
+{
+  "id": 227349,
+  "name": "Emma Ballard et al. v. N. A. McMillan, Receiver",
+  "name_abbreviation": "Ballard v. McMillan",
+  "decision_date": "1893-12-14",
+  "docket_number": "No. 85",
+  "first_page": "679",
+  "last_page": "686",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Tex. Civ. App. 679"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "83 Me., 30",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Fla., 478",
+      "category": "reporters:state",
+      "reporter": "Fla.",
+      "case_ids": [
+        1167637
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/fla/5/0478-01"
+      ]
+    },
+    {
+      "cite": "84 Ky., 130",
+      "category": "reporters:state",
+      "reporter": "Ky.",
+      "case_ids": [
+        1319210
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ky/84/0130-01"
+      ]
+    },
+    {
+      "cite": "15 Vt., 186",
+      "category": "reporters:state",
+      "reporter": "Vt.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "20 N. J. Eq., 141",
+      "category": "reporters:state",
+      "reporter": "N.J. Eq.",
+      "case_ids": [
+        526163
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nj-eq/20/0141-01"
+      ]
+    },
+    {
+      "cite": "26 Mass., 73",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2058518
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/26/0074-01"
+      ]
+    },
+    {
+      "cite": "15 Vt., 185",
+      "category": "reporters:state",
+      "reporter": "Vt.",
+      "case_ids": [
+        4417811
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/vt/15/0185-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 748,
+    "char_count": 21560,
+    "ocr_confidence": 0.555,
+    "pagerank": {
+      "raw": 7.063884962999277e-08,
+      "percentile": 0.4256879455134257
+    },
+    "sha256": "f354b5415ca3b574350951b6e2fe4b8036a5710d3e2245e1896e5a4e37c1413b",
+    "simhash": "1:a3c1cd255e7e90f1",
+    "word_count": 3816
+  },
+  "last_updated": "2024-02-27T16:31:09.266747+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Emma Ballard et al. v. N. A. McMillan, Receiver."
+    ],
+    "opinions": [
+      {
+        "text": "LIGHTFOOT, Chief Justice.\nAppellee having been appointed a receiver in the court below at the instance of the creditors of C. F. Schmidt, deceased, to take charge of the assets not exempt by law, the estate being insolvent, and prevent the surviving widow from wasting the same (there-being no children), the court appointed a special master in chancery, with power to hear proofs of claims against the community estate, to make a record thereof, and report to the court. After the master had given notice, as required by the decretal order, for all creditors to prove their claims, J. M. Ballard, on August 7, 1890, filed the following claim, verified by affidavit:\nM. A. McMillan, Receiver, to J. M. Ballard, Dr.\nOctober 7, 1887, to cash deposited........................ 8330 00\nJuly 14, 1888, to cash deposited......................... 200 00\nNovember 5, 1889, to salary from March 12,1887, to November 5, 1889 ......................................... 1,976 66\n$2,506 66 Or.\nMay 14, 1889, by land to J. S. Ballard..........$1,350 00\nby cash on salary............... 547 15 1,897 15\nBalance due............................... $609 51\nThe receiver filed general and special demurrer, and a special answer denying that the claim is a valid debt against the estate. J. M. Ballard died before the trial, and his widow and children became parties.\nTo said account the receiver, by his answer, presented the following defenses before the master: Special exception to the affidavit of J. M. Ballard to said account, in that the same was not an open account within the meaning of article 2266, Revised Statutes, and could not be established by oath; general denial; plea of payment; plea in reconvention, praying judgment against said J. M. Ballard for $5000, funds belonging to said estate alleged to have been appropriated and converted by*said J. M. Ballard; cross-bill, charging that after the death of said C. F. Schmidt said J. M. Ballard, being his clerk, wrongfully and illegally obtained possession of a deed to the land in controversy, executed by Maggie Dobbins to said J. M. Ballard at the request of C. F. Schmidt, before his death, and had same recorded; that said land had been previously conveyed by C. F. Schmidt to said Maggie Dobbins without consideration, for her to hold in trust for him, and for the purpose of placing it beyond the reach of his creditors; that there had been no delivery of said deed to J. M. Ballard, and that J. M. Ballard never paid anything to said C. F. Schmidt in consideration of said deed; and praying decree of court that said deed be cancelled and held for naught.\nJ. M. Ballard died February 9, 1891, and his wife, Emma Ballard, for herself and as next friend for Emma Bessie Ballard and John Madison Ballard, minors, his sole heirs, became parties intervenor, and on May 13, 1891, filed their first amended original petition, setting out the facts substantially as set out in the original account above referred to; and averring, in reference to the credit for $1350 there set out for land deeded to J. S. Ballard (the land in controversy), that C. F. Schmidt being indebted to the said J\u2019. M. Ballard, and desirous of settling said indebtedness, had said land conveyed to said J. S. Ballard, the consideration therefor being a credit of $1350 given by J. M. Ballard on his said account against said C. F. Schmidt. That the deed to said land was made by request of J. M. Ballard and at the instance of C. F. Schmidt by said Maggie Dobbins to said J. S. Ballard; and as between J. M. Ballard and J. S. Ballard, was made in full liquidation of certain indebtedness held by- said J. S. Ballard against J. M. Ballard.\nOn April 20, 1891, the receiver filed an amendment to his original answer, alleging that the deed to the land in controversy was not made by Maggie Dobbins to J. M. Ballard as alleged in said answer, but was made by said Maggie Dobbins to J. S. Ballard; and prayed the order of the court that J. S. Ballard be made a party to the suit, and that on final hearing said deed to him, the said J. S. Ballard, be cancelled and held for naught.\nSaid J. S. Ballard appeared and filed his answer to the receiver\u2019s cross-bill, presenting therein the following defenses: After general and special demurrers, he filed a special plea setting 'out, that about May 24, 1889, J. M. Ballard, deceased, was indebted to said J. S. Ballard for about $1400 or $1500, and in satisfaction of said indebtedness conveyed to J. S. Ballard the land in controversy. That the deed was made by Maggie Dobbins, at the instance of C. F. Schmidt, and by agreement between said Schmidt and J. M. Ballard, directly to J. S. Ballard. That said deed was by said Schmidt delivered to said J. M. Ballard for and in behalf of J. S. Ballard, and was by J. M. Ballard delivered to him, the said J. S. Ballard, who had same duly recorded. That on February 18, 1890, and since the institution of this suit, Mrs. Maggie Dobbins and Mrs. C. F. Schmidt, for the purpose of defrauding intervener and casting a cloud upon his title, made a deed of conveyance to the land in controversy to N. A. McMillan, as receiver of said estate; and praying that said deed be cancelled, and that the title to the land be declared to be in the said J. S. Ballard.\nThe demurrer and special exceptions of all the intervenors to the pleadings of defendant receiver having been overruled, and defendant receiver\u2019s special exception to the affidavit of J. M. Ballard to his said account having been sustained by the special master, the case came on for trial on the 22nd day of May, 1891, before said master, who, after hearing the evidence and argument of counsel, rendered his report of findings and conclusions of said trial to the judge of the District Court, recommending, (1) that no part of the claim of intervenors, Emma Ballard for herself and as next friend of Emma Bessie Ballard and John Madison Ballard, be allowed; and (2) that the deed from Maggie Dobbins to J. S. Ballard be cancelled and held for naught, and that the title to the land in controversy be vested in the said 1ST. A. McMillan as receiver of said estate.\nThe exceptions saved by the intervenors to the rulings of the special master, as well as exceptions to his said report', having been approved by said special master, were filed before the judge of the District Court, together with their protest against said report, and their demand that said report be set aside and that intervenors be granted a jury trial in said cause before him, the judge of said District Court.\nThe report of the special master came on for hearing on the 22d day of May, 1891; and the exceptions to the report of the master being overruled, the court confirmed said report in all things, and entered its decree accordingly:\n1. ' That intervenors, Emma Ballard for herself and.as next friend for Emma Bessie Ballard and John Madison Ballard, take nothing by their said suit.\n2. That the title of J. S. Ballard to the land in controversy be divested out of him and vested in the said N. A. McMillan, receiver of said estate.\nWhich decree appellants bring up for revision.\nOpinion. \u2014 1. Appellants\u2019 first assignment of error is as follows: \u201c The court erred in sustaining the ruling of the special master, sustaining the exception of the receiver herein to the affidavit of J. M. Ballard to his original account filed in the cause before said special master, because said ruling is contrary to law.\u201d\nThe account of J. M. Ballard was verified under the statute, article 2018, which provides for the presentation of claims to administrators or executors. This is not an administration under the statute. Where the husband died leaving no children, the community estate passed to the wife, subject to the payment of the debts, and administration was not necessary. Rev. Stats., art. 2165; Wall v. Clark, 19 Texas, 321.\nThe claim presented by J. M. Ballard for allowance was one growing out of a contract for services and cash deposited, and was not such an open account as could be proved by affidavit under the statute, article 2266.\nIn the case of McCamant v. Batsell, 59 Texas, 369, Judge Stayton, in an able and elaborate opinion, defines what is an \u201c open account\u201d such as may be proved by affidavit under the statute, and holds, that where the claim is merely an aggregation of items based upon special contracts which are clear in their items, with nothing open or undetermined, it is not an \u201c open account\u201d within the meaning of the statute, and can not be proved by affidavit.\nIn the \"case of Texas & St. Louis Railway Company v. Smith, 2 Will-son\u2019s Civil Cases, section 51, the claim was for services as conductor, and the court held that it was not an open \u201c account\u201d within the terms of the statute, and could not'be proved by affidavit. See, also, Murray v. McCarty, 2 Willson\u2019s C. C., sec. 107.\nThe claim of J. M. Ballard could not be thus proved, and there was no error in sustaining the exception to the affidavit.\nThe second assignment of error was the refusal of the court to allow intervenors to prove by the witness Meadows the declarations of C. F. Schmidt in his lifetime, to the effect that he was indebted to J. M. Ballard for services.\n2. The third assignment of error is in admitting certain testimony of Mrs. Schmidt before the special master.\nThese assignments can not be considered by us, in the absence of both statement of facts and bills of exception, signed and approved by the judge of the trial court, as provided by the rules and the statute. Article 1470 of the Revised Statutes, which authorizes the appointment of a master in chancery in every case of the appointment of a receiver, provides, that he shall \u201chave such power as a master of chancery has in a court of equity.\u201d Article 1470i, upon the same subject, provides, that \u201c the rules of equity shall govern whenever the same are not inconsistent with the provisions of this act and of the general laws of the State.\u201d\nThis does not affect the rules of practice laid down in the statute, and rules established by the Supreme Court for the government of the District Courts. A bill of exceptions or statement of facts approved by a master in chancery, and not approved by the District Court, can not be considered on appeal. Dist. Ct. Rules 53-60; Willis v. Donac, 61 Texas, 588; Mott v. Harrington, 15 Vt., 185. The master in chancery is an officer of the court, and must derive all of his powers from the decretal order of his appointment. Dan. Chan. Prae., 1296, 1297.\n3. The fourth and tenth assignments of error relate to the ruling of the court upon the demand of appellants for a jury, and a refusal by the court. The record shows a written objection by appellants in the court below to the master\u2019s report, containing a demand for a jury; but there is no bill of exceptions, and nothing whatever to show that the attention of the court was called to this demand, or that the court ever acted upon it in any manner. In order to present such a question, it is necessary for the record to show by bill of exceptions that the demand was made at the proper time and in the proper way,'and that it was refused by the trial court. Rules Dist. Ct., 53-60.\n4. This disposes of all the questions raised by appellants in their brief, except as to appellant J. S. Ballard, who was made a party before the master under a cross-bill of the receiver, who sought, as against him, to cancel certain deeds and recover a tract of land, which was claimed by the receiver as property of the community estate which had been fraudulently transferred to said J. S. Ballard. A demurrer and exceptions were filed by said J. S. Ballard before the master, denying his power or authority to make him a party or to litigate his rights. The master, after hearing the cause in full, made his report to the District Court, recommending, among other things, that the title of said J. S. Ballard be can-celled and the land recovered by the receiver. It appears from the judgment of the court below that the exceptions of J. S. Ballard to this report were duly presented to the court and overruled, and the report of the master adopted, the title divested out of J. S. Ballard and vested in the receiver. To this judgment he excepted.\nThe errors assigned by J. S. Ballard raise these questions: Did the special master in chancery have any power or authority to make him a party to the suit, to pass upon his title, or to litigate his rights, or to make any report in regard to them ?\nIt is well settled in equity practice, that a special master in chancery has no power or authority except such as is derived from the order of the court making the appointment. If he goes beyond this, his action has no official weight, and should be set aside. In 2 Daniels\u2019 Chancery Practice, 1221, note 2, it is said: \u201c Orders of reference to a master should specify the principles on which the accounts are to be taken or the inquiry to proceed, so far as the court shall have decided thereon, and the examination before the master should be limited to such matters within the order as the principles of the decree or order may render necessary.\u201d Referring to Remsen v. Remsen, 2 Johnson\u2019s Chancery, 495, and a long list of authorities.\nOn page 1297, 2 Daniels\u2019 Chancery Practice, it is said: \u201cThe master, however, must not go beyond the matters referred to him; and it is laid down in one of Lord Bacon\u2019s orders,that if a master reports as to a matter which is not referred to him, his report, so far as it relates to that matter, is a nullity.\u201d See, also, Copeland v. Cram, 26 Mass., 73; Harris v. Ely, 4 N. Y. Chan., 216; Re Hemiup, 3 N. Y. Chan., 165; Blouvett v. Ackerman, 20 N. J. Eq., 141; Mott v. Harrington, 15 Vt., 186.\nIn this case the decretal order appointing the master set out the following powers: \u201cAnd the said master is hereby directed to publish for one week, in some daily newspaper published in Dallas County, a notice of his appointment as such master, and appoint a time and place when and where he will hear proofs of claims against the community estate of C. F. Schmidt, deceased, and his wife, Margaret Schmidt; and in said advertisement to notify all persons having claims against such estate to appear before him at such time and place and prove their said claim. Said master is further directed to make a record of all proofs submitted to him, and to report the same, together with his findings thereon, to this court.\u201d This order did not authorize the master to make new parties, or to make any investigation or inquiry, or to report concerning the title to real estate claimed by the receiver as a part of the community estate.\nIt is claimed by appellee that J. S. Ballard can not complain of the action of the master, because he voluntarily became a party to the proceeding before such master. The record upon this point is not entirely clear. The master\u2019s report shows that J. S. Ballard made himself a party; but the pleadings indicate that the receiver filed his cross-bill making him a party, and Ballard\u2019s pleading is in answer to that cross-bill. In any event, he objected in every legitimate way to the jurisdiction of the master over him, and presented the question squarely to the court.\nDelivered December 14, 1893.\nAll of that portion of the judgment below which approves the master\u2019s report upon the claim of J. M. Ballard, as represented by appellants, Emma Ballard for herself and as next friend for Emma Bessie Ballard and John Madison Ballard, said matters being within the scope of the master\u2019s authority, is affirmed. But all that portion of the judgment which appertains to J. S. Ballard, and the approval of the report of the master thereon, and divesting title out of him and vesting it in the receiver, and adjudging costs against him, is reversed, and judgment is here rendered disapproving the report of the master as to all matters affecting J. S. Ballard and the title to the land therein mentioned, and as to him the cause is dismissed.\nIn this case, no question is raised or presented as to the legality of the appointment of a receiver for the community estate of C. F. Schmidt, deceased, and his surviving wife, and it has not been passed upon by this court.\nAffirmed in part.\nReversed and\u25a0 dismissed in part.",
+        "type": "majority",
+        "author": "LIGHTFOOT, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "Porter & Reed, for appellants.",
+      "Alexander & Clark, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Emma Ballard et al. v. N. A. McMillan, Receiver.\nNo. 85.\n1. Community Estate \u2014 Receiver \u2014 Verified Account. \u2014 A receiver was appointed for the community estate of a deceased husband and his surviving wife, at the instance of creditors of the deceased. A master in chancery was appointed, with power to hear proofs of claims against the community estate, and to report to the court. A claim growing out of a contract for services and cash deposited, verified under the statute, article 2018, which provides for the presentation of claims to administrators or executors, was presented to the master. Held: s\n1. This is not an administration under the statute. There being no children, upon the husband\u2019s death the community estate passed to the wife, subject to the payment of the debts, and administration was not necessary.\n2. The claim presented to the master for allowance was not such an account as could be proved by affidavit, under article 2266 of the statutes, and the exception to the affidavit was properly sustained.\n2. Master in Chancery \u2014 Practice\u2014Assignment of Error. \u2014 Assignments of error presenting for review rulings of the master in admitting certain testimony can not be considered by this court in the absence of both statement of facts and bills of exception signed and approved by the trial court. A bill of exceptions or statement of facts approved by the master and not approved by the court can not be considered.\n3. Trial by Jury\u2014 Refusal \u2014 Review\u2014Practice.\u2014In order to present-for review the action of the court in refusing a trial by a jury, it is necessary for the record to show by bill of exceptions that the demand was properly made, and that it was refused.\n4. Master in Chancery \u2014 Jurisdiction\u2014Parties.\u2014See opinion for an order appointing the master and authorizing him to hear proofs of claims against the community estate, and to report the proofs and his findings thereon to the court, which is held not to have authorized him to make new parties to a claim filed with him on the cross-bill of the receiver, or to make any investigation or report concerning the title to real estate claimed by the receiver as a part of the community estate.\n5. Receiver of Community Estate. \u2014 In this case no question is presented as to the legality of the appointment of a receiver for the community estate of a surviving wife and her deceased husband, and it is not passed upon by the court.\nAppeal from Dallas. Tried below before Hon. Charles Fred Tucker.\nPorter & Reed, for appellants.\n1. The court erred in sustaining the ruling of the special master, sustaining the exception of the receiver herein to the affidavit of J. M. Ballard to his original account filed in the cause before said special master, because said ruling is contrary to law. Rev. Stats., art. 2018.\n2. The right of trial by jury is a constitutional right, which, when demanded by litigants, no court can lawfully deny. Const. U. S., art. 7 of amendments; Const. Texas, art. 5, sec. 10; Fagan & Osgood v. Ice Machine Co., 65 Texas, 330.\n3. A receiver has no right to come into a master\u2019s court for the purpose of dispossessing a third party of realty, who is in possession and prima facie owner of same, without alleging a legal and equitable authority and necessity for so doing. Caldwell v. McWhorter, 84 Ky., 130.\n4. The receiver in this case is without authority to bring an action of trespass to try title in the special master\u2019s court. The remedy of the receiver with reference to the land in controversy is clearly an action of trespass to try title against J. S. Ballard in the District Court.\n5. The rule for the guidance of the master is the decretal order of his appointment. Under the terms of the order of appointment in this case, the master is without authority to try cases other than those involving claims against the estate, and report his evidence, findings, and conclusions thereon to the court. Receiver\u2019s cross-bill is not in the nature of a defense to any claim against the estate, but is in reality a suit in behalf of the estate to cancel the deed and quiet title to the land in controversy* and in the absence of a special order of court granting the special master authority to try the title to the land involved, he is without authority to act. White v. Walker, 5 Fla., 478; Littlefield v. Waterhouse, 83 Me., 30.\nAlexander & Clark, for appellee.\n1. Mrs. Schmidt received and owned said community estate of her deceased husband, there being no children* subject to the community debts, and in such a case the law does not require that the claim be supported by affidavit in order for it to be allowed or paid. In such a case the rules of the Probate Court do not apply, the Probate Court not having jurisdiction of the estate. Rev. Stats., art. 2165; Wall v. Clark, 19 Texas, 321.\n2. The account sued upon for wages not being an open account within the meaning of the Revised Statutes, article 2266, it could not be verified or proven by affidavit. Rev. Stats., art. 2266; McCamant v. Batsell, 59 Texas, 363; Railway v. Smith, 2 Willson\u2019s C. C., 251.\n3. If the District Court refused, upon being requested by appellants, to allow them a trial by jury, the ruling not being presented by bill of exception, this court will not review the same. Rules for Dist. Ct., 60."
+  },
+  "file_name": "0679-01",
+  "first_page_order": 705,
+  "last_page_order": 712
+}

@@ -1,0 +1,93 @@
+{
+  "id": 227332,
+  "name": "The Western Union Telegraph Company v. W. A. Evans",
+  "name_abbreviation": "Western Union Telegraph Co. v. Evans",
+  "decision_date": "1893-11-16",
+  "docket_number": "No. 1554",
+  "first_page": "55",
+  "last_page": "58",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Tex. Civ. App. 55"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "22 S. W. Rep., 737",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "21 S. W. Rep., 982",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "48 Fed. Rep., 810",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        6722194,
+        6722141
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f/48/0810-02",
+        "/f/48/0810-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 529,
+    "char_count": 11409,
+    "ocr_confidence": 0.538,
+    "pagerank": {
+      "raw": 5.527646540942415e-08,
+      "percentile": 0.3463574517278807
+    },
+    "sha256": "cdc6642d32e8abcf0bae221ba0a21c2a0e0a47b0c22ed0bede457da1d01c575d",
+    "simhash": "1:8e3323aa0f49e2c6",
+    "word_count": 1991
+  },
+  "last_updated": "2024-02-27T16:31:09.266747+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The Western Union Telegraph Company v. W. A. Evans."
+    ],
+    "opinions": [
+      {
+        "text": "TARLTON, Chief Justice.\nThis case has heretofore been before us on appeal. A judgment in favor of the appellee was then reversed on the ground solely of excessiveness. A second trial resulted m a judgment reduced from 85000 (recovered on the former hearing) to 82500. The cause is now considered as an advanced case on a suggestion of delay.\nThe opinion disposing of the former appeal will be found on page 298, volume 1, Texas Civil Appeals Reports. We adopt the statement of the nature of the suit as there made. We also adopt the conclusions of fact there found. Additional conclusions of fact which may be appropriate will be stated in connection with a discussion of the assignments of error to which they apply.\nAppellant first complains of the eighth subdivision of the court\u2019s charge, as follows:\nu 8. If you believe from the evidence, that plaintiff\u2019s wife and the said A. C. Evans, or either of them, prior to the sending of said message, had an agreement and understanding with defendant\u2019s agent and operator at Mount Vernon that said agent should deliver said telegram, when it arrived at Mount Vernon, to Mrs. N. E. Foster; and if you further believe that at the time of said agreement and understanding with said Mount Vernon agent the said agent was informed of the object, purpose, and importance of said message, and of the relationship existing: between said parties; and if you further believe that said Mrs. N. E. Foster promised and agreed with plaintiff\u2019s wife and A. C. Evans, or with either of them, to\u2019deliver said message to said A. C. Evans when it should be-delivered to her; and if you further believe that defendant\u2019s agent at. Mount Vernon did not deliver said message to said N. E. Foster; and if you further believe that if said message had been delivered to said Mrs. N- E, Foster, she could and would have delivered the same to said A. C. Evans in time for plaintiff\u2019s wife to have reached the bedside of said Luther Evans before his death; and if you further find that by reason of the failure of defendant\u2019s agent at Mount Vernon to deliver said message to Mrs. Foster, plaintiff\u2019s wife was deprived of the opportunity and privilege of reaching the said Luther and seeing him before he died, then, in addition to the amount of money paid for the transmission and delivery of said message, plaintiff would be entitled to recover such additional sum, if any, as the evidence may show would be a fair and just compensation for the mental pain and anguish suffered by plaintiff\u2019s said wife, if she did so suffer, on account of her failure to reach the said Luther before he died.\u201d\nThe foregoing instruction is founded upon allegations in the plaintiff\u2019s petition, supported by evidence which the jury were authorized to believe, and which we conclude they did believe, to the effect, that in anticipation of the message in question, and with knowledge of the sickness of Luther Evans and of the relationship of the several parties, and of the extent to which the movements of the mother, Mary C. Evans, and of the brother, A. C. Evans, depended upon the prompt delivery of the telegram, the agent of the company at Mount Vernon agreed with A. C. Evans, that upon receipt of the message he would promptly deliver it to Mrs. Foster, who resided in close proximity to the defendant\u2019s office. It was further alleged and proved that this agreement was not complied with, and hence the delay complained of.\nThis agreement with the agent at Mount Vernon had with A. C. Evans, a beneficiary in the message sent from Gainesville, must, we think, be considered a part of the contract entered into with the company with reference to the transmission and delivery of the telegram. The agreement is relied upon in the petition as a ground of recovery. The defendant, in its pleadings, does not assail it as being without consideration; nor do we think it thus assailable. The agreement, giving shape and direction to the manner of delivery at Mount Vernon, only facilitated the task of the company in effecting the delivery at this point, in accordance with the very terms of the message. We see no substantial reason excluding such an agreement from the scope of the authority of the agent at Mount Vernon.\nIf there be error in the instruction complained of, it is in that portion thereof making the liability of the defendant to depend upon the delivery vel non to Mrs. Foster, without reference to the extent of diligence exerted to effect such delivery. Under the evidence, however, we do not think that this hypothetical error could possibly have injured the appellant; because, conceding the fact of the agreement to deliver to Mrs. Foster (and this issue is in a preceding sentence of the criticised paragraph properly submitted to the jury), the testimony fails to disclose any effort whatever by the appellant to comply with the agreement. Shumard v. Johnson, 66 Texas, 71.\nDelivered November 16, 1893.\nAppellant again complains, that \u201cThe court erred in that portion of the charge wherein it submitted, as an element of damage, the injury to the feelings of plaintiff\u2019s wife, because the message on its face did not show that the plaintiff had a wife, nor was there notice outside of the message of that fact, or that it was in contemplation of the defendant at the time it received said message for transmission, that the feelings of plaintiff\u2019s wife would be in any way injured by a failure to deliver said message.\u201d\nThe allegations of the plaintiff\u2019s petition, supported by evidence, show, in effect, not only that A. C. Evans and Mary C. Evans were the beneficiaries in the message declared upon, but that in sending the message W. A. Evans was acting as the agent of A. C. Evans, his son, and of his wife, Mary C. Evans, mother of A. C. Evans and of the sick son, Luther Evans, and that the relationship of the parties and the urgent importance of the telegram were expressly called to the attention of the company\u2019s agent at Gainesville. The language of the message was itself sufficient to challenge the attention of the company to its purpose and scope. The complaint is without merit. Tel. Co. v. Adams, 75 Texas, 531; Tel. Co. v. Jones, 81 Texas, 271; Tel. Co. v. Carter, 85 Texas, 580.\nWe overrule appellant\u2019s final assignment of error, complaining that \u201c the verdict of the jury is excessive in amount, and more in the nature of punishment than compensation for the actual injury done the plaintiff.\u201d\nThe doctrine, that mental anguish, in the absence of physical pain or pecuniary loss, can be considered as an element of actual damages in cases of this character, is too thoroughly fixed in the jurisprudence of this State to justify its disturbance by this court.\nNor are we prepared to agree with appellant\u2019s counsel, that the record is void of evidence indicating indifference on the part of the company\u2019s employes with reference to the delivery of the message in question. The delivery was delayed for more than twenty-four hours, and this in spite of the fact, evidently, and under the testimony reasonably, found by the jury, that great circumspection had been exerted by the plaintiff to avoid delay.\nThe line of demarcation is so shadowy between the minimum of ex-cessiveness and the maximum of compensation in verdicts of the kind here involved, that we decline to adopt the suggestion of the appellee, that this appeal is prosecuted solely for delay.\nThe judgment is affirmed.\nAffirmed.",
+        "type": "majority",
+        "author": "TARLTON, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "Field & Homan and Stanley, Spoonts & Meek, for appellant.",
+      "No brief for appellee reached the Reporter."
+    ],
+    "corrections": "",
+    "head_matter": "The Western Union Telegraph Company v. W. A. Evans.\nNo. 1554.\n1. Telegraph Company \u2014 Special Agreement to Deliver Message. \u2014 Where the addressee of a telegram, in anticipation of its receipt, informs the receiving agent that he expects it, and of its importance, and the agent agrees to deliver the message to a person residing near the telegraph office, to be taken to the addressee, such agreement is within the scope of the agent's authority,'and constitutes a part of the contract with the company for the transmission and delivery of the message.\n2. Same \u2014 Diligence\u2014Charge of Court. \u2014 In an action by the sender for nondelivery of a telegram, the defendant company was not injured by an instruction making its liability depend on delivery, vel non, to the agreed person, without reference to the extent of diligence exerted to effect such delivery, where the evidence showed no effort whatever by the defendant to comply with the agreement.\n3. Same \u2014 Element of Damage \u2014 Beneficiary.\u2014Injury to the feelings of plaintiff\u2019s wife, who was prevented by delay in delivery of the message from reaching her son before his death, was a proper element of damages where she was one of the beneficiaries of the telegram, and plaintiff sent it for her and his sons, and informed the sending agent of the relationship of the parties and the urgency of the message.\n4. Same \u2014 Excessive Verdict. \u2014 A verdict for $2500 in a case such as indicated above held not to be excessive.\n5. Practice on Appeal \u2014 Suggestion of Delay. \u2014 The line of demarcation is so shadowy between the minimum of excessiveness and the maximum of compensation in verdicts for damages for mental suffering, that the appellate court declines to adopt the suggestion that an appeal is prosecuted solely for delay, where the verdict in such case is for as much as $2500.\nAppeal from Cooke. Tried below before Hon. D. E. Barrett.\nField & Homan and Stanley, Spoonts & Meek, for appellant.\n1. Defendant\u2019s liability for damages to the plaintiff is based upon a breach of the contract made at the time that the message in question was delivered to and accepted by it at Gainesville, on March 4, 1889, and defendant did not contract to deliver the message sued upon to Mrs. N. E. Foster; and hence the charge of the court with reference to the duty upon the part of the defendant to deliver said message to Mrs. Foster was error, which we submit is fundamental, and imposed upon the defendant a liability and a duty not contracted to be performed, and which it was under no obligation to perform. Tel. Co. v. Young, 77 Texas, 245.\n2. The promise made by the agent, Beeman, to A. C. Evans to deliver the message to Mrs. Foster was without consideration, and was not made within the scope of the duties of said agent, and was made long prior to the sending of the telegram, and the defendant could not be charged with notice of said initial conversation between said Evans and said agent, and would not be bound thereby. Cahn v. Tel. Co., 48 Fed. Rep., 810.\n3. This is a suit for breach of contract, and only those who are parties or privies to the contract can maintain an action on it; and the plaintiff\u2019s wife not being a party, nor in privity with a party, to the contract, and the damages recovered being for injury to her feelings, and the husband being, by reason of our community law, permitted to sue for said damages, the fact that he was a party to the contract would not entitle him to recover for the mental anguish of the wife. Tel. Co. v. Kirkpatrick, 76 Texas, 217; Tel. Co. v. Carter, 85 Texas, 580.\n4. The verdict of the jury is excessive in amount, and is more in the nature of punishment than of compensation for the actual injury done the plaintiff. Tel. Co. v. Bardine, 21 S. W. Rep., 982; Tel. Co. v. Evans, 1 Texas Civ. App., 297; Tel. Co. v. Piner, 1 Texas Civ. App , 301; Tel Co. v. Houghton, 82 Texas, 562; Railway v. Griffin, 22 S. W. Rep., 737.\nNo brief for appellee reached the Reporter."
+  },
+  "file_name": "0055-01",
+  "first_page_order": 81,
+  "last_page_order": 84
+}

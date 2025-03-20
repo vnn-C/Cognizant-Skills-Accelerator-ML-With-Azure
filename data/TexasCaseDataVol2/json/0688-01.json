@@ -1,0 +1,193 @@
+{
+  "id": 219202,
+  "name": "J. J. Hoffman v. Cleburne Building and Loan Association et al.",
+  "name_abbreviation": "Hoffman v. Cleburne Building & Loan Ass'n",
+  "decision_date": "1893-03-30",
+  "docket_number": "No. 729",
+  "first_page": "688",
+  "last_page": "692",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 688"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "10 Cal., 304",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2222475
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-2d/10/0304-01"
+      ]
+    },
+    {
+      "cite": "10 Wend., 111",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "14 Johns., 166",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        376288
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/14/0166-01"
+      ]
+    },
+    {
+      "cite": "13 Johns., 443",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        374535
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/13/0443-01"
+      ]
+    },
+    {
+      "cite": "11 Johns., 132",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2137636
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/11/0132-01"
+      ]
+    },
+    {
+      "cite": "19 Wend., 463",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2023440
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/19/0463-01"
+      ]
+    },
+    {
+      "cite": "11 Wend., 54",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "55 Cal., 153",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        1955675
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal/55/0153-01"
+      ]
+    },
+    {
+      "cite": "6 Mich., 508",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1926666
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich/6/0508-01"
+      ]
+    },
+    {
+      "cite": "39 Mich., 727",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1333089
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich/39/0727-01"
+      ]
+    },
+    {
+      "cite": "21 Pac. Rep., 925",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 Wall., 668",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "14 How., 500",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 587,
+    "char_count": 11100,
+    "ocr_confidence": 0.535,
+    "pagerank": {
+      "raw": 9.505882454708161e-08,
+      "percentile": 0.5189275513746168
+    },
+    "sha256": "57822ed4bb6ef659be5380df1cb419234c6f9cbbe3572055d14e32ebce5992a4",
+    "simhash": "1:1e17463a6beae394",
+    "word_count": 1988
+  },
+  "last_updated": "2024-02-27T19:43:33.086404+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "J. J. Hoffman v. Cleburne Building and Loan Association et al."
+    ],
+    "opinions": [
+      {
+        "text": "HEAD, Associate Justice.\nThe decision of our Supreme Court on the question referred to it by us holds, that a plea to the jurisdiction of the trial court on the ground that the amount in controversy has been fraudulently stated, must be filed in the due order of pleading before an answer to the merits. The action of the court below in overruling the motion of appellant to strike out such plea interposed by appellees, after they had filed a general demurrer and general denial, must therefore be held error which will require a reversal of the judgment.\nThe allegations in appellant\u2019s petition in the court below upon which he sought a recovery are, in substance, that on the-day of November, 1889, plaintiff was the owner and in possession of the following described property, to-wit, six bales of cotton of the value of $59 per bale. That the said defendants on said day did wrongfully, unlawfully, with force, and without the consent of plaintiff, seize and take all of said property from his possession, and convert it to their own use. The petition also alleges such taking to have been willful and with full knowledge, and claims both actual and exemplary damages. To sustain his allegations, appellant offered evidence tending to show, that in the spring of 1889 his father gave him the use of 20 acres of land, which was a part of his homestead, and that the cotton in controversy, except one bale, was raised on this land, and that at the time alleged appellees took it from his possession by virtue of an execution against L. Hoffman, the father of appellant.\nAppellees answered by a general denial; and appellant contends, that in this state of the pleading the only issue in the case was that of possession.\nThis question of pleading, in a case strikingly similar, is so fully considered in Willis v. Hudson, 63 Texas, 678, that we shall not undertake to add anything to what is there said. We understand that case to hold, that if the cotton was placed in the name of appellant to hold for his father, with no intention that as between them the title should pass to the former, this can be shown under a general denial, even though the transaction may have been undertaken to defeat the creditors of the latter. In such case, the ownership of the cotton would be in the father, and the son\u2019s possession would be the father\u2019s possession, just as the servant\u2019s possession is the master\u2019s possession. But if the parties to this transaction really intended the title to the cotton to vest in the son as between them, and the appellees relied upon their right to defeat such transfer as being in fraud of their rights as creditors of the father, special pleading on their part would be required.\nIn submitting the case to the jury, the court instructed them, in general terms, if they found that plaintiff was the owner of any of the cotton at the time of the levy, to find in his favor for its value, otherwise to find for defendants; and under this charge the jury returned the following verdict: \u201c We, the jury, find in favor of the plaintiff actual damages in the sum of $59, with interest at 8 per cent per annum from the 5tli day of November, 1889. We, the jury, find no sum in favor of the plaintiff as exemplary damages. We, the jury, find that the amount in controversy was falsely and fraudulently stated by the plaintiff to be more than the sum of $200, for the purpose of giving this court jurisdiction of the case, and therefore we find for the defendant on his special plea setting up those facts.\u201d Upon this verdict a straight judgment was rendered for the defendant. Under the decision of our Supreme Court, it will be necessary that this judgment be reversed and here rendered for appellant for $59 and interest thereon at 8 per cent from the 5th day of November. 1889, together with all costs of this court and the court below.\nAppellant contends, that the verdict finding him not to be the owner of the remainder of the cotton can not be sustained by the evidence, but we can not agree with this. The evidence was undisputed, that one bale of the cotton was raised upon land rented by appellant from other parties than his father, and this is evidently the bale the jury allowed him. As to the cotton raised on L. Hoffman\u2019s land, we think the verdict amply sustained.\nThe evidence shows that L. Hoffman had a large family, and owned only a small place with from 40 to 45 acres in cultivation. The 20 acres upon which this cotton was raised was all the land on that place cultivated in cotton that year. This cotton was cultivated and picked by L. Hoffman, aided by his other children as well as appellant, in the way we would expect to find it done had it belonged to him. Appellant was a minor, and had several acres of cotton on land rented from other parties. Of the cotton that had been sold prior to the levy, L. Hoffman had received by far the greater portion of the proceeds, ostensibly as a gift from Ms son. A witness who worked in the same field with appellant and his father while the crop was being cultivated, testified to several conversations with both of them, in which they agreed that the cotton on the father\u2019s land belonged to him, and that on the rented land to appellant. The father was in debt beyond his ability to pay. So that without considering the statements of the father made in the absence of appellant, introduced for the purpose of contradiction, we think the circumstances amply sufficient to sustain the conclusion of the jury, that there was no intention as between father and son that this cotton should belong to the latter. We incline to think, that had we been trying the case in the court below, we would have arrived at the same conclusion.\nWe find no error in the rulings of the court below in the admission and rejection of evidence.\nThe assignment calling in question the action of the court below in refusing special charges requested by appellant is too general to authorize its consideration by us over the objection of appellees.. We think it would have been better had the court below been more specific in applying the law to the issues raised by the evidence, but we can not remand on this account, in the state of the record as presented to us, without extending to the assignments of error a degree of liberality denied in other cases.\nLet the judgment of the court below be reversed and here rendered as indicated in this opinion.\nReversed and rendered.\nDelivered March 30, 1893.",
+        "type": "majority",
+        "author": "HEAD, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Henry & Green and Wray & Nugent, for appellant.",
+      "C. V. Myers, and Poindexter & Padelford, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "J. J. Hoffman v. Cleburne Building and Loan Association et al.\nNo. 729.\n1. Pleading\u2014Plea to Jurisdiction must Precede Answer to Merits, When.\u2014A plea to the jurisdiction, on the ground that the amount in controversy has been fraudulently stated by plaintiff, for the purpose of conferring jurisdiction, must be filed in due order before an answer to the merits. Opinion of Supreme Court on certified question.\n2. Pleading\u2014Transfer in Fraud of Creditors\u2014General Denial.\u2014 In an action by a son to recover the value of certain cotton sold under execution against the father, the defendants may, under the general denial, prove that the cotton was placed in the name of the son to hold for the father, with no intention that as between them the title should pass to the son; but if the parties really intended the title to vest in the son as between them, and defendants rely on their right to defeat such transfer, as being in fraud of their rights as creditors of the father, special pleading on their part will be requisite. Following Willis v. Hudson. 63 Texas, 678.\n3. Fraud\u2014Transfer Colorable Only.\u2014See the opinion foi evidence held to show, that in a purported transfer of certain cotton by an insolvent father to his minor son, there was no intention that as between them the cotton should belong to the son.\nAppeal from the County Court of Johnson. Tried below before Hon. F. E. Adams.\nThe question referred to in the opinion as having been certified to the Supreme Court was as follows: \u201c Where the petition alleges an amount within the jurisdiction of the court, and the defendant pleads that the real amount in controversy is less than such jurisdiction, and has been fraudulently alleged at such greater sum for the purpose of conferring jurisdiction of the case upon such court, is it necessary that such plea be filed before an answer to the merits, or is it sufficient that this issue is presented in an amendment (filed after an original answer containing a general demurrer and general denial), and submitted to the jury with the other issues in the case?\u201d The full text of the opinion of the Supreme Court on the certified question may be found in Hoffman v. Loan Association, 85 Texas, 409.\nHenry & Green and Wray & Nugent, for appellant.\n1. A plea to the jurisdiction of the court, filed after an answer to the merits, should be disregarded. Graham v. McCarty, 69 Texas, 323; Howard v. Britton, 71 Texas, 286; 3 Willson\u2019s C. C., secs. 3, 75; Chit. Plead., 16 Am. ed., 568; Sayles\u2019 Plead., sec. 92; Sherwood v. Douthit, 6 Texas, 224; Ellett v. Powers, 8 Texas, 113; Bridge v. Ballew, 11 Texas, 269; Harrell v. Hill, 15 Texas, 270; Railway v. Nicholson, 61 Texas, 550; Dwyer v. Bassett, 63 Texas, 274; Allen v. Read, 66 Texas, 13; Roper v. Brady, 80 Texas, 588; Sheppard v. Graves, 14 How., 500; Cook v. Bamley, 11 Wall., 668.\n2. Plaintiff\u2019s possession at the time the property was taken made out a prima facie case of ownership; and defendants could not, under a general denial only, overthrow this by proof of ownership in plaintiff\u2019s father, who was not a party to the suit. Chit. Plead., 653, 654; Omaha v. Tabor, 21 Pac. Rep., 925; Fry v. Loper, 39 Mich., 727; Rosenberg v. Augell, 6 Mich., 508; Pico v. Kalisher, 55 Cal., 153; O\u2019Brien v. Hilburn, 22 Texas, 616; Davis v. Loftin, 6 Texas, 489; Duncan v. Speer, 11 Wend., 54; Hurst v. Cook, 19 Wend., 463; Dimick v. Chapman, 11 Johns., 132; Butterworth v. Loper, 13 Johns., 443; Drake v. Barrymore, 14 Johns., 166; Root v. Chandler, 10 Wend., 111; Glazer v. Clift, 10 Cal., 304; Carter v. Wallace, 2 Texas, 206; Mims v. Mitchell, 1 Texas, 447.\nC. V. Myers, and Poindexter & Padelford, for appellees.\n1. A plea to the jurisdiction of the court over the subject matter is always permissible, if plead in the due order of pleading, whether that plea be made in an amended or an original pleading, and it is not waived because the original fails to set up that plea, and is afterwards plead in an amend- . ment; and the court did not err in refusing to sustain appellant\u2019s motion to strike out the plea to the jurisdiction. Griffin v. Brown, 1 W. & W. C. C., sec. 1099; Dwyer v. Bassett, 63 Texas, 274; Little v. Woodbridge, 1 W. & W. C. C., sec. 154; Mawthe v. Crozier, 50 Texas, 153; Erwin v. Austin, 1 W. & W. C. C., sec. 1038.\n2. A general denial puts in issue the material allegations in plaintiff\u2019s petition; and in an action for the conversion of property, a general denial puts in issue the ownership of the property for the conversion of which the suit is brought. Mayblum v. Austin, 1 W. & W. C. C., sec. 616; Babcock & Weil v. Bank, 1 W. & W. C. C., sec. 817."
+  },
+  "file_name": "0688-01",
+  "first_page_order": 714,
+  "last_page_order": 718
+}

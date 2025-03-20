@@ -1,0 +1,121 @@
+{
+  "id": 219256,
+  "name": "Thomas Benson v. Screwmen's Benevolent Association",
+  "name_abbreviation": "Benson v. Screwmen's Benevolent Ass'n",
+  "decision_date": "1893-01-26",
+  "docket_number": "No. 81",
+  "first_page": "66",
+  "last_page": "68",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 66"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "53 N. Y., 110",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "44 Cal., 173",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2316127
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal/44/0173-01"
+      ]
+    },
+    {
+      "cite": "28 Ohio St., 665",
+      "category": "reporters:state",
+      "reporter": "Ohio St.",
+      "case_ids": [
+        894677
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ohio-st/28/0665-01"
+      ]
+    },
+    {
+      "cite": "29 Mo. App., 337",
+      "category": "reporters:state",
+      "reporter": "Mo. App.",
+      "case_ids": [
+        501825
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mo-app/29/0337-01"
+      ]
+    },
+    {
+      "cite": "29 Mo. App., 337",
+      "category": "reporters:state",
+      "reporter": "Mo. App.",
+      "case_ids": [
+        501825
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mo-app/29/0337-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 356,
+    "char_count": 6126,
+    "ocr_confidence": 0.547,
+    "pagerank": {
+      "raw": 1.3240044217188896e-07,
+      "percentile": 0.6273605140685808
+    },
+    "sha256": "9a36e41b5110a8921a9d7a2f99e0dc60b93192a139ea18a7eb92bec92e82dc74",
+    "simhash": "1:1b637ee60d6c1ad4",
+    "word_count": 1045
+  },
+  "last_updated": "2024-02-27T19:43:33.086404+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Thomas Benson v. Screwmen\u2019s Benevolent Association."
+    ],
+    "opinions": [
+      {
+        "text": "WILLIAMS, Associate Justice.\nThis case was formerly before the Supreme Court, and its decision is reported in 76 Texas, 552. It was there held, that a mandamus to compel the defendant to reinstate the plaintiff as one of its members should be denied, because it appeared from the allegations of the petition that plaintiff had a remedy by appeal to the association from the action of its board of trustees expelling him therefrom. It was said in the opinion: \u25a0\u201c We think it matters not that the order of expulsion may have been contrary to law and void, and such as this court would not hesitate to annul in case there was no appeal within the association. The point is, that it was the action of the tribunal created in accordance with the constitution, and appellee had an adequate remedy by appeal within the society itself.\u201d _ The court concluded that the exception to so much of the petition as sought a mandamus should have been sustained.\nPlaintiff, after the cause was remanded to the court below, amended his petition, still seeking a mandamus as well as damages for the wrongful expulsion, but added nothing sufficient to cure the defect which had been held fatal to his prayer for mandamus. A general demurrer and special exceptions to the petition were urged by defendant, the latter on the ground which had been held good by the Supreme Court, and also on the further ground that there was an improper joinder of action for mandamus and for damages. The court sustained the general demurrer and special exceptions, and upon plaintiff declining to amend, dismissed the suit.\nUnder the former decision we must hold that the exceptions to the petition, so far as it sought a mandamus, were properly sustained. Whether or not additional facts, as to the illegality of the proceedings by which plaintiff was excluded from membership in the defendant, are alleged in the amended petition now before us,- we can not say, as we have not access to the petition on which the former appeal was decided. But none that could be stated would more than show the nullity of those proceedings; and that, as appears from the quotation above, would not meet the objection. It still appears that plaintiff could have appealed to the society from the decision of its board.\nIt does not follow, however, that the cause should have been dismissed. The former opinion does not hold that plaintiff has no other remedy than an appeal to the association, but that the existence of that remedy precludes a resort to the writcof mandamus, because that is allowed only as a last resort. It does not hold that the decision of the board of trustees, under the facts alleged, is binding until reversed by the society. If the allegations of the petition be true, there can be no doubt that the attempted expulsion was void, and could furnish no defense to the association in depriving plaintiff of his rights as a member.\nHe could therefore maintain an action for damages sustained, the proceedings resulting in his expulsion being null, and the petition alleges facts sufficient to entitle him to such relief. Ludowski v. Polish Society, 29 Mo. App., 337.\nWhether an action for mandamus could properly be joined with one for damages in such cases or not, his petition did not entitle him to the former remedy, and the exception should have been sustained to the part which was bad and overruled as to that which was good.\nReversed and remanded.\nDelivered January 26, 1893.",
+        "type": "majority",
+        "author": "WILLIAMS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "L. E. Trezevant, for appellant.",
+      "Hume & Kleberg, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Thomas Benson v. Screwmen\u2019s Benevolent Association.\nNo. 81.\n. 1. Mandamus to Restore to Membership in Association.\u2014Under the former decision in this case, the exceptions to the petition, in so far as it sought a mandamus, were properly sustained. Allegation of the nullity of proceedings-under and by virtue of which the appellant was expelled from the defendant association, does not meet the objection, that he could have appealed to the society from the decision of its board.\n2. Right of Action for Damages.\u2014If the allegations in the petition are true, there can be no doubt that the attempted expulsion of plaintiff was void, and could furnish no defense to the association in depriving plaintiff of his rights as a member. If the proceedings were null, and his petition alleges facts sufficient to entitle him to relief, he could maintain an action for damages sustained.\nAppeal from Galveston. Tried below before Hon. Wm. H. Stewart.\nPlaintiff, in substance, alleges, that at a clandestine and secret meeting, of the board authorized by the association to try members for violation of its rules and by-laws, he was unlawfully expelled from the association for a violation of section 1, article 6, of by-laws, which provides, that-any member who by words or actions directly or indirectly injures or endeavors to injure the reputation of the association, shall, upon conviction, be suspended or expelled. The offense charged against him was the employment of outsiders in a way and at times not authorized by the rules of the association. He claims that he was expelled at a meeting of which he had no notice, without evidence, and without a trial, and claims $5000 damages for being denied membership and participation in the benefits derived therefrom and for being thereby deprived of the means-of supporting himself and family in his vocation.\nL. E. Trezevant, for appellant.\nIf by a de facto wrongful exclusion of appellant from the benefits and privileges of membership he has been injured, he is entitled to sue in this action for compensation for the injury done him. This is elementary. Ludowski v. Polish Soc., 29 Mo. App., 337; Inness v. Wylie, 1 Car. & K., 257.\nHume & Kleberg, for appellee.\nThe petition misjoins an action for damages, actual and exemplary, for a tort, and an action for restoration to membership in the association by mandamus, and is bad upon demurrer. Screwmen\u2019s Ben. Ass. v. Benson, 76 Texas, 555; High\u2019s Ex. Legal Rem., secs. 15 (note 2), 283, 276, 30, 292, 298; Boone\u2019s Corp., see. 338, note 16; The State v. Slavonska Lipska, 28 Ohio St., 665; Kimball v. Water Co., 44 Cal., 173; The People v. German U. E. Church, 53 N. Y., 110."
+  },
+  "file_name": "0066-01",
+  "first_page_order": 92,
+  "last_page_order": 94
+}

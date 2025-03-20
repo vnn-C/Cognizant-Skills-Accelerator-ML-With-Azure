@@ -1,0 +1,66 @@
+{
+  "id": 223707,
+  "name": "Bonner and Eddy, Receivers of International & Great Northern Railway Company, v. The Franklin Co-operative Association (Patrons of Husbandry)",
+  "name_abbreviation": "Bonner v. Franklin Co-operative Ass'n",
+  "decision_date": "1893-09-27",
+  "docket_number": "No. 280",
+  "first_page": "166",
+  "last_page": "167",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Tex. Civ. App. 166"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 224,
+    "char_count": 4127,
+    "ocr_confidence": 0.555,
+    "pagerank": {
+      "raw": 1.5522964274278852e-07,
+      "percentile": 0.6753219975373081
+    },
+    "sha256": "baf05bc2404bbc303bfed9a994392d48871306f177d39974acf303b1808e8c29",
+    "simhash": "1:81dcd30b2867bd58",
+    "word_count": 660
+  },
+  "last_updated": "2023-07-14T14:53:58.701798+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bonner and Eddy, Receivers of International & Great Northern Railway Company, v. The Franklin Co-operative Association (Patrons of Husbandry)."
+    ],
+    "opinions": [
+      {
+        "text": "KEY, Associate Justice.\nIt is stated in the briefs of both appellants and appellee that this is an action to recover of Bonner and Eddy, as re\u2022ceivers of the International & Great Northern Railway Company, the 8500 penalty prescribed for unjust discrimination in freight rates by article 4258b, section 7, Sayles\u2019 Civil Statutes. Judgment for the amount sued for was rendered against the appellants in the court below.\nDelivered September 27, 1893.\nThe penalty prescribed by the statute referred to is denounced against and limited to \u2018 \u2018 railway companies.\u201d The doctrine announced in the \u25a0case of Turner v. Cross and Eddy, 83 Texas, 218, is decisive of this case; and following that case, it must be held, that receivers operating a railway under judicial appointment are not \u201c railway companies\u201d within the purview of the statute under which it is sought to maintain this action. Furthermore, this being an action to recover a statutory penalty, a stricter rule of construction applies, and unless the language of the statute is broad enough to include railway receivers, they are not liable to its penalties. The statute can not be extended by implication. Schloss v. Railway, 85 Texas, 601.\nAppellee may have a cause of action under the doctrine announced in Railway v. Rust & Dinkins, 58 Texas, 98, but it is not entitled to recover the penalty prescribed by the statute under which this suit was brought.\nThis case is distinguishable from Clark v. Dyer, 81 Texas, 339. In that case the receivers were appointed by a Federal court, and a Federal statute requires such receivers to operate the railway according to the requirements of the State in which the property may be situated. And \u25a0besides, that was a damage suit, and not an action to recover a penalty.\nThe judgment of the court below is reversed and the cause remanded.\nReversed and remanded.",
+        "type": "majority",
+        "author": "KEY, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Simmons & Crawford, for appellants.",
+      "T. N. Graham and J. D. Gann, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Bonner and Eddy, Receivers of International & Great Northern Railway Company, v. The Franklin Co-operative Association (Patrons of Husbandry).\nNo. 280.\nReceivers not Subject to Penalty Against Railway Companies.\u2014The statute (article 4258b, section 7, Sayles' Civil Statutes) denouncing a penalty of $500 for unjust discrimination in freight rates, is limited to \u201c railway companies,\u201d and does not affect receivers operating a railway. The statute can not be extended by implication.\nAppeal from the County Court of Robertson.\nTried below before Hon. O. D. Cannon, County Judge.\nThis is an action by appellee against Bonner and Eddy, receivers of the International & Great Northern Railway Company, to recover \u00a7500, statutory penalty, for unjust discrimination and extortion against the plaintiff corporation.\nAmong other defenses, the receivers pleaded, that they were not a corporation, but were receivers of said railway company, acting under orders of the court by whom they were appointed, and therefore that they are not liable for the penalty prescribed in section 7, article 4258b, Sayles\u2019 Civil Statutes, under which the action was brought. The exception was overruled, and on trial final judgment was rendered for plaintiff for the penalty. The defendants appealed.\nSimmons & Crawford, for appellants.\nThe court erred in not sustaining defendants\u2019 exceptions, because this action was brought under article 4258b, section 7, Sayles\u2019 Civil Statutes, which is applicable alone to railway corporations, and does not apply to receivers of railway companies. These defendants are receivers, and are therefore not liable for the penalty provided for in said article. Article 4258b, section 7, is only applicable to a railway corporation. The defendants in this case are receivers of the International & Great Northern Railway Company, operating same under directions of the District Court of Smith County, and are therefore not liable for the penalty provided for in said article.\nT. N. Graham and J. D. Gann, for appellee.\nThe liability of a railway as a common carrier is the same to the public under the laws of Texas when it is operated and managed by receivers as when managed by its president and board of directors. Sayles\u2019 Civ. Stats., arts. 1464, 1468, 1469."
+  },
+  "file_name": "0166-01",
+  "first_page_order": 190,
+  "last_page_order": 191
+}

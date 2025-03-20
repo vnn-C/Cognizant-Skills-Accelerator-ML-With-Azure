@@ -1,0 +1,66 @@
+{
+  "id": 227636,
+  "name": "M. J. Moore et al. v. J. E. Prince et al.",
+  "name_abbreviation": "Moore v. Prince",
+  "decision_date": "1893-11-15",
+  "docket_number": "No. 77",
+  "first_page": "352",
+  "last_page": "354",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Tex. Civ. App. 352"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 345,
+    "char_count": 6035,
+    "ocr_confidence": 0.549,
+    "pagerank": {
+      "raw": 7.72533378585635e-08,
+      "percentile": 0.4541874835173788
+    },
+    "sha256": "e081ad02698e87ec89c0c8b2486a3910f0f184e3535943d827c4811d45d38f7c",
+    "simhash": "1:44304a9c2f3cc598",
+    "word_count": 1054
+  },
+  "last_updated": "2023-07-14T18:07:14.925501+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "M. J. Moore et al. v. J. E. Prince et al."
+    ],
+    "opinions": [
+      {
+        "text": "LIGHTFOOT, Chief Justice.\nOn the 2nd day of May, 1879, J. E. Prince, Sr., filed his petition in the District Court of Ellis County, making Eebecca J. Coleman and her husband, James W. Coleman, Maggie, Mathew J., and William Moore parties defendant. The petition alleges, in substance, that in 1870 plaintiff and one Ed H. Moore, deceased, were the joint owners of lot 5, block 15, Waxahachie; that on the-day of November, 1870, petitioner bought from said Moore his half-interest in said lot for $150; that upon payment of said sum, said Moore vacated and turned said lot over to petitioner, J. E. Prince, Sr., and that since that time he had had possession thereof. It was alleged that at the time of said payment, Moore promised to execute and have placed on record a deed conveying his interest in said lot to said J. E. Prince, Sr., and petitioner was fully assured that the same was done until after the death of said Moore, when he discovered that no deed had been placed on record; that the just and equitable title in said lot was in petitioner, J. E. Prince, Sr.; that at the time of such purchase and payment, defendant E. J. Coleman was the wife of said Ed II. Moore, and that Maggie, Mathew J., and William Moore are (at the time of filing said petition) the minor children of Ed H. Moore. Petitioner prays for judgment divesting title, general relief, etc.\nOn this petition is endorsed an acceptance of service, signed E. J. Coleman and James Coleman, and disclaiming any interest in the lot; and they state a willingness for the title to be divested as prayed for.\nDelivered November 15, 1893.\nThere is no citation among the papers to the minor defendants, and nothing whatever to show any service on them. The fee book contains no charge for citation or service.\nOn May 16, 1879, an order was made appointing J. Em Hawkins guardian ad litem for the minor defendants, Maggie, William, and Mathew J. Moore, and requiring a bond in the sum of $100, which bond was filed and approved June 2, 1879. The oath of the guardian ad litem was also filed June 2, 1879. On June 2, 1879, the guardian ad litem filed his answer, containing a general demurrer and general denial.\nOn.June 4, 1879, a decree was rendered in accordance with the prayer of the petitioner, divesting title out of defendants and vesting it in plaintiff, and taxing the costs against the plaintiff. The decree does not recite any service.\nThe minors have since become of age, and have brought the judgment up by writ of error for revision. The only point presented by the assignments of error which we deem it necessary to notice is, Can judgment be rendered against minors without service of citation upon them, even though they may be represented by a guardian ad litem ?\nThe record shows no service of citation upon the minor defendants before the judgment was rendered; nor does the judgment recite that they were served. From an inspection of the transcript, it is manifest that they were not served, although they were represented by a guardian ad litem. Upon a collateral attack, this would not be fatal to the judgment; but upon appeal or writ of error, it is reversible error. McAnear v. Epperson, 54 Texas, 220.\nCounsel for defendant in error, in an able brief and argument, contend that this is a collateral attack upon the judgment below, but this position can not be'maintained. An appeal or writ of error is a direct attack, and brings up for review any errors in the judgment. Wheeler v. Ahrenbeak, 54 Texas, 536. In that case the court says: \u201cIt is a familiar rule, that there is a marked distinction between the right to impeach a judgment in a collateral proceeding, and the right to impeach it in a direct proceeding by appeal or error.\u201d Citing Burditt v. Howth, 45 Texas, 466; Fitch v. Boyer, 51 Texas, 344; and Murchison v. White, 54 Texas, 78.\nFor the error of the court in rendering judgment against the minors without service of citation, the judgment as to plaintiffs in error is reversed and remanded.\nReversed and remanded.",
+        "type": "majority",
+        "author": "LIGHTFOOT, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "M. B. Templeton, for plaintiffs in error.",
+      "A. A. Kemble, for Williams, defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "M. J. Moore et al. v. J. E. Prince et al.\nNo. 77.\n1. Judgment Without Service \u2014 Minor \u2014 Guardian ad Litem.\u2014 Upon appeal or writ of error from a judgment against minor defendants, divesting title out of them, upon whom no service of citation was effected, the judgment will be reversed, although it appear that a guardian ad litem was appointed, and that he filed an answer for the minor defendants and represented them upon the trial.\n2. Same \u2014 Collateral and Direct Attack. \u2014 The want of service under such circumstances would not be fatal to the judgment on collateral attack. An appeal or writ of error is not a collateral, but a direct attack upon the judgment.\nError from Ellis. Tried below before Hon. George N. Aldredge.\nM. B. Templeton, for plaintiffs in error.\nThe court erred in appointing a guardian ad litem to represent the minor defendants, when there had been no service of citation or any service whatever on said minors; and the court erred in proceeding to trial and rendering judgment without such service. Rev. Stats., art. 1389; Wheeler v. Ahrenbeak, 54 Texas, 535; McAnear v. Epperson, 54 Texas, 220.\nA. A. Kemble, for Williams, defendant in error.\n1. In a collateral attack on a judgment, in the absence of anything in the judgment to the contrary, the court will presume service. Wilkinson v. Schoonmaker, 77 Texas, 615; Tennell v. Breedlove, 54 Texas, 540, and authorities.\n2. The appellate court will not reverse a judgment which can not be attacked collaterally, unless reversible matter appears somewhere in the transcript; and for this purpose the same presumption of service will be indulged as in a collateral attack, unless the presumption is contradicted or disproved by the record. Hopkins v. Dunham, 4 Texas, 336; Prestage v. Loving, 1 W. & W. C. C., secs. 707, 708; 22 Texas, 54; Crisman v. Graham, 51 Texas, 454.\n3. Affidavit in appellate court, showing want of service in original suit, will not be heard. Brown v. Torrey, 22 Texas, 54; Crisman v. Graham, 51 Texas, 454."
+  },
+  "file_name": "0352-01",
+  "first_page_order": 378,
+  "last_page_order": 380
+}

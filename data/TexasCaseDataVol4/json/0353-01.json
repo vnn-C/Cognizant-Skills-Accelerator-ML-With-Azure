@@ -1,0 +1,66 @@
+{
+  "id": 223711,
+  "name": "Dan M. Jones et al. v. Frank M. Smith",
+  "name_abbreviation": "Jones v. Smith",
+  "decision_date": "1893-10-25",
+  "docket_number": "No. 831",
+  "first_page": "353",
+  "last_page": "353",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Tex. Civ. App. 353"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 170,
+    "char_count": 2336,
+    "ocr_confidence": 0.575,
+    "pagerank": {
+      "raw": 4.076306636737454e-08,
+      "percentile": 0.008947332428022939
+    },
+    "sha256": "c167d4882674cf4dc9a8bbb601853bd4e2fafb6f00a19fb4270a9b10363c5973",
+    "simhash": "1:0f1f25fa52c8f5ef",
+    "word_count": 413
+  },
+  "last_updated": "2023-07-14T14:53:58.701798+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dan M. Jones et al. v. Frank M. Smith."
+    ],
+    "opinions": [
+      {
+        "text": "HEAD, Associate Justice.\nThe note sued on stipulated for the payment of 10 per cent on the amount of principal and interest, to cover expenses of collection, \u201c if placed in the hands of an attorney to enforce collection of the same.\u201d To sustain a judgment by default for this extra 10 per cent, it was necessary for the plaintiff to allege that this had been done, which he failed to do. Maddox v. Craig, 80 Texas, 600.\nThe endorser would be liable for the stipulated collection fees if the principal would. Williams v. Bank, 67 Texas, 606. The judgment of the court below will be reversed and the cause remanded, unless the appellee shall within thirty days file a remittitur of the 10 per cent collection fees included in the judgment by default as rendered, in which case it will be affirmed for the remainder.\nAffirmed.\nThe remittitur indicated in the opinion was duly filed by appellee.",
+        "type": "majority",
+        "author": "HEAD, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "James F. Cunningham, Jr., for appellants.",
+      "\u25a0C. M. Christenberry, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Dan M. Jones et al. v. Frank M. Smith.\nNo. 831.\n1. Stipulated Attorney Fee \u2014 Pleading \u2014 Default. \u2014 Where a note stipulates for the payment of an attorney fee of 10 per cent \" if placed in the hands of an attorney to enforce collection,\u201d and suit is brought thereon without any allegation that this had been done, a judgment by default for the extra 10 per cent can not be sustained-\n2. Same\u2014Endorser\u2019s Liability.\u2014An endorser of such note will he liable for the stipulated collection fees if the principal would be so liable.\nAppeal from the County Court of Jones.\nTried below before Hon. C. J. Munroe.\nJames F. Cunningham, Jr., for appellants.\nThe court erred in rendering judgment against defendants for 10 per cent attorney fees, without pleading or proof showing that the note sued on had been placed in the hands of an attorney for collection. Maddox v. Craig, 80 Texas, 600.\n\u25a0C. M. Christenberry, for appellee.\n1. The 10 per cent attorney fee mentioned in the note became part of the principal when the note was sued upon, and the court was as much authorized to render judgment for that amount as any part of the principal. Chowning v. Chowning, 3 Willson\u2019s C. C., sec. 150; Martin-Brown Co. v. Perrill, 77 Texas, 206; Stansell v. Cleveland, 64 Texas, 666; Carr v. King, 2 Willson\u2019s C. C., sec. 557.\n2. An endorser\u2019s liability for the attorney fees stipulated in the note is the same as that of the principal.\nDelivered October 25, 1893."
+  },
+  "file_name": "0353-01",
+  "first_page_order": 377,
+  "last_page_order": 377
+}

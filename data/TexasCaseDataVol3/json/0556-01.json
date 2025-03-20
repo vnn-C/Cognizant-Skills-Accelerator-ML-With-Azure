@@ -1,0 +1,66 @@
+{
+  "id": 220974,
+  "name": "Martin, Wise & Fitzhugh v. Fort Worth & Denver City Railway Company",
+  "name_abbreviation": "Martin, Wise & Fitzhugh v. Fort Worth & Denver City Railway Co.",
+  "decision_date": "1893-06-28",
+  "docket_number": "No. 501",
+  "first_page": "556",
+  "last_page": "557",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 556"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 238,
+    "char_count": 4685,
+    "ocr_confidence": 0.57,
+    "pagerank": {
+      "raw": 4.666970501906556e-08,
+      "percentile": 0.2930099399617507
+    },
+    "sha256": "e8ef62b1b727fcf9792d7a4608483f8399fe3d22d3862235992122a87367d3f0",
+    "simhash": "1:ebb4db5944417ae8",
+    "word_count": 794
+  },
+  "last_updated": "2023-07-14T18:08:23.206239+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Martin, Wise & Fitzhugh v. Fort Worth & Denver City Railway Company."
+    ],
+    "opinions": [
+      {
+        "text": "TARLTON, Chief Justice.\nIn this case we think that the court erred in sustaining a general demurrer to the following petition, in which the appellants, as plaintiffs, complain of the appellee, as defendant, alleging, that \u201c Heretofore, to-wit, on the 10th day of March, 1889, plaintiffs were the owners of fifty-five bales of cotton, which were then at Aurora, Texas; that on said date plaintiffs applied to defendant\u2019s agent at Rhome, Texas, then and there a station on defendant\u2019s line of railway, for the through rate on said cotton from that station to Liverpool, England, and defendant\u2019s agent at Rhome then and there promised and agreed to ship and transport said cotton on their said line of railway and by connecting carriers from Rhome to Liverpool, as soon as the same should be hauled from Aurora to Rhome.\n\u201c That in pursuance of said agreement, said cotton was delivered upon the railway platform of defendant at Rhome, Texas; that all of said cotton was so delivered on said platform with the knowledge and consent of defendant's agent, and in fulfillment of the contract previously made with him for the transportation of said cotton over said line of railway, and thence over connecting carriers to Liverpool.\n\u201cThat subsequently, to-wit, on the 13th day of March, 1889, plaintiffs still being the owners of said cotton, after said cotton was delivered upon said platform, on the account of the negligence and carelessness of defendant and its agents and servants in then and there permitting several small boys to be and remain on its platform where said cotton was placed, and then and there permitting said boys to play on said cotton with pipes which then and there had fire in them, in other words, to smoke pipes on said platform and the said cotton, a fire broke out in said cotton, and wholly destroyed thirty-two bales thereof.\n\u201c That said cotton was delivered On said platform with the knowledge and consent of the defendant\u2019s said agent at Rhome, and at the time it was always the custom of persons intending to ship cotton over said railway to place said cotton on said platform, and the placing of it there was always regarded and held by both the persons putting it there and the defendant as a delivery thereof to defendant, and that by delivery of said cotton on said platform it was received by defendant for shipment. That it was the general custom of defendant to receive cotton for shipment on said platform, and that it had no other place at Rhome for receiving cotton for shipment but said platform. That said cotton was placed on said platform by plaintiffs for the purpose of being shipped over defendant\u2019s and connecting lines of railway to Liverpool, England.\n\u201cThat at the time of the destruction of the said thirty-two bales of cotton, the same was, at the place it was destroyed, of the value of $1500.\u201d\nFrom the allegations of the foregoing petition, it appears that the cotton in question had been delivered to the defendant, and was in its custody by virtue of a contract of shipment, and that while in its custody, it was destroyed because of the negligence of the defendant. These facts, we think, constitute a cause of action. No bill of lading was necessary to render the company responsible for negligence in taking care of the property thus delivered and in its custody. Railway v. Hall, 64 Texas, 615; Railway v. Nicholson, 61 Texas, 491; Hutch, on Carr., sec. 118.\nThe judgment is reversed and the cause is remanded.\nReversed and remanded.\nDelivered June 28, 1893.",
+        "type": "majority",
+        "author": "TARLTON, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "Wynne & McCart, for appellants.",
+      "No brief for appellee reached the Reporter."
+    ],
+    "corrections": "",
+    "head_matter": "Martin, Wise & Fitzhugh v. Fort Worth & Denver City Railway Company.\nNo. 501.\nNegligence \u2014 Cotton Burned on Railway Platform \u2014 Cause of Action.\u2014A petition alleging, in substance, that plaintiff, under agreement of through shipment with the local agent of the defendant railway company at B., had delivered certain cotton, the property of plaintiff, to defendant for shipment by placing it on the railway platform at B., which was the usual method there of delivering cotton for shipment, and of receiving it by defendant, and that through the negligence of defendant in permitting small boys to play with lighted pipes on the platform, the cotton was destroyed by Are, shows a cause of action, and negligence, for which defendant was liable, though no bill of lading may have been issued for the cotton.\nAppeal from Tarrant. Tried below before Hon. R. E. Beckham.\nWynne & McCart, for appellants.\nThe facts averred in plaintiffs\u2019 petition showed that defendant was liable as a common carrier for the value of the cotton burned. Railway v. Hall, 64 Texas, 615; Railway v. Nicholson, 61 Texas, 491; Hutch, on Carr., sec. 118.\nNo brief for appellee reached the Reporter."
+  },
+  "file_name": "0556-01",
+  "first_page_order": 582,
+  "last_page_order": 583
+}

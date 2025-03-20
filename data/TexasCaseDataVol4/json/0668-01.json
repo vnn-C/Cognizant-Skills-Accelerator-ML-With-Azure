@@ -1,0 +1,92 @@
+{
+  "id": 223661,
+  "name": "The Gulf, Colorado & Santa Fe Railway Company v. J. L. Koska & Son",
+  "name_abbreviation": "Gulf, Colorado & Santa Fe Railway Co. v. Koska",
+  "decision_date": "1893-11-16",
+  "docket_number": "No. 270",
+  "first_page": "668",
+  "last_page": "670",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Tex. Civ. App. 668"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "17 S. W. Rep., 45",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "40 Fed. Rep., 341",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        6719680
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f/40/0341-01"
+      ]
+    },
+    {
+      "cite": "17 S. W. Rep., 1088",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "weight": 2,
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 477,
+    "char_count": 7834,
+    "ocr_confidence": 0.554,
+    "pagerank": {
+      "raw": 4.6922169990516086e-08,
+      "percentile": 0.2937410636681907
+    },
+    "sha256": "8e3903e029020eee87b8bfb02d2303c0a7742a74c6a1dd4d48fac74b5af69fb3",
+    "simhash": "1:a0c017a75f8facfb",
+    "word_count": 1413
+  },
+  "last_updated": "2024-02-27T18:01:03.208661+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The Gulf, Colorado & Santa Fe Railway Company v. J. L. Koska & Son."
+    ],
+    "opinions": [
+      {
+        "text": "GARRETT, Chief Justice.\nWe affirmed the judgment of the court below in this ease without a written opinion, because we thought that upon the record no other judgment should have been rendered, and there being a pressure of business upon the court, we deemed it unnecessary to write out our decision of the different questions presented.'\nThe charge of the court was erroneous in the respects complained of; and Koska\u2019s evidence as to the promise of Craig was inadmissible; and as counsel for the motion contends, the judgment should be reversed, unless the evidence showing that the defendant was liable because its track was not fenced, is undisputed. No reason is shown why the track should not have been fenced up to the crossing at the d'epot between the two crossings. Dr. Schenck testified, in substance, as to the accident, that the mule was killed between 10 and 12 o\u2019clock a,t night. He was in his office, about 200 feet west of and nearly opposite the depot, and heard a train coming south at a very rapid speed; so fast that it caused him to raise up and look through one of the windows. When the train reached the depot, he heard it make three or four very quick whistles, as though it was trying to scare something off the track. It seemed to increase its speed just after the .whistle was blown, and did not stop. Just after it passed the depot, witness heard a noise there, which sounded like an animal kicking or struggling, and next morning early he went to the depot and found that it was plaintiff\u2019s mule that had been struck by a train, lying near the depot. The place where the mule was killed is a crossing adjoining the depot platform. Sehenck\u2019s evidence, that the public necessity required it to be left open, referred only to the crossing. Restated that public necessity did not require the track and right of way to be left open between the crossings.\nDelivered November 16, 1893.\nJohn Wilks testified, that he lived about sixty yards from the depot. He saw the train pass through Kenny, going at a very rapid rate, and heard it whistle two or three times near the depot, where the mule was killed. He went next morning and saw the mule, and saw evidence that it had been dragged on the track about eight steps above the crossing at the depot platform.\nJohn Stennett saw the mule the next morning after it was killed. It. was against the platform. He saw evidence where the mule had been dragged on the track, which showed that it had been struck eight or ten yards north of the crossing at the depot.\nJ. Rothrock was the engineer on the engine pulling the train that, killed the mule. He said the mule ran from the left side of the train to the front of the engine, about thirty feet from the engine. He gave the stock alarm, and endeavored to stop the train. He saw the mule before striking it, about time sufficient for the engine to run thirty feet. He only saw the animal as it was getting on the track in front of the engine.\nDr. Schenck\u2019s statement that the mule was killed at the crossing, and Stennett\u2019s that the mule was lying against the depot platform, are not in conflict with the evidence of Whitten and Stennett, showing that the mule was struck about eight or ten yards north of the crossing. There is nothing to show that the defendant should be relieved of its duty to fence its track north of the depot crossing; on the contrary, it affirmatively appears that there was no reason why it should not have been fenced.\nIt appearing by undisputed testimony that the mule was struck by the train or engine at a place where the track should have been fenced, the errors committed on the trial below became immaterial, because no other verdict should have been rendered on the evidence. The motion for rehearing will therefore be overruled.\nMotion overruled.",
+        "type": "majority",
+        "author": "GARRETT, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "J. W. Terry and Charles K. Lee, for appellant.",
+      "Bell & Shelburne and Davidson & Minor, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "The Gulf, Colorado & Santa Fe Railway Company v. J. L. Koska & Son.\nNo. 270.\n1. Erroneous Charge. \u2014 A charge which assumes that a matter of fact therein set out constitutes negligence as a question of law, or which assumes a material fact not evident, is erroneous.\n2. Inadmissible Evidence by plaintiff, that the stock claim agent of defendant, a few days after the accident, offered plaintiff $150 for the mule, and said that he would return the papers in a few days, and tliat said sum would be forwarded to Koska in five or six days, and that the reason plaintiff only brought the suit for $150 was because the agent had agreed to pay the same, is inadmissible, when there is no evidence that the agent had authority to settle the claim.\n3. Unfenced Right of Way.\u2014It appearing by undisputed evidence that the mule was struck by the train or engine at a place where the track should have been fenced, errors committed on the trial below become immaterial, since no other verdict should have been rendered than that which was rendered, for value of the animal killed.\nAppeal from Austin.\nTried below before Hon. S. R. Blake, County-Judge.\nJ. W. Terry and Charles K. Lee, for appellant.\n1. The verdict of the jury and the judgment of the court are contrary to the law and the evidence. Railway v. Smith, 1 W. & W. C. C., sec. 844; Railway v. Cocke, 64 Texas, 151; Railway v. Dunham, 68 Texas, 231; Swanson v. Melton, 17 S. W. Rep., 1088.\n2. The court erred in giving to the jury the following charge, viz. : \u20181 If you believe from the evidence that the defendant placed or permitted obstructions to remain near the track which were likely to affect the view of an approaching train, or the engineer on said train failed to blow the whistle or ring the bell for a distance of eighty rods from the crossing where the mule was killed, then you should find for the plaintiff, provided you believe from the evidence that such obstructions, or failure to-ring the bell or blow the whistle, contributed to the killing of the mule.\u201d' Hyer v. Chamberlin, 40 Fed. Rep., 341; 1 Redf. on Rys., 592, note 12, and cases cited; Railway v. Hawkins, 40 Am. and Eng. Ry. Cases, 205; Swanson v. Melton, 17 S. W. Rep., 1088; Railway v. Kuehn, 70 Texas, 582; Railway v. Miller, 51 Texas, 270; Railway v. Murphy, 40 Texas, 356; Railway v. Gilmore, 62 Texas, 391.\n3. Promises and statements made' by the party Craig could only be-binding upon defendant after it was shown that he was expressly or impliedly the duly accredited agent of defendant as to such matters at the time. Declarations of an alleged agent can not be received to show agency. Jacobs, Bernheim & Co. v. Cumby & James, 1 W. & W. C. C., sec. 586; Railway v. Roundtree, 2 Willson\u2019s C. C., sec. 387; 1 Am. and Eng. Encycl. of Law, 351, note 1, and authorities cited; Conrad v. Walsh, 1 W. & W. C. C., secs. 229, 230; Wheeler & Wilson v. Crossland, 2 Willson\u2019s C. C., sec. 80; Railway v. Johnson & Truce, 2 Willson\u2019s C. C., sec. 232; Railway v. Kuehn, 70 Texas, 582; Railway v. Gilmore, 62 Texas, 391; Dillingham v. Brown, 17 S. W. Rep., 45; Railway v. Nixon, 52 Texas, 19; Golden v. Patterson, 56 Texas, 628; Railway v. Lanham, 1 W. & W. C. C., 251; Railway v. Henless, 1 W. & W. C. C., 582.\nBell & Shelburne and Davidson & Minor, for appellees.\n1. The crossing at the depot platform could and should have been fenced. Railway v. Simpson, 2 Willson\u2019s C. C., sec. 670; Railway v. Mitchell, 2 Willson\u2019s C. C., sec. 374; Railway v. Cocke, 64 Texas, 151.\n2. The charge complained of was correct. 1 W. & W. C. C., sec. 82; Railway v. Wilson, 60 Texas, 142; Railway v. Greenlee, 62 Texas, 344; Railway v. Lee, 70 Texas, 496; Railway v. Wright, 62 Texas, 517.\n3. Appellant\u2019s \u201c claim agent\u2019s\u201d authority to make settlement was implied. Story on Agency, 9 ed., secs. 55, 56; Hull v. Railway, 66 Texas, 619.\n4. The declarations of Craig were admissible, and he was authorized to act for appellant. Manf. Co. v. Crossland, 2 Willson\u2019s C. C., sec. 80; Railway v. Roundtree, 1 W. & W. C. C., secs. 387-389."
+  },
+  "file_name": "0668-01",
+  "first_page_order": 692,
+  "last_page_order": 694
+}

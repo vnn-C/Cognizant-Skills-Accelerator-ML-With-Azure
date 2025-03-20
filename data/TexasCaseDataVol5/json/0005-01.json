@@ -1,0 +1,66 @@
+{
+  "id": 227423,
+  "name": "Sam Lazarus v. L. C. Barrett et al.",
+  "name_abbreviation": "Lazarus v. Barrett",
+  "decision_date": "1893-11-01",
+  "docket_number": "No. 245",
+  "first_page": "5",
+  "last_page": "7",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Tex. Civ. App. 5"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 280,
+    "char_count": 4448,
+    "ocr_confidence": 0.559,
+    "pagerank": {
+      "raw": 7.682524327565528e-08,
+      "percentile": 0.4529592265803914
+    },
+    "sha256": "8c062b02892a94966aee9dd7f6f4fe632290fbf998de26d0a428a00a72e0ceae",
+    "simhash": "1:af171e8a459eb8c3",
+    "word_count": 751
+  },
+  "last_updated": "2023-07-14T18:07:14.925501+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Sam Lazarus v. L. C. Barrett et al."
+    ],
+    "opinions": [
+      {
+        "text": "TARLTON, Chief Justice.\nThis is a suit for partition, in which judgment by default was rendered against Sam Lazarus, plaintiff in error, as one of the defendants in the action.\nThe original petition, filed August 27, 1889, alleged the residence of the defendant Lazarus to be in Grayson County. Afterwards, on March 1, 1890, no citation having issued on the original petition; plaintiffs filed a paper styled \u201c first supplemental petition,\u201d averring \u201c that the defendant, Sam Lazarus, who lives in Grayson County, is temporarily in Tarrant County, Texas,\u201d and praying for citation to the latter county. Thereupon, on March 8, 1890, citation was issued to Tarrant County, requiring the defendant to answer the petition filed August 27, 1890, but ignoring the supplemental petition, of which the defendant had no notice. The citation thus issued was accompanied with a copy (not certified, however) of the original petition. This process was served by the sheriff of Tarrant County, as indicated by the following return: \u201c Came to hand this the 12th day of March, A. D. 1890, at \u2014 o\u2019clock, m., and executed the 12th day of March, A. D. 1890, by delivering to Sam Lazarus, the within named defendant, in person, a true copy of this writ, together with the accompanying copy of plaintiffs\u2019 petition.\u201d\nWe do not think such service sufficient to authorize the judgment by default. Our statute (article 1220, Sayles\u2019 Civil Statutes), unlike the provision (Paschal\u2019s Digest, article 1433) which preceded it, and for which it was substituted, requires, in order to effect service, that to a defendant residing without the county in which the suit is pending, the officer shall deliver the certified copy of the petition accompanying the citation.\u2019 \u2019\nWhile it is not necessary that the copy of the petition shall be authenticated by the seal of the court, we yet think that it must be attested by the certificate of the officer who issues it, and this in order that the absent defendant may Tcnow with certainty the character of the complaint against him. That which purports to be a mere copy, possibly or probably made by any person, however irresponsible, would not answer the purpose stated. Requirements with reference to the service of citations, justifying default judgments, are not supplied by intendment. Railway v. Pope, 1 W. & W. C. C., sec. 242; Durham v. Betterton, 79 Texas, 223; Graves v. Drane, 66 Texas, 658; Crawford v. Wilcox, 68 Texas, 109.\nIn this case the petition seeks a partition of lot 5 in block 14, in the town of Henrietta. The decree awards a partition of lot 15 in block 14. The pleading does not support the decree, which is accordingly erroneous. Throckmorton v. Davenport, 55 Texas, 236; Burnett v. Harrington, 58 Texas, 363.\nWe abstain from considering other questions presented, as a recurrence of them may be easily avoided on another trial.\nDelivered November 1, 1893.\nFor the errors pointed out, the judgment is reversed and the cause is remanded.\nReversed and remanded.\nJustice Head did not sit in this case.",
+        "type": "majority",
+        "author": "TARLTON, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "R. D. Welborne and Head & Dillard, for plaintiff in error.",
+      "No brief for defendants in error reached the Reporter."
+    ],
+    "corrections": "",
+    "head_matter": "Sam Lazarus v. L. C. Barrett et al.\nNo. 245.\n1. Citation \u2014 Service Outside of County \u2014 Copy of Petition. \u2014 Where service of citation is had outside of the county in which the suit is instituted, the defendant must be furnished with a certified copy of plaintiff\u2019s petition; and where such copy is not certified, judgment by default is unauthorized.\n2. Judgment not Warranted by the Pleadings. \u2014 A pleading asking a partition of lot 5, block 14, does not support a decree awarding a partition of lot 15, block 14.\nError from Clay. Tried below before Hon. George E. Miller.\nR. D. Welborne and Head & Dillard, for plaintiff in error.\n1. Where service is made outside of the county in which the suit is pending, it is necessary, to support a judgment by default, that the return of the officer show that a certified copy of the petition was delivered to the defendant. Sayles\u2019 Civ. Stats., arts. 1220, 2513; Graves v. Drane, 66 Texas, 658; Durham v. Betterton, 79 Texas, 223; Railway v. Pope, 1 W. & W. C. C., 242.\n2. The pleading and citation will not support a judgment by default, or any other judgment, against plaintiff in error for lot 15 in block 14, inasmuch as such pleading and citation described the property as lot 5 in block 14. Throckmorton v. Davenport, 55 Texas, 236; Burnett v. Harrington, 58 Texas, 363; Paver v. Robertson, 46 Texas, 204.\nNo brief for defendants in error reached the Reporter."
+  },
+  "file_name": "0005-01",
+  "first_page_order": 31,
+  "last_page_order": 33
+}

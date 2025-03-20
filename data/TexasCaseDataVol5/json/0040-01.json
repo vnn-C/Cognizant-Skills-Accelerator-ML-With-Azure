@@ -1,0 +1,74 @@
+{
+  "id": 227459,
+  "name": "The State of Texas v. J. H. Pendleton",
+  "name_abbreviation": "State v. Pendleton",
+  "decision_date": "1893-11-08",
+  "docket_number": "No. 1556",
+  "first_page": "40",
+  "last_page": "41",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Tex. Civ. App. 40"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "20 S. W. Rep., 839",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "weight": 2,
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 284,
+    "char_count": 3712,
+    "ocr_confidence": 0.583,
+    "pagerank": {
+      "raw": 4.076306636737454e-08,
+      "percentile": 0.009002041833155854
+    },
+    "sha256": "adcf5a9a8ade6d71f5308b911d9d4deeb2afc4e466da7b2b807d664f2d0daf47",
+    "simhash": "1:e3055014b3b65f86",
+    "word_count": 665
+  },
+  "last_updated": "2024-02-27T16:31:09.266747+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The State of Texas v. J. H. Pendleton."
+    ],
+    "opinions": [
+      {
+        "text": "STEPHENS, Associate Justice.\nThis suit was brought in the name of the State, to cancel a sale of section 192 of school land, made to appellee by the Land Board as dry agricultural land, in the year 1885. Though the Act of 1883, under which the sale was made, was not fully complied with, all defects in appellee\u2019s title were cured by subsequent legislation, if he became an actual bona fide settler within the six months, as provided in that act. The application to purchase was registered in the surveyor\u2019s office in July, 1885, but the award was not made by the Land Board till sometime in August following. The jury found, under appropriate instructions, that he became an actual bona fide settler within six months of the latter date, and that finding is supported by the evidence.\nThere was no error in the court\u2019s declining to submit to the jury that the sale dated from the registration of the application in the surveyor\u2019s office. That was but a preliminary step prescribed by the Land Board, which had to be taken in order to have his application to purchase considered.\nThe other questions raised are too well settled to require more than a citation of the following authorities: Act 1883, p. 87, sec. 8; Act 1885, pp. 13, 18; Act 1887, p. 91, sec. 25; Act 1889, p. 106; Act 1891, p. 131; Stock Co. v. McCarty, 85 Texas, 412; Chancey v. The State, 84 Texas, 529; Taylor v. Burke, 66 Texas, 643; The State v. Opperman, 74 Texas, 141; Odom v. Woodward, 74 Texas, 45.\nIn some of these authorities may be found, also, reasons to support the main conclusion above announced.\nThe judgment will be affirmed.\nAffirmed.",
+        "type": "majority",
+        "author": "STEPHENS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "C. A. Culberson, Attorney-General, R. P. De Graffenreid, district attorney, and Standlee & Green, for appellant.",
+      "M. M. Hankins and Stephens & Huff, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "The State of Texas v. J. H. Pendleton.\nNo. 1556.\nState School Land \u2014Actual Settlement \u2014Title Validated. \u2014 The title of a purchaser of school land under the Act of 1883, who had not fully complied with the act, was cured by subsequent legislation if he became a bona fide settler within six months of the sale, as provided in the act; and the sale dates from the award by the Land Board, and not from the registration of the application to purchase in the surveyor\u2019s office.\nAppeal from Hardeman. Tried below before Hon. Gf. A. Brown.\nC. A. Culberson, Attorney-General, R. P. De Graffenreid, district attorney, and Standlee & Green, for appellant.\n1. The sale to appellee was perfected when appellee made his application and filed his affidavit with the county surveyor. Acts of 18th Leg., 1883, p. 85, sec. 88; State v. Opperman, 74 Texas, 140.\n2. An actual settler is where a party goes upon the land with his family, and occupies the same, with an intention of remaining upon the same and making it his home. Burleson v. Durham, 46 Texas, 152; Snyder v. Nunn, 66 Texas, 255; Baker v. Hillman, 77 Texas, 46; Flanagan v. Norsworthy, 20 S. W. Rep., 839.\nM. M. Hankins and Stephens & Huff, for appellee.\n1. The Legislature having validated the sales made by the Land Board, the purchaser thereunder would have six months from the date of the award and sale by the Land Board to settle on the land, and the time would not begin to run from date of application to purchase by purchaser. Gen. Laws 1891, ch. 87, p. 130; Act April 12, 1883, p. 85, secs. 7, 8; The State v. Opperman, 74 Texas, 136; Taylor v. Burk, 66 Texas, 646; Flanagan v. Norsworthy, 20 S. W. Rep., 839.\n2. The sale could not be made under the rule of the Land Board until it had considered the application of Pendleton, and until it had finally accepted and awarded the same. The minds of the parties thereto did not meet until the reception of the proposition to purchase, and the acceptance thereof. Summers v. Mills, 21 Texas, 87; Lang v. Rockmers, 70 Texas, 108; Tied, on Sales, secs. 211, 212.\nDelivered November 8, 1893."
+  },
+  "file_name": "0040-01",
+  "first_page_order": 66,
+  "last_page_order": 67
+}

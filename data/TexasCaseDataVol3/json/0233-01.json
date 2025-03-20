@@ -1,0 +1,314 @@
+{
+  "id": 221089,
+  "name": "Texas Land and Loan Company v. John Watson et al.",
+  "name_abbreviation": "Texas Land & Loan Co. v. Watson",
+  "decision_date": "1893-05-04",
+  "docket_number": "No. 132",
+  "first_page": "233",
+  "last_page": "242",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 233"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "39 Me., 386",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        8847117
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/me/39/0386-01"
+      ]
+    },
+    {
+      "cite": "21 Ark., 396",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1868271
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/21/0396-01"
+      ]
+    },
+    {
+      "cite": "24 N. E. Rep., 456",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "62 Wis., 124",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "case_ids": [
+        8703501
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wis/62/0124-01"
+      ]
+    },
+    {
+      "cite": "53 Ga., 618",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        871477
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ga/53/0618-01"
+      ]
+    },
+    {
+      "cite": "10 Am. Rep., 502",
+      "category": "reporters:state_regional",
+      "reporter": "Am. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "23 Am. Dec., 157",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "85 Am. Dec., 279",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Sandf. Ch., 325",
+      "category": "reporters:state",
+      "reporter": "Sand. Ch.",
+      "case_ids": [
+        2164679
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/sand-ch/2/0325-01"
+      ]
+    },
+    {
+      "cite": "37 Fed. Rep., 130",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3737753
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f/37/0130-01"
+      ]
+    },
+    {
+      "cite": "33 Fed. Rep., 16",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3761163
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f/33/0016-01"
+      ]
+    },
+    {
+      "cite": "69 Iowa, 760",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        2051484
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/iowa/69/0760-01"
+      ]
+    },
+    {
+      "cite": "3 S. E. Rep., 214",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "19 Am. Rep., 15",
+      "category": "reporters:state_regional",
+      "reporter": "Am. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Posey's U. C., 360",
+      "category": "reporters:state",
+      "reporter": "Posey",
+      "case_ids": [
+        1870814
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/posey/1/0360-01"
+      ]
+    },
+    {
+      "cite": "63 Ga., 271",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        24494
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ga/63/0271-01"
+      ]
+    },
+    {
+      "cite": "41 Barb., 575",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5107781
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/41/0575-01"
+      ]
+    },
+    {
+      "cite": "36 Mo., 168",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        988025
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mo/36/0168-01"
+      ]
+    },
+    {
+      "cite": "13 N. H., 104",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        467615
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nh/13/0104-01"
+      ]
+    },
+    {
+      "cite": "44 N. H., 354",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        4562936
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nh/44/0354-01"
+      ]
+    },
+    {
+      "cite": "14 Pick., 172",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2018938
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/31/0172-01"
+      ]
+    },
+    {
+      "cite": "77 N. C., 277",
+      "category": "reporters:state",
+      "reporter": "N.C.",
+      "case_ids": [
+        8682640
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nc/77/0277-01"
+      ]
+    },
+    {
+      "cite": "37 N. H., 475",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "68 N. Y., 130",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        529002
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/68/0130-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1020,
+    "char_count": 27530,
+    "ocr_confidence": 0.538,
+    "pagerank": {
+      "raw": 5.811183091813877e-08,
+      "percentile": 0.3617969619078178
+    },
+    "sha256": "d3fbdd5774dca76f88acfe6d6c251892eebcc65e6fbc5b6834089a58b023d8ac",
+    "simhash": "1:fa5e21b546ff3dc6",
+    "word_count": 4882
+  },
+  "last_updated": "2024-02-27T16:31:46.217873+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Texas Land and Loan Company v. John Watson et al."
+    ],
+    "opinions": [
+      {
+        "text": "PLEASANTS, Associate Justice.\nThe appellant brought suit against appellees, John Watson and wife, and the Middlesex Banking Company and H. A. Kahler. The appellees Watson and wife, on the 18th of March, 1888, through one H. B. Wright, borrowed from plaintiff $4500, for which they executed their promissory note, payable five years after date, bearing 12 per cent interest, payable semi-annually, and on same day they executed to Leo N. Levi, to secure the payment of their note, a deed in trust on 1200 acres of land situated in Red River County. Both the note and the deed in trust provided that a failure to pay any installment of the interest on the debt \"would at the option of the plaintiff mature the note both as to interest and principal.\nThere was a failure to pay the first and second installments of interest,., but the plaintiff did not elect to declare the note matured, and Watson was notified through Wright that the time for payment of both these installments of interest would be extended;, and the first installment was paid, the money being remitted through Sims & Wright, a law firm in Clarksville, in October, 1888. The second installment, which fell due in April, 1889, was by agreement to be paid in the fall of that year.\nH. B. Wright, who was a member of the law firm of Sims & Wright, was also a land and loan agent in Red River County, and was the agent of the appellee the Middlesex Banking Company, for soliciting loans and furnishing the company with abstracts of the titles to the lands offered as security by- those desiring to borrow.\nWatson needed more money; and finding that the Middlesex Banking Company was lending money at a less rate of interest than he was paying plaintiff, before the second installment of the interest on his note to plaintiff became due under the extension for its payment which had been granted him, employed Wright to effect a loan of 810,000 for him from the Middlesex Banking Company. This company would not lend money upon lands already mortgaged unless the money borrowed was applied to the extinguishment of the prior lien.\nWright, in the name of Sims & Wright, attorneys at law, addressed a letter to Leo N. Levi, the general manager of the plaintiff, informing him that John Watson was dead, and offered to have the plaintiff\u2019s claim against his estate probated, if the manager would send the same to them, Sims & Wright.\nUpon receipt of this letter, Levi sent the note and deed of trust, with the proper affidavit attached, to Sims & Wright; and at the same time Levi wrote to them, inquiring whether it was contemplated by the administrator of the estate to pay the claim when allowed, or that the same should be held by the plaintiff until maturity of the note, and the interest paid in accordance with its terms; and saying, that he presumed the loan was not less desirable then than when it was first made, and that he did not like to give up the investment because the borrower was dead. This letter was written the latter part of September, 1889. The note was payable to order and was not endorsed, and at the time it was sent to Sims & Wright would not be due for three and one-half years.\nOn October 3, 1889, Levi again wrote to Sims & Wright, enclosing them the opinion of plaintiff\u2019s attorney, to the effect that the note of Watson was not due, and plaintiff could' demand interest of the estate until the maturity of the note; and Sims & Wright were requested to proceed in accordance with the opinion. This letter was written in reply to one received from Sims & Wright under date of the 30th of September, 1889, advising the plaintiff\u2019s manager that all of the property of John Watson would have to be sold to pay debts, and that their idea was to have the land sold which was conveyed to Levi in trust for the plaintiff, as soon as a proper order could be obtained.\nNo further communication was received from Sims & Wright until January 11, 1890, though several letters had been addressed them by Levi subsequent to his letter of October 3.\nOn the 11th of January, Sims & Wright wrote that plaintiff\u2019s claim had been duly probated against the estate of Watson, and would be paid in due course of administration; but that the administrator preferred to pay the entire claim, both principal and interest, in the spring, if plaintiff would consent. In response to this letter, Sims & Wright were advised by letter from Levi, that plaintiff would allow the administrator to pay up, by paying the principal and one-third interest to maturity.\nOn March 18, 1890, the plaintiffs were advised by letter from Sims & Wright that its claim had been allowed and approved and classified, and that the estate of Watson would pay out without selling the land, and that it would be the policy of the administrator to pay interest on plaintiff\u2019s claim as it matured, and to pay the principal when the note matured. The plaintiff replied to this letter, and informed Sims & Wright that the-proposition of the administrator was entirely satisfactory.\nThe interest not being paid as promised by the administrator, several letters passed after this between Levi and Sims & Wright relative to the collection of the interest; but no steps were taken by plaintiff to compel payment of either the interest or the principal of their claim until the. institution of this suit, on the 14tli day of May, 1891, after it was discovered by Levi that the death of Watson and the administration upon his estate in Bed Biver County was a fabrication of Wright\u2019s, and that he had collected the note due by Watson, receipted the same, and forged a release to the deed of trust, and fled the country to parts unknown.\nOn the 14th of October, 1889, 85000 was paid to Wright by the defendant the Middlesex Banking Company, to be applied to the liquidation of the note due from Watson to plaintiff; and on the same day the note was receipted by Wright, not as an attorney at law, but as \u201c agent,\u201d and both the notes and the deed in trust were delivered by him to defendant the Middlesex Banking Company.\nPlaintiff alleged in its petition, that Watson. had executed to defendant Kahler a deed in trust upon lands in Bed Biver County, including those upon which it held a prior lien, and prayed judgment for its debt against him, and for a foreclosure of its deed of trust executed on the 8th of March, 1888, against him, the defendant Kahler, and the Middle-sex Banking Company. Watson answered, that he paid his debt due plaintiff on the 4th of October, 1889; and the defendant Kahler and the Middlesex Banking Company answered, that at the request of John Watson said company had paid the notes sued on. On the 9th of January, 1892, there was a trial, and verdict and judgment were rendered for the defendants; and a new trial having been refused plaintiff, it appealed.\nThe plaintiff had made very many loans of money in Bed Biver County, and most of them at least seemed to have been upon applications recommended by Sims & Wright, or rather by Wright in the name of Sims & Wright. Sims, it seems, was not interested with Wright in the land and loan agency of the latter, and was ignorant of the fact that Wright was doing all his correspondence in relation to this business in the name of the firm of Sims & Wright. There were many letters written by Leo N. Levi, the general manager for the plaintiff, to Sims & Wright relative to the business of plaintiff in Red River County. When borrowers made default in payment of interest, Sims & Wright were written to in relation to these defaults, and in many instances they were requested to communicate with the defaulters, and urge them to pay up; and when notices were sent, as was the custom of the plaintiff, to their debtors of the days when the interest on their loan would fall due, they were generally directed to the care of Sims & Wright. Payments of interest on loans in Red River County were frequently remitted to plaintiff through Sims & Wright, though payments of interest were sometimes made through others, and receipts were given by plaintiff to any one who remitted interest to it.\nIn explanation of the letters written to Sims & Wright relative to defaults in the payment of interest, Levi testified, that he was requested by Sims & Wright not to sue upon the note of any one who had borrowed money through them, because of default in payment of interest, before communicating with them, as all who borrowed through them looked to them for protection from suit. Levi further testified, that plaintiff had no agents save the officers of the company, who all resided in the city of Galveston. That his first knowledge of Sims & Wright, or Wright, was through a letter written to him from Clarksville, Texas, in the name of Sims & Wright, requesting the plaintiff to appoint them its agent for Red River County; and in reply to this letter Levi wrote, informing them that plaintiff did not employ agents, its only agents were its officers; and in his letter he enclosed a circular of the plaintiff\u2019s, explaining the terms and considerations upon which loans of money were made by it, and containing the form of an application for a loan.\nThere was nothing in this corfespondence between the plaintiff\u2019s manager and Sims & Wright tending to show that the manager or the plaintiff knew, or had reason to believe, that Sims was not a party to the correspondence. The plaintiff was represented by the firm of Sims & Wright in one or two suits tried and decided in Red River County; and this firm had, under execution sale, bought in property for plaintiff in one or two instances; but in no other matters in which plaintiff was interested had Sims represented plaintiff.\nSims had no connection whatever with his partner Wright in the business of the latter pertaining to the selling of lands and obtaining loans for others upon landed security. The law office of Sim & Wright and the land and loan office of Wright were in different buildings at the time the plaintiff sent the note of defendant Watson, and the deed in trust from him to Levi, to Sims & Wright, in September, 1889. Prior to this the manager for the plaintiff company had informed himself as to the character and standing of this law firm, and had found that its character and standing was high. When the loan was made to Watson the abstract of title to the land offered as security was furnished by Watson to plaintiff, and it having been examined and approved here in Galveston by the counsel of plaintiff, and the loan being recommended by Messrs. Sims & Wright, or, as the evidence developed, by Wright alone in the name of Sims & Wright, the proposition for the loan was accepted, and Watson forwarded to Sims & Wright his note and the deed in trust, with draft on plaintiff for the amount of the loan, 84500, payable to the order of Sims & Wright; and the draft was paid, and the note and deed in trust were retained by plaintiff and remained in its exclusive custody until sent to Sims & Wright in September, 1889, in response to the letter received by plaintiff, written in the name of Sims & Wright, and representing that Watson was dead and his estate was being administered in the County Court of Red River County.\nThe foregoing statement is condensed from the evidence, as presented in the record. Both appellant\u2019s and appellees\u2019 counsel have discussed with much learning and ability the numerous propositions and counter-propositions presented in their respective briefs, but the view taken by the court of the case renders it unnecessary for us to consider very many of the assignments of error.\nThe court have had some difficulty in agreeing upon a decision; but we are all agreed that the case must be reversed for errors in the charge of the court and in the admission of certain portions of the evidence, over objections of the appellant.\nThe first assignment and the sixth assignment of error are to the effect, that the court erred in permitting defendants, over plaintiff\u2019s objection, to read in evidence plaintiff\u2019s correspondence with Sims & Wright pertaining to loans made by other persons.than the defendant John Watson, and the depositions of the witnesses Carroll, Smith, M. L. Sims, J. H. Bryson, J. W. Dunn, J. B. Rose, G. C. Foster, and A. B. Fally, with the exhibits and letters attached to the depositions of said witnesses. The objection urged to the admission of this evidence, that there is no plea of estoppel on the part of defendant, need not be considered or decided, since there is no estoppel in the case, and the evidence is not admissible for such purpose, because it plainly appears that the correspondence between plaintiff and Sims & Wright, or Wright, did not influence the conduct of either of the defendants in their dealings with Wright. Such correspondence was not lmown to either of them, so far as the evidence discloses, at the time they paid to Wright the notes due from Watson to plaintiff. Watson expressly declares that he had no knowledge of any dealings between plaintiff and others than himself in Red River County, whether had through Wright or others; and we can not infer the other defendant, before advancing the money for the payment of this note, was made acquainted with the correspondence of plaintiff and Wright as to matters in which defendant had no interest. It is certainly not shown that the defendant the Middlesex Banking Company had any knowledge of transactions had between plaintiff and others in Red River County, other than defendant Watson; and until such proof is made, none of the evidence objected to under these assignments is admissible for the purpose of estopping plaintiff from denying that Wright was its agent to collect the note sued on; but the evidence, all save the exhibits attached to the depositions in which Wright signed his name as the agent of plaintiff or otherwise represented himself as agent, is admissible, as circumstances to be considered by the jury, in determining whether or not Wright was in fact the agent of plaintiff and authorized to receive from the defendant payment of the note in question. The exhibits objected to are not admissible. Agency can not be proved by the declaration of one who assumes and represents himself to be the agent of another, without the knowledge of the latter.\nA majority of this court are of the opinion that the court did not err in refusing plaintiff permission to read in evidence the affidavit of Lewis Dabney, Esq., attorney for the Middlesex Banking Company, made in a suit brought by Dabney for said company in the District Court of Bed Biver County against Wright, wherein Wright is charged with embezzlement of the money paid to him by Dabney\u2019s client on the note now sued on. The opinion of the court is, that the affidavit should be excluded, because not material or relevant to prove any issue in the case. The charge of the court, which is assigned as error, is as follows:\n\u201cWhere the holder of a note, the principal of which is due, places the same in the hands of a practicing attorney at law, the presumption of law is, that said attorney at law has authority to collect such past due note, and the payment by the debtor of the principal and interest on such past due note to such attorney at law would be a valid payment of the note, and would relieve the debtor from all liability on such note. But no \u25a0such presumption would arise if the principal of the note was not due. That a payment of the undue principal to the attorney at law would not be binding on the owner of the note, but a payment of undue principal to the attorney at law would be at the debtor\u2019s peril. Therefore, if you believe from the evidence* that the plaintiff, the Texas Land and Loan Company,, sent the note in suit to Sims & Wright, with instructions to \u2022them to have the same probated in the County Court, and that the principal of the note was not due, then the payment to the attorney of the undue principal of the note would not be a discharge of such undue principal, but would be only a discharge of the interest due on the note at the time of such payment, and would require your verdict to be for the plaintiff for the amount of the principal of the note, with 12 per cent per annum interest on the note from the 14th day of October, 1889, and 10 per cent attorney fee on the gross amount, and that the same is a prior lien on the land described in the petition.\u201d\nThis charge is erroneous: First. Because it assumes that there is a question whether or not the note was due, when the note shows upon its face that it was not due. Second. Because it assumes that the defendants, in making payment to Wright, dealt with him as a practicing attorney at law, when the facts tend to show that he was dealt with as a land and loan broker, and as the agent of plaintiff, both in procuring the loan to Watson and for collecting the note due for the loan. This charge is not warranted by the facts. The only issue which should, in the judgment of a majority of this court, be submitted to the jury is, was Wright the agent of plaintiff for procuring loans for it in Red River County, and for receiving payments of principal and interest on such loans ? This issue must be determined from the dealing between Wright and plaintiff, including the whole of the correspondence between the parties; that had at the time of the delivery of the note and deed in trust to Wright, in September, 1889, as well as that had both prior and subsequent to that time; and the testimony of all witnesses as to any fact or facts relevant and material.\nThe judgment of the lower court is reversed and remanded for another trial.\nReversed and remanded.\nDelivered May 4, 1893.",
+        "type": "majority",
+        "author": "PLEASANTS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Davidson & Minor, for appellant.",
+      "Edmonson & Dabney, for appellee the Middlesex Banking Company.",
+      "Jas. B. & Chas. J. Stubbs, for appellees John and S. M. Watson."
+    ],
+    "corrections": "",
+    "head_matter": "FIRST DISTRICT,\nMAY, 1893.\nTexas Land and Loan Company v. John Watson et al.\nNo. 132.\n1. Evidence on Issue of Agency. \u2014 Issue being as to whether one W. was, at the date of the collection of a certain note belonging to appellants, their agent, with authority to collect, the letters written by the manager of the appellant corporation to W. in regard to other loans than that in which the note collected had been given, were inadmissible. It plainly appears that this correspondence did not influence any of the defendants in their dealings with W. So far as the evidence discloses, this correspondence was not known to either of them, and until such proof is made none of this evidence is admissible for the purpose of estopping plaintiff from denying the agency of W.\n2. Declarations of Agent no Proof of Agency.\u2014Papers signed by W.. where he signed his name as agent of plaintiff, or otherwise represented himself as agent, are not admissible in evidence. Agency can not be proved by the declarations of one who assumes and represents himself to be the agent of another, when such declarations are made without the knowledge of the latter.\n3. Evidence \u2014 Affidavit of the Agent of Defendant. \u2014 Issue being whether the Middlesex Banking Company, a defendant herein, knew or had reason to believe that W. was not the agent of the plaintiff, with authority to collect the note due plaintiff, an affidavit made by D. for said company in a suit against W., wherein W. is charged with embezzlement of the money paid him by the company on the note now sued on, is inadmissible in evidence, being irrelevant and immaterial.\n4. Charge \u2014 Erroneous Assumption of Pact. \u2014 The charge given is held erroneous, because it assumes that there is a question whether or not the note sued on was due when paid, when it showed upon its face that it was not due, and because it assumes that defendants, in making payment to W., dealt with him as attorney at law, when the facts tend to show that he was dealt with as land and loan broker, and as the agent of the plaintiff, both in procuring the loan and collecting the note.\n5. Issues.\u2014Issues of fact to be submitted to the jury upon another trial stated.\nAppeal from G-alveston. Tried below before Hon. Wm. H. Stewart.\nDavidson & Minor, for appellant.\n1. The court erred in admitting in evidence, over the objections of plaintiff, any and all letters from plaintiff to the firm of Sims & Wright, or to H. B. Wright, as to loans made by plaintiff to persons in Red River County, Texas, other than as to the loan made to the defendant John Watson. Tom v. Sayers, 64 Texas, 339; Smith v. Sherwood, 2 Texas, 460; Ins. Co. v. Hutchins, 53 Texas, 61; Byrnes v. Morris, 53 Texas, 213.\n2. The court erred in admitting in evidence, over the objection of plaintiff, the receipt of the said H. B. Wright, and his signature thereto, given by him to and attached to the depositions of J. H. Bryson. The said receipt being signed thus, \u201c Texas Land and Loan Company, per H. B. Wright, Agent,\u2019 \u2019 it being a declaration of H. B. Wright that he was acting in the matter as the agent of the plaintiff, and which was incompetent to establish such agency or tending to show such agency. Coleman & Davidson v. Colgate, 69 Texas, 89; Tom v. Sayers, 64 Texas, 339; Grinnan v. Dean, 62 Texas, 219.\n3. The court erred in not permitting plaintiff to put in evidence and read to the jury a certified copy of an affidavit made by one Lewis Dabney, on the 15th day of May, 1891, acting in behalf of the defendant the Middlesex Banking Company, charging the said H. B. Wright with the embezzlement of the $4500 in controversy herein; and in not permitting said plaintiff to read to the jury a certified copy of an original petition filed in the District Court of Red River County, Texas, on May 16, 1891, in a certain cause numbered in said court 5718, and wherein the said Middlesex Banking Company was plaintiff and the said H. B. Wright was defendant, and wherein the said plaintiff sued for the recovery of the $4500 in controversy herein, and therein alleged to be the property of the said Middlesex Banking Company; the said evidence being offered by the plaintiff herein to show: '\nFirst. An admission, under oath, by defendant the Middlesex Banking Company of the ownership of said property at the time said papers were sworn to and filed.\nSecond. As an admission on the part of the said Middlesex Banking Company as to the relationship of the said H. B. Wright to it in said matters, and a circumstance to go to the jury upon the issue of agency of the said Wright of the Middlesex Banking Company. Greenl. Ev., secs. 3, 169, 178, 186; Keesey v. Old, 82 Texas, 22; Parker v. Chancellor, 78 Texas, 524; Hamilton v. Van Hook, 26 Texas, 302.\n4. The charge of the court was erroneous [see opinion for charge], because:\nFirst. There is no presumption of law, as charged by the court, that a practicing attorney at law in the possession of an overdue note has authority to collect such past due note, without such note, if payable to order, being duly endorsed by the payee thereof.\nSecond. The defendants herein knew that the said H. B. Wright was not to acquire, and did not in fact acquire, possession of the said note from plaintiff, nor hold the same as an attorney at law, but that he held the same in his possession as a real estate and loan agent, and that he was so acting for the said defendant Watson in the procurement of his loan from the Middlesex Banking Company.\nThird. It appeared from the uncontradicted evidence in said cause, that the said note had not matured, and was not due at the time when the note was sent to Sims & Wright for probate. Greneaux v. Wheeler, 6 Texas, 515; Ross v. Smith, 19 Texas, 171; Smith v. Sublett, 28 Texas, 163; Smith v. Kidd, 68 N. Y., 130; Ames v. Drew, 37 N. H., 475; Earp v. Richardson, 77 N. C., 277; Sherwood v. Roys, 14 Pick., 172; Child v. Powder Works, 44 N. H., 354; White v. Hildreth, 13 N. H., 104; Goodfellow v. Landis, 36 Mo., 168; Lawrence v. Gibhard, 41 Barb., 575; Lemon v. Hornsby, 63 Ga., 271; Railway v. Nixon, 52 Texas, 19; Railway v. Stewart, 57 Texas, 166; Wintz v. Morrison, 17 Texas, 372; Smith v. Redden, 1 Posey\u2019s U. C., 360.\nEdmonson & Dabney, for appellee the Middlesex Banking Company.\nJas. B. & Chas. J. Stubbs, for appellees John and S. M. Watson.\n1. Except in States where the rule has been changed by statute, equitable estoppels growing out of facts in pais are equally conclusive, whether specially pleaded or given in- evidence without a special plea. This is especially true of estoppels in pais which arise out of a great variety of circumstances which can not well be set forth with the precision and brevity required by good pleading. There is no statute in Texas requiring estoppels in pais to be specially pleaded. McDow v. Rabb, 56 Texas, 154\u2014 162; Mayer v. Ramsey, 46 Texas, 371; Wright v. Doherty, 50 Texas, 34; Turnipseed v. Hudson, 19 Am. Rep., 15; Lites v. Addison, 3 S. E. Rep., 214; Am. and Eng. Encycl. of Law, title Estoppel, sec. 5, p. 33; Bige. on Estop., 699; Herm. on Estop., 1448, sec. 1305; Chit. Plead., 16 Am. ed., 380, and notes and authorities.\n2. Actual authority of one person to receive money for another may be established by direct proof of such authority, or by proof of facts and circumstances going to show that such authority has been actually conferred. Agency, like any other fact, may be proved by circumstantial as well as direct evidence. McAlpin v. Ziller, 17 Texas, 508; Saxe v. Deake, 69 Iowa, 760; 1 Am. and Eng. Encycl. of Law, 340, and note 1; Security Company v. Richardson, 33 Fed. Rep., 16; 7 Am. and Eng. Encycl. of Law, 64, art. 31, and notes; Wilcox v. Carr, 37 Fed. Rep., 130.\n3. Where it appears from the evidence that a witness was indebted to a person, and paid certain sums of principal and interest to a third party for benefit of the creditor, all facts about such payment being stated, his further statement that said third- party acted for the creditor is not an inadmissible conclusion of law. Shinn v. Hicks, 68 Texas, 277; Rosenthal v. Middlebrook, 63 Texas, 333; Railway v. Lamothe, 76 Texas, 221, 225.\n4. The authority of a supposed agent can not be established by his own declarations, but if the agency is otherwise proved such declarations are admissible, if made during the exercise of functions of said agency,\non the ground that they are part of the res gestae. Lacoste v. Bexar County, 28 Texas, 424; Tuttle v. Turner, 28 Texas, 771; Nations v. Thomas, 25 Texas Supp., 224; 1 Am. and Eng. Encycl. of Law, title Agency, 351; Greenl. on Ev., sec. 113.\n5. The admission of an attorney is only binding on his client if made after he has been retained for and is actually engaged in the management of the cause in which it is proposed to use the admission. Dabney was in the employ of the Middlesex Banking Company, on a salary; his business to examine titles to lands offered as security for loans. Dabney was unacquainted with the facts as to the original payment of the money to Wright and settlement with him. Buzard & Hilliard v. McAnulty, 77 Texas, 445.\n6. The possession by an attorney, who originally negotiated the loan, of the bond or note and trust deed taken as security, raises the presumption that he is entitled to collect principal and interest when due. Williams v. Walker, 2 Sandf. Ch., 325; Megary v. Funtis, 5 Sandf. Sup. Ct., 376; Cooley v. Willard, 85 Am. Dec., 279; Smith v. Kidd, 23 Am. Dec., 157; Doubleday v. Kress, 10 Am. Rep., 502; Guildford v. Stacer, 53 Ga., 618; Phillips v. McGrath, 62 Wis., 124; Crane v. Grunewald, 24 N. E. Rep., 456; Miller v. Scott, 21 Ark., 396; McCarver v. Neely, 1 Green, 360; Ducett v. Cunningham, 39 Me., 386; Comer v. Rose, 1 De Sausure Eq., 461; Yates v. Freckleton, 2 Douglas (Eng. Rep.), 623; 1 Am. and Eng. Encyc. of Law, 955, and notes."
+  },
+  "file_name": "0233-01",
+  "first_page_order": 259,
+  "last_page_order": 268
+}

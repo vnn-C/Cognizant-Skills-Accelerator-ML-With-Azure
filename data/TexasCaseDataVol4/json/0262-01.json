@@ -1,0 +1,85 @@
+{
+  "id": 223738,
+  "name": "Texas & New Orleans Railway Company v. P. H. Cunningham",
+  "name_abbreviation": "Texas & New Orleans Railway Co. v. Cunningham",
+  "decision_date": "1893-10-05",
+  "docket_number": "No. 298",
+  "first_page": "262",
+  "last_page": "263",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Tex. Civ. App. 262"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "24 Ill., 149",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        5284759
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill/24/0149-01"
+      ]
+    },
+    {
+      "cite": "78 Mo., 578",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 147,
+    "char_count": 1762,
+    "ocr_confidence": 0.547,
+    "pagerank": {
+      "raw": 9.505882454708161e-08,
+      "percentile": 0.518932184849387
+    },
+    "sha256": "042180e164f5e7f522dc5b38b79558b0389dc6a4ea8a74eb5e69dfdc5515db2d",
+    "simhash": "1:4e7851d82a807bd4",
+    "word_count": 309
+  },
+  "last_updated": "2024-02-27T18:01:03.208661+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Texas & New Orleans Railway Company v. P. H. Cunningham."
+    ],
+    "opinions": [
+      {
+        "text": "WILLIAMS, Associate Justice.\nAppellee brought this suit to recover the value of a mule killed by one of appellant\u2019s engines at a road \u2022crossing in Jefferson County.\nIt is assumed by both parties in the presentation of the case in this court, that the crossing was such as appellant had the right to leave open and unfenced, and we shall assume such to be the case, though the statement of facts leaves it somewhat open to question.\nThere is a conflict of evidence as to whether the whistle was blown by the engineer in approaching the crossing. The engineer does not claim that he rang the bell.\nThe omission to give the signals required by statute is negligence, which makes the company liable where injury to stock results. Railway v. Turner, 78 Mo., 578; Railway v. Reid, 24 Ill., 149. The evidence supports the verdict.\nThe allowance of interest on the value of the mule was error. Railway v. Mulrow, 54 Texas, 233.\nThe judgment will be reversed and here rendered for $100, found by the jury as the value of the mule, as appellee asks that be done if the allowance of interest is held to be error. The costs of the appeal are adjudged against appellee.\nReversed and rendered.",
+        "type": "majority",
+        "author": "WILLIAMS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "O\u2019Brien & O\u2019Brien, for appellant.",
+      "Tom J. Bussell, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Texas & New Orleans Railway Company v. P. H. Cunningham.\nNo. 298.\n1. Negligence when Injury to Stock Results.\u2014The omission to give the signals required by statute is negligence, which makes the railway company liable, where injury to stock results.\n2. Measure of Damages.\u2014The allowance of interest on the value of the mule killed was error, and the judgment is reversed and rendered for the value of the mule, as found by the jury.\nAppeal from Jefferson.\nTried below before Hon. W. H. Ford.\nO\u2019Brien & O\u2019Brien, for appellant.\nTom J. Bussell, for appellee.\nDelivered October 5, 1893."
+  },
+  "file_name": "0262-01",
+  "first_page_order": 286,
+  "last_page_order": 287
+}

@@ -1,0 +1,289 @@
+{
+  "id": 227357,
+  "name": "Henry Gillum et al. v. The St. Louis, Arkansas & Texas Railway Company in Texas et al.",
+  "name_abbreviation": "Gillum v. St. Louis, Arkansas & Texas Railway Co.",
+  "decision_date": "1893-11-02",
+  "docket_number": "No. 62",
+  "first_page": "338",
+  "last_page": "340",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Tex. Civ. App. 338"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Nev., 228",
+      "category": "reporters:state",
+      "reporter": "Nev.",
+      "case_ids": [
+        8847555
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nev/1/0228-01"
+      ]
+    },
+    {
+      "cite": "75 Am. Dec., 461",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "106 Mass., 318",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        715957
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/106/0318-01"
+      ]
+    },
+    {
+      "cite": "12 Conn., 484",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Wend., 505",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2147327
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/8/0505-01"
+      ]
+    },
+    {
+      "cite": "49 Miss., 236",
+      "category": "reporters:state",
+      "reporter": "Miss.",
+      "case_ids": [
+        9514575
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/miss/49/0236-01"
+      ]
+    },
+    {
+      "cite": "33 Mich., 205",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1346544
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich/33/0205-01"
+      ]
+    },
+    {
+      "cite": "13 Ill., 192",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        2582545
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/13/0192-01"
+      ]
+    },
+    {
+      "cite": "18 Mich., 218",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1942858
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich/18/0218-01"
+      ]
+    },
+    {
+      "cite": "5 Am. Rep., 189",
+      "category": "reporters:state_regional",
+      "reporter": "Am. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "33 Ind., 127",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1481373
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/33/0127-01"
+      ]
+    },
+    {
+      "cite": "21 Minn., 491",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        738488
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/minn/21/0491-01"
+      ]
+    },
+    {
+      "cite": "19 Barb., 664",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4962148
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/19/0664-01"
+      ]
+    },
+    {
+      "cite": "106 U. S., 432",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3499010
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/106/0432-01"
+      ]
+    },
+    {
+      "cite": "79 Pa., 220",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        438379
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/79/0220-01"
+      ]
+    },
+    {
+      "cite": "57 Ind., 239",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        331025
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/57/0239-01"
+      ]
+    },
+    {
+      "cite": "17 Pa., 373",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        967601
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/17/0373-01"
+      ]
+    },
+    {
+      "cite": "34 Me., 263",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "36 Am. Dec., 369",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "17 Vt., 681",
+      "category": "reporters:state",
+      "reporter": "Vt.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Nev., 230",
+      "category": "reporters:state",
+      "reporter": "Nev.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "64 Cal., 134",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2248072
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/64/0134-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 528,
+    "char_count": 8490,
+    "ocr_confidence": 0.56,
+    "pagerank": {
+      "raw": 1.5157708239194188e-07,
+      "percentile": 0.6683739090580184
+    },
+    "sha256": "0a1470f7dc277da1913ede2ac5be40348ffeb43a999a803392c0b81969b7cca6",
+    "simhash": "1:a970248a18c9f332",
+    "word_count": 1530
+  },
+  "last_updated": "2024-02-27T16:31:09.266747+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Henry Gillum et al. v. The St. Louis, Arkansas & Texas Railway Company in Texas et al."
+    ],
+    "opinions": [
+      {
+        "text": "RAINEY, Associate Justice.\nAppellants and C. M. and N. Houston were tenants in common, owning the Dikes league and labor of land in Hopkins County. C. M. and N. Houston sold growing timber thereon to Hargrove & Miller for crossties, piling, etc. They sold to Britton & Lyon, who used same on railway company\u2019s roadbed. Appellants sue to recover for the timber thus used, alleging that the same was taken without authority.\nThe defendants\u2019 answer alleged, among other things, that the timber was sold to the parties from whom they purchased, by the Houstons, who' were tenants in common with appellants. A trial was had before a jury, and verdict and judgment rendered for appellees, from which an appeal was taken. Quite a number of errors were assigned to the rulings of the-court. Under our view of the case there is one proposition involved, which, if answered in the affirmative, settles the case, and renders it unnecessary to discuss the other issues raised; that is, has one tenant in common a right to sell marketable timber growing on the common estate,, and pass a clear title thereto to the purchaser ?\nMany authorities are cited by able counsel in their briefs, but none from this State that is in point; nor has the court been able to find any. All those cited from other jurisdictions that bear directly on this proposition, hold the affirmative of this proposition to be true.\nAll tenants in common have a right to possession of the property, and a right to use and enjoy it. Each has a right to cultivate it, and reap the proceeds of such venture. Each has a right to cut the grass thereon and market it; and each has a right to sell the marketable timber growing thereon. One cotenant has no right to despoil the land of its timber; that is, to cut, waste, and destroy all the timber, marketable or unmarketable, growing thereon; and if such was attempted the cotenants could invoke the aid of the courts and enjoin him from such destruction.\nBut such state of facts does not exist in this case. Here the Houstons sold, and gave permission to the parties from whom Britton & Lyon bought to cut the timber. There is no claim that all the timber growing thereon was cut from the land; nor is it shown but that there is plenty left for appellants to secure their pro rata share; nor is it shown that they have not received from the estate other emoluments equal to the amount received by the Houstons from the sale of the timber. If they have not, then they would have a right to an accounting from the Houstons for the amount they have received on that score.\nMr. Freeman, in his excellent work on Cotenancy and Partition, section 251, lays down the rule to be, that \u201c If timber standing on the land is of proper size and condition for advantageous sale, either of the co-tenants may lawfully proceed to cut and sell it; for in so doing, he makes no unusual use of the real estate of which he is a tenant in fee.\u201d\nDelivered November 2, 1893.\nIn Huhn v. Peck, 18 California, 641, an action was brought by one tenant against another, alleging the cutting and wasting of timber, and asking for partition, and for an injunction to prevent such cutting and waste during the pendency of the suit. The lower court perpetuated the injunction, but on appeal the Supreme Court reversed the case, and said: \u201c The defendants being tenants in common, had a right to the enjoyment of the common estate, and to cut timber and use or dispose of it, at least to an extent corresponding to their share of the estate. No insolvency is averred; nor that they are exceeding this share; nor any other facts which entitle them to this injunction.\u201d\nIn Baker v. Wheeler & Martin, 8 Wendell, 505, it was held, that \u201cOne tenant in common may cut trees proper to be cut on the land held in tenancy in common, and the remedy of the cotenant is an action against the cotenant cutting the timber for his share of the value. If one tenant in common may cut himself, he may give license to another.\u201d This doctrine is also laid down in McCord v. O. Q. M. Co., 64 Cal., 134, and Alford v. Bradeen, 1 Nev., 230.\nThe authorities cited by appellants, in our opinion, do not contravene this doctrine. There is nothing in the record to show that appellants were excluded from possession or deprived of any other use or benefit of the premises by the Houstons.\nTo say that one tenant in common must have the consent of all his co-tenants to use the common estate would, in many instances, be practically a denial of any benefit to him from such estate; and before he could receive any benefit therefrom or exercise any individual control over his interest, a partition of said estate would have to be had. We take it that one tenant in common has a right to the use and enjoyment Of the common estate within due bounds, which we think were not exceeded in this case.\nThis case differs from the case of Gillum v. St. Louis, Arkansas & Texas Railway Company [4 Texas Civil Appeals, 622], heretofore decided at this term. In that case a trespass was committed, and the damage done affected' the interest of all jointly, and all the tenants in common were entitled to recover jointly, and one could not sue and recover to the exclusion of another. In this case, the sale of the timber by the Houstons was the exercise of a right and privilege that was personal to them, and no right of action accrued to appellants against the Houstons\u2019 vendees, as they had committed no trespass, but merely exercised a license that properly belonged to them under the law.\nThe judgment of the District Court is affirmed.\nAffirmed.",
+        "type": "majority",
+        "author": "RAINEY, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Whittle & Son and J. A. B. Putman, for appellants.",
+      "Head & Dillard, for appellee O. T. Lyon, and Perkins, Gilbert & Perkins, for the railway company and its receivers, appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Henry Gillum et al. v. The St. Louis, Arkansas & Texas Railway Company in Texas et al.\nNo. 62.\n1. Tenants in Common, Rights of. \u2014 One tenant in common has the right to sell marketable timber growing on the common estate, and pass a clear title thereto to the purchaser, and no right of action accrues to the other cotenants against the vendee who carries off and uses the same.\n2. Case Distinguished. \u2014 This case distinguished from Gillum v. Railway, 4 Texas Civil Appeals. In the latter case a trespass was committed, and all the cotenants were entitled to recover jointly, and one could not sue and recover to the exclusion of another; in this case no trespass was committed, but a legal license exercised.\nAppeal from Hopkins. Tried below before Hon. E. W. Terhune.\nWhittle & Son and J. A. B. Putman, for appellants.\n1. One cotenant in actual possession of land belonging to himself and other cotenants, can not dismantle the land of its timber and sell said timber so that the purchaser would get good title against the other cotenants. Welsh v. Clark, 17 Vt., 681; 36 Am. Dec., 369; 5 Am. and Eng. Encycl. of Law, 528, sec. 12; Strickland v. Parker, 34 Me., 263; 8 Am. and Eng. Encycl. of Law, 54; Agnew v. Johnson, 17 Pa., 373; Collins v. Ayer, 57 Ind., 239; Coursin\u2019s Appeals, 79 Pa., 220; 11 Am. and Eng. Encycl. of Law, 1118.\n2. Where the property is taken by a willful trespasser, the value of same is the property in its improved condition at the time of the appropriation and conversion of same by the wrongdoer; and the wrongdoer in whose possession the property is found will be held liable for damages in the full amount of the value of such property at the time of its conversion and appropriation. Woodenware Co. v. United States, 106 U. S., 432; Rice v. Hallenback, 19 Barb., 664; Nesbit v. Lumber Co., 21 Minn., 491; Ellis v. Wire, 33 Ind., 127; 5 Am. Rep., 189; Final v. Backus, 18 Mich., 218; Davis v. Easly, 13 Ill., 192; Winchester v. Craig, 33 Mich., 205; Hurd v. James, 49 Miss., 236; Baker v. Wheeler, 8 Wend., 505; Baldwin v. Porter, 12 Conn., 484.\nHead & Dillard, for appellee O. T. Lyon, and Perkins, Gilbert & Perkins, for the railway company and its receivers, appellees.\nA tenant in common in possession of land has a legal right to sell and dispose of growing timber upon said land, which is of merchantable size and age. Plaintiffs could in no event recover in this cause, because it appears without dispute that the timber was sold from the land by their cotenants, C; M. and Nancy Houston, and that the persons who cut and took it away entered upon the land by the license of said C. M. and Nancy Houston. Brown v. Wellington, 106 Mass., 318; Freem. on Coten., secs. 299, 251, 253; 3 Lead. Cases in Am. Law of Real Prop., 112, 69; Baker v. Wheeler, 24 Am. Dec., sec. 66; Darden v. Cowper, 75 Am. Dec., 461; Alford v. Bradeen, 1 Nev., 228; 4 Wait\u2019s Act. and Def., 180."
+  },
+  "file_name": "0338-01",
+  "first_page_order": 364,
+  "last_page_order": 366
+}

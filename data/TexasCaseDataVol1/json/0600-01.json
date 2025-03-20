@@ -1,0 +1,120 @@
+{
+  "id": 216298,
+  "name": "Franco-Texan Land Company v. A. B. Simpson",
+  "name_abbreviation": "Franco-Texan Land Co. v. Simpson",
+  "decision_date": "1892-12-13",
+  "docket_number": "No. 33",
+  "first_page": "600",
+  "last_page": "603",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Tex. Civ. App. 600"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "26 Gratt., 442",
+      "category": "reporters:state",
+      "reporter": "Gratt.",
+      "case_ids": [
+        4434501
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/va/67/0149-01"
+      ]
+    },
+    {
+      "cite": "67 N. Y., 338",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2164954
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/67/0338-01"
+      ]
+    },
+    {
+      "cite": "56 Am. Dec., 509",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "13 Am. Dec., 299",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "54 Am. Dec., 209",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "pin_cites": [
+        {
+          "page": "note 211"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "81 Am. Dec., 662",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 485,
+    "char_count": 9384,
+    "ocr_confidence": 0.564,
+    "pagerank": {
+      "raw": 3.5793745417937936e-07,
+      "percentile": 0.8866949385852225
+    },
+    "sha256": "db18888de89424b06c7b672f528c52433f506a94aa3c415a6e96a707bb876ee8",
+    "simhash": "1:806d8a9ae51af2a0",
+    "word_count": 1662
+  },
+  "last_updated": "2024-02-27T16:44:05.763049+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Franco-Texan Land Company v. A. B. Simpson."
+    ],
+    "opinions": [
+      {
+        "text": "TARLTON, Chief Justice.\nThis suit was brought in the District Court of Parker County by appellant, against appellee, to recover the sum of $90.27, amount of a promissory note, with interest, and to foreclose the vendor\u2019s lien on certain land described in the petition. The defendant relied as a special defense upon a partial failure of consideration arising out of the deficiency in the quantity of land. The court tried the case without a jury and rendered judgment for the defendant; hence this appeal.\n1. November 18,1881, the Franco-Texan Land Company by deed conveyed to defendant the land on which foreclosure is sought.\n2. This deed by metes and bounds sets out the land conveyed, and concludes the description therein with the recital that the land contains \u201c 102.59 acres, more or less, being the southwest fractional part of survey No. 327.\u201d The instrument recites a consideration of $82.07 cash, the balance secured in six promissory notes, the last of which is the one here involved. It expressly retains the vendor\u2019s lien, and provides that the deed shall become absolute as a conveyance on payment of all the notes.\n3. The land conveyed is out of a larger tract owned by appellant, through patent from the State, recorded February 20, 1878. The patent describes the entire tract as containing 511.79 acres. The tract, however, does not contain this quantity, because the calls for distance are required to yield to the calls in the patent for marked lines and corners.\n4. At the time of the purchase the plaintiff, vendor, represented to the defendant that there were 102.59 acres in the tract conveyed. The defendant relied upon these representations, and so purchased the land. There was no actual fraud on the part of the vendor, both the vendor and vendee believing at the time that the tract contained the quantity named.\n5. There were, however, only 85 acres embraced in the tract conveyed. The deficiency is caused by the calls for distance being controlled by calls for lines and corners marked and established.\n6. The sale was a sale by the acre \u2014 that is to say, that in arriving at the price the parties estimated the tract to contain 102.59 acres \u2014 and the price agreed upon was $4 per acre.\n7. Soon after the purchase the defendant moved on the land and has ever since resided thereon, undisturbed in his title or possession of the land actually conveyed to him. He did not, however, discover the deficiency until after he had paid the purchase money notes, except the last, which is here sued upon.\n8. The deficiency in the land, 17.59 acres, at $4 per acre, exceeds the amount of the note involved, with interest.\nWe do not concur with appellant in its first contention, that the answer of defendant is subject to general demurrer. The answer, in effect, alleges that the land was sold by the acre; that the plaintiff falsely represented that there were 102.59 acres in the tract; that defendant relied on these false representations, and was by them induced to purchase; that there was a shortage of 17.59 acres, which defendant did not discover until after the payment of the fifth note; that plaintiff knew of the discrepancy at the time of the sale to defendant. The answer prayed an abatement of the price to the extent of the value of the deficiency.\nWe believe the correct doctrine to be, that where land is sold by the acre, and the parties are under a mutual mistake as to the quantity conveyed, or where the vendee is moved to the purchase by the false representations of the vendor, even though innocently made, and the deficiency is afterwards discovered, equity will grant to the vendee a proportionate abatement of the purchase price. The vendee may seek this relief under a plea of partial failure of consideration, setting up the mistake or the false representations. Mitchell v. Zimmerman, 4 Texas, 75; Walling v. Kennard, 10 Texas, 508; Moore v. Hazelwood, 67 Texas, 626; Wheeler v. Boyd, 69 Texas, 298.\nThis rule does not obtain in the absence of actual fraud, when the sale is in gross; and it would seem that the deed unexplained and for a designated number of acres \u201c more or less,\u201d would, if its execution and delivery be unaccompanied by an understanding to the contrary, indicate a sale in gross, and not by the acre. Bellamy v. McCarthy, 75 Texas, 294. It does not follow, however, that the vendee in the deed containing the recital \u201c more or less\u201d will thereby be precluded, under allegations of fraud or mistake, from pleading and proving an agreement contemporaneous with the execution of the deed, making the transaction a sale by the acre and not in gross. In this case, under the allegations of the answer, the defendant was the victim of misrepresentation; the quantity of land sold was of the \u201c essence of the contract,\u201d and \u201c the deficiency is so great as to have been material.\u201d Equity under such circumstances will grant relief, although the land is described in the deed as so many acres, \u201c more or less.\u201d Smith v. Fly, 24 Texas, 351.\nDelivered December 13, 1892.\nIt follows, from the views above expressed, that we also differ from appellant in its succeeding contention, that the court erred in admitting the parol testimony of the defendant to show the transaction to have been a sale by the acre and not in gross. Under the allegations of the answer, showing fraud or mistake, this testimony was admissible, not so much for the purpose of contradicting the deed as for the purpose, with reference to the entire transaction, of indicating the proper interpretation of the expression \u201c more or less \u201d contained in the deed. Smith v. Fly, 24 Texas, 351; Weir v. McGee, 25 Texas Supp., 31.\nWe think there was ample evidence to sustain the finding of fact and to justify the conclusion of law by the court that the transaction was a sale by the acre and not in gross.\nThe judgment is therefore affirmed.\nAffirmed.\nJustice Stephens did not sit in this case.",
+        "type": "majority",
+        "author": "TARLTON, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "A. J. Hood, for appellant.",
+      "G. A. McCall and W. R. Vivrett, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Franco-Texan Land Company v. A. B. Simpson.\nNo. 33.\n1. Deed \u2014 Rule where there is a Shortage in Land. \u2014 Where land is sold by the acre, and the parties are under a mutual mistake as to the quantity conveyed, or where the vendee is moved to the purchase by the false representations of the vendor as to the amount, even though innocently made, and the deficiency is afterward discovered, equity will grant to the vendee a proportionate abatement of the purchase price.\n2. Same \u2014 Sale in Gross \u2014 \u201cMore or Less.\u201d \u2014 The above rule does not obtain in the absence of actual fraud when the sale is in gross; and it would seem that the deed unexplained, and for a designated number or acres \" more or less,\u201d would, if its execution or delivery be unaccompanied by an understanding to the contrary, indicate a sale in gross, and not by the acre.\n3. Same. \u2014 But where the vendee is the victim of misrepresentation; where the sale is by the acre and the quantity of the land is of the essence of the contract, and the deficiency is so great as to have been material, equity will grant relief, although the land is described in the deed as so many acres \u201c more or less.\u201d\n4. Parol Evidence to Explain Deed. \u2014 Under proper allegations of fraud or mistake, a sale by deed reciting the land as so many acres more or less may be shown by parol evidence to have been in fact a sale by the acre, and not in gross.\nAppeal from Parker. Tried below before Hon. J. W. Patterson.\nA. J. Hood, for appellant.\n1. False statements furnish no cause of action if they relate to a matter concerning which the person to whom made, by the use of ordinary diligence, can obtain accurate information. Flanagan v. Ward, 12 Texas, 209; Silver v. Frazier, 81 Am. Dec., 662.\n2. Where a deed of conveyance of land mentions the number of acres, and also contains a description of the land by metes and bounds, or contains the words \u201c more or less,\u201d the call for the number of acres is a mere descriptive call, and does not entitle the vendee to an abatement of price in the event the tract contains a less number of acres than that named in the conveyance. Weir v. McGee, 25 Texas Supp., 20; 3 Washb. on Real Prop., 4 ed., sec. 36a; Frederic v.Youngblood, 54 Am. Dec., 209, note 211.\n3. A purchaser of land, in the absence of actionable fraud or mistake, can not resist payment of purchase money, unless he shows that the title has failed in whole or in part, and that he has been or is liable to be evicted by a paramount outstanding title. Perry v. Rice, 10 Texas, 367; Cook v. Jackson, 20 Texas, 209.\nG. A. McCall and W. R. Vivrett, for appellee.\n1. A purchaser of land, especially under an executory contract, may rely on the statements of his vendor as to quantity and quality, and if they be false and material, the sale may be rescinded or the price may be abated. Mitchell v. Zimmerman, 4 Texas, 75; Copeland v. Gorman, 19 Texas, 253; Walling v. Kinnard, 10 Texas, 508.\n2. When one purchases land under an executory contract, upon representations of his vendor as to quantity, and relies on the same, and they are false and untrue, he may have an abatement of price for the deficit, and that too, whether the sale purports to be in gross or by the acre. Walling v. Kinnard, 10 Texas, 508; Smith v. Fly, 24 Texas, 349; O\u2019Connell v. Duke, 29 Texas, 299; Pringle v. Samuel, 13 Am. Dec., 299; Yost v. Shaffer, 56 Am. Dec., 509; Wilson v. Randall, 67 N. Y., 338; Triplett v. Allen, 26 Gratt., 442."
+  },
+  "file_name": "0600-01",
+  "first_page_order": 624,
+  "last_page_order": 627
+}

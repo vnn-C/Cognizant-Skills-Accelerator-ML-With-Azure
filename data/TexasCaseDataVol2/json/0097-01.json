@@ -1,0 +1,66 @@
+{
+  "id": 219045,
+  "name": "S. J. Wright v. The Red River County Bank",
+  "name_abbreviation": "Wright v. Red River County Bank",
+  "decision_date": "1892-01-03",
+  "docket_number": "No. 411",
+  "first_page": "97",
+  "last_page": "98",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 97"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 196,
+    "char_count": 2940,
+    "ocr_confidence": 0.565,
+    "pagerank": {
+      "raw": 5.527646540942415e-08,
+      "percentile": 0.34786062816789703
+    },
+    "sha256": "33dfddeadac4c576cd640fac072dd090b1c1160f48de6c36485c18f652e99409",
+    "simhash": "1:113f685cf128c3f9",
+    "word_count": 509
+  },
+  "last_updated": "2023-07-14T16:01:39.065288+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "S. J. Wright v. The Red River County Bank."
+    ],
+    "opinions": [
+      {
+        "text": "STEPHENS, Associate Justice.\nThe judgment appealed from in this case declares the existence of a lien in favor of appellee on a certain tract of land therein described, ordering the sale of the same, to secure the payment of the following debts in the following order:\nFirst. The note of one Fleming, without security.\nSecond. Two notes of said Fleming, with O\u2019Neill and others as sureties on one, and Silberberg & Patton as sureties on the other (against which sureties judgment was also rendered).\nThird. A certain indebtedness of said Fleming, paid by appellant and others as his sureties.\nThe record contains conclusions of law and fact and a statement of facts.\nThe sixth finding of fact, that the note upon which Silberberg & Patton were sureties was secured by a lien on said land, appears to be unsustained by the statement of facts. This probaby resulted from an oversight in making up the statement of facts. If appellant had definitely assigned error upon the failure of the statement of facts to sustain the sixth finding of fact (of which he complains in his brief under a rather general assignment), it would have become necessary to either reform the judgment or remand the cause for a new trial, provided the appeal had been perfected so as to give this court jurisdiction. The appeal bond is payable to the Red River County Bank alone. It thus appears that the interests of Silberberg & Patton might be affected by the judgment to be entered on this appeal, without their being before the court as parties to the appeal. Their interests, as well as the interests of O\u2019Neil and others, are adverse to the interests of appellant to the extent of the priority of their several liens.\nThe appeal must therefore be dismissed for want of jurisdiction. Young v. Russell, 60 Texas, 684, and cases there cited.\nDismissed.\nDelivered January 3, 1892.\nA motion for rehearing was refused.",
+        "type": "majority",
+        "author": "STEPHENS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Geo. F. Burdett and Dudley & Moore, for appellant.",
+      "Sims & Wright, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "S. J. Wright v. The Red River County Bank.\nNo. 411.\nPractice on Appeal \u2014 Necessary Parties to Appeal Bond. \u2014The judgment appealed from declared the existence of a lien in favor of appellee (plaintiff below) on a certain tract of land, and ordered a sale of the land to secure the payment of three several debts in the following order: 1. Note of F. without security. 2. Two notes of F. with S. and others as sureties thereon (judgment being also taken against said sureties). 3. A debt of F. paid by appellant and others as his sureties. The appeal bond was payable to appellee alone. Held, that the interests of S. and the other sureties on the two notes were adverse to those of appellant to the extent of the priority of the several liens; and as their interests might be affected by the judgment on this appeal, to which they are not parties, the appeal must be dismissed for want of jurisdiction.\nAppeal from Red River. Tried beldw before Hon. E. D. McClelland.\nGeo. F. Burdett and Dudley & Moore, for appellant.\nSims & Wright, for appellee."
+  },
+  "file_name": "0097-01",
+  "first_page_order": 123,
+  "last_page_order": 124
+}

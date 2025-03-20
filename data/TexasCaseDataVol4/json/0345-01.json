@@ -1,0 +1,183 @@
+{
+  "id": 223723,
+  "name": "The Gulf, Colorado & Santa Fe Railway Company v. C. O. Nelson",
+  "name_abbreviation": "Gulf, Colorado & Santa Fe Railway Co. v. Nelson",
+  "decision_date": "1893-10-25",
+  "docket_number": "No. 1571",
+  "first_page": "345",
+  "last_page": "351",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Tex. Civ. App. 345"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "49 Ark., 291",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1309605
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/49/0291-01"
+      ]
+    },
+    {
+      "cite": "124 U. S., 465",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3525290
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/124/0465-01"
+      ]
+    },
+    {
+      "cite": "41 Fed. Rep., 592",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3731369
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/f/41/0592-01"
+      ]
+    },
+    {
+      "cite": "114 U. S., 196",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11293416
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/114/0196-01"
+      ]
+    },
+    {
+      "cite": "15 Wall., 281",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "117 U. S., 34",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8299618
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/117/0034-01"
+      ]
+    },
+    {
+      "cite": "121 U. S., 230",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        678708
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/121/0230-01"
+      ]
+    },
+    {
+      "cite": "102 U. S., 618",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "95 U. S., 485",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3383120
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/95/0485-01"
+      ]
+    },
+    {
+      "cite": "118 U. S., 558",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "41 Fed. Rep., 592",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3731369
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/41/0592-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 730,
+    "char_count": 18035,
+    "ocr_confidence": 0.553,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.008822908208161943
+    },
+    "sha256": "ebe7ea78887ae7dc5140633205f4d19c17c5aef78fe39714f8cadb53df5959a8",
+    "simhash": "1:bea6912443d285f7",
+    "word_count": 3182
+  },
+  "last_updated": "2024-02-27T18:01:03.208661+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The Gulf, Colorado & Santa Fe Railway Company v. C. O. Nelson."
+    ],
+    "opinions": [
+      {
+        "text": "HEAD,' Associate Justice.\nAppellee, as plaintiff in the court below, sued appellant for a statutory penalty of $13.50 for each day from the 16th day of June, 1889, to the time of trial, on the 30th day of January, 1890; alleging that he had shipped 21,000 pounds of wire and staples from Joliet, Illinois, to Clifton, Texas, at an agreed rate of 75 cents per hundred, as evidenced by the bill of lading, and that appellant refused to deliver the goods after tender of the amount thus shown to be due. The bill of lading was charged to have been issued by the agent of the Chicago, Rock Island & Pacific Railway Company, which was alleged to be a connecting line with appellant, and by an arrangement with it had authority to issue through bills of lading over their joint lines; and the agent who issued this bill was, in its issuance, also alleged to be the agent of appellant. There was no averment by either party that these two lines had established a joint tariff of rates in compliance with the Interstate Commerce Law, nor was there any denial under oath by appellant of the allegation by appellee that this bill of lading was executed by its agent or by its authority.\nAppellant pleaded a general denial; and specially, that the true weight was greater than that given in the bill of lading, and it only retained the goods until the correct amount of freight was paid, as it claimed the right to do by the terms of the contract, and as it contended it was required to do by the Interstate Commerce Law.\nA part of the freight having been delivered, the penalty was calculated upon the basis of the amount of freight that would have been due on that not delivered, and a trial before a jury resulted in a verdict and judgment in favor of appellee for $3109.50, from which this appeal is prosecuted.\nAppellant contends, in an able brief citing numerous authorities, that the statute of this State imposing a penalty upon a common carrier who refuses to deliver freight upon tender of the charges specified in the bill of lading has been absolutely and entirely superseded by the act of Congress known as the Interstate Commerce Law, in so far as it could have application to a shipment originating in another State and extending into this. In other words, that our statute, in so far as it applies to such shipments, would be a regulation of commerce between the States, the power to do which is confided by the Federal Constitution exclusively to the Congress of the United States; and since the exercise of this power by that body in the passage of the act above referred to, the State statute can have nothing to do with such shipments, even though the carrier had not subjected himself to the requirements of that act.\nThat our statute is not a regulation of interstate commerce within the meaning of the prohibition contained in the Federal Constitution, but is more properly classed as a police regulation which the State has the power to make, was decided upon mature consideration in the case of Railway v. Dwyer, 75 Texas, 572. It is true that case grew out of facts which occurred prior to the passage of the act of Congress, but the opinion was not placed upon that ground; and in the case of Dillingham, Receiver, v. Fischl, 1 Texas Civil Appeals, 546, it was followed as applying to a case originating since that time. In this last case, however, it was held, that in case of a conflict between the statute and the act of Congress, the latter would prevail. The Supreme Court of Arkansas, in the case of Railway v. Hanniford, 49 Arkansas, 291, construed a statute almost identical with ours, and arrived at the same conclusion as our Supreme Court in the Dwyer case.\nWe have no disposition to enter upon an extended discussion of the question. The line of demarcation between the regulations the State can and can not make is so shadowy and variable, and so entirely dependent upon the impression the particular facts of each case may make upon the-different members of the Supreme Court of the United States, that but little importance would be attached to our views beyond the effect they may have upon the disposition to be made of the case before us, and we shall content ourselves with saying, that we agree, both upon principle and authority, with the conclusions announced in the cases above cited.\nIt does not seem to us that the statute in question can fairly be construed as an attempted regulation of interstate commerce. It does not attempt to prescribe the charges that shall be made for the carriage of goods, nor in any manner to interfere with the freedom of the carrier in making his-contracts in reference thereto, but only prescribes a speedy and effectual remedy for the enforcement of the contract after it is made and the goods carried to their destination within this State. It makes no discrimination against interstate shipments, but only says that common carriers, whether State or interstate, occupy such a position of vantage in reference to goods in their possession, that the interests of consignees generally must be protected by imposing heavy penalties upon a carrier who insists upon retaining possession of property intrusted to him after he has been tendered the full amount of his charges as shown by his written contract. In other words, carriers should not be allowed to use their possession of the shipper\u2019s property to force him into new terms not agreed on as a part of the original arrangement. We think this clearly a police regulation, not denied to the State in the same sense that numerous other regulations for the conduct of this business, about which no question is raised, are police regulations.\nIt has already been repeatedly held, that this statute ajiplies only to contracts which the defendant carrier has itself executed, or has voluntarily made its own by authorization or adoption (Railway v. Dwyer, supra; same case on third appeal, 84 Texas, 194; Miller v. Railway, 83 Texas, 518), and it of course would not apply to a contract invalid by reason of fraud, accident, or mistake in its procurement. Baird v. Railway, 41 Fed. Rep., 592. When so restricted, we can see no injustice or harshness in its provisions.\nIf the carrier thinks he has made a mistake in issuing the bill of lading, against which he is entitled to be relieved, but is not willing to risk incurring the penalty imposed by the statute, there is nothing to prevent him from delivering the goods on tender of the amount due as shown by the bill of lading, and afterwards litigating for the balance; and we see no greater injustice in this than there would be to require the consignee to first yield to the demands of the carrier and then take the initiative in the subsequent litigation.\nWhat we have said has no application to a carrier who has entered into a contract with connecting lines for joint through rates in compliance with the Interstate Commerce Law, and through the act of one of these lines has become a party to a contract for a less rate than that thus presented. In such case we agree with the conclusion of the court in the Fischl case, that the rate agreed upon under the act of Congress should be collected by the delivering line, regardless of the bill of lading, and for so doing it could not be made liable under our statute.\nIt will be observed, however, that it is not every shipment from one State into another over connecting lines that comes within the provisions of the Interstate Commerce Law and subjects the carriers engaged therein to its penalties. This law only authorizes, but does not require, connecting carriers to agree upon joint rates, and it is only when they voluntarily enter into such an arrangement that the rates so agreed upon are enforced under its provisions. See section 6 of that law, as amended by the Act of March 2, 1889; also, Bridge Company v. Railway, 37 Fed. Rep , 629, 630.\nIn this case there was no evidence whatever that the several lines over which this freight passed had established a joint tariff of rates, so as to subject them to the penalties imposed bjr the Interstate Commerce Law for its violation, and we must therefore hold that the rights of the parties must be adjusted untrammelled by its provisions.\nIn this case, appellee sues to recover a statutory penalty, and it is therefore incumbent upon him to prove a case clearly within the terms of the law. Schloss v. Railway, 85 Texas, 601; Railway v. Dwyer, 84 Texas, 194; 18 Am. and Eng. Encycl. of Law, 270, and authorities cited. The penalty imposed by the statute is for the refusal to deliver after \u201c payment or tender of payment of the freight charges due as shown by the bill of lading.\u201d 2 Sayles\u2019 Civ. Stats., art. 4258a, sec. 3. The bill of lading, according to appellee\u2019s own allegations and evidence, contained the following provisions:\nThe appellant, however, alleged, \u201c that the bill of lading issued by the Chicago, Rock Island & Pacific Railway Company, under which the goods of the plaintiff were shipped from Joliet, Illinois, specified the weight of the shipment as being 20,902 pounds, and the rate of freight thereon as 75 cents per 100 pounds, but that immediately above the place in said bill of lading where the weight of the shipment is mentioned, at the time of its-issuance and ever since, there were and now are printed in legible characters the words, \u2018 weight, subject to correctionand that there was also-written on said bill of lading at the time of its issuance the words 1 the approximate weight is 20,902, the correct weight to be ascertained and charges collected thereon at the point of delivery,\u2019 which point of delivery was Clifton, Texas;\u201d and that the actual weight at Clifton was 21,-755 pounds, upon which it demanded freight at the agreed rate. There was thus no conflict either in the allegations or evidence upon the point that the bill of lading as issued did contain the words, \u201c weight, subject, to correction;\u201d and the evidence at least sharply raised the issue as to whether the correct weight was not more than the amount upon which appellee made the tender, if it did not strongly preponderate in favor of the amount as alleged by appellant; and upon the issue thus presented the court gave the following charges:\n\u201c If you believe from the evidence that the bill of lading introduced by the defendant was the original bill of lading, as made out by the agent at Joliet, Illinois, when the goods were shipped; and shall further believe from the evidence that the words, \u2018 the approximate weight is 20,902, the correct weight to be ascertained and charges collected thereon at point of delivery,\u2019 were incorporated in said bill by said agent at Joliet at the time the same was issued by the said agent, then you are instructed that the agent of defendant at Clifton, Texas, had the right to weigh said freight to ascertain the weight of same; and if upon notice to the plaintiff that he would weigh the same, the plaintiff did not give his attention to the weighing of the said freight, the defendant had the right to weigh the same in the absence of the plaintiff; and if you believe he did weigh the said freight and found it was of greater weight than that named in the bill of lading, and shall further believe from the evidence that said agent only demanded the sum of 75 cents per 100 pounds for such amount as the weighing at Clifton showed to be in excess of the amount as shown by the bill of lading, and shall further believe that plaintiff refused to pay such sum as shown by such excess in weight, if an)r, to be due, then you will And for defendant, and say by your verdict how much is due.\u201d\n\u201c But if you believe that the words quoted in paragraph beginning with the words \u2018 the approximate weight is 20,902 pounds, the correct weight to be ascertained and charges collected thereon at the point of delivery,\u2019 were not incorporated in said bill at the time the same was first made by the agent at Joliet, but that said words were incorporated in said bill of lading since said bill was issued by said agent, then you will find for plaintiff, and you will state what amount you so find under the evidence and the instructions herein before given you.\u201d\nDelivered October 25, 1893.\nIn the case of Railway v. Loonie, 84 Texas, 262, it was held, that the-stipulation in a bill of lading, that \u201c weight was subject to correction,\u201d deprived it of its conclusiveness as to the sum to be paid; and it was said, that11 suing as he does for a penalty, the plaintiff should have averred in his petition that the freight specified in the bill of lading was upon the actual weight of the wire and staples, and the burden of proof rested upon him to show that it was.\u201d Also, see Railway v. Cruse, 83 Texas, 460, to the same effect. It will thus be seen that the bill of lading, as admitted by both parties, required appellee to show that he made the tender upon the correct weight, and the charge as given was erroneous, in that it authorized an investigation as to the true weights only in cas\u00e9 the jury found the additional words alleged by appellant were in the original bill when issued.\nWe think the error thus indicated will necessitate a reversal of the judgment, and it will be unnecessary for us to enter upon a discussion of the other assignments.\nThe judgment of the court below will be reversed and the cause remanded for a new trial.\nReversed and remanded.",
+        "type": "majority",
+        "author": "HEAD,' Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "J. W. Terry, for appellant.",
+      "8. H. Lumpkin and J. A. Gillette, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "The Gulf, Colorado & Santa Fe Railway Company v. C. O. Nelson.\nNo. 1571.\n1. Common Carrier \u2014 Interstate Commerce \u2014 State Penalty for Extra Freight Charges.\u2014The statute of Texas (Act of May 6,1882, 2 Sayles\u2019 Civil Statutes, article 4258a), prescribing a penalty for the refusal of a common carrier to deliver freight after the payment, or tender of payment, of the charges due thereon, as shown by the bill of lading, is in the nature of a police regulation, and is not in conflict with the \u201cInterstate Commerce Act.\u201d Following Railway v. Dwyer. 75 Texas, 572.\n2. Same \u2014 Bill of Lading not Conclusive, when. \u2014 Where a bill of lading gives the weight of the articles and the rate per hundred pounds, and states. \u201c weight subject to correction,\u201d this latter clause deprives it of its conclusiveness as to the sum to be paid; and in such case, a plaintiff suing for the penalty for nondelivery because of additional charges must show that he made the tender upon the correct weight.\nAppeal from Bosque.\nTried below before Hon. J. M. Hall.\nJ. W. Terry, for appellant.\n1. The statute of Texas requires a railway company to deliver freight-on payment of the rate specified in the bill of lading; while the Interstate Commerce Law, as amended, requires the railway company to deliver freight only on payment of the rate shown by the published tariffs in effect at the time, applied to the actual weight of the shipment. Where the freight, as shown by the bill of lading, differs in amount from such published tariffs as applied to the actual weight, the latter must control. As the power of Congress to regulate commerce between the States is paramount, where there is any conflict between the State and Federal regulations, the former must yield to the latter. Railway v. Illinois, 118 U. S., 558; Hall v. Le Cuir, 95 U. S., 485; Mobile v. Kimball, 102 U. S., 618; Fargo v. Stevens, 121 U. S., 230; Pickard v. Pullman Co., 117 U. S., 34; State Freight Tax, 15 Wall., 281; Ferry Co. v. Pennsylvania, 114 U. S., 196; Act of Congress of Feb. 14, 1887, entitled \u201cAn act to regulate commerce,\u201d as amended by the Act of March 2, 1889; Baird v. Railway, 41 Fed. Rep., 592.\n2. The court erred in overruling defendant\u2019s second special exception, viz.: \u201cIf such statute be construed to apply to interstate shipments, the same is unconstitutional and void, being in conflict with the Constitution of the United States, which gives the exclusive power to regulate commerce between the States to the Congress of the United States; and Congress having fully exercised this power by the passage of the Interstate Commerce Law, or an act to regulate commerce, with several amendments thereto, and the statute of Texas in question is at variance with and repugnant to said act of Congress and the amendments thereto, all of which were in force and effect before the occurrence and at the time of the occurrence of the transactions complained of in plaintiff\u2019s petition.\u201d Smith v. Alabama, 124 U. S., 465.\n3. It was not the intention of the Legislature of Texas to require railway companies to deliver freight computed on a weight inserted in a bill of lading which is false, either by fraud or mistake. Baird v. Railway, 41 Fed. Rep., 592.\n8. H. Lumpkin and J. A. Gillette, for appellee.\n1. The verdict and judgment are supported by both the law and the evidence. 2 Sayles\u2019 Civ. Stats., art. 4258a, secs. 1-3; Railway v. Dwyer, 75 Texas, 572; Railway v. Tisdale, 74 Texas, 8; Railway v. Hanniford, 49 Ark., 291.\n2. The laws of Texas imposing a penalty on railroad companies for refusing to deliver freight upon the payment of all charges as shown in bill of lading, is not unconstitutional as a regulation of interstate commerce, though applied to freight shipped from a point outside of the State, and though the Interstate Commerce Law, as amended, should require railway companies to deliver freight only on the payment of the rate shown by the published tariffs in effect at the time, applied to the actual weight of the shipment. The bill of lading which was declared upon, and alleged to have been executed by the defendant and its agents, showed the weight of freight, and fixed the rate thereon, and there was no plea of non est factum, so there can be no conflict between the State and Federal statutes in this case, especially as the jury passed upon, and found the weights as in said bill of lading correct. 2 Sayles\u2019 Civ. Stats., art. 4258a, secs. 1-3; Railway v. Tisdale, 74 Texas, 8; Railway v. Dwyer, 75 Texas, 572; Railway v. Hanniford, 49 Ark., 291; Railway v. Harvey, 18 Am. and Eng. Ry. Cases, 502; Railway v. Penson, 12 Am. and Eng. Ry, Cases, 156."
+  },
+  "file_name": "0345-01",
+  "first_page_order": 369,
+  "last_page_order": 375
+}

@@ -1,0 +1,73 @@
+{
+  "id": 219254,
+  "name": "James K. Schmick et al. v. N. W. Noel",
+  "name_abbreviation": "Schmick v. Noel",
+  "decision_date": "1893-01-03",
+  "docket_number": "No. 60",
+  "first_page": "90",
+  "last_page": "92",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 90"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "100 Mass., 130",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 344,
+    "char_count": 5463,
+    "ocr_confidence": 0.567,
+    "pagerank": {
+      "raw": 4.4793276177203605e-08,
+      "percentile": 0.2805760104160513
+    },
+    "sha256": "538abca920bd7f1d7fa5ba4c0bcd3448b0fa103a178b22c476d715def9d1d5ae",
+    "simhash": "1:be8f3d2d6a90c29d",
+    "word_count": 969
+  },
+  "last_updated": "2024-02-27T19:43:33.086404+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James K. Schmick et al. v. N. W. Noel."
+    ],
+    "opinions": [
+      {
+        "text": "STEPHENS, Associate Justice.\nThis case has been twice before the Supreme Court, and may be found reported in 64 Texas at page 406, and in 72 Texas at page 1.\nIn the year 1883, J. H. Wood, who was then a retail merchant in the town of Cisco, sold his stock of goods to appellee. At the instance of his creditors, these goods were seized under attachment by the sheriff and taken from the possession of appellee, and hence this litigation.\nThe proof on the last trial tended, to some extent at least, to show, (1) that Wood was insolvent when he made the sale; (2) that his purpose in making the sale was to convert the goods into money in order to place them beyond the reach of his creditors (including those who afterwards attached); (3) that appellee had notice, either actual or constructive, of these facts when he purchased the goods. The. jury, however, must have found in favor of appellee on one or more of these issues, unless they were misled by the charge of the court complained of in the fifth assignment of error, which charge reads as follows:\n\u201c You are further charged, that if at the time of the sale of the goods in controversy to plaintiff (if you believe there was such a sale), Wood was solvent and had sufficient property within reach of his creditors, independently of the goods in controversy, to meet his liabilities, said sale did not have the effect to hinder, delay, and defraud the creditors of said Wood in the collection of their debts, then such creditors would not be permitted to question the terms or purpose of the sale by Wood to plaintiff; and if you so believe, and also believe that such sale was made to plaintiff, then you will find for plaintiff and against the defendant and his sureties.\u201d\nThis charge needs only to be quoted to show that it is erroneous. That an existing creditor can not be permitted to question the purpose of a solvent debtor in disposing of any portion of his estate subject to execution, where sufficient remains within reach of the creditors undisposed of to meet their liabilities, and that in such case the court may declare that the sale, though fraudulent in fact, does not have the effect to hinder, delay, and defraud such creditors, are propositions so radically wrong that their necessary tendency is to mislead. For this error in the charge, the judgment must be reversed and the cause again remanded for a new trial.\nWe are urged by the appellants to pass also on the sufficiency of the evidence to support the verdict, but this we must decline to do. Although there have been three trials, we can not anticipate what facts the fourth may develop; nor can we presume, though we should deem the evidence insufficient (upon which we express no opinion), that under a proper charge the jury would return an improper verdict upon the identical evidence here disclosed. If the case had been submitted to us upon \u25a0 this-issue alone, it would have become our duty to pass upon it; otherwise,, we must follow the precedents, and in view of another trial, withhold the expression of comment or opinion on the evidence.\nThe other assignments of error are not well taken.\nSolely for the error in the charge, the judgment will be reversed and the cause remanded for a new trial.\nReversed and remanded.\nDelivered January 3, 1893.",
+        "type": "majority",
+        "author": "STEPHENS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "J. M. Moore and J. R. Fleming, for appellants.",
+      "R. B. Truly and J. H. Calhoun, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "James K. Schmick et al. v. N. W. Noel.\nNo. 60.\n1. Sale by Solvent Debtor Tending to Defraud Creditors.\u2014A charge of court to the effect \u201c that if at the time of the saie of the goods in controversy Wood, the vendor, 'was solvent and had sufficient property within reach of his creditors, independently of the goods in controversy, to meet his liabilities, said sale did not have the effect to hinder, delay, and defraud the creditors of said Wood in the collection of their debts, then such creditors would not be permitted to question the terms or purpose of said sale by Wood,\" held to be radically wrong, and in the case at bar necessarily tending to mislead the jury.\n2. Practice on Appeal.\u2014Where a case is submitted to the appellate court alone upon the insufficiency of the evidence, that issue will be passed upon, but where there are other issues the decision of which requires a reversal of the case, this court will not pass on the sufficiency of the evidence to support the verdict, as it can not presume that the evidence will be the same on another trial.\nAppeal from Eastland. Tried below before J. E. Cockrell, Esq., Special District Judge.\nJ. M. Moore and J. R. Fleming, for appellants.\nIt is not the law that the creditors of a failing merchant can not complain if their debtor sells a larger part of his property with a fraudulent purpose, if he still has property out of which they may make their money. If he sells fraudulently, and his vendee participates in such fraud, the creditors may seize it, without regard to the fact that he has other property, for no title passes as to them. Wadsworth v. Williams, 100 Mass., 130.\nR. B. Truly and J. H. Calhoun, for appellee.\nUnless a charge is clearly misleading or prejudicial to the party complaining, the judgment will not be reversed. In considering the effect of a charge, the whole should be considered, and not merely isolated portions. Whether Wood were insolvent or not, would not affect appellee\u2019s rights as a bona fide purchaser, if it was shown by the evidence, by reputation, or otherwise, that he believed him solvent, and had just grounds so to believe. Tillman v. Heller, 78 Texas, 597."
+  },
+  "file_name": "0090-01",
+  "first_page_order": 116,
+  "last_page_order": 118
+}

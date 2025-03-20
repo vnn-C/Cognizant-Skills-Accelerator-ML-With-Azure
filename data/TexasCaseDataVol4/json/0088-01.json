@@ -1,0 +1,66 @@
+{
+  "id": 223739,
+  "name": "Texas & Pacific Railway Company v. Newton Hayes",
+  "name_abbreviation": "Texas & Pacific Railway Co. v. Hayes",
+  "decision_date": "1893-09-20",
+  "docket_number": "No. 811",
+  "first_page": "88",
+  "last_page": "89",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Tex. Civ. App. 88"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 214,
+    "char_count": 3212,
+    "ocr_confidence": 0.545,
+    "pagerank": {
+      "raw": 4.076306636737454e-08,
+      "percentile": 0.008948113990953408
+    },
+    "sha256": "95c544d425b2fe664ad8cbd8bdd030bc4080d106c2da8811e51b0d13d6a7f63e",
+    "simhash": "1:831f26e2105edf46",
+    "word_count": 565
+  },
+  "last_updated": "2023-07-14T14:53:58.701798+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Texas & Pacific Railway Company v. Newton Hayes."
+    ],
+    "opinions": [
+      {
+        "text": "HEAD, Associate Justice.\nAppellee sued appellant in Justice Court for $19.75 damages for killing a cow. Appellant filed in same court a written plea in reconvention for $130 damages for driving the cow on its track in front of its engine, and thereby delaying its passenger train, and expense of burying the cow. No exception was filed to this last plea, nor was it attacked as being a fraudulent attempt to confer jurisdiction upon the court, nor was any note made on his docket by the justice of the pleadings of either party. Judgment was rendered by the justice in favor of appellee for the $19.75 claimed by him, from which appellant prosecuted an appeal to the County Court, in which its appeal was, on motion of appellee, dismissed for want of jurisdiction; and from this judgment of dismissal this appeal is prosecuted.\nDelivered September 20, 1893.\nWe think the County Court erred in dismissing the appeal to it. The amount in controversy in the Justice Court was the damages claimed in appellant\u2019s plea in reconvention as well as the amount sued for by appellee, and this being more than $20, the County Court had jurisdiction on appeal. Roberts v. McCamant, 70 Texas, 743; Railway v. Tacquard, 3 Willson\u2019s C. C., 250. The pleading in the Justice Court being in writing, was sufficient to apprise the County Court of the matters litigated there, although the justice may have failed to do his duty in not making a note of the pleadings of the parties on his docket, as required by the statute. Whittington v. Eppstein, 3 Willson\u2019s C. C., 369; Maas v. Solinsky, 67 Texas, 290. We do not think the failure of the justice to make this entry on his docket has ever been held ground for dismissing an appeal in the County Court when the pleading is entirely oral. On the contrary, it has been strongly intimated that an entry made on the docket of that court would enable the Supreme Court to review the case when appealed to. Moore v. Jordan, 67 Texas, 394.\nThe judgment of the County Court should be reversed, and the cause remanded, to be there tried de nova on it merits.\nReversed and remanded.",
+        "type": "majority",
+        "author": "HEAD, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Ferguson & Bottorff, for appellant.",
+      "No brief for appellee reached the Eeporter."
+    ],
+    "corrections": "",
+    "head_matter": "Texas & Pacific Railway Company v. Newton Hayes.\nNo. 811.\nJurisdiction \u2014 Appeal from Justice to County Court. \u2014Where, in an action for less than $20, the defendant, in writing, claims damages in reconvention in a sum greater than $20, a failure of the justice to note the claim in reconvention on his docket will not deprive the County Court of jurisdiction of defendant\u2019s appeal.\nAppeal from the County Court of Denton.\nTried below before Hon. F. M. Davidson.\nFerguson & Bottorff, for appellant.\nThe appellant\u2019s counter-claim or plea in reconvention filed in the Justice Court was in writing, and was such as it had a legal right to plead in the cause, and was a part of the record on appeal to the County Count, notwithstanding the justice\u2019s transcript failed to show that it had ever been noted on his docket; and the County Court erred in not considering it as a part of the record of the case in determining the amount in controversy on said appeal. Maas v. Solinsky, 67 Texas, 290; 3 Willson\u2019s C. C., secs. 250, 369; 1 Sayles\u2019 Civ. Stats., arts. 1638, 1639.\nNo brief for appellee reached the Eeporter."
+  },
+  "file_name": "0088-01",
+  "first_page_order": 112,
+  "last_page_order": 113
+}

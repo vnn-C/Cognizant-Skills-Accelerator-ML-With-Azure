@@ -1,0 +1,66 @@
+{
+  "id": 220980,
+  "name": "Rhoads Fisher v. J. Ullman et al.",
+  "name_abbreviation": "Fisher v. Ullman",
+  "decision_date": "1893-05-03",
+  "docket_number": "No. 157",
+  "first_page": "322",
+  "last_page": "326",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 322"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 555,
+    "char_count": 11424,
+    "ocr_confidence": 0.57,
+    "pagerank": {
+      "raw": 4.621887471290392e-08,
+      "percentile": 0.2901412398946811
+    },
+    "sha256": "5622fce0e989769dc21d115482ba2b814517cb23990a6cd984aeee359ddb48f9",
+    "simhash": "1:0399ec101a9399ef",
+    "word_count": 1996
+  },
+  "last_updated": "2023-07-14T18:08:23.206239+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Rhoads Fisher v. J. Ullman et al."
+    ],
+    "opinions": [
+      {
+        "text": "HEAD, Associate Justice.\nThere is no statement of facts in the record, and the conclusions of fact found by the trial court must therefore be accepted as a correct statement of the case. On the trial in the court below appellant offered in evidence the following certificate:\n\u201c General Land Office, Austin, Texas, Feb. 11, 1890.\n\u201c I, R. M. Hall, Commissioner of the General Land Office of the State of Texas, do hereby certify, that the records of this office show that certificate number 766 for 320 acres of land, issued by Sam Houston, President of the Republic of Texas, to Thomas Toby, on the 20th day of December, 1836, was never sold by said Toby as agent of the Republic of Texas; that said certificate not having been sold by assignment by said Toby to any one, as appears from the records of this office, it is now, and has' been heretofore, regarded as void and no claim against the State of Texas, and patent has been refused by this office on the location in Wise County made by virtue of said certificate.\n\u201cIn testimony whereof I hereunto set my hand, etc.,\n\u201cR. M. Hall, Commissioner.\u201d\nTo which appellees objected, in substance, because it was not such a certificate as is made evidence by article 2253 of our Revised Statutes; and we think the court correctly sustained this objection. The section of the statute under which it is claimed this certificate is admissible is as follows: \u201c It shall be the duty of the * * * Commissioner of the General Land Office to furnish any person who may apply for the same with a copy of any paper, document, or record in their respective offices, and also to give certificates, attested by the seal of their respective offices, certifying to any fact or facts contained in the papers, documents, or records of their offices, and the same shall be received in evidence in all cases in which the originals would be evidence.\u201d\nTo be admissible under this statute, the certificate must either be to a copy of a paper, or a statement of a fact contained in a paper, which is a record of that office, and the original of which would be evidence in the case. We understand the statement in the certificate offered, that this land certificate \u201c was never sold by said Toby as agent of the Republic of Texas,\u201d to be a conclusion of the Commissioner, and not a statement of a fact which appears in a record of his office, the original of which would be admissible in evidence; and we also regard the other statements in this certificate as being conclusions of the Commissioner, rather than statements of facts evidenced by documents which are parts of his records. The statement that the Land Office- had regarded this land certificate as void and no claim against the State, we regard as immaterial. Buford v. Bostick, 58 Texas, 63.\nWith this certificate excluded, we find nothing in the record which establishes the invalidity of Thomas Toby scrip number 766. It is true the court finds that the register of land scrip issued by the Executive at Columbia on the 20th day of December, 1836, in conformity with a law of Congress-of the 10th of December, 1836, shows that certificates from numbers 701 to 768, inclusive, for 320 acres each, issued to A. S. Thruston, whose residence is stated to be Texas, under the caption of \u201chow disposed of,\u201d states, \u201cDecember, 1836, returned by Colonel James Love,\u201d but we have been unable to And any evidence which identifies the certificates issued to A. S. Thruston with those issued to Thomas Toby under a law bearing the same date as the one referred to in this register, and we suppose the certificate of the Land Commissioner referred to above was intended to furnish this connection, but as it was correctly excluded by the court, it of course can not be considered.\nIt will be seen from the conclusions of fact filed by the trial court, that the land in controversy was first located by virtue of this scrip number 766, and the court below found that appellees sufficiently connected themselves with this location to enable them to plead the superior equitable title thus created, in bar of the apparent legal title asserted by appellant. The evidence which was considered as showing this connection was the fact, that prior to the location of this certificate it was in the possession of J. E. Furguson, with the name of Thomas Toby endorsed on the back thereof, witnessed by T. Brent Clarke and W. G. Demining; and the evidence of H. C. Furguson that said J. E. Furguson, while so having possession of said certificate with said endorsement thereon, claimed to be the owner of a half-interest therein, and that J. C. Duval owned the remainder; and the further fact, that J. E. Furguson and J. C. Duval had said certificate located on the land in controversy. To the declarations of J. E. Furguson as to his right to said certificate, appellant objected, but the court held it admissible.\nIt is not necessary for us to decide as to the correctness of this ruling of the court (McDow v. Rabb, 56 Texas, 154; Hickman v. Gillum, 66 Texas, 314; Herndon v. Davenport, 75 Texas, 462), as we are of opinion, that the possession by Furguson of the certificate with a blank endorsement thereon prior to its location, and that he thereafter had it located, unexplained, was prima facie evidence of title in him; and inasmuch as the record discloses no evidence rebutting this, the conclusion of the court that appellees, claiming under Furguson, connected themselves with this location, must have been the same in the absence of any declaration upon his part as to the nature of his title. That actual possession of personal property is prima facie evidence of ownership seems to be the rule everywhere. Abb. Trial Ev., 623.\nThe right of the owner of a land certificate conveyed by transfer, with the name of the grantee left blank, to fill up the blank by writing the name of the intended grantee or owner, has several times been recognized in this State. 2 Sayles\u2019 Real Estate Law, 821. We regard the case of Gullett v. O\u2019Connor, 54 Texas, 417, as being much in point in its application to the facts of this case, and as sustaining the conclusion arrived at by us. Our conclusion upon this branch of the case dispenses with the necessity of deciding the interesting question presented in appellant\u2019s ninth assignment of error, involving the construction of the instrument executed by the Texas & Pacific Railway Company to appellant. Also the several assignments calling in question certain rulings of the court below in excluding evidence to show appellant\u2019s title under William Knight need not be considered, inasmuch as the court found his title from Knight perfect.\nLet the judgment of the court below be in all things affirmed.\nAffirmed.\nDelivered May 3, 1893.\nA motion for rehearing was denied.",
+        "type": "majority",
+        "author": "HEAD, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "J. H. Cobb and Stedman & Thompson, for appellant.",
+      "H. C. Ferguson, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Rhoads Fisher v. J. Ullman et al.\nNo. 157.\n1. Evidence\u2014Certificate of Commissioner of Land Office.\u2014A certificate of the Commissioner of the General Land Office, to the effect that a land certificate issued to Thomas Toby had never been sold by Toby as agent for the Republic, and that it was then and had theretofore been regarded as void, and patent refused upon a location made under it, is not admissible as evidence under article 2253 of the Revised Statutes, as it states conclusions and not facts of record.\n2. Land Certificate with Blank Endorsement.\u2014Possession of a land certificate with a blank endorsement of the grantee thereon prior to its location, followed by location, is, when unexplained, prima facie evidence of title.\nAppeal from Wise. Tried below before Hon. J. W. Patterson.\nJ. H. Cobb and Stedman & Thompson, for appellant.\n1. The fact that a person causes a certificate to be located, and a survey to be made in the name of the original grantee, is not sufficient proof that the original grantee ever sold the certificate to such person. Herndon v. Davenport, 75 Texas, 462.\n2. Though the scrip in question appears to have been endorsed in blank by Thomas Toby, and though that was the usual way in which he transferred certificates, still such facts are not sufficient to show that Toby did transfer the scrip. The form of assignment required to be used by Toby was prescribed as one of its conditions in the certificate. It was. necessary for him to pursue the form prescribed. The general rule is, that when the manner in which an agent shall exercise his authority is laid down, he must conform to that method.\n3. Even equity will not aid the defective execution of a power unless a meritorious consideration is shown. 2 Pome. Eq., secs. 589, 590. Again, it is elementary that an agent can not enlarge his own authority. The only evidence that can be construed as tending to show that Toby ever sold the scrip is his blank endorsement, or rather the blank endorsement of his name, which in this case is shown by a certified copy from the General Land Office. Not purporting to be an assignment, this endorsement establishes nothing.\n4. The possession of a land certificate is not prima facie evidence of the ownership of the certificate in such sense as to render the possessor of it prima facie the owner of the land acquired by its location. This position is sustained by the decisions in Barker v. Swenson, 66 Texas, 407; Harvey v. Cummings, 68 Texas, 606; Harvey v. Carroll, 72 Texas, 65; Shifflet v. Morelle, 68 Texas, 382; Heirs of Ross v. Mitchell, 28 Texas, 152, and Smith v. Sublet, 28 Texas, 170.\nH. C. Ferguson, for appellees.\n1. The certificate of B. M. Hall was not a certificate of the facts shown by the record of his office, but it was the conclusion of the Commissioner, and his arguments from the premises which he assumes. Rev. Stats., art. 2253; Buford v. Bostick, 58 Texas, 66.\n2. The signature of Thomas Toby and that of the witnesses on the back of the certificate, in connection with the proof that the transfers were usually made by him in that mode, is such proof of sale, and is such power coupled with interest to such purchaser, that after this great lapse of time the courts will not require fuller proof of the sale of the certificate, it being personal property and subject to sale bj^ delivery; and the certificate relating to transfer of same not being authorized by the law under which they were issued can not affect the transfer. Threadgill v. Butler, 60 Texas, 599; Dean v. Blount, 71 Texas, 270; Gullett v. O\u2019Connor, 54 Texas, 416; Pasch. Dig., art. 1781.\n3. The act under which Toby certificates or scrip was issued did not prescribe the form of transfer necessary to convey the certificate, and did not authorize the President to prescribe the form of such transfer, and the doing so by the President was gratuitous, and can not be held to invalidate any transfer which was valid in law, though differing from the form prescribed. If, however, it should be held that only such transfer as prescribed in the body of the scrip would be valid, then the law is believed to be, that the purchaser was authorized to write such transfer above the signatures, and that it would be in all things valid and legal. The blank might have been filled by the purchaser if the grantor signed his name thereon, intending that the purchaser might write the transfer above his signature. Threadgill v. Butler, 60 Texas, 599. The scrip might have been sold by paroi, or the locator might have acquired an interest in the land for locating the certificate. Gullett v. O\u2019Connor, 54 Texas, 417."
+  },
+  "file_name": "0322-01",
+  "first_page_order": 348,
+  "last_page_order": 352
+}

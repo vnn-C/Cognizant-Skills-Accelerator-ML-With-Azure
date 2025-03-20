@@ -1,0 +1,120 @@
+{
+  "id": 221100,
+  "name": "James H. Ellis v. The State of Texas",
+  "name_abbreviation": "Ellis v. State",
+  "decision_date": "1893-01-24",
+  "docket_number": "No. 530",
+  "first_page": "170",
+  "last_page": "173",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 170"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "117 Ill., 123",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        2891946
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill/117/0123-01"
+      ]
+    },
+    {
+      "cite": "20 N. J. Law, 31",
+      "category": "reporters:state",
+      "reporter": "N.J.L.",
+      "case_ids": [
+        391774
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/njl/20/0031-01"
+      ]
+    },
+    {
+      "cite": "21 N. J. Law, 582",
+      "category": "reporters:state",
+      "reporter": "N.J.L.",
+      "case_ids": [
+        396765
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/njl/21/0582-01"
+      ]
+    },
+    {
+      "cite": "27 Gratt, 291",
+      "category": "reporters:state",
+      "reporter": "Gratt.",
+      "case_ids": [
+        6739578
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/68/0474-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 475,
+    "char_count": 8843,
+    "ocr_confidence": 0.541,
+    "pagerank": {
+      "raw": 1.429351023276142e-07,
+      "percentile": 0.6509927798879395
+    },
+    "sha256": "e772d52d3d750236ffe39993b01cce14a58ff085924d83b00dec000ac8b206c7",
+    "simhash": "1:21bc4691f26c2e7a",
+    "word_count": 1507
+  },
+  "last_updated": "2024-02-27T16:31:46.217873+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James H. Ellis v. The State of Texas."
+    ],
+    "opinions": [
+      {
+        "text": "STEPHENS, Associate Justice.\nThis suit was instituted by the county attorney of Ellis County, in the name of the State, under title 36 of the Revised Statutes on the subject of escheat. It resulted in a judgment in behalf of the State against appellant for lots 5 and 6 in block 14 in the town of Waxahackie, Ellis County, from, which judgment this appeal is prosecuted.\nIn the year 1862, one Thomas Stephens died seized of these lots, without disposing of them by will and without heirs. In 1865 appellant took actual possession of the lots, claiming them as his own, and made permanent and valuable improvements thereon, and has been in actual and adverse possession ever since. At the time of the trial below the lots were worth $100 and the improvements thereon $500, making a total value of $600. The statement of facts agreed upon by the county attorney and the attorney for appellant recites, that it was proved and admitted that \u2022appellant had occupied in good faith, since the 1st day of January, 1865, the lots in controversy continuously, claiming the same in good faith as his own, and that he had placed in good faith said valuable and permanent improvements thereon. All the material allegations in the State\u2019s petition were sustained by the proof.\nConclusions of Law.\u2014It appears, from a recital in the judgment, that the court below held, that the pleas of limitation and suggestion of improvements made in good faith could not be interposed as a defense in this kind of a suit; and these are the only questions submitted for our determination.\nOn the question of limitation, appellant\u2019s position seems to be, that a compliance with the statute which prescribes the method of procedure to escheat property is essential to vest any title in the State, and that inasmuch as his adverse possession prior to the institution of this proceeding was sufficient in length and character to confer title upon him, his case does not come within the rule which rejects limitation as a defense against the State. We can not concur with him in this view of the question.\nIt seems to have been recognized in the days of Chancellor Kent, as a general principle in the American law, and has been many times reaffirmed since, that whenever the owner dies intestate without leaving any inheritable blood, the land vests immediately in the State by operation of law, and that no inquest of office is necessary in such case. A different rule, however, seems to prevail in case of a proceeding, to escheat, during the life of an alien, property which he has acquired by purchase; but when the death of the owner occurs, and there is no person to take the estate as heir or devisee, it devolves, eo instanti, by operation of law, upon the State. Sands v. Lynham, 27 Gratt, 291, and cases there cited; Van Kleek v. O\u2019Hanlan, 21 N. J. Law, 582; 20 N. J. Law, 31; Wallahan v. Ingersoll, 117 Ill., 123; Kent\u2019s Com., 425.\nThis theory puts the possession of appellant from its inception adverse to the State\u2019s title. It is true article 1779 of the escheat statute provides that the judgment shall vest title in the State; but all the preceding articles indicate that a suit in behalf of the State is founded upon a title already vested. Article 1770 declares, that upon the death without devise and without heirs of a person seized of any real or possessed of any personal estate, such estate shall escheat to-and vest in the State; and the next article provides, that the petition shall allege the facts or circumstances in consequence of which such estate is claimed to have escheated. Article 1774 provides, that the facts stated in the petition, or the title of the State, may be traversed; and article 1777 provides for a judgment to be rendered if, after the issue and trial, it appears that the State has good title to the property mentioned in the petition.\nAs is said in one of the cases, \u201cAn inquisition does not constitute an escheat. It is simply a means by which the State furnishes authentic evidence of her title.\u201d We think this expresses the true construction of our statute. The history of title by escheat indicates very clearly that an assertion by the State of such authority is strictly an act of sovereignty, and hence loches or limitation can not be interposed as a bar to recovery.\nIn disposing of the plea of improvements in good faith, we have found it more difficult, on principle, to reach a satisfactory conclusion. Appellant and the trial court seem to have placed both defenses upon the same ground, and no distinction is taken between them.\nIn Brown v. The State, 36 Texas, 282, it was decided, under a statute very similar to the one under which this suit is prosecuted, that the plea of improvements in good faith in an escheat case could not be interposed as a defense. The reason assigned for this ruling was, that the proceeding was under the escheat statute, and not an action of trespass to try title.\nWe are aware that the decisions of the Supreme Court, as then constituted, have not received that consideration and respect from the profession and the courts of this State which have been accorded our Supreme Court decisions both before and after that period; but, as our jurisdiction is not final in this case, we deem it our duty to follow that decision as authority in disposing of the question at issue; and especially in view of the fact that the Legislatures since that time have substantially re-enacted the statute so construed, without making any provision for the plea of improvements in good faith to be litigated in the State\u2019s suit of escheat. It may be inferred from this, we think, that it was not the intention of the Legislature that such a defense should be interposed. We think, however, that the statute ought to contain such a provision.\nIt follows from these conclusions that the judgment must be affirmed.\nDelivered January 24, 1893.",
+        "type": "majority",
+        "author": "STEPHENS, Associate Justice."
+      },
+      {
+        "text": "ON REHEARING.\nSTEPHENS, Associate Justice.\nFor the first time our attention is called to the fact that the citation published in this case upon a petition seeking to escheat property of the estate of Thomas Stephens, deceased, summoned all persons interested in the estate of Thomas Stephenson, and not Thomas Stephens. As the question thus raised is one of jurisdiction, we can not refuse to consider it because presented for the first time in the motion for a rehearing. In order to confer on the court power to enter the escheat judgment, the publication of the prescribed citation was as essential as the filing of the petition. Rev. Stats., art. 1773; Wiederanders v. The State, 64 Texas, 133; Hanna v. The State, 84 Texas, 667.\nStephens and Stephenson being as distinct the one from the other as father and son, the judgment escheating the property in controversy as of the estate of Thomas Stephens, deceased, on a citation by publication to persons interested in the estate of Thomas Stephenson, deceased, must be reversed. The rehearing will therefore be granted, the judgment reversed, and the cause remanded for further proceedings in accordance with this conclusion and those heretofore filed, which are still adhered to.\nReversed and remanded.\nDelivered April 26, 1893.",
+        "type": "rehearing",
+        "author": "STEPHENS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "M. B. Templeton, for appellant.",
+      "C. A. Culberson, Attorney-General, and Drank Andrews, Assistant Attorney-General, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "James H. Ellis v. The State of Texas.\nNo. 530.\n1. Escheat\u2014Limitation not Available Against the State.\u2014When the owner of real estate dies intestate, without leaving any inheritable blood, the .title to the land vests immediately in the State; and hence, in a proceeding by the State under the statute of escheats (Revised Statutes, article 1770, et seq.), a defendant therein can not set up limitations based upon a possession of the property taken subsequent to the death of such intestate.\n2. Same \u2014Plea of Improvements in Good Faith not Available. A proceeding by the State under the statute of escheats not being an action of' trespass to try title, the plea of improvements in good faith can not be interposed as a defense therein. Following Brown v. The State, 36 Texas, 282.\nON REHEARING.\n3. Citation by Publication \u2014 Discrepancy in Name.\u2014In the statutory proceeding by the State to escheat property, a citation by publication summoning all persons interested in the estate of Thomas Stephenson, deceased, will not support a judgment escheating the \"property in controversy as of the estate of Thomas Stephens, deceased.\n4. Same\u2014Practice on Appeal\u2014Jurisdictional Matter.\u2014The court being without power to enter judgment in a proceeding under the statute of es-cheats until the publication of the prescribed citation, the want of such publication is a jurisdictional matter which will be considered by the appellate court, although presented for the first time on motion for rehearing.\nAppeal from Ellis. Tried below before Hon. Anson Rainey.\nM. B. Templeton, for appellant.\nC. A. Culberson, Attorney-General, and Drank Andrews, Assistant Attorney-General, for appellee."
+  },
+  "file_name": "0170-01",
+  "first_page_order": 196,
+  "last_page_order": 199
+}

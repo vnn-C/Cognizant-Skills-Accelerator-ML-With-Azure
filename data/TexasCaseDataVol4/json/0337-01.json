@@ -1,0 +1,66 @@
+{
+  "id": 223778,
+  "name": "J. W. Faggard v. J. W. Williamson",
+  "name_abbreviation": "Faggard v. Williamson",
+  "decision_date": "1893-10-18",
+  "docket_number": "No. 1579",
+  "first_page": "337",
+  "last_page": "339",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Tex. Civ. App. 337"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 414,
+    "char_count": 6377,
+    "ocr_confidence": 0.559,
+    "pagerank": {
+      "raw": 1.0577105354404459e-07,
+      "percentile": 0.5557914766459358
+    },
+    "sha256": "ca12cdc23815dbd28175b7a2d963e17f97cebf2351ebf7e0b698635ac700c00c",
+    "simhash": "1:d540a69e8f9c8af8",
+    "word_count": 1107
+  },
+  "last_updated": "2023-07-14T14:53:58.701798+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "J. W. Faggard v. J. W. Williamson."
+    ],
+    "opinions": [
+      {
+        "text": "HEAD, Associate Justice.\nThe following statement of the nature- and result of the suit, taken from appellant\u2019s brief, we have found to be full and correct, viz.:\n\u201cThis suit was brought by Williamson, as plaintiff, against Faggard, as defendant, to recover damages for an alleged breach of a verbal contract entered into by the parties for the making of a crop on defendant\u2019s, farm, the terms of which were, in substance, that defendant should furnish the land, and a dwelling house for plaintiff and his family, and all the seed, tools, team, and feed, and the labor of himself and nephew, and that plaintiff should move upon the farm and furnish the labor of himself and son, and the assistance of his ivife when necessary. Plaintiff was to have one-third, and defendant two-thirds of the crop made, which was to be gathered jointly, except that each party was to gather his own share of the cotton crop.\n\u201c The foregoing comprises the contract as set out in plaintiff\u2019s petition, and so far, is supported by the testimony of both parties. But on the trial of the cause it was developed that the contract embraced, besides-the stipulations in regard to making a crop, an agreement for the raising of' money on defendant\u2019s land,which was the original object of the contract, and according to the terms of which defendant was to convey the land to plaintiff, who was to endeavor to obtain a loan on it, and was then to reconvey it to defendant. Defendant also claimed that plaintiff agreed to furnish a horse and ox and the labor of all his children when needed in the crop.\n\u201cPlaintiff alleged that defendant withdrew his teams, and so forced him to abandon the contract and quit the farm after he had done several months work. Defendant testified, that plaintiff, after being put in possession of the farm, refused to reconvey the land as he had agreed to do, and that this constituted the original breach of the contract. After demurrers, general and special, on both sides had been disposed of, a trial was had before a jury, who rendered a verdict for plaintiff for $260.28,. and judgment was entered accordingly.\u201d\nWe are of opinion that the court below erred in sustaining appellee\u2019s exception to that part of appellant\u2019s answer pleading an arbitration and award as to the matters in controversy since the institution of the suit. It seems the court held the agreement for the arbitration to be invalid under rule 47 for the government of District Courts, because not in writing. This rule reads: \u201cNo agreement between attorneys or parties touching any suit pending will be enforced, unless it be in writing, signed, and filed with the papers as part of the record, or unless it be made in open- court and entered of record.\u201d In Wells v. Lain, 15 Wendell, 99, a similar rule was held not to prohibit an oral agreement to arbitrate a pending suit.\nDelivered October 18, 1893.\nWe believe the uniform construction placed upon this rule by the profession has been, that it applies to proceedings in the conduct of the case in court, and does not prohibit oral agreements for the settlement of the matters in controversy outside of the suit. The construction contended for by appellee would prohibit even evidence of payment, unless a written receipt be taken and filed in compliance with the rule. The tendency of our Supreme Court has been to construe this rule to be directory rather than mandatory. Williams v. Huling, 43 Texas, 113; Capt v. Stubbs, 68 Texas, 225; Jenkins v. Adams & Wicks, 71 Texas, 1; Kohn v. Washer & August, 69 Texas, 67.\nThat a common law arbitration is binding in this State does not seem to be denied. Myers v. Easterwood, 60 Texas, 107. In fact, our statute expressly provides, that \u201cNothing herein shall be construed as affecting the existing right of parties to arbitrate their differences in such other mode as they may select.\u201d 1 Sayles\u2019 Civ. Stats., art. 56. Neither can it be questioned but that this right extends to pending suits. Myers v. Easterwood, supra. That an oral submission to arbitration, when not in conflict with the statute of frauds, is binding at common law, can not be controverted. Morse on Arbit. and Award, 50; 1 Am. and Eng. Encycl. of Law, 655.\nThat part of the contract by which appellee agreed to reconvey to appellant the land conveyed to him for the purpose of effecting a loan upon it, not having been plead by either of the parties, was correctly ignored by the court.\nThe other assignments relate to alleged errors that will probably not occur upon another trial, and will therefore not be considered.\nThe judgment of the court below is reversed and the cause remanded.\nReversed and remanded.",
+        "type": "majority",
+        "author": "HEAD, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Lockett & Kimball, for appellant.",
+      "S. H. Lumpkin, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "J. W. Faggard v. J. W. Williamson.\nNo. 1579.\n1. Arbitration\u2014Oral Agreement in Pending Suit.\u2014District Court Rule number 47, providing that no agreement between parties or attorneys touching any suit pending will be enforced unless it is in writing and filed therein, does not forbid an oral agreement to arbitrate the matters in litigation outside of the pending suit.\n2. Common Law Arbitration Valid.\u2014An oral submission to arbitration, when not in conflict with the statute of frauds, is binding in this State, as well as at common law, and the right extends to pending suits.\nAppeal from the County Court of Bosque.\nTried below before Hon. W. B. Thompson.\nLockett & Kimball, for appellant.\n1. Rule 47 for the District Court, that no agreement between attorneys or parties touching a suit pending will be enforced unless in writing, signed, and filed as part of the record, refers only to matters of procedure in the courts, and has no application to arrangements by which parties may wholly dispose of the cause of action, as by payment of an obligation sued on, or by other action finally settling or discharging the cause of action, and such as may support a plea puis darrein continuance. Nor will such rule be enforced so as to afford the party violating the agreement to arbitrate an unfair advantage. Rev. Stats., art. 1014; Const., art. 5, sec. 25; Williams v. Huling, 43 Texas, 120; Jenkins v. Adams, 71 Texas, 4.\n2. A common law arbitration is valid, and after an award, can not be revoked except by mutual consent. The submission to such arbitration may be oral, and the award may be pleaded in bar, though not performed. 2 Pars. on Con., 700, note 2; 2 Willson\u2019s C. C., sec. 349.\nS. H. Lumpkin, for appellee."
+  },
+  "file_name": "0337-01",
+  "first_page_order": 361,
+  "last_page_order": 363
+}

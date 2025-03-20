@@ -1,0 +1,205 @@
+{
+  "id": 227375,
+  "name": "The Odessa Improvement and Irrigation Company v. S. T. Dawson",
+  "name_abbreviation": "Odessa Improvement & Irrigation Co. v. Dawson",
+  "decision_date": "1893-12-20",
+  "docket_number": "No. 312",
+  "first_page": "487",
+  "last_page": "490",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Tex. Civ. App. 487"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "14 Kans., 616",
+      "category": "reporters:state",
+      "reporter": "Kan.",
+      "case_ids": [
+        66901
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/kan/14/0616-01"
+      ]
+    },
+    {
+      "cite": "48 N. H., 485",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        1050289
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nh/48/0485-01"
+      ]
+    },
+    {
+      "cite": "43 N. H., 475",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        4554934
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nh/43/0475-01"
+      ]
+    },
+    {
+      "cite": "1 Posey's U. C., 17",
+      "category": "reporters:state",
+      "reporter": "Posey",
+      "case_ids": [
+        1870798
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/posey/1/0017-01"
+      ]
+    },
+    {
+      "cite": "100 U. S., 55",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        4680
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/100/0055-01"
+      ]
+    },
+    {
+      "cite": "2 Posey's U. C., 300",
+      "category": "reporters:state",
+      "reporter": "Posey",
+      "case_ids": [
+        615188
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/posey/2/0300-01"
+      ]
+    },
+    {
+      "cite": "5 S. W. Rep., 410",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "13 Am. Rep., 556",
+      "category": "reporters:state_regional",
+      "reporter": "Am. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "37 Am. Dec., 100",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "57 Mich., 362",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1428193
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/57/0362-01"
+      ]
+    },
+    {
+      "cite": "41 N. Y., 442",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2045771
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/41/0442-01"
+      ]
+    },
+    {
+      "cite": "14 Kans., 616",
+      "category": "reporters:state",
+      "reporter": "Kan.",
+      "case_ids": [
+        66901
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/kan/14/0616-01"
+      ]
+    },
+    {
+      "cite": "100 U. S., 55",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        4680
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/100/0055-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 574,
+    "char_count": 9748,
+    "ocr_confidence": 0.569,
+    "pagerank": {
+      "raw": 1.798449774592141e-07,
+      "percentile": 0.7160691607889108
+    },
+    "sha256": "2293097c5137e34b3996b8990b1603bd365d24c61451e3efb3bb91574d2ec00f",
+    "simhash": "1:d037b5461ee4f4cb",
+    "word_count": 1720
+  },
+  "last_updated": "2024-02-27T16:31:09.266747+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The Odessa Improvement and Irrigation Company v. S. T. Dawson."
+    ],
+    "opinions": [
+      {
+        "text": "HEAD, Associate Justice.\nOn March 17, 1890, John Hoge, who was trustee for appellant, executed to R. E. Haughton the following deed:\n\u201cCounty of Muskingum, Stale of Ohio. \u2014 Know all men by these presents, that I, John Hoge, trustee, of the county and State aforesaid, in consideration of $1 paid by R. E. Haughton, of the county of Midland, State of Texas, the receipt of which is hereby acknowledged, and the further consideration that the property herein after described shall not be used for the manufacture or sale of spirituous, vinous, or malt liquors, or any intoxicating beverages whatsoever, have granted, bargained, and sold, and by these presents do grant, bargain, sell, and convey unto the said Dr. R. E. Haughton, his heirs and assigns, all of that certain land, lot, and property situate in the county of Ector, in the State of Texas, and known and described as follows, to-wit, lot numbered 10 in block number 21, lot numbered 3 in block number 20, lot numbered 3 in block number 14, lot numbered 2 in block number 29, and lot numbered 17 in block number 25, in the town of Odessa, according to the map of said town, a copy of which is on record in book S, pages 2 and 3, record of deeds for Tom Green County; together with all and singular the rights, members, privileges, hereditaments, and appurtenances to the same belonging, or in anywise incident or appertaining.\n\u201cAnd it is expressly understood and agreed herein, that should the prohibitory clause as to the manufacture or sale of intoxicating beverages (which is a part of the consideration herein and above mentioned) be violated, then and in that event the said property is to revest in the said John Hoge, trustee, and this deed to become null and void.\n\u201c The said John Hoge, trustee, in consideration of the foregoing, does hereby bind himself and his successors in the trust to warrant and forever defend the title hereby conveyed against the lawful claims of any and all persons whomsoever claiming or to claim the same, or any part thereof, of, from, by, or through him, the said John Hoge, trustee.\n\u201cIn witness whereof, I have hereunto signed my name, on this the 17th day of March, A. D. 1890.\n\u201c John Hoge, Trustee.\u201d\nAppellee claims the lot in controversy by mesne conveyances from Haughton, the grantee in said deed, and this suit was instituted by appellant to forfeit his title, because of an alleged breach of the condition therein against the use of the premises for the sale of intoxicating liquors. The court below sustained an exception to appellant\u2019s petition, on the ground that the deed prohibited only the immediate grantee therein from using the premises for the purposes therein named, and did not extend to his assignees. No question is raised as to the validity of a condition of this kind; but the contention is, that inasmuch as a forfeiture is claimed for the breach of a condition subsequent, the doctrine of strict construction applies, and the condition will not be extended beyond its express terms; and inasmuch as assigns are not expressly named, they can not be bound thereby.\nThat the law applies the rule of strict construction when a forfeiture is claimed for the breach, of a condition subsequent, there can be no question. 2 Washb. on Real Prop., 8. And upon this ground it has been very generally laid down by text writers, that \u201c where a condition applies in terms to the grantee, without mentioning assigns, they will not be included.\u201d See Henderson v. Beaton, 1 Posey\u2019s Unreported Cases, 28, where the language of Mr. Washburn on this question is quoted with approval. To sustain this view, the cases of Emerson v. Simpson, 43 New Hampshire, 475, and Page v. Palmer, 48 New Hampshire, 385, are invariably cited. These cases are no doubt authority for the proposition, that where the deed in terms exacts the doing of something by the grantee by name, and does not make the same requirement of his heirs or assigns, a forfeiture will not be decreed for their failure; and hence it will be noted that the text writers, in stating the principle, apply it to cases where the \u201ccondition in terms applies to the grantee.\u201d In this case it will be noted that the condition in the deed does not in terms apply to the grantee in stating the prohibition, but applies to the lot itself. The language is, \u201c the property hereinafter described shall not be used,\u201d etc.\nThe deeds containing prohibitions against the use of the land for the sale of intoxicating liquors, in so far as they have been construed in the cases brought against assignees that are called to our attention, have contained an express provision including the \u201cheirs and assigns\u201d of the grantee.\nDelivered December 20, 1893.\nIn the case of Collins Manufacturing Company v. Marcy, 25 Connecticut, 241, the condition was quite similar to the one here involved, and the court seemed to take it for granted that it would apply to a lessee of the grantee, although the point was not directly made. In none of the cases we have examined, where the condition prohibited the use of the property for a specified purpose, has it been held or intimated that an assignee of the grantee would acquire greater rights in this respect than his grantor had; and upon principle it does not seem to us he should be allowed to do so.\nIn Carpenter v. G-raber, 66 Texas, 465, the condition was that the land should be used \u201cfor the purpose of a street only, and in case the same shall be used for any other purpose, this deed shall be null and void, and the title to said premises shall revert to\u201d the grantors, and it was held to apply to an assignee of the grantee. Also, in Pugh v. Mays, 60 Texas, 191, there was an exchange of land, each deed containing a stipulation, that if the grantee was ousted from possession the deed should be of no effect, and he should have the right to re-enter, and this clause was held good against a purchaser from the grantee, although the deeds also contained covenants of general warranty of title. Also, see Berryman v. Schumaker, 67 Texas, 312.\nWhile these cases are not directly in point, they are strongly persuasive, and lead us to the conclusion, that where a grantor inserts in his conveyance a condition that he shall have the right to retake the land in case it be used for the sale of intoxicating liquors, effect must be given to his intention, in whosesoever hands it may come. The land was his; the condition was one he had the right to impose; his intention in this case is clear, and no one claiming under this conveyance can avoid its effect. The validity of conditions of this kind has been sustained in a great number of cases. Plumb v. Tubbs, 41 N. Y., 442; Cowell v. Colorado Springs Co., 100 U. S., 55; Watrous v. Allen, 57 Mich., 362; O\u2019Brien v. Wetherell, 14 Kans., 616; Collins Manf. Co. v. Marcy, supra; Jeffery v. Graham, 61 Texas, 481.\nThe other assignments need not be considered, as the questions raised will hardly arise upon another trial.\nThe judgment of the court below will be reversed and the cause remanded.\nReversed and remanded.",
+        "type": "majority",
+        "author": "HEAD, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "S. H. Cowan and Cowan & Fisher, for appellant.",
+      "Smallwoood & Smith, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "The Odessa Improvement and Irrigation Company v. S. T. Dawson.\nNo. 312.\nDeed \u2014 Condition Subsequent Running with Land. \u2014 Where a deed, as part of its consideration, contains the condition that the property shall not be used for the sale of intoxicating liquors, the grantor may enforce a forfeiture for breach of the condition against a subsequent purchaser of the land, although the condition does not in terms include \u201cheirs and assigns\u201d of the grantee; since, in such case, the condition applies to the property itself.\nAppeal from Midland. Tried below before Hon. William Kennedy.\nS. H. Cowan and Cowan & Fisher, for appellant.\n1. When the deed stipulates that the premises shall not be used for the sale of liquor, it creates a covenant running with the land, and is binding on all subsequent purchasers with notice; and it is unimportant whether the covenant is contained in the mesne conveyances to the one who violates them, as he is bound by the covenants in the original conveyance; and particularly so when such stipulation is a part of the consideration for the conveyance, and is so expressed in the deed. Atkins v. Boardman, 37 Am. Dec., 100; 2 High on Inj., art. 1154; Railway v. Railway, 6 Law. Ann. Rep., 111; Webb on Record Title, secs. 178, 181, 221; 2 Pome. Eq., 689 (arts. 3, 5), 1295; Martindale on Conv., 98-102; 13 Am. Rep., 556; Sutton v. Head, 5 S. W. Rep., 410.\n2. Subsequent purchasers are bound by the recitals in the deeds through which they claim, and are held to have had notice of whatsoever equities and limitations that are apparent in the line of their title. Peters v. Clements, 46 Texas, 114; Willis v. Gay, 48 Texas, 469; Renick v. Dawson, 55 Texas, 102.\n3. If the deed stipulates for a forfeiture, it then. becomes a condition subsequent running with the land, and upon the continued observance of which the estate conveyed depends, and upon a breach of which the land reverts to the original vendor, according to the terms of the condition. Jeffery v. Graham, 61 Texas, 481; Plynn v. Guerin, 2 Posey\u2019s U. C., 300; Cowell v. Colorado Springs, 100 U. S., 55; 6 Am. and Eng. Encycl. of Law, 900, 901; 5 Law. Ann. Rep., 422, and notes; Am. Dig. Ann., Jan., 1888, 38.\nSmallwoood & Smith, for appellee.\nA condition subsequent in a deed is not favored in law, is always strictly construed by the courts, and in tirder to bind the assigns of the grantee to its performance, the condition must in terms mention them. Henderson v. Beaton, 1 Posey\u2019s U. C., 17; Washb. on Real Prop., 5 ed., 7, par. 5; 2 Dev. on Deeds, sec. 970; Tied, on Real Prop., sec. 273; Emerson v. Simpson, 43 N. H., 475; Page v. Palmer, 48 N. H., 485; O\u2019Brien v. Wetherell, 14 Kans., 616."
+  },
+  "file_name": "0487-01",
+  "first_page_order": 513,
+  "last_page_order": 516
+}

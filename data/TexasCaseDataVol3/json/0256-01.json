@@ -1,0 +1,66 @@
+{
+  "id": 221093,
+  "name": "The Texas & Pacific Railway Company v. Robert Bagwell",
+  "name_abbreviation": "Texas & Pacific Railway Co. v. Bagwell",
+  "decision_date": "1893-05-04",
+  "docket_number": "No. 154",
+  "first_page": "256",
+  "last_page": "258",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 256"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 403,
+    "char_count": 8609,
+    "ocr_confidence": 0.52,
+    "pagerank": {
+      "raw": 6.380125665320789e-08,
+      "percentile": 0.39443342063572046
+    },
+    "sha256": "437d404416ed24ed4d2d8d4f30e6a8190744e357bc19c213ddd6c71f0c138bf5",
+    "simhash": "1:a46bd8797bbe1180",
+    "word_count": 1522
+  },
+  "last_updated": "2023-07-14T18:08:23.206239+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The Texas & Pacific Railway Company v. Robert Bagwell."
+    ],
+    "opinions": [
+      {
+        "text": "PLEASANTS, Associate Justice.\nThe appellee, in August, 1890, in stepping from the train of the appellant at Longview, Texas, being a passenger on the train from Fort Worth to Longview, was injured; and he brought suit for damages for such injury against appellant, and recovered a verdict and judgment for $1000, in December, 1891, from which judgment, after the refusal of the court to grant it a new trial, defendant appealed.\nPlaintiff in his original petition alleged, that the train did not stop long enough at Longview for him to get off, and he stepped off after the train had started. On December 16, 1891, the day on which the cause was tried, plaintiff amended his original petition, and alleged that at the time he alighted from said train he was instructed, advised, and urged to do so by appellant\u2019s agents in charge of the train. The defense to the suit was contributory negligence; and between the filing of the original petition and the amendment thereto, the cause was tried, but with what result\u2014 whether a mistrial, or a verdict and a new trial subsequently awarded\u2014the record does not disclose. When the amended petition was filed on the day of the trial, the appellant, through its counsel, presented the following motion for a continuance of the cause: \u201c That plaintiff filed his original petition, alleging that he was a passenger to Longview, and the train did not stop there, and he jumped off while the train was in motian, and was hurt. He did not allege that he jumped off because he was advised or directed to do so by any employe of the defendant; and while the petition was in this form the depositions for defendant were taken.\n\u201c On December 16, 1891, the plaintiff filed a supplemental petition, in which he, for the first time, alleged that he was instructed, urged, and advised to jump off by the defendant\u2019s agent. Defendant says it can not go safely to trial for the want of the testimony of T. A. Horan, conductor, R Felder, and J. W. Duncan. Defendant expects to prove by each of these witnesses that Robert Bagwell was not instructed, urged, or advised to jump off of said train when he did by the persons in charge of said train for defendant. That they reside in Tarrant County, Texas; that defendant expects to procure their testimony by next term of this court; that this continuance is not sought for delay, but that justice may be done. This is the first continuance by the defendant.\u201d\nIt is insisted by appellant in its first assignment of error, that the court below committed error in refusing this motion for a continuance; but a majority of this court hold that there was no error in overruling the motion. This court holds, that the plaintiff, without the amendment to his petition, was authorized to rebut the defendant\u2019s plea of contributory negligence by proving the facts alleged in the amended petition; and further, that the depositions taken previously to the amendment by appellant, and read upon the trial, show that appellant was not taken by surprise by the amendment; therefore, appellant had not used proper diligence to procure the testimony of the absent witnesses.\nThe second assignment of error is: \u201cThe court erred in not granting a new trial, because the facts show that plaintiff leaped out at right angles from the train, at night, when the train was moving fast, at a place unknown to him.\u201d\nThe facts of the case, as we conclude from the record, are substantially these: The appellee was a passenger on appellant\u2019s train from Fort Worth to Longview; bought his ticket and delivered the same to the conductor of the tram before arriving at his destination. The train arrived at Longview about 2 o\u2019clock a. m., and stopped for a very short time. The witnesses for the appellee testified that they were not sure that the train came to a stop, but witnesses for the appellant were positive that it stopped long enough to receive one or two passengers and take on baggage, and put off one or two passengers. When appellee reached the platform, the train was moving, and in answer to an inquiry whether it would stop again at Longview, he was answered in the negative; and when he inquired about the International train, he was told by some one that if he wished to board that train, now was his time to get off, and he stepped off, and was thrown to the ground and seriously injured. Several of his bones were broken, and he was confined to his bed from the injuries for several weeks, and was still suffering in some degree from the fall at the time of the trial. The night was a bright moonlight one. The plaintiff saw the ground distinctly, which was smooth and level, and he was a young and active man and had gotten off a moving train on one or two occasions previously. The evidence as to the rate of speed at which the train was moving is very conflicting; the plaintiff testified that he thought it was going about as fast as a fast horse could walk. The engineer\u2019s estimate of the speed was from six to eight miles an hour, while other servants of the appellant varied in their estimates from ten to fifteen miles. Our conclusion is, that the probable rate of speed was that given by the engineer.\nThe plaintiff thought that the man who advised him to jump from the train was the brakeman J. W. Duncan, one of the witnesses, for whose testimony a continuance was asked by appellant. On the other hand, one of the appellant\u2019s witnesses testifies positively, that when appellee inr quired about the International train, a passenger advised plaintiff to jump off the train, and that he did so, before any one could speak to him and advise him not to do so. In this conflict we are unable to conclude who advised or instructed appellee to take the leap from the moving train. Our conclusion is, that appellee saw the ground and the motion of the train, and thought he could, without injury, get off.'\nIn the argument of the case before the jury, counsel for appellee called attention to the fact that the witness Duncan, who advised and urged the appellant to step from the moving train, was not present in court to contradict the plaintiff\u2019s statement; that the defendant had not brought him to the trial or taken his depositions. These remarks of counsel were not excepted to at the time by appellant, but they are stated in the motion for a new trial as a ground for the motion. From these facts, conflicting as they do, a majority of the court hold that they can not, under the established practice of this court, adjudge that the trial court erred in refusing a new trial.\nThe third assignment is, that the court erred in refusing a new trial, because the evidence showed that the train did stop long enough at Long-view for appellee to get off.\nWhat has been said in considering the second assignment is a sufficient answer, in the judgment of this court, to this assignment.\nThe court does not feel justified, under the circumstances of this case, after the refusal of the court below to grant a new trial, to say that the verdict is not warranted by the evidence, or that the court, under all of the evidence, committed an error or wrong to appellant in refusing the motion for a new trial upon the grounds set out in either the second or third assignments of error. The judgment of the lower court is affirmed.\nAffirmed.\nDelivered May 4, 1893.",
+        "type": "majority",
+        "author": "PLEASANTS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "F. H. Prendergast, for appellant.",
+      "R. C. De Graffenreid, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "The Texas & Pacific Railway Company v. Robert Bagwell.\nNo. 154.\n1. Continuance on Ground of Surprise.\u2014\"When the pleading filed by the plaintiff which is claimed to have operated as a surprise to the defendant, and for which surprise he asks a continuance, sets up facts which the plaintiff would have been entitled to prove to rebut the defendant\u2019s plea of contributory negligence, and the depositions read by the defendant show that it was not taken by surprise, the motion for continuance is rightty overruled, although it was the first application.\n2. Injury to Passenger\u2014Alighting from Train.\u2014When the appellee reached the car platform the train was moving, and he was told that it would not stop again at Longview, his destination, and he was advised to get off, and he stepped off and was injured. The testimony was conflicting as to who advised him to get off; he said it was the brakeman. The train was moving at about eight miles per hour. The evidence being conflicting, the court can not say that the trial court erred in refusing to grant a new trial.\n3. Argument of Counsel.\u2014See remarks of counsel in argument held no ground for reversal.\nAppeal from Gregg. Tried below before Hon. Felix J. McCord.\nF. H. Prendergast, for appellant.\nR. C. De Graffenreid, for appellee."
+  },
+  "file_name": "0256-01",
+  "first_page_order": 282,
+  "last_page_order": 284
+}

@@ -1,0 +1,66 @@
+{
+  "id": 221077,
+  "name": "R. L. Dunman et al. v. S. R. Cloud et al.",
+  "name_abbreviation": "Dunman v. Cloud",
+  "decision_date": "1893-05-24",
+  "docket_number": "No. 187",
+  "first_page": "457",
+  "last_page": "458",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 457"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 213,
+    "char_count": 2595,
+    "ocr_confidence": 0.532,
+    "pagerank": {
+      "raw": 9.856528248389436e-08,
+      "percentile": 0.5342859757460763
+    },
+    "sha256": "43702f022e08a58829a5408e568f91770df3fd2e315709e88c1a2b6f9e8cc01d",
+    "simhash": "1:98106250245f2fee",
+    "word_count": 466
+  },
+  "last_updated": "2023-07-14T18:08:23.206239+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "R. L. Dunman et al. v. S. R. Cloud et al."
+    ],
+    "opinions": [
+      {
+        "text": "KEY, Associate Justice.\nThis is an action of trespass to try title. Appellees claim the land as heirs of D. W. Cloud, deceased, who was killed at the Alamo, March 6, 1836. Their relationship to him as nephews and nieces is shown by the testimony, and it is also shown that he had never been married. It was not shown, however, whether his father and mother were living or dead when the case was tried in the court below.\nIf D. W. Cloud\u2019s parents, or either of them, survived him, they inherited the land in controversy, and appellees had no title thereto unless such parent is also dead. Goodrich v. O\u2019Connor, 52 Texas, 375; Hardy v. Hanson, 82 Texas, 102.\nIf both parents survived D. W. Cloud, and one has since died and the other be still living, appellees\u2019 interest in the land would be only half the amount it would be if both were dead.\nIt is true, that if these parents be living they must necessarily be very old, but the testimony is not such as to warrant us in presuming that they are dead. If they are not living, that fact can be easily shown; and such being the case, parties basing rights upon the theory of their death ought not to ask the courts to infer that fact from circumstances, unless the inference be one which irresistibly follows proof of the circumstances.\nAppellants sought to avail themselves of the omission in appellees\u2019 testimony in regard to the parents of D. W. Cloud, by a special charge asked and refused, and by motion for new trial, which was overruled. The action of the court in these particulars was erroneous.\nThe other assignments have been considered, but are not regarded as meritorious.\nFor the error indicated, the judgment is reversed and cause remanded.\nReversed and remanded.\nDelivered May 24, 1893.",
+        "type": "majority",
+        "author": "KEY, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "H. H. Moore, for appellants.",
+      "No brief for appellees reached the Reporter."
+    ],
+    "corrections": "",
+    "head_matter": "R. L. Dunman et al. v. S. R. Cloud et al.\nNo. 187.\nProof of Heirship, Collateral. \u2014 A single man was killed at the Alamo, March 6,1836. Collateral heirs brought trespass to try title for land granted to the heirs of the deceased. There was no proof introduced of the death of the parents, or either of them. Trial was had October, 1890. Held, that in absence of testimony to the death of one or both of the parents, the plaintiff could not recover. The court will not presume the death of the parents from the facts in evidence.\nAppeal from Coleman. Tried below before Hon. J. W. Timmins.\nH. H. Moore, for appellants.\nThere was no testimony adduced showing that the plaintiffs were the heirs of D. W. Cloud, under whom they claim. Goodrich v. O\u2019Connor, 52 Texas, 375; Abb. Trial Ev., sec. 24, p. 85.\nNo brief for appellees reached the Reporter."
+  },
+  "file_name": "0457-01",
+  "first_page_order": 483,
+  "last_page_order": 484
+}

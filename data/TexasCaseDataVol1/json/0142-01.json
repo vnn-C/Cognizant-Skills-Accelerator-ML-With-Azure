@@ -1,0 +1,109 @@
+{
+  "id": 216203,
+  "name": "Saint Louis, Arkansas & Texas Railway Company v. R. L. Putnam",
+  "name_abbreviation": "Saint Louis, Arkansas & Texas Railway Co. v. Putnam",
+  "decision_date": "1892-10-25",
+  "docket_number": "No. 14",
+  "first_page": "142",
+  "last_page": "143",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Tex. Civ. App. 142"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "135 Mass., 201",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        724643
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/135/0201-01"
+      ]
+    },
+    {
+      "cite": "48 Mich., 622",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1398473
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich/48/0622-01"
+      ]
+    },
+    {
+      "cite": "50 Iowa, 680",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        2326060
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/iowa/50/0680-01"
+      ]
+    },
+    {
+      "cite": "48 Wis., 308",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 228,
+    "char_count": 3159,
+    "ocr_confidence": 0.539,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.008564785051174799
+    },
+    "sha256": "0df623ae072fd8532a64ff95a24c03ac3f650b1bdd90fa225cd911a9fff5e545",
+    "simhash": "1:7f107aa407ff37ee",
+    "word_count": 547
+  },
+  "last_updated": "2024-02-27T16:44:05.763049+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Saint Louis, Arkansas & Texas Railway Company v. R. L. Putnam."
+    ],
+    "opinions": [
+      {
+        "text": "TARLTON, Chief Justice.\nThis suit was brought by appellee against appellant, to recover damages for personal injuries, and resulted in a verdict and judgment for appellee, from which the appellant has prosecuted this appeal.\nAppellee was employed as a brakeman by appellant. While coupling cars in the discharge of Ms duty his hand was mashed and his thumb injured. The cars were not the property of appellant, but belonged to a connecting line. There was a defect in the cars, which was the cause of the injury. The jury found that the company had failed, through its inspector, to use due care in inspecting the cars and in providing against the danger incident to handling them. The appellant contended, and here contends, that because of the fact that the cars were foreign cars the company did not owe the same measure of diligence in guarding against defects as if they had been its property. Appellant also contended, and here insists, that because of this fact the inspector and appellee were fellow servants, and that for this reason the negligence of the former should be imputed to the latter. Appellant asked special instructions covering these defenses, which were refused by the court. This refusal is assigned as error.\nDelivered October 25, 1892.\nThe action of the court is sustained by us. Our Supreme Court has held, correctly, we think, that a railway company is under the same obligation to furnish safe appliances for the use of its employes, whether the cars belong to it or to a connecting line, and that the doctrine applying to fellow servants does not obtain under the circumstances here stated. Railway v. Kernan, 78 Texas, 294.\nThe judgment is therefore affirmed.\nAffirmed.\nJustice Head did not sit in this case.",
+        "type": "majority",
+        "author": "TARLTON, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "Bryant & Dillard, for appellant.",
+      "C. B. Bandell and W. W. Wilkins, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Saint Louis, Arkansas & Texas Railway Company v. R. L. Putnam.\nNo. 14.\nDamages\u2014 Fellow Servants\u2014 Foreign Cars. \u2014 A railway company is under the same obligation to furnish safe appliances for the use of its employes, whether the cars belong to it or to a connecting line; and where a brakeman receives an injury by reason of defect in a car and the negligence of the car inspector, the doctrine of fellow servants does not obtain; and the rule is not changed because the car is a foreign car, belonging to a connecting line, and being transported as such. ,\nAppeal from Grayson. Tried below before Hon. H. 0. Head.\nThe opinion gives a statement of the case.\nBryant & Dillard, for appellant.\nThe cars were received from a foreign road and were used in through traffic, and the inspector of such cars was, as to plaintiff, a fellow servant; and if an injury arose through his failure to properly inspect the cars, plaintiff would have no right to recover therefor. The law compels a railway company to receive and transport cars tendered to it by a connecting line. Kelley v. Abbott, 48 Wis., 308; Baldwin v. Railway, 50 Iowa, 680; Foley v. Railway, 48 Mich., 622; Mackin v. Railway, 135 Mass., 201.\nC. B. Bandell and W. W. Wilkins, for appellee.\nThe receiving road has the power to inspect cars tendered to it by a connecting line, and to reject such cars if they are unsafe, but the employe has no such power or right."
+  },
+  "file_name": "0142-01",
+  "first_page_order": 166,
+  "last_page_order": 167
+}

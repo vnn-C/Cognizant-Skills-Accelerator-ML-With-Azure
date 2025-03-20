@@ -1,0 +1,66 @@
+{
+  "id": 223724,
+  "name": "W. T. Waggoner et al. v. T. W. Daniels",
+  "name_abbreviation": "Waggoner v. Daniels",
+  "decision_date": "1893-10-26",
+  "docket_number": "No. 236",
+  "first_page": "354",
+  "last_page": "356",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Tex. Civ. App. 354"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 362,
+    "char_count": 5652,
+    "ocr_confidence": 0.578,
+    "pagerank": {
+      "raw": 4.548627546539126e-08,
+      "percentile": 0.2854394213716707
+    },
+    "sha256": "77a6ee9ab1df962b35f42c4a1f1602b335480844a50338d9733fa88a08bce6f1",
+    "simhash": "1:a2f8f52803e93872",
+    "word_count": 962
+  },
+  "last_updated": "2023-07-14T14:53:58.701798+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "W. T. Waggoner et al. v. T. W. Daniels."
+    ],
+    "opinions": [
+      {
+        "text": "TARLTON, Chief Justice.\nThis appeal is from a judgment wherein the appellee, as plaintiff, recovered from the appellants, as defendants, 308 acres of land lying in Wichita County. His claim rests upon a location made July 20, 1886, by virtue of Confederate certificate number 655, issued August 27, 1881, to Lewis Coleman, for 1280 acres.\nThe appellants claim by title derived from the heirs of Samuel C. Anderson, to whom a patent was issued August 4, 1877.\nThe appellee contends that his location was upon a vacant strip situate between the east line of the Samuel Anderson survey and the west lines of the Columbus Tap Railway Company surveys, numbers 1 and 2, which lie contiguously, the one north of the other; and the sole question for our consideration is, whether, in the light of the record, there was such a vacancy at the time of the Coleman location.\nThe course of the south line of the Samuel Anderson survey is \u201c east 1866 varas to the west line of the Columbus Tap Railway Company survey number 2; thence north 3670 varas to the northwest corner of the Columbus Tap Railway Company survey number 1.\u201d\nWhile the west line of the two Columbus Tap Railway Company surveys is an unmarked prairie line, its location is nevertheless undisputed, and the inference to be irresistibly drawn from the field notes of the Coleman survey is, that the appellee admits it practically to be where the appellants claim that it is.\nWhen the surveyor of the Anderson tract tells us, as he does in the field notes thereof, that the east line of that survey and the west line of the Columbus Tap Railway Company surveys are coincident, we must presupie that he tells the truth, and that this statement is founded upon an actual survey made by him. The line thus called for, and with its locality, as in this instance, fixed and acknowledged, becomes, though unmarked, an \u201c artificial object,\u201d controlling course and distance. Maddox v. Fenner, 79 Texas, 279; Groesbeck v. Harris, 82 Texas, 415.\nThe presumption referred to is, of course, disputable; and its effect may be avoided by proof that the challenged call was made by mistake. In this case, however, the testimony, as we interpret it, sustains the theory of an actual survey, and excludes that of mistake or conjecture.\nWithout stating other reasons leading us to this conclusion, it suffices to say, that accepting appellee\u2019s theory, the Samuel Anderson survey would violate its call requiring its west line to course with the east line, thoroughly fixed and identified, of the older Rivers survey, and in its western course to conflict with the latter survey to the extent of a strip 390 varas wide and 2726 varas long. Accepting, on the contrary, the appellants\u2019 theory, the calls of the Anderson tract harmonize quite satisfactorily with those of the surrounding surveys.\nWe think that the verdict of the jury, finding the existence of a vacancy between the Anderson survey and the two Columbus Tap Railway Company surveys, .is contrary to the manifest weight of the testimony, and that the trial court should have sustained the defendants\u2019 motion for a new trial, urging the grounds above set out, and included substantially in their fourteenth assignment of error.\nWe decline to consider appellants\u2019 proposition, to the effect that appellee failed to establish title, even conceding the existence of the vacancy. This proposition rests upon an assignment that \u201c the court erred in refusing to give the three special instructions requested by defendants, numbered 1, 4, and 6.\u201d Such an assignment, the instructions requested bearing upon different and distinct issues, is too general to require notice.\nDelivered October 26, 1893.\nFor the error pointed out, the judgment is reversed and the cause is remanded.\nReversed and remanded",
+        "type": "majority",
+        "author": "TARLTON, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "W. W. Flood and W. G. Eustis, for appellants.",
+      "Robert Cobb, R. E. Muff, and L. T. Miller, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "W. T. Waggoner et al. v. T. W. Daniels.\nNo. 236.\n1. Boundary Lines\u2014Construction of Calls.\u2014Where the survey of a tract of land calls to extend to the line of an older tract, if the location of such line as called for is undisputed, it will, although it he an unmarked prairie line, control the call for distance in reaching it.\n2. Assignment of Error.\u2014An assignment of error, that \u201c the court erred in refusing to give the three special instructions requested by defendants, numbered 1, 4, and 6,\u201d is too general, where the requested charges hear upon different issues.\nAppeal from Wichita.\nTried below before J. A. Templeton, Esq., Special Judge.\nW. W. Flood and W. G. Eustis, for appellants.\nWhen the line of one survey .calls for the line of another older survey, even though same is an unmarked line in the open prairie, j'et if the same can be accurately ascertained from well known marks and corners of adjacent surveys, then such line will be taken as an artificial object called for, and will control a call for course and distance. Maddox Bros. & Anderson v. Fenner, 79 Texas, 279; Standlee v. Burkitt, 78 Texas, 617; Booker v. Hart, 77 Texas, 147; Worthington v. Baughman, 84 Texas, 480; McAninch v. Freeman, 69 Texas, 445.\nRobert Cobb, R. E. Muff, and L. T. Miller, for appellee.\nIf the Columbus Tap Railway surveys numbers 1 and 2, called for by the Anderson, have no marks, and can not be located except by other abutting surveys, and these abutting surveys have no marks, and can not be located except by surveys abutting on them, which latter surveys are still farther removed from these railway surveys and the Anderson, we are compelled to go back until we reach some well established natural object called for in the series or system of surveys to which the said railway surveys belong, and then locate the railway surveys by course and distance."
+  },
+  "file_name": "0354-01",
+  "first_page_order": 378,
+  "last_page_order": 380
+}

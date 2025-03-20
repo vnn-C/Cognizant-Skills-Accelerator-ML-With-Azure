@@ -1,0 +1,145 @@
+{
+  "id": 219155,
+  "name": "Galveston City Railway Company v. Gulf Land Company",
+  "name_abbreviation": "Galveston City Railway Co. v. Gulf Land Co.",
+  "decision_date": "1893-02-23",
+  "docket_number": "No. 219",
+  "first_page": "326",
+  "last_page": "330",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 326"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Wall., 587",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.,",
+      "case_ids": [
+        8300385
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/69/0589-01"
+      ]
+    },
+    {
+      "cite": "11 Ore., 217",
+      "category": "reporters:state",
+      "reporter": "Or.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "70 Cal., 206",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2331970
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal/70/0206-01"
+      ]
+    },
+    {
+      "cite": "74 Ala., 162",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        5643269
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/74/0162-01"
+      ]
+    },
+    {
+      "cite": "113 Mass., 348",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        741050
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/113/0348-01"
+      ]
+    },
+    {
+      "cite": "2 S. C., 255",
+      "category": "reporters:state",
+      "reporter": "S.C.",
+      "case_ids": [
+        8716144
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/sc/2/0255-01"
+      ]
+    },
+    {
+      "cite": "4 McCord, 447",
+      "category": "reporters:state",
+      "reporter": "McCord",
+      "case_ids": [
+        8861271
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/scl/15/0447-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 627,
+    "char_count": 12244,
+    "ocr_confidence": 0.57,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.008707264400356933
+    },
+    "sha256": "5d2233c3956c0ee99733b85497efabadb7ea612680175caff7ba3c1fc5ea077e",
+    "simhash": "1:3215d43e18554395",
+    "word_count": 2221
+  },
+  "last_updated": "2024-02-27T19:43:33.086404+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Galveston City Railway Company v. Gulf Land Company."
+    ],
+    "opinions": [
+      {
+        "text": "GARRETT, Chief Justice.\nThis action was brought in the County Court of Galveston County by the Gulf Land Company against the Galveston City Kailroad Company, to recover rent on a contract for the lease of the east half of outlet 119 in the city of Galveston.\nThe defense was, that since the execution of the lease in 1884, and before the accrual of the rents sued for, the property leased had been sub-r merged and encroached upon by the waters of the Gulf of Mexico, so that it was in great part below ordinary high tide, and that because of the cutting away of the beach, and the consequent depletion of the land, it had ceased to be owned by plaintiff, and was not subject to lease nor under private dominion, and the lease was therefore terminated.\nThe plaintiff replied, traversing the answer, and asserting that the property had been leased by defendant to prevent another street railway company from gaining the control or use of it. Trial was had without a jury, and judgment was for plaintiff.\nNo conclusions of fact and of law were filed by the judge who tried the case.\n1. The contract for lease was in writing, and is as follows:\n\u201cArticles of agreement made and entered into this 30th day of April, A. D. 1884, by and between the Gulf Land Company, of the County of Galveston, State of Texas, party of the first part, and the Galveston City Railroad Company, of said county and State, party of the second part, for the lease and occupation of the properties herein mentioned, witnesseth:\n\u201c That for and in consideration of the rents herein reserved, and of the covenants and stipulations herein entered into by the party of the second part, by said party to be observed and performed, the said party of the.\u2019 first part has leased and by these presents doth lease unto the party of the second part all and singular that certain piece or parcel of land lying and being situated in the city of Galveston, in the county of Galveston and State of Texas, and known and described as according to the map and plan of the city as part of outlet numbered 119, being the east half of said outlot numbered 119.\n\u201cTo have and to hold, use, and enjoy the same, and every part thereof, unto the said party of the second part and its assigns, for and during the period of eight years and two months from and after the first day of May, 1884, subject only to the following terms and conditions: \u2022\n\u201c First. The party of the second part hereby covenants and agrees in consideration thereof that it will pay therefor to the party of the first, part the sum of 8100 every three months, lawful money, in advance, on the first of each and every third month on and after the first day of May, 1884, at the office of the said party of the second part, to the said party of the first part or its lawful authorized agents.\n\u201c Second. The party of the second part may erect and construct buildings and improvements on said leased premises, and at the termination of this lease may remove such improvements therefrom, all rents being first paid, excepting and reserving the trees, shrubbery, plants, and sodding, which becomes the property of the owners of the soil as soon as placed therein or thereon, and which are not to be disturbed except for the purpose of cultivation or improvement.\n\u201c Third. The party of the second part covenants and agrees to and with the party of the first part, that neither sand nor earth shall be taken. away or removed from said premises leased, and that said premises shall be kept intact, and that the same shall be surrendered to the parties of the first part at the expiration of the term of this lease, with the same surface area as when leased; provided, however, that the party of the second part shall not be held liable or responsible for any injury, waste, or depletion resulting from the act of God or any other cause beyond the control of the party of the second part. Nothing in this article contained shall be construed as to prevent the party of the second part from handling and removing the earth and sand from point to point for the purpose of grading, levelling, or other necessary improvements upon said premises.\n\u2018 \u2018 Fourth. It is agreed by and between the parties, each with the other, that the party of the' first part shall render for taxation to the proper officers of the property herein leased, that the parties of the second part shall pay all taxes levied and assessed thereon, without recourse on the party of the first part therefor, and will deliver to the party of the first .part all vouchers and tax receipts executed by the proper officers as evidence of such payments.\n\u201c Fifth'. It is agreed between the parties, that the party of the second part shall pay the State, county, and school taxes for the year 1884, the city tax having been paid before the date of this lease.\n\u201cSixth. It is understood by and between the parties, each with the other, that a lien is to exist upon all improvements erected upon said leased premises during this lease to insure the payment of the rent of said premises as stipulated herein, the payment of said rent as it becomes due to operate as a discharge of said property from said lien for the current rent without other written discharge of said lien.\n\u201c Seventh. The party of the second part covenants and agrees to and with the party of the first part, that during this lease the said party of the second part will keep the aforesaid premises enclosed with a good and lawful fence along the east and north boundaries thereof, and will keep the boundaries of the front or south side of the premises protected as near the line of common high tide as practicable.\n1 \u2018 In testimony of all of which, the said Gulf Land Company and the Galveston City Eailway Company have caused this agreement to be signed by their respective presidents and attested by their respective seals, on the day and year first above written.\u201d\nThe contract was duly signed by both parties, and was acknowledged for record by the Gulf Land Company by its president.\n2. The land is on the shore of the Gulf of Mexico, and when the lease was executed, and for some time prior thereto, about two-thirds thereof was below ordinary high tide, which was known to the defendant. Since said time there has been a continual depletion of the land by the encroachment of the waters of the gulf upon the shore, and at the time of trial, and when defendant refused to pay rent, there was only about one-seventy-second part of the entire property above ordinary high tide, and this portion is all on the beach, which by city ordinance is declared a public highway. There was a considerable erosion of the land at the time of the storm in 1886, and the greater part occurred then and since.\n3. On November 1, 1889, the defendant failed to pay the installment of rent then due, and refused to pay rent except for such portion of the land as was not on or beyond the beach and under water, and \u25a0 no rent has been paid for the time since November 1, 1889.\n4. No improvements were upon the land when the lease was executed, nor were any placed thereon during the lease. The land was not used nor occupied by the defendant for any purpose, but defendant had a large building just northwest of the property, and leased the same to prevent its being occupied by objectionable neighbors, and to prevent the Gulf City Railway and Real Estate Company, a rival railway company, from renting or occupying it and getting its line of street railway through to the east end of the island. Defendant did not use nor occupy the property, and made no business use thereof. Defendant stopped paying rent about the time it became consolidated with the rival company.\nWhile we believe that in a proper case rent for property totally destined should be abated, and when there is a partial destruction of the property it should be apportioned, we do not think that principle of law applies to the facts of this case. The purpose of the lease was clearly to prevent the use of any part of the lot by the Gulf City Street Railway and Real Estate Company; and it is evident that the defendant, when it procured the lease, was willing to pay the entire sum of money the full term amounted to in order to be able to keep the rival company from using the property. Defendant got all that it ever realty contracted for. It knew at the time the lease was made that about two-thirds of the land was under water, and was a daily witness of this erosion of the beach and the encroachment of the water. We are of the opinion that the judgment of the court below was right, and should, be affirmed.\nAffirmed.\nDelivered February 23, 1893.\nA motion for rehearing was overruled.",
+        "type": "majority",
+        "author": "GARRETT, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "Jas. B. & Chas. J. Stubbs, for appellant.",
+      "Wheeler & Rhodes, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Galveston City Railway Company v. Gulf Land Company.\nNo. 219.\n1. Lessor and Lessee\u2014Liability of Lessee for Rent.\u2014Appellee leased to appellant a lot on the gulf shore for $400 per annum, payable quarterly in advance. The defense was, that since the execution of the lease, and before the accrual of the rents sued for, the leased property had been submerged and encroached upon by the waters of the gulf, so that it was in great part below ordinary high tide, and because of the cutting away of the beach and the consequent depletion of the land it had ceased to be owned by plaintiff, was not subject to lease, nor under private dominion. Recovery by plaintiff was affirmed.\n2. Same\u2014Destroyed Property.\u2014In a proper case, rent for property totally destroyed should be abated, and when there is a partial destruction of the property, apportioned; but in this case the purpose of the lease was to prevent a rival street railway company from using it. The lessor knew when the lease was made that the lot was about two-thirds under water, and was a daily witness of the erosion of the beach and the encroachment of the water. It got all it contracted for, and the judgment of the lower court was right.\nAppeal from Galveston. Tried below before Hon. W. B. Lockhart, County Judge.\nJas. B. & Chas. J. Stubbs, for appellant.\n1. \u201c The obligation of the tenant to pay is founded on the enjoyment, and if that be taken away without his own fault, as by the act of God, the rents shall be abated or apportioned, as where part of the land leased is covered by the sea.\u201d 6 Bac. (Eent), 50; Wood\u2019s Landl. and Ten., 615 (note 1), 787.\nLoss of personal property hired requires apportionment of hire: Townsend v. Hill, 18 Texas, 422; 3 Kent, 468, note; Ripley v. Whiteman, 4 McCord, 447; 12 Am. and Eng. Encycl. of Law, 757z.\n2. Appropriation of land leased by eminent domain, or dispossession by military authorities, relieves from the payment of rent, either entirely or proportionately, as the property is taken in whole or in part. 12 Am. and Eng. Encycl. of Law, 753, 754, 757z; Wood\u2019s Landl. and Ten., 794; 3 Am. and Eng. Encycl. of Law, 902; Coogan v. Parker, 2 S. C., 255; Gear\u2019s Landl. and Ten., sec. 131.\n3. A tenant may show that the title under which he entered has ended. 1 W. & W. C. C., see. 150; Casey v. Hanrick, 69 Texas, 48; Lamson v. Clarkson, 113 Mass., 348; Farris v. Houston, 74 Ala., 162.\n4. Where the land is submerged by the gradual advance of the sea, the State acquires title to the part thereby covered with water. In other words, private ownership stops at the line of ordinary high tide. Galveston v. Menard, 23 Texas, 349; G. S. B. Co. v. Heidenheimer, 63 Texas, 559; Gould on Waters, secs. 155, 158; L. E. L. & W. Co. v. Richardson, 70 Cal., 206; Wilson v. Shively, 11 Ore., 217; United States v. Pacheco, 2 Wall., 587.\nWheeler & Rhodes, for appellee.\nEent is not abated or apportioned by either a partial or total destruction of the premises. Diamond v. Harris, 33 Texas, 634, a case directly in point, in which the case of Townsend v. Hill, 18 Texas, cited by appellant, is discussed, and in which it is shown that the common law, having been adopted by statute, must be the rule of decision in this State, instead of the civil law. 6 Laws, on Eights, Kem., and Prac., sec. 2822; 3 Kent, 465, 467, 468; 2 Chit, on Con., 11 Am. ed., 1074; 1 Pars, on Con., 426; 2 Story on Con., 1247; Tayl. on Landl. and Ten., sec. 372; Smith on Landl. and Ten., sec. 202; 2 Hill, \u25a0on Con., 79, 104; Poll, on Con., 358; Bish. on Con., 598; 1 Whart. on Con., 318."
+  },
+  "file_name": "0326-01",
+  "first_page_order": 352,
+  "last_page_order": 356
+}

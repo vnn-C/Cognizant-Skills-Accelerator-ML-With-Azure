@@ -1,0 +1,102 @@
+{
+  "id": 216228,
+  "name": "G. W. Norton v. T. F. Collins et al.",
+  "name_abbreviation": "Norton v. Collins",
+  "decision_date": "1892-11-24",
+  "docket_number": "No. 37",
+  "first_page": "272",
+  "last_page": "277",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Tex. Civ. App. 272"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Posey's U. C., 578",
+      "category": "reporters:state",
+      "reporter": "Posey",
+      "case_ids": [
+        1870804
+      ],
+      "pin_cites": [
+        {
+          "page": "583, 661, 667, 670"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/posey/1/0578-01"
+      ]
+    },
+    {
+      "cite": "20 S. W. Rep., 120",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 Humph., 44",
+      "category": "reporters:state",
+      "reporter": "Hum.",
+      "case_ids": [
+        8540418
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/tenn/27/0044-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 626,
+    "char_count": 14300,
+    "ocr_confidence": 0.564,
+    "pagerank": {
+      "raw": 8.011043162542088e-08,
+      "percentile": 0.4644452244126974
+    },
+    "sha256": "05170d659630cdfab7474096dcfcce13a8c10025ac902591d47dae749537b989",
+    "simhash": "1:c388d525e471fe84",
+    "word_count": 2545
+  },
+  "last_updated": "2024-02-27T16:44:05.763049+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "G. W. Norton v. T. F. Collins et al."
+    ],
+    "opinions": [
+      {
+        "text": "WILLIAMS, Associate Justice.\nAppellant sued appellee Collins in trespass to try title, to recover the southern half of a tract of 300 acres of land patented to Win. Granad, assignee of T. P. Bhodes. Appellee pleaded not guilty, and title by limitation of three, five, and ten years.\nAppellant amended his pleadings, and alleged that he had bought the land from Alfred Chesnut, from whom he received a deed, with covenants of general warranty of title, which were set out; and alleged that defendant was in possession, claiming title to the land by limitation of five years under a prior deed from said Chesnut and W. J. Townsend, and asked that Chesnut be cited and made party to the cause, and required to prosecute the suit and make good the title conveyed to appellant, and, in case title should be adjudged to be in Collins, that judgment be rendered in appellant\u2019s favor for the purchase money and interest, the amount of which was stated. Chesnut answered, and demurred generally to this petition. At the trial, the court below sustained this general demurrer, discharged Chesnut from the suit, and rendered judgment against appellant for the cost of that proceeding.\nAfter hearing the case on the facts, the court rendered judgment in favor of appellee Collins for the land, on his plea of limitation of three and five years.\nThe motion for a new trial, assignment of errors, and briefs, present the points discussed in the opinion.\nThe titles asserted by the parties were as follows:\nGranad conveyed an undivided half-interest in the land to one Finley, Who, in 1859, conveyed to James Gibson. Gibson and Granad agreed on a partition by which Gibson was to take the south half. No actual line was established, but the land was in the shape of a rectangle, and it was only necessary in order to divide it in halves to run a line through 'the center east and west. On July 17, 1884, Gibson conveyed the southern half of the tract to Alfred Chesnut, from whom appellant derives his title by regular chain of transfers. . '\nAppellee Collins entered upon the north half of the land about sixteen or eighteen years before the trial, supposing it to be vacant and intending to pre-empt it. Sometime afterward there was a transaction between him and Gibson, in which he claims to have bought all of Gibson\u2019s interest in the 300 acres. Gibson claims that he only agreed not to interfere with appellee\u2019s efforts to acquire title to the north half by pre-emption. Collins paid Gibson $20, and gave his note for $30, as the consideration of the agreement. No deed was made, and it was not shown that Collins has made any improvement on the faith of the agreement, and the note was never paid. On March 27, 1883, the heirs of William Granad, who was then dead, conveyed to Mary Duke \u201call their right, title, and interest in the 300 acres.\u201d\nMary Duke, on the 25th day of May, 1883, conveyed the same to W J. Townsend and Alfred Chesnut.\nThe deed from Granad to Finley and that from Finley to Gibson were on record before the dates of these deeds, and all the parties had actual knowledge of them, and neither Duke nor Townsend and Chesnut claimed more than the north half, recognizing Gibson\u2019s title to the other, as well as the partition agreed on.\nOn the 2nd day of June, 1883, Townsend and Chesnut executed to Collins a deed which described the land conveyed as follows:\n\u2018\u2018All that certain tract or parcel of land situated in said county and State, located about eight miles southwesterly from Homer, it being the north half of a 300 acres survey in the name of T. P. Rhodes, it being the same that we purchased from Mary Duke by deed bearing date May 25, 1883; for a full and complete description of said land reference is made to the patent from the State of Texas to Wm. Granad, assignee of T. P. Rhodes, which is herewith delivered and made a part of this conveyance. It is understood that we convey all the rights, title, and interest that Mrs. Mary Duke had to the T. P. Rhodes 300 acres survey of land, but we only warrant the title to 150 acres of said survey, it being the north half, and the part on which T. F. Collins now resides.\u201d\nAt the time this deed was made Collins had full knowledge of the title in Gibson. Townsend and Chesnut both testified that he recognized Gibson\u2019s title, and that they all understood that only the north half was conveyed, but that Collins being fearful that Gibson, by reason of his title, papers calling for an undivided portion, would claim an interest in the north half, the deed, in order to quiet these apprehensions, was drawn so-that, in case Gibson interfered with Collins on the north half, the latter could claim an interest in the other part.\nCollins testified, that he bought the entire 300 acres from Townsend and Chesnut, and that they told him they were selling him the entire tract, but would warrant the title only as to the north half. He further testified, that lie had paid taxes on the whole tract, and had claimed the whole tract, had cultivated, used, and enjoyed it ever since he went into possession. None of his improvements were on the south half. He does not deny the conversations testified to by Townsend and Chesnut, in which he seems to have recognized the Gibson title, and it does not appear that Gibson or any of his vendees ever learned that Collins was claiming the whole of the tract until it was ascertained that he was paying taxes on it. How long this was before the suit does not appear.\nI. The sustaining of Chesnut\u2019s general demurrer and adjudging against appellant the costs of bringing him into the suit was error. Appellant had the right to have his warrantor cited to come in and maintain the title and make good his warranty. The right of a plaintiff to do this has been denied by the Supreme Court of Tennessee, while it was admitted that a defendant could. Ferrell v. Alder, 8 Humph., 44. But in Vermont (Park v. Bates, 12 Vermont, 381; Petkin v. Leavitt, 13 Vermont, 379; Brown v. Taylor, 13 Vermont, 637) and in Georgia (Gregg v. Richardson, 25 Georgia, 570) the contrary rule has been established, and we can see no good ground upon which to dissent from the reasoning employed in those cases. Rawle on Cov., 220.\nIn White v. Williams, 13 Texas, 258, a plaintiff brought in his warrantor, as was here attempted, but the question as to his right to do so was not adjudicated.\nIn the Vermont and Georgia cases no effort was made by the plaintiffs in the ejectment suits to recover judgments over against the warrantors, as was here sought, but the object of citing them was to require them to prosecute the action brought by the warrantees to obtain possession, and to conclude them by the judgments to be rendered.\nThe provisions of our statutes (Revised Statutes, art. 4788) allowing warrantors to be brought in by defendants, in trespass to try title, does not change any rule of practice which may allow to the plaintiff the same remedy. Whether the plaintiff could, in this suit, recover judgment on the warranty or not (which is a question we need not, in view of the disposition to be made of the case, determine) he has the right to bring his warrantor in to maintain the title he had conveyed, or be concluded by the judgment, and it was error to sustain the general demurrer.\nII. It is not pretended by appellee in his testimony that when he originally entered he had possession of or asserted claim to any part of the south half of the land, but he says he entered upon the north half with intent to pre-empt. If he had thus possessed himself of the southern part of the land, in the effort to acquire title by pre-emption, this, it seems, would not be a possession adverse to the true owner. Schleicher v. Gatlin, 20 S. W. Rep., 120.\nIf he afterwards bought from Gibson, as he claims, all the latter\u2019s interest, by oral contract, he shows no facts sufficient to establish title under that agreement, either legal or equitable; and it can not be claimed that, so long as he held under that purchase, his possession was adverse to Gib.son. He consequently did not acquire title by limitation before he bought from Townsend and Chesnut.\nThat deed does not purport to convey a greater interest than had been passed by deed from the heirs of Granad. They held title only to the north half, and that is all the deed conveyed.\nUnder the peculiar language of the deed from Townsend and Chesnut to appellee, and its correspondence with and apparent recognition of the true condition of the title, it can not beheld that appellee\u2019s possession of the north half should be extended by construction to the boundaries of the whole tract. That possession was entirely consistent with the claim of appellants to the south half, and the terms of the deed would not convey reasonable notice to them that appellee\u2019s claim extended throughout the tract.\nIf the agreement between the former owners to divide the land be disregarded, that would not help appellee\u2019s case; for then it could not be held that the deed from Townsend and Chesnut to him passed title to more than an undivided half-interest in the 300 acres. This would have made him a tenant in common with the owners of the other half, and no such facts are shown as would put in motion the statute of limitations against his cotenant. \u201cThe mere possession itself would be referred to that right which every tenant in common has to peaceably settle upon and enjoy the occupation of the common property, without ousting his co-tenant. Hence such occirpancy was not in itself sufficient to charge the appellants with notice that their interest in the land was disputed, and that the benefit of the statute of limitation would be claimed by their co-tenants, if suit were not brought within time to prevent the bar.\u201d Moody v. Butler, 63 Texas, 213.\nDelivered November 24, 1892.\nThe court below erred in holding that Collins had acquired title to the land sued for by limitation, and its judgment will be reversed and here-rendered for appellant, that he recover of appellee Collins the south half of the 300 acres tract, that is, the portion of said tract lying south of a line running east arid west through its center, and all costs of this suit, except the costs making Chesnut a party, which will be recovered by appellant of Chesnut.\nReversed and rendered-",
+        "type": "majority",
+        "author": "WILLIAMS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Mantooth & Townsend, for appellant.",
+      "H. G. Lane and J. T. Maroney, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "G. W. Norton v. T. F. Collins et al.\nNo. 37.\n1. Warrantor \u2014 Plaintiffs Right to Call in. \u2014 Appellant had the right to have his warrantor cited to come in and maintain the title and make good his warranty. The provisions of our statutes (Revised Statutes, article 4788) allowing warrantors to be brought in by defendants in trespass to try title, does not change any rule of practice which may allow to the plaintiff the same remedy. Whether the plaintiff in this suit could recover judgment upon his warranty is not necessary (in the disposition we shall make of the case) to determine; but he had the right to bring him in to maintain the title, and to be concluded by the judgment, and it was error to sustain the general demurrer.\n2. Adverse Possession. \u2014 About sixteen years before suit C. entered upon the north half of the 300 acres tract of land in controversy, supposing it was vacant and desiring to pre-empt it. In 1859 the then owners of the north and south half agreed to a partition; one of them was to take the north half and the other the south. The tract was a rectangle, and could be divided by a right line through the center from east to west. No actual partition line was run, but subsequent deeds in the chain of title which were recorded recognized such partition. By a transaction with G., the owner of the south half, C. claims to have bought all of G.:s interest in the 300 acres, but no deed was made. In 1883, the then owners of the north half conveyed it to C., describing the north half, but the deed further stated that they conveyed all the interest that D. (a former owner) had in the whole tract, but they only warranted 150 acres. C. had paid taxes on the whole tract. Suit being instituted May 11,1889, under the above facts, (Vs possession was held not to he adverse to the owner of the south half.\n3. Same. \u2014 ('. entered on the north half with intent to pre-empt it. If he had thus possessed himself of the south half, it would not have been possession adverse to the true owner.\n4. Same. \u2014 Under the peculiar language of the deed from Townsend and Chesnut to appellee, and its correspondence with and apparent recognition of the true condition of the title, it can not be held that appellee\u2019s possession of the north half should he extended by construction to the boundaries of the whole tract. That possession was consistent with the claim of appellant to the south half, and if there had been no partition appellee\u2019s possession would have been that of a tenant in common, and would not have been adverse to the owner of the other undivided half-interest.\nAppeal from Angelina. Tried below before Hon. L. B. Higiitowek.\nMantooth & Townsend, for appellant.\n1. Plaintiff\u2019s petition sets up a cause of action against Alfred Chesnut as warrantor, which had accrued before the filing of the petition. Sayles\u2019 Civ. Stats., art. 4788; Clark v. Mumford, 62 Texas, 531; Kirby v. Estill, 75 Texas, 484; Buchanan v. Kauffman & Runge, 65 Texas, 235; 62 Texas, 553; Johns v. Hardin, 81 Texas, 37.\n2. The plaintiff has cause of action against Chesnut as warrantor for the purchase money of the land in issue, with 8 per cent interest from date of sale to date of judgment, with cost of suit. Sayles\u2019 Civ. Stats., art. 4788; Clark v. Mumford, 62 Texas, 531; Buchanan v. Kauffman & Runge, 65 Texas, 235; Kirby v. Estill, 75 Texas, 484; Johns v. Hardin, 81 Texas, 37.\n3. The deed from Granad heirs, dated March 27, A. D. 1883, only conveyed the title the heirs owned in the land, and not the whole survey. Rodgers v. Burchard, 34 Texas, 441; Shepard v. Hunsacker, 1 Posey\u2019s U. C., 578, 583, 661, 667, 670; Ragsdale v. Mays, 65 Texas, 255.\nH. G. Lane and J. T. Maroney, for appellees.\n1. Appellee Collins is entitled to recover under the statute of five years\u2019 limitation by virtue of his deed from W. J. Townsend and Alfred Chesnut, dated the 2nd of June, 1883, recorded June 2, 1883, and possession thereunder and payment of taxes thereon. Hunton v. Nichols, 55 Texas, 217."
+  },
+  "file_name": "0272-01",
+  "first_page_order": 296,
+  "last_page_order": 301
+}

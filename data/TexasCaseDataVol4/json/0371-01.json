@@ -1,0 +1,200 @@
+{
+  "id": 223716,
+  "name": "Hurlbut & Semple v. Lon Boaz",
+  "name_abbreviation": "Hurlbut & Semple v. Boaz",
+  "decision_date": "1893-10-04",
+  "docket_number": "No. 246",
+  "first_page": "371",
+  "last_page": "377",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Tex. Civ. App. 371"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "12 Colo., 277",
+      "category": "reporters:state",
+      "reporter": "Colo.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "55 Barb., 194",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2251915
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/55/0194-01"
+      ]
+    },
+    {
+      "cite": "24 Pick., 8",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2069258
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/41/0008-01"
+      ]
+    },
+    {
+      "cite": "111 Pa. St., 619",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        545368
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/111/0619-01"
+      ]
+    },
+    {
+      "cite": "16 La. Ann., 387",
+      "category": "reporters:state",
+      "reporter": "La. Ann.",
+      "case_ids": [
+        8506736
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/la-ann/16/0387-01"
+      ]
+    },
+    {
+      "cite": "49 Ind., 156",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1411884
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/49/0156-01"
+      ]
+    },
+    {
+      "cite": "77 Ill., 164",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        821710
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/77/0164-01"
+      ]
+    },
+    {
+      "cite": "71 Me., 555",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        8845392
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/me/71/0555-01"
+      ]
+    },
+    {
+      "cite": "15 Nev., 167",
+      "category": "reporters:state",
+      "reporter": "Nev.",
+      "case_ids": [
+        2375990
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nev/15/0167-01"
+      ]
+    },
+    {
+      "cite": "10 S. W. Rep., 744",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "22 Fed. Rep., 217",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        6716542
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f/22/0217-01"
+      ]
+    },
+    {
+      "cite": "32 Ark., 116",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "24 Howard, 549",
+      "category": "reporters:state",
+      "reporter": "Howard",
+      "weight": 2,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 736,
+    "char_count": 18436,
+    "ocr_confidence": 0.552,
+    "pagerank": {
+      "raw": 1.361098839200586e-07,
+      "percentile": 0.6363457869551468
+    },
+    "sha256": "a0853e8056428da68b46f42f24b21e24103eaaa8b30be4cf46137115d52d04e1",
+    "simhash": "1:9267d422eb8f71b1",
+    "word_count": 3194
+  },
+  "last_updated": "2024-02-27T18:01:03.208661+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hurlbut & Semple v. Lon Boaz."
+    ],
+    "opinions": [
+      {
+        "text": "FISHER, Chief Justice.\nThis is an action for damages, instituted by appellee against the appellants, growing out of an alleged malicious prosecution of the appellee at the instance of appellants, charging him with the offense of embezzlement.\nThe trial below resulted in a verdict and judgment against the appellants for $4000 as actual and $4000 as exemplary damages.\nAt the trial of the case, witness Cole, over the objection of the appellants, was permitted to testify, that in a conversation he had with appellee, Boaz, at Fort Worth, he stated to appellee that \u201che (Boaz) could not blame Hurlbut & Semple for prosecuting him; that they had to do it in order to vindicate themselves, as the people of Brownwood believed that they instigated him (Boaz) to burn the house. \u25a0 That he heard John Summers and Charles Turner say that the people of Brownwood thought Hurlbut & Semple instigated Boaz to burn their house.\u201d\nIt appears from the evidence in the record, that Hurlbut & Semple were engaged in the hardware business in the town of Brownwood, and that the appellee, Boaz, was their agent or manager in charge of the business there. While so engaged in business, a fire originated in the store and partially destroyed some of the goods. Soon after this occurrence, Hurlbut & Semple filed a complaint against Boaz, charging him with embezzlement of a sum of money while acting as their agent in the control of the business at Brownwood.\nThe testimony of the witness Cole, as quoted, was clearly inadmissible. The opinion of the witness Cole as to the motive that actuated Hurlbut & Semple in instigating the prosecution of Boaz was not admissible against them. Nor could Hurlbut & Semple be affected by the general belief of the people of Brownwood that they caused Boaz to burn the store house.\nThe prejudicial effect of this evidence is obvious, and was well calculated to injuriously affect the interests of the appellants in the mind of the j ury. The effect of this evidence was to show that Hurlbut & Semple initiated the criminal prosecution against Boaz without probable cause for belief in his guilt, and that he was put forward and offered by them as a vicarious sacrifice in order to change the current of public opinion in his direction as being alone the guilty agent in burning the house.\nWe are at a loss to understand why the court below admitted this evidence, unless the ruling was based upon the fact that Cole was a witness for the appellants, and that this evidence was brought out on cross-examination as a part of a conversation between witness and Boaz that was brought out on direct examination. Cole was placed upon the witness stand at the instance of appellants, and testified, upon his direct examination, as to a conversation he had with Boaz about a matter altogether different from the evidence objected to, and which was properly admissible against Boaz.\nThe fact that a part of a conversation that is legal evidence is admissible in evidence, does not warrant the admission of other parts of the conversation that do not tend to explain that already admitted, and that are objectionable on other grounds, such as being hearsay or the opinion of a witness about a matter in which his opinion is not admissible, etc. The conversation itself gives no vitality to evidence that is objectionable as violative of some rule of law that otherwise excludes it. There was error in admitting this evidence.\nWhat we have said disposes of the third assignment of error, as the testimony of Bean, Scott, Rogan, and Maples, which was excluded, becomes unimportant upon another trial, for the reason of its admission no longer exists.\nAppellants\u2019 seventh assignment of error complains of the charge of the court, in so much as it instructs the jury, that they may consider the advice of the county attorney given to Semple, advising him to make the affidavit against Boaz for embezzlement, as a fact that they may consider together with all the other facts in determining whether or not the appellants had probable cause to institute the prosecution. The objection urged to this charge is, that in effect it limits the right of the jury to consider the advice of counsel only in determining if the appellants acted upon probable cause, and impliedly excludes them from considering such advice in determining if they in the prosecution acted with malice.\nThere is a conflict in the authorities as to the effect that should be given to the advice of counsel when the prosecutor has honestly acted upon it, and for what purpose the jury are permitted to consider such advice in cases of this character.\nMalice and probable cause are questions 'of fact for the jury, and the advice of counsel is a fact that may be considered along with the other facts and circumstances in the case, in determining the absence of the former and the existence of the latter. This seems to us to be the proper rule, and the consideration of such advice should not be limited in determining the existence of probable cause, but should be considered also in ascertaining the want of malice. 14 Am. and Eng. Encycl. of Law, 53-56, and notes; Glasgow v. Owen, 69 Texas, 170; Railway v. James, 73 Texas, 24.\nThere was error in the charge in the respect complained of.\nFrom what has been said, we do not desire it to be understood that we would approve a charge that would instruct the jury that they may consider the advice of counsel even for the purposes for which they may legally do so. The advice of counsel is legal evidence, and may be by the jury considered in its bearing upon the want of malice and the existence of probable cause, like the evidence of other facts that may throw light upon those questions.\nBut this court and the Supreme Court have repeatedly deprecated the practice that prevails in some of the trial courts in their charges to the .jury, in carving out of the mass of evidence in the case certain facts, and \u25a0instructing the jury that they may consider such facts for certain purposes or as tending to establish certain issues. Gray v. Burk, 19 Texas, 228; Jacobs v. Crum, 62 Texas, 408; Hanna v. Hanna, 3 Texas Civ. App., 51, and cases cited.\nThe charge should submit the case to the jury upon all the facts and circumstances in evidence, leaving to the jury, in the exercise of their \u2022discretion, a determination of these facts and the weight to be given them. The fact that the court admits in evidence proof of certain facts and circumstances, conveys the information to the minds of the jury that such evidence is legal, and may be considered by them in reaching a verdict; \u25a0and in such case it is not only unnecessary, but improper, to tell the jury that certain facts or circumstances may be considered by them. The effect of such instruction is argumentative, and calculated to give such fact undue prominence. It is beyond the province of the court to either directly or indirectly intimate its opinion as to a controverted fact. Giving it prominence by directly calling the jury\u2019s attention to it, by telling them they may consider it in determining an issue in the case, is an indirect way of emphasizing it, and by culling it out from the mass of other-facts in the case, tends to impress the mind of the jury that in the opinion of the court this fact is important to be considered in determining the fact in issue.\nThe court instructed the jury, that in \u201c order for the plaintiff to recover, he must show by a preponderance of evidence, first, that he was prosecuted under the charge made by the defendants, and that he was \u2022acquitted of said charge;, second, he must show that the defendants, in instituting said prosecution, were instigated by malice, and that they acted in said matter without probable cause for believing plaintiff guilty of said charge; third, and plaintiff has been damaged by said prosecution.\u201d\nIn addition to what was above given, the appellants requested a charge to the effect, that in order to entitle the plaintiff to recover, he must also show that the alleged charge of embezzlement was false. This charge the \u2022court refused to give.\nWe think this additional charge should have been given, and it was error to so refuse. It embodied one of the essential elements that must exist in cases of this character in order for the plaintiff to recover, and the proof of this fact rested upon him.\nSome of the reported cases and writers upon this subject, in laying down the rule as to what must be shown by the plaintiff in order to entitle him to recover, do not go beyond the issues submitted by the court in its general charge as quoted, and do not require that the plaintiff should prove the falsity of the accusation as a prerequisite to recovery.\nIn cases of this character the burden rests upon the plaintiff, and no presumption of innocence is indulged in his favor as exists in his behalf when prosecuted for a crime; and neither is the acquittal of the criminal accusation conclusive evidence of his innocence, nor of the falsity of the charge preferred against him.\nUpon this subject, the court, in the case of Wheeler v. Nesbitt, 24 Howard, 549, says: \u201c To support an action for malicious criminal prosecution, the plaintiff must prove, in the first place, the fact of the prosecution, and that the defendant was himself the prosecutor, or that he instigated its commencement, and that it finally terminated in his acquittal. He must also prove that the charge preferred against him was unfounded and that it was made without probable cause, and that the-defendant, in making or instigating it, was actuated by malice. Proof of these several facts is indispensable to support the declaration, and clearly the burden of proof in the first instance is upon the plaintiff to-make out his case; and if he fails to do so in any one of these particulars, the defendant has no occasion to offer any evidence in his defense.\u2019 \u2019\nIn McManus v. Wallis, 52 Texas, 545, the court prescribes \u201c the falsehood of the alleged charge\u201d as one of the essentials to be shown by the plaintiff in order for him to recover.\nIf the plaintiff was guilty of the crime charged, although acquitted, he could not recover, even though there did not exist at the time of the prosecution a knowledge of facts within the possession of the defendants-that would warrant a probable cause for the prosecution. The plaintiff may be guilty, although probable cause for the prosecution did not exist at the time of its inception. There is no presumption in favor of the innocence of the plaintiff; and as said in the case of Wheeler v. Nesbitt, supra, \u201c because the evidence is negative in character does not relieve the' plaintiff from the burden of its proof.\u201d\nWe believe the issue presented in the special charge should have been given to the jury, along with those covered by the general charge.\nThe appellants, at the trial below, requested the court to instruct the-jury, \u201cthat it is immaterial whether Boaz was guilty or innocent of the charge of embezzlement; if you believe the plaintiff innocent of the crime, but believe that the defendants had reasonable grounds of suspicion, supported by circumstances sufficiently strong in themselves to warrant a cautious man in the belief that the plaintiff was guilty of the offense, you will find for defendants.\u201d\nIt is true, as a proposition of law, that the innocence of the plaintiff of the criminal accusation will not entitle him to recover if the defendants, acting with ordinary caution and prudence, instituted the prosecution based upon a probable cause. In view of the facts of this case, we think that the charge should have been given, and that it was error in the court to refuse it.\nDelivered October 4, 1893.\nFor the errors discussed, the judgment will be reversed and the cause remanded.\nThere are assignments of error questioning the charge of the court in submitting to the jury any issue as to attorney fees in the criminal prosecution, and the expenses of the appellee in attending court and his loss of time at said trial, for the reason that the evidence fails to show that the amount of attorney fees paid out was reasonable, and what amount of damages, if any, the plaintiff sustained by reason of the expenses and loss of time in attending court.\nThe plaintiff can only recover his reasonable attorney fees paid out in the criminal prosecution, and can only recover some amount as damages that may be shown by the evidence he has sustained by reason of loss of time in attending court, and the reasonable expenses so necessarily incurred. We will not make this error a ground of reversal, as we have sent the case back for other errors, but admonish the court to be governed by the rules here stated if these issues should be again raised upon another trial.\nThere is no'merit in the twenty-sixth assignment of error, because the judgment follows the pleadings and the evidence, and was properly rendered against Hurlbut & Semple.\nIn view of another trial, we will not discuss the other errors assigned.\nThe judgment of the court below is reversed and the cause remanded.\nReversed and remanded.",
+        "type": "majority",
+        "author": "FISHER, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "Goodwin & Goodwin and T. G. Wilkinson, for appellants.",
+      "No brief for appellee reached the Reporter."
+    ],
+    "corrections": "",
+    "head_matter": "Hurlbut & Semple v. Lon Boaz.\nNo. 246.\n1. Incompetent Testimony. \u2014 Boaz sued appellants for malicious prosecution, the prosecution being a charge of embezzlement. Shortly before the charge was made the store house of appellants had been set on fire in the nighttime. Boaz was in charge of the business carried on in the house that was set on fire. On the trial, it was error to admit in evidence on behalf of Boaz his own declarations, that \u201checould not blame Hurlbut & Semple for prosecuting him; that they had to do it in order to vindicate themselves, as the people of Brown-wood believed that they instigated him to burn the house.\u201d The same witness who detailed this, also testified, \u201cthat he heard John Summers and Charles Turner say that the people of Brownwood thought Hurlbut & Semple instigated Boaz to burn their house.\u201d The testimony was irrelevant, and calculated to injure the defendants.\n2. Same\u2014Cross Examination.\u2014Such testimony was not competent even if drawn out on cross-examination of a witness who had been called to testify to other conversations had with Boaz.\nS. Advice of Counsel.\u2014In defense in a suit for malicious prosecution, it is competent for defendants to prove that they made the charge, alleged to have been malicious, upon advice of counsel upon the facts. It was error in the court to limit the effect of such testimony to the issue of probable cause. It was competent upon issue of malice.\n4. Charge\u2014Singling out Isolated Facts.\u2014This court and the Supreme Court have repeatedly deprecated the practice that prevails in some of the trial courts, in their charges to the jury, in carving out of the mass of evidence in the case certain facts, and instructing the jury that they may consider such facts for certain purposes, or as tending to establish certain issues. The charge should submit the case upon all the facts and circumstances in evidence, leaving to the jury in the exercise of their discretion a determination of the facts and the weight to be given them.\n5. Malicious Prosecution \u2014 Innocence of Plaintiff. \u2014The falsehood of the alleged charge is one of the essential facts to be shown by the plaintiff, in order to his recovery in an action for malicious prosecution. Where there is any testimony tending to show his guilt, it is error to refuse an instruction that plaintiff' must show his innocence of the charge. This even when plaintiff' had been acquitted upon the trial.\n6. Same\u2014Attorney Fees as Damages.\u2014The plaintiff in an action for malicious prosecution is entitled to recover reasonable attorney fees incurred in his defense against the charge, also reasonable expenses paid out and loss of time in making his defense to the charge.\nAppeal from Brown.\nTried below before Hon. J. W. Timmins.\nGoodwin & Goodwin and T. G. Wilkinson, for appellants.\n1. The evidence objected to being immaterial, and irrelevant to any issue in the case, and of a character calculated to mislead the jury and prejudice them against appellants, should not have been admitted. Cotton v. Campbell, 3 Texas, 495; Waul v. Hardie, 17 Texas, 559; De Leon v. White, 9 Texas, 609; 1 Greenl. on Ev.. sec. 52.\n2. The advice of a competent attorney at law is admissible in evidence in a suit for malicious prosecution, not for the purpose of showing probable cause for the prosecution, but to show good faith, and disprove malice in the prosecutor; and the charge of the court referring its consideration to the head of probable cause was a misapplication of the law. Ramsey v. Arrott, 64 Texas, 324; Lemay v. Williams, 32 Ark., 116; Brewer v. Jacob, 22 Fed. Rep., 217.\n3. If it be true that the advice of a competent attorney at law is admissible in a suit for malicious prosecution, not only for the purpose of showing good faith and disproving malice in the prosecutor, but also for the purpose of showing probable cause, then the charge of the court restricting the consideration of this evidence to the question of probable cause was erroneous, and calculated to withdraw the minds of the jury from its consideration in connection with the question of malice. Railway v. James, 10 S. W. Rep., 744; Ricard v. Railway, 15 Nev., 167; White v. Carr, 71 Me., 555; Skidmore v. Breaker, 77 Ill., 164; Galloway v. Stewart, 49 Ind., 156; Phillips v. Bonham, 16 La. Ann., 387; Emerson v. Cochran, 111 Pa. St., 619; Wilder v. Hulden, 24 Pick., 8; Ames v. Rathburn, 55 Barb., 194.\n4. One can not complain that he was maliciously prosecuted for something whereof he was guilty, because in such a case he has suffered no wrong. He must show, before he is entitled to recover, that the charge under which he was prosecuted was false. McManus v. Wallis, 52 Texas, 545; Sears v. Hathaway, 12 Colo., 277.\n5. There being no evidence whatever as to what were reasonable attorney fees, or what plaintiff\u2019s damages were by reason of loss of time or expense in attending court, the court should not have submitted these matters to the jury as elements of damage to be considered by them. Hampton v. Dean, 4 Texas, 459; McGreal v. Wilson, 9 Texas, 428; Lee v. Hamilton, 12 Texas, 418; Earle v. Thomas, 14 Texas, 592; Andrews v. Smithwick, 20 Texas, 118; Austin v. Talk, 20 Texas, 165; Dodd & Co. v. Arnold, 28 Texas, 101; 1 W. & W. C. C., sec. 297; 2 Willson\u2019s C. C., sec. 440.\nNo brief for appellee reached the Reporter."
+  },
+  "file_name": "0371-01",
+  "first_page_order": 395,
+  "last_page_order": 401
+}

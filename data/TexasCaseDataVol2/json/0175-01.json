@@ -1,0 +1,79 @@
+{
+  "id": 219152,
+  "name": "F. J. Westmoreland v. J. T. Richardson",
+  "name_abbreviation": "Westmoreland v. Richardson",
+  "decision_date": "1893-01-31",
+  "docket_number": "No. 83",
+  "first_page": "175",
+  "last_page": "178",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 175"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "19 S. W. Rep., 432",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "19 S. W. Rep., 522",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 361,
+    "char_count": 6871,
+    "ocr_confidence": 0.557,
+    "pagerank": {
+      "raw": 4.076306636737454e-08,
+      "percentile": 0.008818960716693207
+    },
+    "sha256": "a6ae442f85e959f7d6e753557070ed71c2b8b63842917f1913fc94918240b181",
+    "simhash": "1:4320a6b10304ec6a",
+    "word_count": 1207
+  },
+  "last_updated": "2024-02-27T19:43:33.086404+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "F. J. Westmoreland v. J. T. Richardson."
+    ],
+    "opinions": [
+      {
+        "text": "STEPHENS, Associate Justice.\nThis action was brought by appellee in the usual form of trespass to try title, to recover possession of a half-section of school land situated in Hardeman County. Appellant answered by plea of not guilty. There was a trial by a jury, with the verdict in favor of appellee. The record contains a very meager statement of facts\u2014 but a skeleton, in fact, which indicates that much of its substance was lost in the preparation; many things called for and directed to be inserted having been omitted. In this unsatisfactory state of the record, we doubt if appellant could require us to pass upon questions which depend for their solution upon an investigation of the statement of facts. We think, however, that enough is stated, in a general way, to warrant the following conclusions:\n1. On the 7th day of April, 1890, appellee, a single man, actually settled upon the land in controversy with a view to the acquisition of title by purchase from the State under the Act of 1887, amended in 1889, providing for the sale of school lands.\n2. He continued to reside upon this land until about August, 1890, when he was ejected by a writ of restitution, issued out of the County Court of Hardeman County on a judgment therein rendered, in an action of forcible entry and detainer pending on appeal from the Justice Court, in favor of appellant.\n3. On the 29th day of May, 1890, appellant and appellee made separate applications to purchase this land from the State.\n4. Appellant never actually settled on the land until after appellee was dispossessed by the writ of restitution in August; though prior to the settlement of appellee lie had, in the year 1888, enclosed and put in cultivation about 100 acres of the land, when he settl\u00e9d on an adjoining tract, supposing that he was upon the land in controversy. After learning of his mistake, which was sometime prior to the settlement of appellee, he did not move on the land until the time stated above.\n5. It does not appear that either of the applications to purchase was accepted or rejected.\nThe important question in this case arises upon the exclusion from the evidence of a certified copy of the judgment of the County Court under which the writ of restitution mentioned in the conclusions of fact was issued. This copy of the judgment was offered by appellant in bar of this action as res adjudicata. The certified copy is not found in the bill of exceptions nor in the statement of facts; but it is recited in the bill of exceptions, that this judgment was rendered in a suit of forcible entry and detainer, in which John T. Richardson was adjudged to be guilty of forcible entry and detainer against F. J. Westmoreland, in making said entry on the 7th day of April, 1890, upon the land in controversy. This testimony was excluded on the objection, that the suit of forcible entry and detainer was pending on appeal in the Court of Appeals. We are of opinion that this objection should not have been sustained. Thompson v. Griffin, 69 Texas, 143; Rev. Stats., arts. 2461, 2462.\nThe question of difficulty is, whether, notwithstanding the insufficiency of the objection, material error was committed in excluding the evidence. Beyond the statement that Richardson was adjudged guilty of making said forcible entry on the 7th day of April, 1890, we are not informed by the record what issue was tried in the forcible entry and detainer suit. The statute defines a forcible entry to be an entry without the consent of the person having the actual possession. Art. 2441.\nIt may be that Westmoreland was, by virtue of having 100 acres of the land enclosed, held to be in the actual possession, and that Richardson, \" having entered without his consent, was on that ground alone adjudged to be guilty. It may be that under the complaint filed in that case the issue sought to be litigated in this suit could not have been tried. The question submitted for determination in this action of trespass to try title was, whether at the date of the respective applications to purchase the land from the State, appellee or appellant was an actual bona fide settler within the meaning of the Act of 1887, and the amended Act of 1889, which made actual settlement a prerequisite to the acquisition by purchase from the State of the land in controversy. If it be conceded that this issue was triable in the action of forcible entry and detainer, it is not made to appear in any way by this record that it was the issue actually tried therein. Our conclusion is, that in the state of the record brought here by appellant, we would not be warranted in reversing the judgment on account of the exclusion of this evidence. Reddin v. Smith, 65 Texas, 26.\nIt follows from the conclusions of fact announced above that the assignments of error raising other questions are without merit. Joiner v. Johnson, 19 S. W. Rep., 522; Baker v. Millman, 77 Texas, 46.\nThe judgment will therefore be affirmed.\nAffirmed.\nDelivered January 31, 1893.",
+        "type": "majority",
+        "author": "STEPHENS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "R. W. Morgan and J. M. Standlee, for appellant.",
+      "M. M. Hankins and B. P. Eubanks, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "F. J. Westmoreland v. J. T. Richardson.\nNo. 83.\n1. Trespass to Try Title to State School Land \u2014 Judgment in Forcible Entry and Detainer is Res Adjudicata, When\u2014In a suit of trespass to try title to a tract of State school land, wherein the question at issue was whether the plaintiff or the defendant was actually and bona fide settled thereon at the time of application to purchase from the State, the defendant offered in bar as res adjudicata a judgment rendered in his favor and against defendant herein in a former suit of forcible entry and detainer for the same land. .Held, error to exclude the judgment on the ground that such former suit in which it was rendered was yet pending in the Court of Appeals.\n2. Practice on Appeal \u2014 Exclusion of Evidence not Material Error, When.\u2014Where the record contains no copy of such prior judgment, and it is not shown that the same issue (as to the fact and right of possession) triable in the present suit was tried in such former suit of forcible entry and detainer, it does not appear that the exclusion of such former judgment was material error warranting a reversal.\nAppeal from Hardeman. Tried below before Hon. G-. A. Brown.\nR. W. Morgan and J. M. Standlee, for appellant.\nThe court erred in excluding the judgment rendered in the suit of forcible entry and detainer. A judgment appealed from does not, until vacated or reversed, cease to operate as a bar. Rev. Stats., art. 2462; Freem. on Judg., sec. 328; 6 Wait\u2019s Act. and Def., 127.\nM. M. Hankins and B. P. Eubanks, for appellee.\nA judgment in forcible entry and detainer that is appealed from is not res judicata. Under the law, both a suit in forcible entry and detainer and trespass to try title can be pending at the same time. The judgment excluded from the evidence was afterwards reversed by the Court of Appeals. Richardson v. Westmoreland, 19 S. W. Rep., 432."
+  },
+  "file_name": "0175-01",
+  "first_page_order": 201,
+  "last_page_order": 204
+}

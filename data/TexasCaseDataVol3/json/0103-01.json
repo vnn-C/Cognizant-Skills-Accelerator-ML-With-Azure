@@ -1,0 +1,66 @@
+{
+  "id": 220990,
+  "name": "Ed. C. Imlay v. C. H. Brewster",
+  "name_abbreviation": "Imlay v. Brewster",
+  "decision_date": "1893-04-13",
+  "docket_number": "No. 225",
+  "first_page": "103",
+  "last_page": "106",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 103"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 337,
+    "char_count": 8761,
+    "ocr_confidence": 0.557,
+    "pagerank": {
+      "raw": 1.001132397809846e-07,
+      "percentile": 0.5389123072426231
+    },
+    "sha256": "861391f1f2cb4d4d3eb25626c5d3d498af0051ba60b3759c68d7bfaa85ebd608",
+    "simhash": "1:c82bf6afda5eeade",
+    "word_count": 1564
+  },
+  "last_updated": "2023-07-14T18:08:23.206239+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ed. C. Imlay v. C. H. Brewster."
+    ],
+    "opinions": [
+      {
+        "text": "PLEASANTS, Associate Justice.\nThere is no appearance in this court for the defendant in error, and we have to consider the case as presented by the brief of the plaintiff in error, with such reference to the transcript as we have found to be necessary.\nThe case briefly stated is, that defendant in error brought suit on September 22, 1889, in the County Court of Aransas County, against one Norfleet and plaintiff in error, on an alleged verified account for \u00a7200. Norfleet accepted service of citation. Citation issued for plaintiff in error, and was duly served, but the citation was impressed with the seal of the District Court and not with the seal of the County Court.\nOn October 6, 1891, j\u2019udgment final by default was rendered by the court against both defendants, without previous amendment of the citation for defendant Imlay.\nOn the 30th of March, 1892, defendant Imlay, the plaintiff in error, filed his petition in the County Court of Aransas County, praying for a writ of error to the Court of Appeals, and' that citation issue for the plaintiff Brewster; and on same day the plaintiff in error gave bond, which was approved by the clerk of the court, and the citation in error was issued and directed to the proper party, and was duly executed and returned on the 4th of April, 1892.\nOn the 31st of March, 1892, Brewster, the plaintiff in the court below, filed his motion in the office of the clerk of said court, praying that the judgment rendered on the 6th of October, 1891, by default, be set aside, and citation was issued and duly served upon Imlay, commanding him to appear at the April Term, 1892, of the County Court and answer said motion. No citation was issued for the defendant Norfleet, nor was any prayed for as to him.\nOn April 20, 1892, the court granted the motion to set aside the judgment, and citation was ordered for Imlay to appear at the next term of the court and answer the plaintiff\u2019s suit. Imlay did not appear and answer the motion to set aside the judgment.\nOn the 6th of July the court again rendered judgment against Imlay and Norfleet, the judgment reciting that there was no appearance by or for defendant Imlay.\nThe plaintiff in error had assigned errors in the County Court before the second judgment was rendered against him by that court, and subsequent to that judgment, and before the transcript was delivered to him, he assigned additional errors as to said second judgment.\nThere are five assignments of error, each one of which is adopted as a proposition of law. We need not, however, consider all of them.\nThe first assignment is: \u201c The judgment by default rendered against this defendant on October 6, 1891, is error, because there was no appearance by this defendant, and the citation served upon this defendant in this cause on September 22, 1891, did not contain an impress of the seal of this court.\u201d\nThis assignment, we think, is well taken. The writ by which the defendant Imlay was cited, having upon it the impress of the seal of another court than that from which the writ issued, must be treated as not authenticated in the manner required by law, and its service upon defendant placed him under no obligation to obey the summons to appear in court and make defense to plaintiff\u2019s suit; and the judgment by default rendered in the suit on the 6th of October, 1891, against defendant, was erroneous, and it was his privilege to have the same reversed upon appeal. Frosh v. Schlumph, 2 Texas, 423. The defendant had his option to appear in the court and have the writ quashed, and thus postpone the trial of the cause to the next term, or to await the action of the court, and in case judgment should be rendered against him to bring the case by writ of error to the Court of Appeals and have the judgment reversed and the cause remanded for further proceedings in the court a quo. Of this privilege the defendant could not be deprived by any of the proceedings had in the County Court subsequent to the judgment of October 6, 1891.\nWhen a final judgment has been rendered in a cause, and the term of the court has expired, the jurisdiction of the court over the subject matter of litigation is gone, and the court has no power to set aside the judgmen and to hear the case anew for the purpose of correcting errors committed upon the former trial. The District and County Courts have no power to revise and correct their judgments; that power can be exercised only by the appellate tribunals.\nIt is very true that the power of a court over its records does not cease, as does its jurisdiction over the subject of litigation, upon the expiration of the term at which the final judgment is rendered; but such power continues and may be exercised, under a proper state of facts, at any time subsequent, and either in vacation or when the court is in session. In the exercise of its powers over the records, a court may, after it has lost jurisdiction of the case, do whatever is necessary for the correction or completion of its records, and this power is not lost or suspended even when the case has been appealed to a revisory tribunal. Freem. on Judg., sec. 65. This general and continuing power of a court over its minutes and records is recognized and its exercise provided for in articles 1355, 1356, and 1357 of the Revised Statutes.\nBut it was not the exercise of this power which was invoked by the appellee in his motion filed, on the 31st of March, 1892. Nor did the County Court of Aransas County use its power in the correction dr completion of its records so as to make them truly show what had been done by the court in hearing and adjudicating the cause at a previous term. But the court in April, 1892, set aside its judgment rendered at the October Term, 1891, and reinstated the cause upon its docket, and ordered process to issue for appellant, commanding him to appear and answer the plaintiff's suit at the term to be holden in June, 1892, and at that term another and a different judgment was rendered against him than that rendered in October, 1891. Thus we have two final judgments rendered by the same court in the same cause, and between the same parties, the second judgment intended as a substitute for the first, which is unsatisfied, not reversed, or annulled.\nFrom what has been said it follows, that all of the proceedings had in this cause under the motion of defendant in error in the County Court, subsequent to the rendition of the judgment for the defendant in error against the plaintiff in error and his codefendant on the 6th of October, 1891, must be treated and held to be void, and they are so declared by this court; and it is ordered, that the judgment last aforesaid be reversed, and that this cause be remanded for further proceedings in said County Court.\njReversed and remanded.\nDelivered April 13, 1893.",
+        "type": "majority",
+        "author": "PLEASANTS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Paul McCombs, for plaintiff in error.",
+      "No brief for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Ed. C. Imlay v. C. H. Brewster.\nNo. 225.\n1. Citation\u2014Wrong Seal.\u2014The writ by which defendant was cited having the impress of the seal of another court than that from which the writ issued, must be treated as not authenticated as required by law, and placed him under no obligation to obey its command, or make defense to plaintiff\u2019s suit,\n2. Judgment by Default\u2014Wrong Seal.\u2014Judgment by default having been rendered in the County Court upon a citation authenticated by the seal of the District Court, it was the defendant\u2019s privilege to appeal and have the case reversed, and of this privilege the defendant could not be deprived by any proceedings in the County Court subsequent to the judgment.\n3. Final Judgment, Court Below has no Power over.\u2014When a final judgment has been rendered in a ease, and the term of court has expired, the jurisdiction of the court over the subject matter of litigation is gone, and it has no power to set aside the judgment and hear the case anew for the purpose of correcting errors committed on the former trial. The power to revise and correct these judgments lies only in the appellate courts.\n4. Power to Correct Records \u2014Two Final Judgments.\u2014After it has lost jurisdiction by a final judgment, the power of a court to correct its records does not cease, but may be exercised even when the case has been appealed. But it was not the exercise of this power which was invoked by appellee, in his motion filed after the final judgment by default. That motion sought to have the previous judgment set aside, the cause reinstated upon the docket, and a second judgment rendered; all of which was done, and there are here two final judgments by the same court m the same case. All the proceedings herein had after the final judgment by default must be held void.\nError from Aransas. Tried below before Hon. E. A. Stevens, County-Judge.\nPaul McCombs, for plaintiff in error.\nNo brief for defendant in error."
+  },
+  "file_name": "0103-01",
+  "first_page_order": 129,
+  "last_page_order": 132
+}

@@ -1,0 +1,66 @@
+{
+  "id": 221181,
+  "name": "The Galveston, Harrisburg & San Antonio Railway Company v. F. Hertzig",
+  "name_abbreviation": "Galveston, Harrisburg & San Antonio Railway Co. v. Hertzig",
+  "decision_date": "1893-05-11",
+  "docket_number": "No. 166",
+  "first_page": "296",
+  "last_page": "297",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Tex. Civ. App. 296"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 268,
+    "char_count": 4442,
+    "ocr_confidence": 0.547,
+    "pagerank": {
+      "raw": 2.7735926579265997e-07,
+      "percentile": 0.8345390020808163
+    },
+    "sha256": "e0e1b6811e4fb7caaf1a2749dd146f7e4b4fd9ad13a0b3aaa72d4fec4cc728d1",
+    "simhash": "1:d74cc9e472877869",
+    "word_count": 757
+  },
+  "last_updated": "2023-07-14T18:08:23.206239+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The Galveston, Harrisburg & San Antonio Railway Company v. F. Hertzig."
+    ],
+    "opinions": [
+      {
+        "text": "WILLIAMS, Associate Justice.\nThis is a suit by appellee to recover damages for injury to his pasture, and the fence around same, by a fire resulting from the escape of sparks alleged to have been negligently allowed to escape from one of appellant\u2019s engines.\nThe evidence showed that the fire was caused by sparks emitted from an engine of appellant, and is sufficient to warrant the finding of the jury, that this resulted from appellant\u2019s negligence, and that the damage to appellee amounted to $375, the amount recovered.\nThe fire was first set to grass in a pasture belonging to one Urbich, and spread to those of plaintiff and of one Vivi\u00f3la. Upon the trial appellee asked Urbich and Vivi\u00f3la, when they were testifying as witnesses, \u201cDidn\u2019t defendant settle with you for your damages claimed by you by reason of the same fire that burned plaintiff\u2019s property involved in this suit?\u201d to which defendant objected, that it was irrelevant and incompetent, because if defendant had compromised with one man it was not evidence of its liablity to another. The objection was overruled. The bill of exceptions states that each of the witnesses answered, that \u201cit [defendant] had compromised with him by giving 75 cents an acre for his grass burned, and this included posts destroyed.\u201d The statement of facts does not show that anything was said by the witnesses as to a compromise, further than may be implied in the statement that a settlement was made in which they had accepted a less sum than they had demanded.\nIt will be seen that the question objected to did not call for any evidence as to a compromise, and that, according to the bill of exceptions, the settlement was first referred to as a compromise in the answer, which was not objected to.\nAn objection to a question which is proper does not operate as an objection to incompetent evidence embraced in the answer.\nSuch being the case, the point for our decision is, Was the fact that defendant paid others for damages which resulted just as plaintiff\u2019s did, and from the same cause, admissible as involving the admission that the cause of the fire was its own negligence ? We think it was. The payment of the claims of the others did not necessarily admit a liability either to them or to the plaintiff; but, unexplained, it tends in that direction. It was susceptible of explanation, and its weight depended upon such facts as might be adduced to qualify it, and was therefore proper to go before the jury for their consideration. Wells v. Fairbanks, 5 Texas, 582; 2 Whart. on Ev., sec. 1081.\nIf the evidence actually given by the witnesses was objectionable, as involving a statement of a compromise, which is by no means made clear by the record, the question did not call for it, and further objection, should have been made.\nThere was no error in admitting the evidence of Okrolie and Rhodes, that fires had been caused by one of defendant\u2019s engines at other points on the same day as that in question. Railway v. Donaldson, 73 Texas, 124.\nThe charge of the court submitted the law governing the case, as it has been established by our decisions, fully and accurately. The paragraph complained of, when considered in connection with the whole of it, was-not error.\nThe judgment is affirmed.\nAffirmed.\nDelivered May 11, 1893.",
+        "type": "majority",
+        "author": "WILLIAMS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "Brown, Lane & Jackson, for appellant.",
+      "Phelps & Willrich, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "The Galveston, Harrisburg & San Antonio Railway Company v. F. Hertzig.\nNo. 166.\n1. Objections to Evidence.\u2014 Question being, \u201cDidn\u2019t defendant settle with you for your damages claimed by you by reason of the same fire that burned plaintiff\u2019s property involved in this suit?\u201d was objected to. Answer was, that \u201c Defendant had compromised with him by giving 75 cents an acre for his grass burned, and this included posts destroyed.\u201d The question asked did not call for any evidence as to a compromise. An objection to a question that is proper does not operate as an objection to incompetent evidence embraced in the answer.\n2. Evidence\u2014Admission of Defendant.\u2014The evidence was admissible as involving the admission that the cause of the fire was the negligence of appellant. The payment of claims to others did not admit a liability either to them or to the plaintiff, but unexplained, tends in that direction, and was therefore proper to go before the jury, subject to such explanations as could be made to-qualify it.\nAppeal from Fayette. Tried below before Hon. H. Teichmueller.\nBrown, Lane & Jackson, for appellant.\nPhelps & Willrich, for appellee."
+  },
+  "file_name": "0296-01",
+  "first_page_order": 322,
+  "last_page_order": 323
+}

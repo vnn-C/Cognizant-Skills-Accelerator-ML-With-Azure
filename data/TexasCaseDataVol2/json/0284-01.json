@@ -1,0 +1,103 @@
+{
+  "id": 219258,
+  "name": "Daniel Dempsey v. R. K. McKennell",
+  "name_abbreviation": "Dempsey v. McKennell",
+  "decision_date": "1893-02-09",
+  "docket_number": "No. 208",
+  "first_page": "284",
+  "last_page": "287",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Tex. Civ. App. 284"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "16 S. W. Rep., 465",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "115 Mass., 165",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        717999
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/115/0165-01"
+      ]
+    },
+    {
+      "cite": "60 Mo., 342",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        946147
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mo/60/0342-01"
+      ]
+    },
+    {
+      "cite": "115 Mass., 235",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 447,
+    "char_count": 8436,
+    "ocr_confidence": 0.561,
+    "pagerank": {
+      "raw": 2.86126628292304e-07,
+      "percentile": 0.8414328402930055
+    },
+    "sha256": "09890cfb9c1f3e1bf3d06e57f5fb591034ebea8abac65efb59ac4f3c05231a45",
+    "simhash": "1:a3eec3859d945ede",
+    "word_count": 1459
+  },
+  "last_updated": "2024-02-27T19:43:33.086404+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Daniel Dempsey v. R. K. McKennell."
+    ],
+    "opinions": [
+      {
+        "text": "WILLIAMS, Associate Justice.\nThe judgment in this cause was affirmed by the Court of Appeals at its last term at this place, and on motion of appellant a new hearing was granted, and the cause comes to this court for disposition.\nThere are two questions presented, viz.: First. Is the amount sued for and recovered below due as current wages for personal services ? Second. If it is, can it be offset by a debt due to appellant from appellee, which is in no way connected with it ?\nThe facts are, that appellant employed appellee to nurse him during an attack of sickness, promising to pay him well for his services. There was no agreement fixing the compensation to be paid, either for the entire service, or by'the hour, day, week, or month.\nAppellant, before the present suit was brought, biit after the controversy arose, procured an assignment from one Mrs. Harrison of a debt which appellee owed her for board, and pleaded it as a setoff when sued by appellee. The court below held that the sum due appellee was for current wages for personal services, and \u201ecould not be offset as attempted.\nThe meaning of the language \u201ccurrent wages for personal services,\u201d was considered by the Court of Appeals in First National Bank v. Graham, and the terms were defined as follows: \u201c Current means running, now passing or present in its progress. Wages means a compensation given to a hired person for his services. Current wages are such compensation for personal services as are to be paid periodically, or from time to time, as the services are rendered; as when the services are to be paid for by the hour, day, week, month, or year. The services rendered must be such as that the compensation therefor is measured by the time of the continuance of the service.\u201d It was held that the fee of an attorney is not exempt from garnishment 61 where he has not been hired for his services by the day, week, month, or year, to be paid at the expiration of the time for which he was hired, and not in proportion to the business done.\u201d\nIn case of Lydnor v. The City of Galveston, 15 Southwestern Reporter, 202, the same court held, that the fees of a physician, where he was employed and his compensation fixed per diem, were exempt. See also Bell v. Live Stock Company, 11 Southwestern Reporter, 344, in which the meaning of \u201c current wages\u201d is discussed, but not authoritatively decided.\nThe difference between the first case and this seems to be, that in the former an attorney was employed at a compensation fixed for given services, without regard to time; while here no compensation was agreed on, but the amount appellee should receive necessarily depended upon the length of time he served.\nThe mere circumstance that the rate of compensation is not agreed on in advance ought not, in our opinion, to take the case out of the exemption. In nursing, appellee was actually occupied by the day, and his-right to compensation accrued as he served, being measured by customary or reasonable rates rather than by express contract. The remuneration to which he thereby became entitled was certainly \u20181 compensation to-a hired person for services;\u201d and it was current, because it was accruing during the continuance of his service, and because its amount was measured by the time of his employment. The contract, it is true, did not fix the rate for stated periods of time, nor can we see anything in the language of the law to make the exemption depend on that circumstance. The accrual of his right to payment for his services was concurrent with the time during which he rendered them.\nThe language used in the opinions referred to must be restricted to the facts of the cases then before the court.\nWe therefore hold that the sum due appellee was correctly held to be current wages for personal services.\nThe question remains wjiether or not the demand for current wages could be offset by an ordinary debt.\nWe will limit our decision to the facts of this case. The statute provides, that \u201c the following property shall be exempt from attachment or execution, or every other species of forced sale for the payment of debts,\u201d and in the enumeration of subjects exempted includes \u201c all current wages for personal services.\u201d This language is used with reference to property which is usually subjected to payment of debts by the writs named. The terms employed would be wholly inapplicable if used with reference to debts due for wages alone, for they are not reached by being levied upon. They had already been exempted from garnishment by the Constitution and by the statute. Rev. Stats., art. 218; Const., art. 16, sec. 28. The mention of them in the provision above quoted was intended, in our judgment, to express the legislative intent that they should not be subjected to debt in any way except by the consent of the debtor; in other words, that they should be exempted from an enforced application to the discharge of debts. We need not consider what discounts arising out of the transactions between the master and servant, pending the employment of the latter, the former may deduct from the wages in settlement. No such questions arise here. The setoff pleaded accrued to another person, and had no connection with the contract of service, so far as the answer alleges. Had Mrs. Harrison garnished appellant, she could not have reached by that process the debt which he owed appellee, and, in our opinion, she can not accomplish the same result indirectly by assigning the claim and having it pleaded as a setoff. This question is decided m Colier v. Murphy, 16 Southwestern Reporter, 465 (Tennessee). See, also, William Deering Co. v. Ruffner, 49 Northwestern Reporter, 771.\nThe judgment is affirmed.\nAffirmed.\nDelivered February 9, 1893.",
+        "type": "majority",
+        "author": "WILLIAMS, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "A. B. Peticolas, for appellant.",
+      "W. A. McDowell, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Daniel Dempsey v. R. K. McKennell.\nNo. 208.\n1. Current Wages.\u2014Appellant employed appellee to nurse him through a spell of sickness, and promised to pay him well for his services, but there was no agreement fixing the compensation to be paid, either for the entire service, or by the hour, day, week, or month. The mere circumstance that the rate of compensation is not agreed on in advance, ought not to take the case out of the exemption. In nursing, appellee was actually occupied by the day, and his right to compensation accrued as he served, being measured by customary or reasonable rates, and was certainly \u201c compensation to a hired person for services,\u201d and current because accruing during the continuance of service, and the amount measured by the time of his employment.\n2. Offset Against Current Wages. \u2014 Appellant, before suit but after-controversy had arisen, procured an assignment from one Mrs. Harrison of a debt appellee owed her for board, and pleaded it as setoff when sued by appellee. The setoff pleaded accrued to another person, and had no connection with the contract of service. Had Mrs. Harrison garnished appellant, she could not have reached by that process the debt he owed appellee, and she can not accomplish the same result virtually by assigning the claim and having it pleaded as a setoff.\nAppeal from Jackson. Tried below before Hon. Hugh L. White, County Judge.\nA. B. Peticolas, for appellant.\n1. The court erred in holding the claim sued on by plaintiff to be current wages. In Bank v. Graham, 3 Willson\u2019s Civil Cases, the court uses this language: \u201cCurrent wages arc-such compensation for personal services as are to be paid periodically from time to time as the services are rendered, as where the services are to be paid for by the hour, the day, the month, or the year. The services must be such as that the compensation therefor is measured by the time of the continuance of such service.\u201d 3 Willson\u2019s C. C., 462; Jenks v. Dyer, 115 Mass., 235; Branard v. Shannon, 60 Mo., 342; Somers v. Kelcher, 115 Mass., 165.\n2. A just counter-claim is good against current wages or any character of debt which may be sued on by a plaintiff. Rev. Stats., art. 645; Eason v. Locherer, 42 Texas, 173; Townsend v. Quinan, 47 Texas, 6; Bennett v.Carsner, 1 W.&W. C. C., 619; Bolton v. Sadler, 1W. & W. C. C., 1226.\nW. A. McDowell, for appellee.\nAn outstanding claim, purchased after services have been rendered, can not be used as an offset against \u201c current wages for personal services\u201d due by the purchaser of such claim to the performer of such \u201cservices,\u201d as between the purchaser and the wage worker upon demand for such wages. Collin v. Murphy, 16 S. W. Rep., 465."
+  },
+  "file_name": "0284-01",
+  "first_page_order": 310,
+  "last_page_order": 313
+}

@@ -1,0 +1,86 @@
+{
+  "id": 227411,
+  "name": "T. S. Heflin v. J. W. Campbell, Administrator",
+  "name_abbreviation": "Heflin v. Campbell",
+  "decision_date": "1893-11-01",
+  "docket_number": "No. 518",
+  "first_page": "106",
+  "last_page": "108",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Tex. Civ. App. 106"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "73 Ill., 222",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "19 Ill. App., 17",
+      "category": "reporters:state",
+      "reporter": "Ill. App.",
+      "case_ids": [
+        4901293
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-app/19/0017-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 389,
+    "char_count": 6256,
+    "ocr_confidence": 0.544,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.008870980508902256
+    },
+    "sha256": "5962e1af69985ce382c347813e7ad5919c5ae6ba95fe6ef6fede097a7f72cda8",
+    "simhash": "1:110f3df120fa5bd0",
+    "word_count": 1100
+  },
+  "last_updated": "2024-02-27T16:31:09.266747+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "T. S. Heflin v. J. W. Campbell, Administrator."
+    ],
+    "opinions": [
+      {
+        "text": "COLLAED, Associate Justice.\nThis is a suit, brought by appellant, to recover rent alleged to be due upon a verbal contract of lease of a house leased to appellee\u2019s intestate, Hendry, for fourteen months \u2014 from November 1, 1885, to January 1, 1887.\nThe defendant, among other defenses, alleged, that his intestate, Hen-dry, had rented the house from one J. H. Muenster, the owner, and had paid him all the rent sued for. Plaintiff replied, that Muenster was acting as his agent in such renting, and that the rent had not been paid.\nThe court instructed the jury, in effect, that if Muenster was the agent of plaintiff, Heflin, and as such had rented the premises to Hendry, and had received all the rent due for the term as sued for, then the verdict should be for the defendant.\nThe plaintiff requested a charge, \u2018 \u2018 that the fact that Muenster was the agent of plaintiff for the purpose of making the rent contract would not authorize him to collect the rent due unless he had special authority to collect.\u201d\nThe court refused the requested charge. The verdict and judgment were for the defendant, from which plaintiff has appealed, and assigned as error the refusal to give the requested charge.\nOpinion. \u2014 If the rent was due to plaintiff, Muenster must have had authority from him to collect it before he could receive it in satisfaction of the claim. The mere fact that he was authorized to make the contract \u201c would not, as of course, confer upon him the incidental authority to receive payments\u2019\u2019 subsequently falling due; but it would be a circumstance or a fact by which, considered with other facts and circumstances, such special authority might be established or implied. The jury should be left to determine the fact upon proper instructions. The charge asked was the law, and should have been given, with the qualifications indicated above. Smith v. Hall, 19 Ill. App., 17; Thompson v. Elliott, 73 Ill., 222; Cooley v. Hill., 19 Ill. App., 17.\nAppellant contends, that 11 the court erred in excluding the deposition of D. C. Muenster, offered by plaintiff in rebuttal of the testimony of defendant as to statements made to him by J. H. Muenster as to the effect of the deed to plaintiff by J. II. and D. C. Muenster, and in rebuttal of the presumption of fraud which might arise from the face of the contract read by defendant, and for the purpose of showing title and good faith, as set out in plaintiff\u2019s first bill of exceptions.\u2019 \u2019\nThe court excluded the testimony, upon objection that it was not in rebuttal.\nThe objection made may not have been correct, but there are two objections to it which are fatal: first, J. H. Muenster\u2019s statement to D. C. Muenster, offered in evidence as to the effect of the instrument, was hearsay; and secondly, the instrument was not ambiguous. It spoke for itself. If it does not convey title by its terms, paroi evidence can not add to it to give it such effect. It was a contract by the Muensters to convey the lot and premises to plaintiff, upon certain terms to be complied with by him. The title remained in the Muensters until such compliance, and upon such compliance, which of course could be shown by paroi, the right and real title vested in plaintiff, and not before. It seems that plaintiff did comply, and so became the owner before Hen-dry\u2019s lease, the basis of this suit, commenced to run, and the court submitted the case upon that theory; the defenses being made to depend upon payment to J. H. Muenster as agent.\nDelivered November 1, 1893.\nIt may not appear upon another trial that plaintiff became the owner by compliance with the contract. We can not say, and do not intend to say, anything that will then affect that question. Nor do we intend to conclude the investigation as to whether Hendry in fact rented from plaintiff as the owner \u2014 that is, from Muenster as agent of the plaintiff.\nWe do say, however, that the plaintiff can not by paroi create a greater interest in himself than the instrument purports to convey, and that that instrument did not purport to vest in him the title until it was complied with by him, so as to give him the right of specific performance.\nIf defendant should impeach the legal effect of the instrument by paroi, then plaintiff can sustain it by legitimate paroi evidence.\nThe testimony of D. C. Muenster may have been in rebuttal, but it was inadmissible upon other grounds. In such case, we should not reverse the judgment to admit the testimony.\nWe can not say that there was no testimony under the issues to warrant the conclusion that the small house was to be taken as part payment of the rent. It is unnecessary for us at this time to comment upon the facts under this issue.\nWe are of opinion that the judgment of the lower court should be reversed and the cause remanded, and it is so ordered.\nReversed and remanded.",
+        "type": "majority",
+        "author": "COLLAED, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "M. R. Stringfellow, for appellant,",
+      "Fly & McReal, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "T. S. Heflin v. J. W. Campbell, Administrator.\nNo. 518.\n1. Agency to Collect Rents. \u2014 Action for rent; defense, payment; evidence, payment to an agent who had made the contract of lease for plaintiff. It was error to refuse an instruction touching such payment, that \u201c the fact that M. was the agent of plaintiff for the purpose of making the rent contract would not authorize him to collect the rent due unless he had special authority to collect.\u201d\n2. Practice \u2014 Evidence\u2014Evidence was offered by the plaintiff as rebuttal, and objected to because not in rebuttal of anything in the testimony of the defendant. It appearing that the testimony was incompetent and irrelevant, the exclusion was not error, although the objection was not well taken. See facts.\nAppeal from the County Court of Caldwell. Tried below before Hon. Geo. W. Kysee.\nM. R. Stringfellow, for appellant,\ncited: Railway v. Halliday, 65 Texas, 512; Mahon v. Wolf, 61 Texas, 488; Markham v. Carothers, 47 Texas, 21; Zapp v. Michaelis, 58 Texas, 270; Willis v. Lewis, 28 Texas, 191; Von Hurten v. Courtade, 35 Texas, 434; Ector v. Wiggins, 30 Texas, 57; Green v. Hill, 4 Texas, 465; Newcomb v. Babb, 2 Willson\u2019s C. C., sec. 761; Thorn v. Frazier, 60 Texas, 259; Cannon v. Cannon, 66 Texas, 682; Blanton v. Mayes, 58 Texas, 428; Altgelt v. Brister, 57 Texas, 435; Austin v. Talk, 20 Texas, 164; Lee v. Hamilton, 12 Texas, 413.\nFly & McReal, for appellee."
+  },
+  "file_name": "0106-01",
+  "first_page_order": 132,
+  "last_page_order": 134
+}

@@ -1,0 +1,97 @@
+{
+  "id": 227564,
+  "name": "The Gulf, Colorado & Santa Fe Railway Company v. Patterson & Ashburn",
+  "name_abbreviation": "Gulf, Colorado & Santa Fe Railway Co. v. Ashburn",
+  "decision_date": "1893-12-06",
+  "docket_number": "No. 322",
+  "first_page": "523",
+  "last_page": "525",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Tex. Civ. App. 523"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Civ. App.",
+    "id": 8816,
+    "name": "Texas Courts of Civil Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "16 Md., 556",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        1865343
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/md/16/0556-01"
+      ]
+    },
+    {
+      "cite": "60 N. Y., 469",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        523116
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/60/0469-01"
+      ]
+    },
+    {
+      "cite": "17 Mich., 299",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 275,
+    "char_count": 3705,
+    "ocr_confidence": 0.558,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.008880826642788827
+    },
+    "sha256": "080bcad4671b4d7b03178fc32c5abba15855bc2af227fc869a1af66a0c94be9d",
+    "simhash": "1:41b5b6986fd4a147",
+    "word_count": 662
+  },
+  "last_updated": "2024-02-27T16:31:09.266747+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The Gulf, Colorado & Santa Fe Railway Company v. Patterson & Ashburn."
+    ],
+    "opinions": [
+      {
+        "text": "KEY, Associate Justice.\nAt a former day of this term the judgment in this case was affirmed without written opinion.. It is earnestly urged by appellant\u2019s counsel, in his motion for a rehearing, that this court erred in not reversing the judgment, because of the admission in evidence of the testimony offered by the plaintiff to prove the decline in the market value of sheep in Kansas City between the 4th and 6th days of May, 1889.\nThe objections are that the testimony is hearsay, and that the witnesses had not qualified themselves to give opinions as to market value.\nAppellant\u2019s bill of exceptions number 1 shows that J. C. Patterson testified, that the only knowledge he had of the market value of sheep at Kansas City on May 4, 1889, was what he had read in the market reports in the press of that date and what was told him by a man named McIntyre, a sheep salesman in Kansas City. The witness was not in Kansas City on the 4th day of May, 1889, and did not reach said place until May 5, 1889, and did not place his sheep on the market until May 6, 1889. Defendant then objected to the witness testifying as to the market value of the sheep at Kansas City on May 4, 1889, and the difference between such market value on said date and on May 6, 1889, because the witness showed that his knowledge of such market value was based entirely on hearsay; which objection was overruled by the court, and said, witness was permitted to testify that sheep of the same class as plaintiff\u2019s were worth in the Kansas City market on May 4, 1889, $3.80 per 100 pounds, and were worth on May 6, $3.50 per 100 pounds, making a difference of 30 cents per 100 pounds; to all of which defendant duly excepted.\nBill of exceptions number 2 shows that the only information the witness A. Wheeler had of the market value at Kansas City was gathered from reading the market reports published in the newspapers at Waco, Texas, which reports were regarded by him as authentic, and he acted on them.\nWe do not think the case of Railway Company v. Maddox, 75 Texas, 300, cited by appellant, is analogous. In support of our ruling, the following authorities are cited: Whart. on Ev., secs. 255, 447, 449, 450; Thomp. on Trials, sec. 380; Railway v. Perkins, 17 Mich., 299. In the latter case it was held that opinion evidence as to market value based exclusively upon newspaper reports was competent.\nDelivered December 6, 1893.\nWhat has been said here will also apply to the case of appellant against John A. & W. H. Russell, in which a motion for a rehearing will be overruled. That case is likewise distinguishable from Railway v. Maddox, supra; and under the authorities cited, we think the testimony complained of in the Russell case was admissible.\nThe other questions presented in the motion for a rehearing have been considered, but we conclude that our former decision was correct, and the motion for a rehearing will be overruled.\nAffirmed.",
+        "type": "majority",
+        "author": "KEY, Associate Justice."
+      }
+    ],
+    "attorneys": [
+      "J. W. Terry, for appellant,",
+      "Clark, Dwyer & Bolinger, for appellees,"
+    ],
+    "corrections": "",
+    "head_matter": "The Gulf, Colorado & Santa Fe Railway Company v. Patterson & Ashburn.\nNo. 322.\nMarket Value \u2014 Opinion\u2014Hearsay.\u2014A witness may testify as to market value of a commodity at a given time and place, although his knowledge was obtained from market reports in the press, or from conversations with men dealing in the commodity.\nAppeal from the County Court of McLennan. Tried below before Hon. W. H. Jenkins, County Judge.\nJ. W. Terry, for appellant,\ncited: Railway v. Maddox, 75 Texas, 305; Wheelan v. Lynch, 60 N. Y., 469; 9 Am. and Eng. Encycl. of Law, 239; Green v. Caulk, 16 Md., 556; 1 Greenl., secs. 82, 84, 99, et seq.\nClark, Dwyer & Bolinger, for appellees,\ncited: Wharf Co. v. McYoung, 2 Willson\u2019s C. C., sec. 643; Railway v. Maddox, 75 Texas, 305; 2 Suth. on Dam., 375."
+  },
+  "file_name": "0523-01",
+  "first_page_order": 549,
+  "last_page_order": 551
+}
