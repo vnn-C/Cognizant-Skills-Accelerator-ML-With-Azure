@@ -1,3 +1,4 @@
 Customer review dataset: https://www.kaggle.com/datasets/kapturovalexander/consumer-sentiments-and-ratings
 Academic paper dataset: https://www.kaggle.com/datasets/thedevastator/pubmed-article-summarization-dataset
 I am not able to complete this project as of March 20, 2025 because I do not have the low-priority quota needed to fine-tune models on Azure's AI Studio. 
+I submitted multiple support requests to Microsoft to increase my quotas, but they were not able to resolve this.
